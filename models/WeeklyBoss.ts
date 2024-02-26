@@ -8,7 +8,9 @@ export const weeklyBossListSchema = z.array(
       z.object({
         name: z.string(),
         icon: z.string(),
-        character: z.array(z.object({ name: z.string(), icon: z.string() })),
+        character: z.array(
+          z.object({ name: z.string(), icon: z.string(), id: z.string() })
+        ),
       })
     ),
   })

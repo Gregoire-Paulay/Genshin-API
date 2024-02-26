@@ -13,7 +13,7 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
     "region": { "name": "Autre monde", "icon": "" },
-    "ascension-materials": [
+    "ascension_materials": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -127,7 +127,7 @@
         "description": "Vortex destructeur restaure 2 % des PV par seconde pendant 5 s lorsqu'elle élimine un ennemi. Cet effet peut être déclenché une fois toutes les 5 s."
       }
     ],
-    "talent-upgrade": [
+    "talent_upgrade": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -199,7 +199,7 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viator.webp",
       "icon2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viatrix.webp"
     },
-    "constellation-upgrade": [
+    "constellation_upgrade": [
       {
         "name": "Vortex déchaîné",
         "level": 1,
@@ -253,7 +253,7 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
     },
     "region": { "name": "Autre monde", "icon": "" },
-    "ascension-materials": [
+    "ascension_materials": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -339,34 +339,24 @@
         "name": "Réveil de la terre",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562071/Genshin/Talents/ReveilDeLaTerre.webp",
         "type": "Déchainement élémentaire",
-        "description": {
-          "name": "",
-          "text": "Réveille les éléments Géo qu'abritent les profondeurs de la terre, provoquant une vague d'ondes de choc. Repousse les ennemis proches et inflige des DGT Géo de zone. Un mur de roche s'érige ensuite autour des ondes de chox. Le mur de roche est une construction Géo qui bloque les attaques et peut être escaladée."
-        }
+        "description": "Réveille les éléments Géo qu'abritent les profondeurs de la terre, provoquant une vague d'ondes de choc. Repousse les ennemis proches et inflige des DGT Géo de zone. Un mur de roche s'érige ensuite autour des ondes de chox. Le mur de roche est une construction Géo qui bloque les attaques et peut être escaladée."
       },
       {
         "name": "Roche brisée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562056/Genshin/Talents/RocheBrisee.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": [
-          { "name": "", "text": "Réduit le TdR d'Épée d'étoile déchue de 2 s." }
-        ]
+        "description": "Réduit le TdR d'Épée d'étoile déchue de 2 s."
       },
       {
         "name": "Roche turbulente",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562042/Genshin/Talents/RocheTurbulente.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": [
-          {
-            "name": "",
-            "text": "Le dernier coup d'attaque normale provoque un effondrement, qui inflige une quantité de DGT Géo équivalent à 60 % de l'ATQ aux ennemis dans la zone."
-          }
-        ]
+        "description": "Le dernier coup d'attaque normale provoque un effondrement, qui inflige une quantité de DGT Géo équivalent à 60 % de l'ATQ aux ennemis dans la zone."
       }
     ],
-    "talent-upgrade": [
+    "talent_upgrade": [
       {
-        "normal-attack": [
+        "normal_attack": [
           {
             "name": "Mora",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -433,7 +423,7 @@
             "number": 1
           }
         ],
-        "elemental-burst/skill": [
+        "elemental_burst_skill": [
           {
             "name": "Mora",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -507,7 +497,7 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viator.webp",
       "icon2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viatrix.webp"
     },
-    "constellation-upgrade": [
+    "constellation_upgrade": [
       {
         "name": "Mur de roche incassable",
         "level": 1,
@@ -561,10 +551,10 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
     "region": {
-      "name": "Moonstad",
+      "name": "Moonstadt",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
     },
-    "ascension-materials": [
+    "ascension_materials": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -655,10 +645,7 @@
         "name": "Pluie de flèches",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626135/Genshin/Talents/PluieDeFleches.webp",
         "type": "Déchainement élémentaire",
-        "description": {
-          "name": "",
-          "text": "Tire une pluie de flèches qui inflige des DGT Pyro continus. Amber est une fille chaleureuse et pleine de passion."
-        }
+        "description": "Tire une pluie de flèches qui inflige des DGT Pyro continus. Amber est une fille chaleureuse et pleine de passion."
       },
       {
         "name": "Dans le mille !",
@@ -679,7 +666,7 @@
         "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
       }
     ],
-    "talent-upgrade": [
+    "talent_upgrade": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -730,7 +717,7 @@
       "name": "Lepus",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708628370/Genshin/Constellation/Lepus.webp"
     },
-    "constellation-upgrade": [
+    "constellation_upgrade": [
       {
         "name": "Une flèche suffit !",
         "level": 1,
@@ -784,10 +771,10 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
     "region": {
-      "name": "Moonstad",
+      "name": "Moonstadt",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
     },
-    "ascension-materials": [
+    "ascension_materials": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -863,19 +850,13 @@
         "name": "Attaque Givrée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643677/Genshin/Talents/AttaqueGivree.webp",
         "type": "Compétence élémentaire",
-        "description": {
-          "name": "",
-          "text": "Libère un blizzard gelant qui inflige des DGT Cryo aux ennemis en face."
-        }
+        "description": "Libère un blizzard gelant qui inflige des DGT Cryo aux ennemis en face."
       },
       {
         "name": "Valse Glaciale",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643663/Genshin/Talents/ValseGlaciale.webp",
         "type": "Déchainement élémentaire",
-        "description": {
-          "name": "",
-          "text": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes. Les stalactites suivent le personnage, et infligent des DGT Cryo aux ennemis sur leur route."
-        }
+        "description": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes. Les stalactites suivent le personnage, et infligent des DGT Cryo aux ennemis sur leur route."
       },
       {
         "name": "Épée de la cruauté",
@@ -896,7 +877,7 @@
         "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du sprint. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
       }
     ],
-    "talent-upgrade": [
+    "talent_upgrade": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -947,7 +928,7 @@
       "name": "Pavo Ocellus",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708644328/Genshin/Constellation/PavoOcellus.webp"
     },
-    "constellation-upgrade": [
+    "constellation_upgrade": [
       {
         "name": "Lignée de l'excellence",
         "level": 1,
@@ -998,7 +979,7 @@
     },
     "element": { "type": "", "icon": "" },
     "region": { "name": "", "icon": "" },
-    "ascension-materials": [
+    "ascension_materials": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -1062,7 +1043,7 @@
         "description": ""
       }
     ],
-    "talent-upgrade": [
+    "talent_upgrade": [
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
@@ -1082,7 +1063,7 @@
       }
     ],
     "constellation": { "name": "", "icon": "" },
-    "constellation-upgrade": [
+    "constellation_upgrade": [
       { "name": "", "level": 1, "description": "", "icon": "" },
       { "name": "", "level": 2, "description": "", "icon": "" },
       { "name": "", "level": 3, "description": "", "icon": "" },
