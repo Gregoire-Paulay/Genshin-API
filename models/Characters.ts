@@ -18,7 +18,12 @@ export const characterDetailsSchema = z.object({
   element: z.object({ type: z.string(), icon: z.string() }),
   region: z.object({ name: z.string(), icon: z.string() }),
   ascension_materials: z.array(
-    z.object({ name: z.string(), picture: z.string(), number: z.number() })
+    z.object({
+      name: z.string(),
+      picture: z.string(),
+      number: z.number(),
+      id: z.string(),
+    })
   ),
   talents: z.array(
     z.object({
@@ -31,24 +36,33 @@ export const characterDetailsSchema = z.object({
     })
   ),
   talent_upgrade: z.array(
-    z.object({ name: z.string(), picture: z.string(), number: z.number() }).or(
-      z.object({
-        normal_attack: z.array(
-          z.object({
-            name: z.string(),
-            picture: z.string(),
-            number: z.number(),
-          })
-        ),
-        elemental_burst_skill: z.array(
-          z.object({
-            name: z.string(),
-            picture: z.string(),
-            number: z.number(),
-          })
-        ),
+    z
+      .object({
+        name: z.string(),
+        picture: z.string(),
+        number: z.number(),
+        id: z.string(),
       })
-    )
+      .or(
+        z.object({
+          normal_attack: z.array(
+            z.object({
+              name: z.string(),
+              picture: z.string(),
+              number: z.number(),
+              id: z.string(),
+            })
+          ),
+          elemental_burst_skill: z.array(
+            z.object({
+              name: z.string(),
+              picture: z.string(),
+              number: z.number(),
+              id: z.string(),
+            })
+          ),
+        })
+      )
   ),
   constellation: z.object({
     name: z.string(),

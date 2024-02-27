@@ -17,47 +17,56 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 420000
+        "number": 420000,
+        "id": ""
       },
       {
         "name": "Éclat de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
-        "number": 1
+        "number": 1,
+        "id": "AM1"
       },
       {
         "name": "Fragment de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM1"
       },
       {
         "name": "Morceau de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM1"
       },
       {
         "name": "Pierre de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
-        "number": 6
+        "number": 6,
+        "id": "AM1"
       },
       {
         "name": "Chrysanthèmes à aubes",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
-        "number": 168
+        "number": 168,
+        "id": ""
       },
       {
         "name": "Masque endommagé",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
-        "number": 18
+        "number": 18,
+        "id": ""
       },
       {
         "name": "Masque sale",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
-        "number": 30
+        "number": 30,
+        "id": ""
       },
       {
         "name": "Masque Sinistre",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/Masque_Sinistre.webp",
-        "number": 36
+        "number": 36,
+        "id": ""
       }
     ],
     "talents": [
@@ -131,67 +140,80 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 1652000
+        "number": 1652000,
+        "id": ""
       },
       {
         "name": "Enseignement de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
-        "number": 3
+        "number": 3,
+        "id": ""
       },
       {
         "name": "Guide de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
-        "number": 6
+        "number": 6,
+        "id": ""
       },
       {
         "name": "Guide de la résistance",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
-        "number": 11
+        "number": 11,
+        "id": ""
       },
       {
         "name": "Guide de la poésie",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
-        "number": 4
+        "number": 4,
+        "id": ""
       },
       {
         "name": "Philosophie de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
-        "number": 6
+        "number": 6,
+        "id": ""
       },
       {
         "name": "Philosophie de la résistance",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
-        "number": 12
+        "number": 12,
+        "id": ""
       },
       {
         "name": "Philosophie de la poésie",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
-        "number": 20
+        "number": 20,
+        "id": ""
       },
       {
         "name": "Parchemin divinatoire ",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
-        "number": 6
+        "number": 6,
+        "id": ""
       },
       {
         "name": "Parchemin sigillé",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
-        "number": 22
+        "number": 22,
+        "id": ""
       },
       {
         "name": "Parchemin maudit",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
-        "number": 31
+        "number": 31,
+        "id": ""
       },
       {
         "name": "Souffle de Stormterror",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
-        "number": 6
+        "number": 6,
+        "id": "WB2"
       },
       {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-        "number": 1
+        "number": 1,
+        "id": ""
       }
     ],
     "constellation": {
@@ -257,47 +279,56 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 420000
+        "number": 420000,
+        "id": ""
       },
       {
         "name": "Éclat de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
-        "number": 1
+        "number": 1,
+        "id": "AM1"
       },
       {
         "name": "Fragment de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM1"
       },
       {
         "name": "Morceau de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM1"
       },
       {
         "name": "Pierre de diamant scintillant",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
-        "number": 6
+        "number": 6,
+        "id": "AM1"
       },
       {
         "name": "Chrysanthèmes à aubes",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
-        "number": 168
+        "number": 168,
+        "id": ""
       },
       {
         "name": "Masque endommagé",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
-        "number": 18
+        "number": 18,
+        "id": ""
       },
       {
         "name": "Masque sale",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
-        "number": 30
+        "number": 30,
+        "id": ""
       },
       {
         "name": "Masque Sinistre",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
-        "number": 36
+        "number": 36,
+        "id": ""
       }
     ],
     "talents": [
@@ -360,134 +391,160 @@
           {
             "name": "Mora",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-            "number": 1652000
+            "number": 1652000,
+            "id": ""
           },
           {
             "name": "Parchemin divinatoire ",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Parchemin sigillé",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
-            "number": 22
+            "number": 22,
+            "id": ""
           },
           {
             "name": "Parchemin maudit",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
-            "number": 31
+            "number": 31,
+            "id": ""
           },
           {
             "name": "Enseignement de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
-            "number": 3
+            "number": 3,
+            "id": ""
           },
           {
             "name": "Guide de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Guide de la résistance",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
-            "number": 11
+            "number": 11,
+            "id": ""
           },
           {
             "name": "Guide de la poésie",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
-            "number": 4
+            "number": 4,
+            "id": ""
           },
           {
             "name": "Philosophie de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Philosophie de la résistance",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
-            "number": 12
+            "number": 12,
+            "id": ""
           },
           {
             "name": "Philosophie de la poésie",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
-            "number": 20
+            "number": 20,
+            "id": ""
           },
           {
             "name": "Souffle de Stormterror",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
-            "number": 6
+            "number": 6,
+            "id": "WB2"
           },
           {
             "name": "Couronne de la Sagesse",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-            "number": 1
+            "number": 1,
+            "id": ""
           }
         ],
         "elemental_burst_skill": [
           {
             "name": "Mora",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-            "number": 1652000
+            "number": 1652000,
+            "id": ""
           },
           {
             "name": "Pointe de flèche robuste",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Pointe de flèche aiguisée",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
-            "number": 22
+            "number": 22,
+            "id": ""
           },
           {
             "name": "Pointe de flèche usée",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
-            "number": 31
+            "number": 31,
+            "id": ""
           },
           {
             "name": "Enseignement de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616109/Genshin/Materials/Aptitude/EnseignementDeLaProsperite.webp",
-            "number": 3
+            "number": 3,
+            "id": ""
           },
           {
             "name": "Guide de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616102/Genshin/Materials/Aptitude/GuideDeLaProsperite.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Guide de la diligence",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
-            "number": 11
+            "number": 11,
+            "id": ""
           },
           {
             "name": "Guide de l'or",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
-            "number": 4
+            "number": 4,
+            "id": ""
           },
           {
             "name": "Philosophie de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616094/Genshin/Materials/Aptitude/PhilosophieDeLaProsperite.webp",
-            "number": 6
+            "number": 6,
+            "id": ""
           },
           {
             "name": "Philosophiede la diligence",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
-            "number": 12
+            "number": 12,
+            "id": ""
           },
           {
             "name": "Philosophie de l'or",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
-            "number": 20
+            "number": 20,
+            "id": ""
           },
           {
             "name": "Queue de Borée",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
-            "number": 6
+            "number": 6,
+            "id": "WB1"
           },
           {
             "name": "Couronne de la Sagesse",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-            "number": 1
+            "number": 1,
+            "id": ""
           }
         ]
       }
@@ -558,52 +615,62 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 420000
+        "number": 420000,
+        "id": ""
       },
       {
         "name": "graine de feu",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
-        "number": 46
+        "number": 46,
+        "id": "B6"
       },
       {
         "name": "Éclat d'agate agnidus",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
-        "number": 1
+        "number": 1,
+        "id": "AM8"
       },
       {
         "name": "Fragment d'agate agnidus",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM8"
       },
       {
         "name": "Morceau d'agate agnidus",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM8"
       },
       {
         "name": "Pierre d'agate agnidus",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
-        "number": 6
+        "number": 6,
+        "id": "AM8"
       },
       {
         "name": "Herbe à lampe",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625519/Genshin/Materials/HerbeALampe.webp",
-        "number": 168
+        "number": 168,
+        "id": ""
       },
       {
         "name": "Pointe de flèche robuste",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
-        "number": 18
+        "number": 18,
+        "id": ""
       },
       {
         "name": "Pointe de flèche aiguisée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
-        "number": 30
+        "number": 30,
+        "id": ""
       },
       {
         "name": "Pointe de flèche usée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
-        "number": 36
+        "number": 36,
+        "id": ""
       }
     ],
     "talents": [
@@ -670,47 +737,56 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 1652000
+        "number": 1652000,
+        "id": ""
       },
       {
         "name": "Pointe de flèche robuste",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
-        "number": 6
+        "number": 6,
+        "id": ""
       },
       {
         "name": "Pointe de flèche aiguisée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
-        "number": 22
+        "number": 22,
+        "id": ""
       },
       {
         "name": "Pointe de flèche usée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
-        "number": 31
+        "number": 31,
+        "id": ""
       },
       {
         "name": "Enseignement de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
-        "number": 3
+        "number": 3,
+        "id": ""
       },
       {
         "name": "Guide de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
-        "number": 21
+        "number": 21,
+        "id": ""
       },
       {
         "name": "Philosophie de la liberté",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
-        "number": 38
+        "number": 38,
+        "id": ""
       },
       {
         "name": "Souffle de Stormterror",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
-        "number": 6
+        "number": 6,
+        "id": "WB2"
       },
       {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-        "number": 1
+        "number": 1,
+        "id": ""
       }
     ],
     "constellation": {
@@ -778,52 +854,62 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 420000
+        "number": 420000,
+        "id": ""
       },
       {
         "name": "Duramen de Glace",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
-        "number": 46
+        "number": 46,
+        "id": "B3"
       },
       {
         "name": "Éclat de jade shivada",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
-        "number": 1
+        "number": 1,
+        "id": "AM3"
       },
       {
         "name": "Fragment de jade shivada",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM3"
       },
       {
         "name": "Morceau de jade shivada",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
-        "number": 9
+        "number": 9,
+        "id": "AM3"
       },
       {
         "name": "Pierre de jade shivada",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
-        "number": 6
+        "number": 6,
+        "id": "AM3"
       },
       {
         "name": "Lys Calla",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643253/Genshin/Materials/LysCalla.webp",
-        "number": 168
+        "number": 168,
+        "id": ""
       },
       {
         "name": "Insigne des Pilleurs",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
-        "number": 18
+        "number": 18,
+        "id": ""
       },
       {
         "name": "Insigne de corbeau en argent",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
-        "number": 30
+        "number": 30,
+        "id": ""
       },
       {
         "name": "Insigne de corbeau en or",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
-        "number": 36
+        "number": 36,
+        "id": ""
       }
     ],
     "talents": [
@@ -881,47 +967,56 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 1652000
+        "number": 1652000,
+        "id": ""
       },
       {
         "name": "Insigne des Pilleurs",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
-        "number": 6
+        "number": 6,
+        "id": ""
       },
       {
         "name": "Insigne de corbeau en argent",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
-        "number": 22
+        "number": 22,
+        "id": ""
       },
       {
         "name": "Insigne de corbeau en or",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
-        "number": 31
+        "number": 31,
+        "id": ""
       },
       {
         "name": "Enseignement de la poésie",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
-        "number": 3
+        "number": 3,
+        "id": ""
       },
       {
         "name": "Guide de la poésie",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
-        "number": 21
+        "number": 21,
+        "id": ""
       },
       {
         "name": "Philosophie de la poésie",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
-        "number": 38
+        "number": 38,
+        "id": ""
       },
       {
         "name": "Esprit de Borée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
-        "number": 6
+        "number": 6,
+        "id": "WB1"
       },
       {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/Couronne-de-sagesse.webp",
-        "number": 1
+        "number": 1,
+        "id": ""
       }
     ],
     "constellation": {
@@ -983,17 +1078,18 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 420000
+        "number": 420000,
+        "id": ""
       },
-      { "name": "", "picture": "", "number": 46 },
-      { "name": "", "picture": "", "number": 1 },
-      { "name": "", "picture": "", "number": 9 },
-      { "name": "", "picture": "", "number": 9 },
-      { "name": "", "picture": "", "number": 6 },
-      { "name": "", "picture": "", "number": 168 },
-      { "name": "", "picture": "", "number": 18 },
-      { "name": "", "picture": "", "number": 30 },
-      { "name": "", "picture": "", "number": 36 }
+      { "name": "", "picture": "", "number": 46, "id": "" },
+      { "name": "", "picture": "", "number": 1, "id": "" },
+      { "name": "", "picture": "", "number": 9, "id": "" },
+      { "name": "", "picture": "", "number": 9, "id": "" },
+      { "name": "", "picture": "", "number": 6, "id": "" },
+      { "name": "", "picture": "", "number": 168, "id": "" },
+      { "name": "", "picture": "", "number": 18, "id": "" },
+      { "name": "", "picture": "", "number": 30, "id": "" },
+      { "name": "", "picture": "", "number": 36, "id": "" }
     ],
     "talents": [
       {
@@ -1047,19 +1143,21 @@
       {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-        "number": 1652000
+        "number": 1652000,
+        "id": ""
       },
-      { "name": "Mobs", "picture": "", "number": 6 },
-      { "name": "", "picture": "", "number": 22 },
-      { "name": "", "picture": "", "number": 31 },
-      { "name": "Livre", "picture": "", "number": 3 },
-      { "name": "", "picture": "", "number": 21 },
-      { "name": "", "picture": "", "number": 38 },
-      { "name": "", "picture": "", "number": 6 },
+      { "name": "Mobs", "picture": "", "number": 6, "id": "" },
+      { "name": "", "picture": "", "number": 22, "id": "" },
+      { "name": "", "picture": "", "number": 31, "id": "" },
+      { "name": "Livre", "picture": "", "number": 3, "id": "" },
+      { "name": "", "picture": "", "number": 21, "id": "" },
+      { "name": "", "picture": "", "number": 38, "id": "" },
+      { "name": "", "picture": "", "number": 6, "id": "" },
       {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-        "number": 1
+        "number": 1,
+        "id": ""
       }
     ],
     "constellation": { "name": "", "icon": "" },
