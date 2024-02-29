@@ -19,7 +19,8 @@ app.get("/", (req: Request, res: Response) => {
 // Mes routes
 import { weeklyBossRouter } from "./routes/weeklyBoss";
 import { charactersRoute } from "./routes/characters";
-app.use(weeklyBossRouter, charactersRoute);
+import { normalBossRouter } from "./routes/normalBoss";
+app.use(weeklyBossRouter, charactersRoute, normalBossRouter);
 
 // Toute les routes sauf celles crées au dessus arriveront ici
 app.all("*", (req, res) => {

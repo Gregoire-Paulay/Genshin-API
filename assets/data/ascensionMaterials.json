@@ -437,7 +437,7 @@
       {
         "name": "Beidou",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.webp",
-        "id": ""
+        "id": "P10"
       },
       {
         "name": "Cyno",
@@ -450,9 +450,9 @@
         "id": ""
       },
       {
-        "name": "Fishl",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FishlIcon.webp",
-        "id": ""
+        "name": "Fischl",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.webp",
+        "id": "P11"
       },
       {
         "name": "Keqing",
@@ -477,7 +477,7 @@
       {
         "name": "Razor",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.webp",
-        "id": ""
+        "id": "P9"
       },
       {
         "name": "Shogun Raiden",
@@ -608,7 +608,7 @@
       {
         "name": "Noëlle",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.webp",
-        "id": ""
+        "id": "P7"
       },
       {
         "name": "Yun Jin",
@@ -694,7 +694,7 @@
       {
         "name": "Barbara",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.webp",
-        "id": ""
+        "id": "P6"
       },
       {
         "name": "Candace",
@@ -845,7 +845,7 @@
       {
         "name": "Bennett",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.webp",
-        "id": ""
+        "id": "P8"
       },
       {
         "name": "Chevreuse",

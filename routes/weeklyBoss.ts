@@ -9,7 +9,7 @@ const weeklyBoss = require("../assets/data/weeklyBoss.json");
 import { weeklyBossSchema, weeklyBossListSchema } from "../models/WeeklyBoss";
 
 // 1 - Route pour récupérer la liste des Boss Weekly avec leur loot unique
-weeklyBossRouter.get("/weeklyBoss", async (req: Request, res: Response) => {
+weeklyBossRouter.get("/boss/weekly", async (req: Request, res: Response) => {
   try {
     const weeklyBossListParse = weeklyBossListSchema.parse(weeklyBoss);
     return res.status(200).json(weeklyBossListParse);
@@ -23,7 +23,7 @@ weeklyBossRouter.get("/weeklyBoss", async (req: Request, res: Response) => {
 });
 
 // 2 - Route pour avoir le détail d'un Boss
-weeklyBossRouter.get("/weeklyBoss/details", (req: Request, res: Response) => {
+weeklyBossRouter.get("/boss/weekly/details", (req: Request, res: Response) => {
   try {
     const { id } = req.query;
     for (let i = 0; i < weeklyBoss.length; i++) {
@@ -36,7 +36,7 @@ weeklyBossRouter.get("/weeklyBoss/details", (req: Request, res: Response) => {
       }
     }
 
-    return res.status(200).json("No match found for this id");
+    return res.status(200).json("This id doesn't match weekly boss id");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);

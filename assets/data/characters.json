@@ -2,6 +2,7 @@
   {
     "id": "P1",
     "name": "Voyageur Anémo",
+    "title": "Chevalier Honoraire",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.jpg",
     "weapon": {
@@ -13,67 +14,71 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
     "region": { "name": "Autre monde", "icon": "" },
-    "ascension_materials": [
-      {
+    "ascension_materials": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 420000,
         "id": ""
       },
-      {
-        "name": "Éclat de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
-        "number": 1,
-        "id": "AM1"
-      },
-      {
-        "name": "Fragment de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
-        "number": 9,
-        "id": "AM1"
-      },
-      {
-        "name": "Morceau de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
-        "number": 9,
-        "id": "AM1"
-      },
-      {
-        "name": "Pierre de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
-        "number": 6,
-        "id": "AM1"
-      },
-      {
+      "stone": [
+        {
+          "name": "Éclat de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
+          "number": 1,
+          "id": "AM1"
+        },
+        {
+          "name": "Fragment de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
+          "number": 9,
+          "id": "AM1"
+        },
+        {
+          "name": "Morceau de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
+          "number": 9,
+          "id": "AM1"
+        },
+        {
+          "name": "Pierre de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
+          "number": 6,
+          "id": "AM1"
+        }
+      ],
+      "material": {
         "name": "Chrysanthèmes à aubes",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
         "number": 168,
         "id": ""
       },
-      {
-        "name": "Masque endommagé",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
-        "number": 18,
-        "id": ""
-      },
-      {
-        "name": "Masque sale",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
-        "number": 30,
-        "id": ""
-      },
-      {
-        "name": "Masque Sinistre",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/Masque_Sinistre.webp",
-        "number": 36,
-        "id": ""
-      }
-    ],
-    "talents": [
-      {
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/Masque_Sinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "Vents de la discorde",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708557863/Genshin/Talents/VentDeLaDiscorde.webp",
-        "type": "Normal Attack",
+        "type": "Attaque normale",
         "description": [
           {
             "name": "Attaque normale",
@@ -89,133 +94,157 @@
           }
         ]
       },
-      {
+      "competence": {
         "name": "Vortex destructeur",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708557858/Genshin/Talents/VortexDestructeur.png",
         "type": "Compétence élémentaire",
         "description": [
           {
             "name": "",
-            "text": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face. Le vortex finit par exploser à la fin de la compétence ; l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants."
+            "text": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face. Le vortex finit par exploser à la fin de la compétence ; l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants.",
+            "effect": [{ "text": "" }]
           },
           {
             "name": "Appui long",
-            "text": "Augmente les DGT et la zone d'effet."
+            "text": "Augmente les DGT et la zone d'effet.",
+            "effect": [{ "text": "" }]
           },
           {
             "name": "Absorption élémentaire",
-            "text": "Le vortex absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent un bonus de DGT de l'élément correspondant. Une seule réaction d'absorption élémentaire peut avoir lieu par utilisation."
+            "text": "Le vortex absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent un bonus de DGT de l'élément correspondant. Une seule réaction d'absorption élémentaire peut avoir lieu par utilisation.",
+            "effect": [{ "text": "" }]
           }
-        ]
+        ],
+
+        "note": "Vous avez discuté de la maîtrise de vos nouveaux pouvoirs Anémo avec Paimon."
       },
-      {
+      "dechainement": {
         "name": "Rafale de vent",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708557854/Genshin/Talents/RafaleDeVent.png",
         "type": "Déchainement élémentaire",
         "description": [
           {
             "name": "",
-            "text": "Vous invoquez une tornade qui attire les objets et les ennemis en avançant, et qui inflige des DGT Anémo continus."
+            "text": "Vous invoquez une tornade qui attire les objets et les ennemis en avançant, et qui inflige des DGT Anémo continus.",
+            "effect": [{ "text": "" }]
           },
           {
             "name": "Absorption élémentaire",
-            "text": "La tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois."
+            "text": "La tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois.",
+            "effect": [{ "text": "" }]
           }
-        ]
+        ],
+        "note": "Vous avez étudié le battement des ailes du papillon avec Paimon."
       },
-      {
+      "passif1": {
         "name": "Vent du ciel déchiré",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708557849/Genshin/Talents/VentDuCielDechire.png",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": "Le dernier coup d'attaque normale libère une lame de vent, qui inflige une quantité de DGT Anémo équivalent à 60 % de l'ATQ aux ennemis sur sa route."
+        "description": {
+          "text": "Le dernier coup d'attaque normale libère une lame de vent, qui inflige une quantité de DGT Anémo équivalent à 60 % de l'ATQ aux ennemis sur sa route.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif2": {
         "name": "Vent de guérison",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708557846/Genshin/Talents/VentGuerison.png",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": "Vortex destructeur restaure 2 % des PV par seconde pendant 5 s lorsqu'elle élimine un ennemi. Cet effet peut être déclenché une fois toutes les 5 s."
+        "description": {
+          "text": "Vortex destructeur restaure 2 % des PV par seconde pendant 5 s lorsqu'elle élimine un ennemi. Cet effet peut être déclenché une fois toutes les 5 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "",
+        "icon": "",
+        "type": "Passif utilitaire",
+        "description": ""
       }
-    ],
-    "talent_upgrade": [
-      {
+    },
+    "talent_upgrade": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 1652000,
         "id": ""
       },
-      {
-        "name": "Enseignement de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
-        "number": 3,
-        "id": ""
-      },
-      {
-        "name": "Guide de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
-        "number": 6,
-        "id": ""
-      },
-      {
-        "name": "Guide de la résistance",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
-        "number": 11,
-        "id": ""
-      },
-      {
-        "name": "Guide de la poésie",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
-        "number": 4,
-        "id": ""
-      },
-      {
-        "name": "Philosophie de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
-        "number": 6,
-        "id": ""
-      },
-      {
-        "name": "Philosophie de la résistance",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
-        "number": 12,
-        "id": ""
-      },
-      {
-        "name": "Philosophie de la poésie",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
-        "number": 20,
-        "id": ""
-      },
-      {
-        "name": "Parchemin divinatoire ",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
-        "number": 6,
-        "id": ""
-      },
-      {
-        "name": "Parchemin sigillé",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
-        "number": 22,
-        "id": ""
-      },
-      {
-        "name": "Parchemin maudit",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
-        "number": 31,
-        "id": ""
-      },
-      {
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 11,
+          "id": ""
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 4,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 20,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
         "name": "Souffle de Stormterror",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
         "number": 6,
         "id": "WB2"
       },
-      {
+      "crown": {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
         "number": 1,
         "id": ""
       }
-    ],
+    },
     "constellation": {
       "name": "Viator (Aether) / Viatrix (Lumine)",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viator.webp",
@@ -264,6 +293,7 @@
   {
     "id": "P2",
     "name": "Voyageur Géo",
+    "title": "Chevalier Honoraire",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.jpg",
     "weapon": {
@@ -275,64 +305,68 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
     },
     "region": { "name": "Autre monde", "icon": "" },
-    "ascension_materials": [
-      {
+    "ascension_materials": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 420000,
         "id": ""
       },
-      {
-        "name": "Éclat de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
-        "number": 1,
-        "id": "AM1"
-      },
-      {
-        "name": "Fragment de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
-        "number": 9,
-        "id": "AM1"
-      },
-      {
-        "name": "Morceau de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
-        "number": 9,
-        "id": "AM1"
-      },
-      {
-        "name": "Pierre de diamant scintillant",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
-        "number": 6,
-        "id": "AM1"
-      },
-      {
+      "stone": [
+        {
+          "name": "Éclat de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
+          "number": 1,
+          "id": "AM1"
+        },
+        {
+          "name": "Fragment de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
+          "number": 9,
+          "id": "AM1"
+        },
+        {
+          "name": "Morceau de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
+          "number": 9,
+          "id": "AM1"
+        },
+        {
+          "name": "Pierre de diamant scintillant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
+          "number": 6,
+          "id": "AM1"
+        }
+      ],
+      "material": {
         "name": "Chrysanthèmes à aubes",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
         "number": 168,
         "id": ""
       },
-      {
-        "name": "Masque endommagé",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
-        "number": 18,
-        "id": ""
-      },
-      {
-        "name": "Masque sale",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
-        "number": 30,
-        "id": ""
-      },
-      {
-        "name": "Masque Sinistre",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
-        "number": 36,
-        "id": ""
-      }
-    ],
-    "talents": [
-      {
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/Masque_Sinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "Lame de roche",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562100/Genshin/Talents/LameDeRoche.webp",
         "type": "Attaque normale",
@@ -351,49 +385,76 @@
           }
         ]
       },
-      {
+      "competence": {
         "name": "Épée d'étoile déchue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562085/Genshin/Talents/EpeeDetoileDechue.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
             "name": "",
-            "text": "Vous faites jaillir des profondeurs de la terre une météorite qui explose et inflige des DGT Géo de zone. La météorite est une construction Géo qui bloque les attaques et peut être escaladée."
+            "text": "Vous faites jaillir des profondeurs de la terre une météorite qui explose et inflige des DGT Géo de zone. La météorite est une construction Géo qui bloque les attaques et peut être escaladée.",
+            "effect": [{ "text": "" }]
           },
           {
             "name": "Appui long",
-            "text": "Ajuste la zone où la compétence sera lancée."
+            "text": "Ajuste la zone où la compétence sera lancée.",
+            "effect": [{ "text": "" }]
           }
-        ]
+        ],
+        "note": "Vous avez parlé avec Paimon de la destination finale des étoiles filantes."
       },
-      {
+      "dechainement": {
         "name": "Réveil de la terre",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562071/Genshin/Talents/ReveilDeLaTerre.webp",
         "type": "Déchainement élémentaire",
-        "description": "Réveille les éléments Géo qu'abritent les profondeurs de la terre, provoquant une vague d'ondes de choc. Repousse les ennemis proches et inflige des DGT Géo de zone. Un mur de roche s'érige ensuite autour des ondes de chox. Le mur de roche est une construction Géo qui bloque les attaques et peut être escaladée."
+        "description": [
+          {
+            "name": "",
+            "text": "Réveille les éléments Géo qu'abritent les profondeurs de la terre, provoquant une vague d'ondes de choc.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Repousse les ennemis proches et inflige des DGT Géo de zone. Un mur de roche s'érige ensuite autour des ondes de chox. Le mur de roche est une construction Géo qui bloque les attaques et peut être escaladée.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Vous avez étudié le pouls des montagnes avec Paimon."
       },
-      {
+      "passif1": {
         "name": "Roche brisée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562056/Genshin/Talents/RocheBrisee.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": "Réduit le TdR d'Épée d'étoile déchue de 2 s."
+        "description": {
+          "text": "Réduit le TdR d'Épée d'étoile déchue de 2 s.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif2": {
         "name": "Roche turbulente",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562042/Genshin/Talents/RocheTurbulente.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": "Le dernier coup d'attaque normale provoque un effondrement, qui inflige une quantité de DGT Géo équivalent à 60 % de l'ATQ aux ennemis dans la zone."
+        "description": {
+          "text": "Le dernier coup d'attaque normale provoque un effondrement, qui inflige une quantité de DGT Géo équivalent à 60 % de l'ATQ aux ennemis dans la zone.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "",
+        "icon": "",
+        "type": "Passif utilitaire",
+        "description": ""
       }
-    ],
-    "talent_upgrade": [
-      {
-        "normal_attack": [
-          {
-            "name": "Mora",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-            "number": 1652000,
-            "id": ""
-          },
+    },
+    "talent_upgrade": {
+      "normal_attack": {
+        "mora": {
+          "name": "Mora",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+          "number": 1652000,
+          "id": ""
+        },
+        "mobLoot": [
           {
             "name": "Parchemin divinatoire ",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
@@ -411,7 +472,9 @@
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
             "number": 31,
             "id": ""
-          },
+          }
+        ],
+        "books": [
           {
             "name": "Enseignement de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
@@ -453,27 +516,29 @@
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
             "number": 20,
             "id": ""
-          },
-          {
-            "name": "Souffle de Stormterror",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
-            "number": 6,
-            "id": "WB2"
-          },
-          {
-            "name": "Couronne de la Sagesse",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-            "number": 1,
-            "id": ""
           }
         ],
-        "elemental_burst_skill": [
-          {
-            "name": "Mora",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
-            "number": 1652000,
-            "id": ""
-          },
+        "bossLoot": {
+          "name": "Souffle de Stormterror",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
+          "number": 6,
+          "id": "WB2"
+        },
+        "crown": {
+          "name": "Couronne de la Sagesse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+          "number": 1,
+          "id": ""
+        }
+      },
+      "elemental_burst_skill": {
+        "mora": {
+          "name": "Mora",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+          "number": 1652000,
+          "id": ""
+        },
+        "mobLoot": [
           {
             "name": "Pointe de flèche robuste",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
@@ -491,7 +556,9 @@
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
             "number": 31,
             "id": ""
-          },
+          }
+        ],
+        "books": [
           {
             "name": "Enseignement de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616109/Genshin/Materials/Aptitude/EnseignementDeLaProsperite.webp",
@@ -533,22 +600,22 @@
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
             "number": 20,
             "id": ""
-          },
-          {
-            "name": "Queue de Borée",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
-            "number": 6,
-            "id": "WB1"
-          },
-          {
-            "name": "Couronne de la Sagesse",
-            "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
-            "number": 1,
-            "id": ""
           }
-        ]
+        ],
+        "bossLoot": {
+          "name": "Queue de Borée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
+          "number": 6,
+          "id": "WB1"
+        },
+        "crown": {
+          "name": "Couronne de la Sagesse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+          "number": 1,
+          "id": ""
+        }
       }
-    ],
+    },
     "constellation": {
       "name": "Viator (Aether) / Viatrix (Lumine)",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viator.webp",
@@ -597,6 +664,7 @@
   {
     "id": "P3",
     "name": "Amber",
+    "title": "Éclaireuse de l'Ordre de Favonius",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617748/Genshin/Characters/Amber.png",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.webp",
     "weapon": {
@@ -611,70 +679,74 @@
       "name": "Moonstadt",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
     },
-    "ascension_materials": [
-      {
+    "ascension_materials": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 420000,
         "id": ""
       },
-      {
-        "name": "graine de feu",
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Graine de feu",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
         "number": 46,
         "id": "B6"
       },
-      {
-        "name": "Éclat d'agate agnidus",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
-        "number": 1,
-        "id": "AM8"
-      },
-      {
-        "name": "Fragment d'agate agnidus",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
-        "number": 9,
-        "id": "AM8"
-      },
-      {
-        "name": "Morceau d'agate agnidus",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
-        "number": 9,
-        "id": "AM8"
-      },
-      {
-        "name": "Pierre d'agate agnidus",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
-        "number": 6,
-        "id": "AM8"
-      },
-      {
+      "material": {
         "name": "Herbe à lampe",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625519/Genshin/Materials/HerbeALampe.webp",
         "number": 168,
         "id": ""
       },
-      {
-        "name": "Pointe de flèche robuste",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
-        "number": 18,
-        "id": ""
-      },
-      {
-        "name": "Pointe de flèche aiguisée",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
-        "number": 30,
-        "id": ""
-      },
-      {
-        "name": "Pointe de flèche usée",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
-        "number": 36,
-        "id": ""
-      }
-    ],
-    "talents": [
-      {
+      "mobLoot": [
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "Archerie revisitée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626245/Genshin/Talents/ArcherieRevisitee.webp",
         "type": "Attaque normale",
@@ -693,102 +765,127 @@
           }
         ]
       },
-      {
+      "competence": {
         "name": "Poupée explosive",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626188/Genshin/Talents/PoupeeExplosive.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
             "name": "Baron Lapinou",
-            "text": "Le fidèle Baron Lapinou est déployé sur le terrain. Le baron nargue les ennemis proches et attire leur attention. Ses PV sont proportionnels aux PV max d'Amber. Le baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone. "
+            "text": "Le fidèle Baron Lapinou est déployé sur le terrain.",
+            "effect": [
+              { "text": "Ses PV sont proportionnels aux PV max d'Amber." },
+              {
+                "text": "Le baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone."
+              }
+            ]
           },
           {
             "name": "Appui long",
-            "text": "Ajuste la direction du jet. Ajuste la portée du jet."
+            "text": "Ajuste la direction du jet. Ajuste la portée du jet.",
+            "effect": [{ "text": "" }]
           }
-        ]
+        ],
+        "note": "La lignée de Baron Lapinou est impressionnante, mais Amber a décidé d'arrêter de compter à partir du 893e Baron Lapinou."
       },
-      {
+      "dechainement": {
         "name": "Pluie de flèches",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626135/Genshin/Talents/PluieDeFleches.webp",
         "type": "Déchainement élémentaire",
-        "description": "Tire une pluie de flèches qui inflige des DGT Pyro continus. Amber est une fille chaleureuse et pleine de passion."
+        "description": [
+          {
+            "name": "",
+            "text": "Tire une pluie de flèches qui inflige des DGT Pyro continus. Amber est une fille chaleureuse et pleine de passion.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Amber est une fille chaleureuse et pleine de passion."
       },
-      {
+      "passif1": {
         "name": "Dans le mille !",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626082/Genshin/Talents/DansLeMille.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": "Augmente le taux CRIT de Pluie de flèches de 10 % et la zone d'effet de 30 %."
+        "description": {
+          "text": "Augmente le taux CRIT de Pluie de flèches de 10 % et la zone d'effet de 30 %.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif2": {
         "name": "Tir précis",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626027/Genshin/Talents/TirPrecis.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": "L'ATQ augmente de 15 % pendant 10 s lorsque le tir visé touche un point faible."
+        "description": {
+          "text": "L'ATQ augmente de 15 % pendant 10 s lorsque le tir visé touche un point faible.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif3": {
         "name": "Championne de planage",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625974/Genshin/Talents/ChampionneDePlanage.webp",
         "type": "Passif utilitaire",
         "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
       }
-    ],
-    "talent_upgrade": [
-      {
+    },
+    "talent_upgrade": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 1652000,
         "id": ""
       },
-      {
-        "name": "Pointe de flèche robuste",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
-        "number": 6,
-        "id": ""
-      },
-      {
-        "name": "Pointe de flèche aiguisée",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
-        "number": 22,
-        "id": ""
-      },
-      {
-        "name": "Pointe de flèche usée",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
-        "number": 31,
-        "id": ""
-      },
-      {
-        "name": "Enseignement de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
-        "number": 3,
-        "id": ""
-      },
-      {
-        "name": "Guide de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
-        "number": 21,
-        "id": ""
-      },
-      {
-        "name": "Philosophie de la liberté",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
-        "number": 38,
-        "id": ""
-      },
-      {
+      "mobLoot": [
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
         "name": "Souffle de Stormterror",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
         "number": 6,
         "id": "WB2"
       },
-      {
+      "crown": {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
         "number": 1,
         "id": ""
       }
-    ],
+    },
     "constellation": {
       "name": "Lepus",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708628370/Genshin/Constellation/Lepus.webp"
@@ -836,6 +933,7 @@
   {
     "id": "P4",
     "name": "Kaeya",
+    "title": "Capitaine de Cavalerie de l'Ordre de Favonius",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629245/Genshin/Characters/Kaeya.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.webp",
     "weapon": {
@@ -850,70 +948,74 @@
       "name": "Moonstadt",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
     },
-    "ascension_materials": [
-      {
+    "ascension_materials": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 420000,
         "id": ""
       },
-      {
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
         "name": "Duramen de Glace",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
         "number": 46,
         "id": "B3"
       },
-      {
-        "name": "Éclat de jade shivada",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
-        "number": 1,
-        "id": "AM3"
-      },
-      {
-        "name": "Fragment de jade shivada",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
-        "number": 9,
-        "id": "AM3"
-      },
-      {
-        "name": "Morceau de jade shivada",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
-        "number": 9,
-        "id": "AM3"
-      },
-      {
-        "name": "Pierre de jade shivada",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
-        "number": 6,
-        "id": "AM3"
-      },
-      {
+      "material": {
         "name": "Lys Calla",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643253/Genshin/Materials/LysCalla.webp",
         "number": 168,
         "id": ""
       },
-      {
-        "name": "Insigne des Pilleurs",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
-        "number": 18,
-        "id": ""
-      },
-      {
-        "name": "Insigne de corbeau en argent",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
-        "number": 30,
-        "id": ""
-      },
-      {
-        "name": "Insigne de corbeau en or",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
-        "number": 36,
-        "id": ""
-      }
-    ],
-    "talents": [
-      {
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "Passe d'armes",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643692/Genshin/Talents/PasseDarmes.webp",
         "type": "Attaque normale",
@@ -932,93 +1034,117 @@
           }
         ]
       },
-      {
+      "competence": {
         "name": "Attaque Givrée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643677/Genshin/Talents/AttaqueGivree.webp",
         "type": "Compétence élémentaire",
-        "description": "Libère un blizzard gelant qui inflige des DGT Cryo aux ennemis en face."
+        "description": [
+          {
+            "name": "",
+            "text": "Libère un blizzard gelant qui inflige des DGT Cryo aux ennemis en face.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Qui serait capable de faire fondre la glace qui se cache derrière ce masque aimable…'"
       },
-      {
+      "dechainement": {
         "name": "Valse Glaciale",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643663/Genshin/Talents/ValseGlaciale.webp",
         "type": "Déchainement élémentaire",
-        "description": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes. Les stalactites suivent le personnage, et infligent des DGT Cryo aux ennemis sur leur route."
+        "description": [
+          {
+            "name": "",
+            "text": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes. Les stalactites suivent le personnage, et infligent des DGT Cryo aux ennemis sur leur route.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Ses dehors souriants, son ton agréable, et la glace qu'ils cachent : voici les armes de Kaeya."
       },
-      {
+      "passif1": {
         "name": "Épée de la cruauté",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643648/Genshin/Talents/EpeeDeLaCruaute.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": "Chaque fois qu'Attaque givrée touche un ennemi, Kaeya récupère une quantité de PV équivalent à 15 % de son ATQ."
+        "description": {
+          "text": "Chaque fois qu'Attaque givrée touche un ennemi, Kaeya récupère une quantité de PV équivalent à 15 % de son ATQ.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif2": {
         "name": "Coeur de l'abîme glacial",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643633/Genshin/Talents/CoeurDeLabimeGlacial.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": "Les ennemis gelés par Attaque givrée font tomber d'avantage de particules élémentaires. Jusqu'à 2 particules supplémentaires peuvent ainsi être obtenues par Attaque givrée."
+        "description": {
+          "text": "Les ennemis gelés par Attaque givrée font tomber d'avantage de particules élémentaires. Jusqu'à 2 particules supplémentaires peuvent ainsi être obtenues par Attaque givrée.",
+          "effect": [{ "text": "" }]
+        }
       },
-      {
+      "passif3": {
         "name": "Force Cachée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643620/Genshin/Talents/ForceCachee.webp",
         "type": "Passif utilitaire",
         "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du sprint. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
       }
-    ],
-    "talent_upgrade": [
-      {
+    },
+    "talent_upgrade": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 1652000,
         "id": ""
       },
-      {
-        "name": "Insigne des Pilleurs",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
-        "number": 6,
-        "id": ""
-      },
-      {
-        "name": "Insigne de corbeau en argent",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
-        "number": 22,
-        "id": ""
-      },
-      {
-        "name": "Insigne de corbeau en or",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
-        "number": 31,
-        "id": ""
-      },
-      {
-        "name": "Enseignement de la poésie",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
-        "number": 3,
-        "id": ""
-      },
-      {
-        "name": "Guide de la poésie",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
-        "number": 21,
-        "id": ""
-      },
-      {
-        "name": "Philosophie de la poésie",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
-        "number": 38,
-        "id": ""
-      },
-      {
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
         "name": "Esprit de Borée",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
         "number": 6,
         "id": "WB1"
       },
-      {
+      "crown": {
         "name": "Couronne de la Sagesse",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/Couronne-de-sagesse.webp",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
         "number": 1,
         "id": ""
       }
-    ],
+    },
     "constellation": {
       "name": "Pavo Ocellus",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708644328/Genshin/Constellation/PavoOcellus.webp"
@@ -1066,6 +1192,1970 @@
   {
     "id": "P5",
     "name": "Lisa",
+    "title": "Bibliothécaire de l'Ordre de Favonius",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/Lisa.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.webp",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Prisme d'éclair",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
+        "number": 46,
+        "id": "B2"
+      },
+      "material": {
+        "name": "Tombaie",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709128453/Genshin/Materials/Tombaie.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Touche d'éclair",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129764/Genshin/Talents/ToucheDeclair.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 attaques électrifiées, infligeant des DGT Électro."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour infliger des DGT Électro de zone après un court délai."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Électro, infligeant des DGT aux ennemis en chemin et des DGT Électro de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Arc fulminant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129763/Genshin/Talents/ArcFulminant.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Canalise le pouvoir de la foudre pour nettoyer un peu le champ de bataille.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Libère un orbe électrique à tête chercheuse. Lorsqu'il touche une cible, l'orbe inflige des DGT Électro, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Après un court délai, des éclairs s'abattent des cieux et infligent des DGT Électro à tous les ennemis proches. Les ennemis affectés par Conductivité subissent des DGT supplémentaires proportionnels au nombre de cumuls.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "La couleur de la foudre est aussi la couleur de la Sorcière à la rose."
+      },
+      "dechainement": {
+        "name": "Rose de foudre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129761/Genshin/Talents/RoseDeFoudre.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Invoque une rose de foudre qui libère une puissante énergie électrique repoussant les ennemis proches et leur infligeant des DGT Électro.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "La rose de foudre envoie des décharges électriques qui infligent des DGT Électro aux ennemis proches tant qu'elle est active.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Cette rose est belle, mais possède des épines mortelles."
+      },
+      "passif1": {
+        "name": "Relique d'électricité",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129760/Genshin/Talents/ReliqueDelectricite.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Les attaques chargées infligent l'effet Conductivité d'Arc fulminant aux ennemis lorsqu'elles touchent.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Champ électrostatique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129758/Genshin/Talents/ChampElectrostatique.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Rose de foudre réduit la DÉF des ennemis qu'elle touche de 15 % pendant 10 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Conaissances médicinales",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129757/Genshin/Talents/ConnaissancesMedicinales.webp",
+        "type": "Passif utilitaire",
+        "description": "Lorsque vous fabriquez des potions, il y a 20 % de chance qu'une partie des matières premières vous soit rendue."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Griffe de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563233/Genshin/Materials/Boss/GriffeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Tempus Fugit",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130676/Genshin/Constellation/TempusFugit.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Circuit infini",
+        "level": 1,
+        "description": "Lisa regagne 2 pts d'énergie par ennemi touché tant qu'Arc fulminant reste activité. Jusqu'à 10 pts d'énergie élémentaire peuvent être restaurés de cette manière.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130675/Genshin/Constellation/CircuitInfini.webp"
+      },
+      {
+        "name": "Champ électromagnétique",
+        "level": 2,
+        "description": "Arc fulminant confère les effets suivants tant qu'il reste activé : DÉF augmentée de 25 % et augmente la RÉS à l'interruption de Lisa.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130673/Genshin/Constellation/ChampElectromagnetique.webp"
+      },
+      {
+        "name": "Tonnerre résonant",
+        "level": 3,
+        "description": "Niveau de compétence Rose de foudre +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130672/Genshin/Constellation/TonnerreResonant.webp"
+      },
+      {
+        "name": "Éruption de plasma",
+        "level": 4,
+        "description": "Rose de foudre libère 1 à 3 décharges supplémentaires.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130670/Genshin/Constellation/EruptionDePlasma.webp"
+      },
+      {
+        "name": "Électrification",
+        "level": 5,
+        "description": "Niveau de compétence Arc fulminant +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130669/Genshin/Constellation/Electrification.webp"
+      },
+      {
+        "name": "Sorcière de pulse",
+        "level": 6,
+        "description": "Lisa inflige 3 cumuls de l'effet Conductivité d'Arc fulminant aux ennemis proches lorsqu'elle est déployée au combat. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130668/Genshin/Constellation/SorciereDePulse.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P6",
+    "name": "Barbara",
+    "title": "Idole de Moonstadt",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/Barbara.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.webp",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Hydro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+          "number": 1,
+          "id": "AM7"
+        },
+        {
+          "name": "Fragment de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Morceau de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Pierre de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+          "number": 6,
+          "id": "AM7"
+        }
+      ],
+      "bossLoot": {
+        "name": "Coeur d'eau pure",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958310/Genshin/Materials/Boss/CoeurDeauPure.webp",
+        "number": 46,
+        "id": "B7"
+      },
+      "material": {
+        "name": "Champignon anémophile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133231/Genshin/Materials/ChamignonAnemophile.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Murmure de l'eau",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133410/Genshin/Talents/MurmureDeLeau.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 attaques d'eau qui infligent des DGT Hydro."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour infliger des DGT Hydro de zone après un court délai."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des DGT Hydro de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "c'est parti pour le show ♪",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133407/Genshin/Talents/CestPartiPourLeShow.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Invoque des goutelettes dansantes qui forment un cercle de mélodie infligeant des DGT Hydro et trempant les ennemis proches.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Cercle de mélodie",
+            "text": "Les attaques normales de Barbara restaurent les PV de vos personnages dans l'équipe ainsi que de tous les alliés proches lorsqu'elles touchent. La quantité de PV restaurés est proportionnelle aux PV max de Barbara.",
+            "effect": [
+              {
+                "text": "L'effet des soins est multiplié par 4 avec les attaques chargées."
+              },
+              {
+                "text": "Régénère les PV de votre personnage déployé sur la durée."
+              },
+              {
+                "text": "Barbara trempe les personnages et les ennemis avec qui elle entre en contact."
+              }
+            ]
+          }
+        ],
+        "note": "La musique de Barbara est une magie capable de soigner chacun."
+      },
+      "dechainement": {
+        "name": "Miracle brillant ♪",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133405/Genshin/Talents/MiracleBrillant.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Restaure considérablement les PV des alliés et de vos personnages dans l'équipe ; la quantité de PV restaurés est proportionnelle aux PV max de Barbara.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Soigner le cœur de chacun, telle est la force du chant de Barbara."
+      },
+      "passif1": {
+        "name": "Splendide saison",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133403/Genshin/Talents/SplendideSaison.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Les personnages situés dans le cercle de mélodie de C'est parti pour le show ♪ consomment 12 % d'énergie élémentaire en moins.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Bis repetita",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133400/Genshin/Talents/BisRepetita.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Chaque orbe ou particule élémentaire obtenu(e) par votre personnage déployé prolonge le cercle de mélodie de C'est parti pour le show ♪ de 1 s. Durée max : 5 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "De tout mon coeur ♪",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133398/Genshin/Talents/DeToutMonCoeur.webp",
+        "type": "Passif utilitaire",
+        "description": "12 % de chance d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Vertèbre de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615278/Genshin/Materials/Boss/VertebreDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Crater",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134315/Genshin/Constellation/Crater.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Joyeuse ballade",
+        "level": 1,
+        "description": "Barbara récupère 1 pt d'énergie élémentaire toutes les 10 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134312/Genshin/Constellation/JoyeuseBallade.webp"
+      },
+      {
+        "name": "Éclat de vitalité",
+        "level": 2,
+        "description": "Réduit le TdR de C'est parti pour le show ♪ de 15 %. Confère un bonus de 15 % DGT Hydro à votre personnage déployé tant que la compétence est active.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134310/Genshin/Constellation/EclatDeVitalite.webp"
+      },
+      {
+        "name": "Étoile du lendemain",
+        "level": 3,
+        "description": "Niveau de compétence Miracle brillant ♪ +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134307/Genshin/Constellation/EtoileDuLendemain.webp"
+      },
+      {
+        "name": "L'effort est la meilleur des magies",
+        "level": 4,
+        "description": "À chaque ennemi touché par une attaque chargée, Barbara récupère 1 pt d'énergie élémentaire. 5 pts d'énergie maximum peuvent être régénérés après chaque attaque chargée.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134305/Genshin/Constellation/LeffortEstLaMeilleureDesMagies.webp"
+      },
+      {
+        "name": "Lien innocent",
+        "level": 5,
+        "description": "Niveau de compétence C'est parti pour le show ♪ +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134302/Genshin/Constellation/LienInnocent.webp"
+      },
+      {
+        "name": "Toujours le meilleur pour vous",
+        "level": 6,
+        "description": "Si Barbara est en réserve, et qu'un de vos personnages dans l'équipe est vaincu : Barbara le réanime immédiatement Les PV de ce personnage sont restaurés à 100 %. Cet effet peut être déclenché une fois toutes les 15 min.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134300/Genshin/Constellation/ToujoursLeMeilleurPourVous.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P7",
+    "name": "Noëlle",
+    "title": "Servante de l'Ordre de Favonius",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699758/Genshin/Characters/Noelle.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.webp",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Géo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+          "number": 1,
+          "id": "AM6"
+        },
+        {
+          "name": "Fragment de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+          "number": 9,
+          "id": "AM6"
+        },
+        {
+          "name": "Morceau de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+          "number": 9,
+          "id": "AM6"
+        },
+        {
+          "name": "Pierre de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+          "number": 6,
+          "id": "AM6"
+        }
+      ],
+      "bossLoot": {
+        "name": "Pilier de basalte",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957738/Genshin/Materials/Boss/PilierDeBasalte.webp",
+        "number": 46,
+        "id": "B5"
+      },
+      "material": {
+        "name": "Tombaie",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709128453/Genshin/Materials/Tombaie.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Escrime de Favonius - Servante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202636/Genshin/Talents/EscrimeDeFavoniusServante.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'attaques tournoyantes contre les ennemis proches. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Armure de coeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202633/Genshin/Talents/ArmureDeCoeur.webp",
+        "type": "Compétence élémentaire",
+        "text": "",
+        "description": [
+          {
+            "name": "",
+            "text": "Invoque une armure de roche qui inflige des DGT Géo aux ennemis proches et génère un bouclier absorbant une quantité de DGT proportionnelle à la DÉF de Noëlle. L'armure de roche a les propriétés suivantes",
+            "effect": [
+              {
+                "text": "Les attaques normales et chargées de Noëlle ont une chance de restaurer les PV de tous les personnages de l'équipe lorsqu'elles touchent un ennemi."
+              },
+              {
+                "text": "L'armure est efficace à 250 % contre les DGT Géo."
+              }
+            ]
+          }
+        ],
+
+        "note": "Noëlle est à la fois une servante fidèle et un chevalier vaillant."
+      },
+      "dechainement": {
+        "name": "Grand ménage",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202630/Genshin/Talents/GrandMenage.webp",
+        "type": "Déchainement élémentaire",
+        "text": "",
+        "description": [
+          {
+            "name": "",
+            "text": "Concentrant le pouvoir de la roche sur son arme, Noëlle exécute une puissante attaque circulaire qui inflige des DGT Géo aux ennemis proches. Noëlle bénéficie ensuite des effets suivants",
+            "effect": [
+              {
+                "text": "Portée d'attaque augmentée."
+              },
+              {
+                "text": "DGT d'attaque convertis en DGT Géo ne pouvant pas être enchantés."
+              },
+              {
+                "text": "Bonus d'ATQ proportionnel à la DÉF de Noëlle."
+              }
+            ]
+          }
+        ],
+        "note": "Parfois, la poussière n'est pas la seule chose qu'il faut balayer…"
+      },
+      "passif1": {
+        "name": "Dévotion ultime",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202626/Genshin/Talents/DevotionUltime.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Lorsque Noëlle est en réserve, l'effet suivant se déclenche automatiquement si les PV du personnage déployé tombent en dessous de 30 %. Confère un bouclier au personnage déployé pouvant absorber des DGT équivalent à 400 % de la DÉF de Noëlle pendant 20 s.",
+          "effect": [
+            {
+              "text": "Le bouclier est efficace à 250 % contre les DGT Géo."
+            },
+            {
+              "text": "Le bouclier peut être déclenché une fois toutes les 60 s."
+            }
+          ]
+        }
+      },
+      "passif2": {
+        "name": "Clair et net",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202622/Genshin/Talents/ClairEtNet.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Le TdR d'Armure de cœur est réduit de 1 s tous les 4 coups d'attaques normales et chargées. Toucher simultanément plusieurs ennemis compte comme un seul coup.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "À votre service",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709202620/Genshin/Talents/AVotreService.webp",
+        "type": "Passif utilitaire",
+        "description": "12 % de chance d'obtenir un plat supplémentaire lorsque vous cuisinez un plat qui renforce la DÉF."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Griffe de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563233/Genshin/Materials/Boss/GriffeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Parma Cordis",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709211008/Genshin/Constellation/ParmaCordis.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "J'assure vos arrières",
+        "level": 1,
+        "description": "L'effet de restauration des PV d'Armure de cœur a 100 % de chances d'être déclenché lorsque Grand ménage et Armure de cœur sont actifs en même temps.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709211005/Genshin/Constellation/JassureVosArrieres.webp"
+      },
+      {
+        "name": "Servante de tourbillon",
+        "level": 2,
+        "description": "Les attaques chargées de Noëlle consomment 20 % d'endurance en moins et infligent 15 % de DGT supplémentaires.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709211001/Genshin/Constellation/ServanteDeTourbillon.webp"
+      },
+      {
+        "name": "La servant ne sera jamais blessée",
+        "level": 3,
+        "description": "Niveau de compétence Armure de cœur +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210997/Genshin/Constellation/LaservantNeSeraJamaisBlessee.webp"
+      },
+      {
+        "name": "Je vais nettoyer après",
+        "level": 4,
+        "description": "Armure de cœur inflige une quantité de DGT Géo équivalent à 400 % de l'ATQ aux ennemis proches lorsqu'elle prend fin ou que l'armure est détruite.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210994/Genshin/Constellation/JeVaisNettoyerApres.webp"
+      },
+      {
+        "name": "Maîtresse de ménage",
+        "level": 5,
+        "description": "Niveau de compétence Grand ménage +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210990/Genshin/Constellation/MaitresseDeMenage.webp"
+      },
+      {
+        "name": "Aucune poussière",
+        "level": 6,
+        "description": "Grand ménage augmente la DÉF de Noëlle de 50 %. De plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée d'1 s (10 s max).",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210987/Genshin/Constellation/AucunePoussiere.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P8",
+    "name": "Bennet",
+    "title": "Prince de la Guigne",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699280/Genshin/Characters/Bennett.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.webp",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Graine de feu",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
+        "number": 46,
+        "id": "B6"
+      },
+      "material": {
+        "name": "Chrysanthèmes à aubes",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643319/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Épée chanceuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212268/Genshin/Talents/EpeeChanceuse.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Surpassion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212263/Genshin/Talents/Surpassion.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Bennett concentre l'élément Pyro et sa passion pour l'aventure sur son épée. Différentes choses se produisent selon le niveau de passion atteint…",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Bennett exécute un coup rapide de sa lame enflammée, qui inflige des DGT Pyro aux ennemis en face.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Bennett effecture une charge qui donne des résultats différents selon le niveau de charge.",
+            "effect": [
+              {
+                "text": "Niveau 1 : Bennett exécute une seconde attaque, qui inflige des DGT Pyro et projette les ennemis en l'air."
+              },
+              {
+                "text": "Niveau 2 : Une troisième attaque complète l'enchaînement ; celle-ci inflige des DGT Pyro. L'attaque se termine par une explosion, qui projette simultanément Bennett et les ennemis dans les airs. Bennett ne subit pas de DGT lorsqu'il est projeté."
+              }
+            ]
+          }
+        ],
+        "note": "Une attaque Pyro emplie de la passion et des espoirs de Bennett, mais passion débordante signifie surcharge, et qui dit surcharge dit explosion."
+      },
+      "dechainement": {
+        "name": "Merveilleux voyage",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212259/Genshin/Talents/MerveilleuxVoyage.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "Champ vertueux",
+            "text": "",
+            "effect": [
+              {
+                "text": "Les personnages se trouvant dans le champ et ayant moins de 70 % de PV sont soignés d'une quantité de PV proportionnelle aux PV max de Bennett."
+              },
+              {
+                "text": "Les personnages se trouvant dans le champ et ayant plus de 70 % de PV obtiennent un bonus d'ATQ proportionnel à l'ATQ de base de Bennett."
+              },
+              {
+                "text": "Le champ vertueux applique l'élément Pyro à tous les personnages qui s'y trouvent."
+              }
+            ]
+          }
+        ],
+        "note": "Malgré tous les dangers qui ne manquent jamais de venir ponctuer chaque périple de la Bande à Benny, Bennett, son unique membre, préfère continuer à dire qu'il n'y a rien de tel qu'un peu d'inattendu pour pimenter une aventure, bien sûr."
+      },
+      "passif1": {
+        "name": "Renouveau de la passion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212254/Genshin/Talents/RenouveauDeLaPassion.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Réduit le TdR de Surpassion de 20 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Enthousiasme intrépide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212250/Genshin/Talents/EnthousiasmeIntrepide.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Dans le champ de Merveilleux voyage, Surpassion bénéficie des effets suivants :",
+          "effect": [
+            { "text": "TdR réduit de 50 %." },
+            {
+              "text": "ne projette pas Bennett en l'air en Niveau 2 de charge."
+            }
+          ]
+        }
+      },
+      "passif3": {
+        "name": "R.A.S.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212246/Genshin/Talents/RAS.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Plume de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563250/Genshin/Materials/Boss/PlumeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Rota Calamitas",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213021/Genshin/Constellation/RotaCalamitas.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Perspective de voyage",
+        "level": 1,
+        "description": "Le bonus d'ATQ conféré par Merveilleux voyage n'est plus soumis à la restriction de PV, et augmente numériquement l'ATQ de base de Bennett de 20 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213016/Genshin/Constellation/PersepectiveDeVoyage.webp"
+      },
+      {
+        "name": "Brise-désespoir",
+        "level": 2,
+        "description": "La recharge d'énergie de Bennett augmente de 30 % lorsque ses PV tombent en dessous de 70 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213011/Genshin/Constellation/BriseDesespoir.webp"
+      },
+      {
+        "name": "Passion ardente",
+        "level": 3,
+        "description": "Niveau de compétence Surpassion +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213007/Genshin/Constellation/PassionArdente.webp"
+      },
+      {
+        "name": "Enthousiasme éternel",
+        "level": 4,
+        "description": "Une attaque supplémentaire est permise lorsque le deuxième coup de Surpassion en 1e charge est une attaque normale Celle-ci inflige 135 % des DGT du deuxième coup.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213002/Genshin/Constellation/EnthousismeEternel.webp"
+      },
+      {
+        "name": "Ouverture d'âme",
+        "level": 5,
+        "description": "Niveau de compétence Merveilleux voyage +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212997/Genshin/Constellation/OuvertureDame.webp"
+      },
+      {
+        "name": "Feu et courage",
+        "level": 6,
+        "description": "Le champ de Merveilleux voyage confère à tous les personnages de l'équipe déployés et maniant une épée à une ou deux mains ou une arme d'hast qui s'y trouvent un bonus de DGT Pyro de 15 %, ainsi qu'un enchantement Pyro.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212993/Genshin/Constellation/FeuEtCourage.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P9",
+    "name": "Razor",
+    "title": "Enfant-loup",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699750/Genshin/Characters/Razor.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.webp",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Prisme d'éclair",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
+        "number": 46,
+        "id": "B2"
+      },
+      "material": {
+        "name": "Baie à crochet",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213891/Genshin/Materials/BaieACrochet.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Croc d'acier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214491/Genshin/Talents/CrocDacier.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Exécute une succession d'attaques tournoyantes ; cette attaque consomme de l'endurance sur la durée. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Griffe et tonnerre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214485/Genshin/Talents/GriffeEtTonnerre.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Razor met à profit les enseignements de son maître et de son lupical pour chasser sa proie.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "D'un coup de griffe du loup du tonnerre, il inflige des DGT Électro aux ennemis en face. Razor obtient un sceau Électro lorsque cette attaque touche un ennemi ; chaque sceau lui confère un bonus de recharge d'énergie. Razor peut cumuler jusqu'à 3 sceaux Électro ; chaque nouveau sceau réinitialise leur durée",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Amassant la puissance du tonnerre, Razor libère une explosion électrique, infligeant d'importants DGT Électro aux ennemis proches, et supprimant tous les sceaux Électro. Chaque sceau ainsi supprimé est converti en énergie élémentaire.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Parfois un malheureux peut apercevoir à la lueur de l'éclair le regard de prédateur de Razor."
+      },
+      "dechainement": {
+        "name": "Croc éclair",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214479/Genshin/Talents/CrocEclair.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Le loup de tonnerre qui sommeille se réveille et vient à la rescousse, infligeant des DGT Électro aux ennemis proches ; ceci supprime également tous les sceaux Électro, qui sont convertis en énergie élémentaire. Le loup de tonnerre combat aux côtés de Razor tant qu'il est actif.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Le loup de tonnerre disparaît lorsque Razor est vaincu ou quitte le champ de bataille. Le temps restant est converti en énergie élémentaire (10 pts max) lorsque Razor quitte le champ de bataille.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Le loup s'est réveillé. L'heure de la chasse a sonné."
+      },
+      "passif1": {
+        "name": "Éveil",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214474/Genshin/Talents/Eveil.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Réduit le TdR de Griffe et tonnerre de 18 %. Croc éclair réinitialise le TdR de Griffe et tonnerre lorsqu'il est activé.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Famine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214468/Genshin/Talents/Famine.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Razor bénéficie d'un bonus de recharge d'énergie de 30 % lorsque son énergie élémentaire est inférieure à 50 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Vélocité lupine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214463/Genshin/Talents/VelociteLupine.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du sprint. Ne peut pas être cumulé avec d'autres aptitudes ayant les mêmes effets."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Griffe de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563233/Genshin/Materials/Boss/GriffeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Lupus Minor",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709215010/Genshin/Constellation/LupusMinor.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Nature du loup",
+        "level": 1,
+        "description": "Razor inflige 10 % de DGT supplémentaires pendant 8 s lorsqu'il obtient un orbe ou une particule élémentaire.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709215004/Genshin/Constellation/NatureDuLoup.webp"
+      },
+      {
+        "name": "Répression",
+        "level": 2,
+        "description": "Le taux de CRIT de Razor augmente de 10 % quand il attaque des ennemis ayant moins de 30 % de PV.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214998/Genshin/Constellation/Repression.webp"
+      },
+      {
+        "name": "Âme de loup",
+        "level": 3,
+        "description": "Niveau de compétence Croc éclair +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214992/Genshin/Constellation/AmeDeLoup.webp"
+      },
+      {
+        "name": "Morsure",
+        "level": 4,
+        "description": "L'appui simple de Griffe et tonnerre réduit la DÉF des cibles de 15 % pendant 7 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214985/Genshin/Constellation/Morsure.webp"
+      },
+      {
+        "name": "Griffes tranchantes",
+        "level": 5,
+        "description": "Niveau de compétence Griffe et tonnerre +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214979/Genshin/Constellation/GriffesTranchantes.webp"
+      },
+      {
+        "name": "Lupus Fulguris",
+        "level": 6,
+        "description": "Toutes les 10 s, l'arme de Razor se charge d'énergie électrique pour infliger lors de la prochaine attaque normale des DGT Électro équivalent à 100 % de l'ATQ. Chaque ennemi touché confère à Razor un sceau électro de Griffe et tonnerre tant que Croc éclair n'est pas actif.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214973/Genshin/Constellation/LupusFulguris.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P10",
+    "name": "Beidou",
+    "title": "Reine des mers sans couronne",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699283/Genshin/Characters/Beidou.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.webp",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Prisme d'éclair",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
+        "number": 46,
+        "id": "B2"
+      },
+      "material": {
+        "name": "Jade noctiluque",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216088/Genshin/Materials/JadeNoctiluque.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Conquête des mers",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216250/Genshin/Talents/ConqueteDesMers.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'entailles aussi rapides que tranchantes. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Inocation des marées",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216243/Genshin/Talents/InvocationDesMarees.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "N'ayez crainte. Que quelqu'un ose s'en prendre à Beidou ou aux siens, et sa lame et le tonnerre lui feront payer au centuple.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Beidou concentre le pouvoir de la foudre sur son épée, et exécute un coup violent qui inflige aux ennemis en face des DGT Électro.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Beidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou. Lorsque vous relachez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, qui inflige des DGT Électro. Augmente considérablement les DGT infligés selon le nombre de coups portés lors de la durée de la conséquence. Deux coups minimum doivent être portés pour obtenir le bonus de DGT maximum. Bouclier :",
+            "effect": [
+              {
+                "text": "Le bouclier est efficace à 250 % contre les DGT Électro."
+              },
+              { "text": "Applique l'élément Électro à Beidou." }
+            ]
+          }
+        ],
+        "note": "À l'assaut de la tempête et des vagues dansantes !"
+      },
+      "dechainement": {
+        "name": "Brisure d'orage",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216237/Genshin/Talents/BrisureDorage.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Se remémorant son combat contre Haishan, la bête géante, Beidou fait appel à la même force destructrice, et crée un bouclier de tonnerre qui inflige des DGT Électro aux ennemis à proximité.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Bouclier de foudre",
+            "text": "Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro. Au maximum une décharge par seconde peut être libérée.",
+            "effect": [
+              {
+                "text": "Les actions de Beidou sont plus difficiles à interrompre et les DGT qu'elle reçoit diminuent tant que le bouclier est actif."
+              }
+            ]
+          }
+        ],
+        "note": "Le plus puissant des éclairs peut fendre mers et montagnes."
+      },
+      "passif1": {
+        "name": "Châtiment",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216231/Genshin/Talents/Chatiment.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "La contre-attaque d'Invocation des marées inflige le maximum de DGT lorsqu'elle est exécutée juste après une attaque.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Tempête de coups de tonnerre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216224/Genshin/Talents/TempeteDeCoupsDeTonnerre.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Invocation des marées confère pendant 10 s les effets suivants lorsqu'il est exécuté avec le maximum de DGT :",
+          "effect": [
+            {
+              "text": "Les attaques normales et chargées infligent 15 % de DGT supplémentaires."
+            },
+            { "text": "Les attaques chargées se chargent beaucoup plus vite." }
+          ]
+        }
+      },
+      "passif3": {
+        "name": "Braveuse de marée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216218/Genshin/Talents/BraveuseDeMaree.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage. Ne peut pas être cumulé avec d'autres aptitudes ayant les mêmes effets."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616065/Genshin/Materials/Aptitude/EnseignementDeLor.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Souffle de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Victor Mare",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218405/Genshin/Constellation/VictorMare.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Fléau des monstres marins",
+        "level": 1,
+        "description": "L'activation de Brisure d'orage confère les effets suivants : Génère un bouclier qui absorbe une quantité de DGT équivalent à 16 % des PV max et dure 15 s. Le bouclier est efficace à 250 % contre les DGT Électro.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218398/Genshin/Constellation/FleauDesMonstresMarins.webp"
+      },
+      {
+        "name": "Sur la mer turbulente, le tonnerre gronde",
+        "level": 2,
+        "description": "Les décharges de Brisure d'orage se propagent à 2 ennemis supplémentaires.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218391/Genshin/Constellation/SurLaMerturbulenteLeTonnerreGronde.webp"
+      },
+      {
+        "name": "Invocateur de tonnerre",
+        "level": 3,
+        "description": "Niveau de compétence Invocation des marées +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218384/Genshin/Constellation/InvocateurDeTonnerre.webp"
+      },
+      {
+        "name": "Vengeance étonnante",
+        "level": 4,
+        "description": "Les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s quand elle est touchée.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218377/Genshin/Constellation/VengeanceEtonnante.webp"
+      },
+      {
+        "name": "Marcheur de marée écarlate",
+        "level": 5,
+        "description": "Niveau de compétence Brisure d'orage +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218369/Genshin/Constellation/MarcheDeMareeEcarlate.webp"
+      },
+      {
+        "name": "Chancre du mal",
+        "level": 6,
+        "description": "La RÉS Électro des ennemis proches est réduite de 15 % tant que Brisure d'orage est actif.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218363/Genshin/Constellation/ChancreDuMal.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P11",
+    "name": "Fischl",
+    "title": "Princesse du châtiment !",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699244/Genshin/Characters/Fischl.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.webp",
+    "weapon": {
+      "type": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Prisme d'éclair",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
+        "number": 46,
+        "id": "B2"
+      },
+      "material": {
+        "name": "Herbe à lampe",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625519/Genshin/Materials/HerbeALampe.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Flèche de culpabilité",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220112/Genshin/Talents/FlecheDeCulpabilite.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 tirs consécutifs."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Effectue un tir visé plus précis et infligeant davantage de DGT. Lors de la visée, les ténébreux esprits de la nuit convergent sur la flèche. Celle-ci se charge en élément Électro, infligeant de considérables DGT Électro quand elle est complètement chargée."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Tire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Aile de surveillance nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220105/Genshin/Talents/AilesDeSurveillanceNocturne.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Fischl invoque son fidèle Oz à ses côtés. Le corbeau d'ombre et de tonnerre descend sur ce monde, infligeant des DGT Électro dans une petite zone lors de son invocation. Oz tire en continu des balles électrifiées sur les ennemis proches tant qu'il est actif.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Ajuste la zone où la compétence sera lancée ; appuyez à nouveau lorsqu'Oz est actif pour le faire revenir.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "« Vous ne méritez pas que je gaspille mon pouvoir sur vous… Oz, fais pleuvoir les éclairs de justice. » — « Fleurs pour la princesse Fischl - Tome IV : Adieu, maîtresse. »"
+      },
+      "dechainement": {
+        "name": "Incarnation de la nuit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220097/Genshin/Talents/IncarnationDeLaNuit.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Répondant à l'appel de Fischl, Oz vient protéger sa maîtresse de ses ailes tel un voile nocturne. Pendant la durée de la compétence :",
+            "effect": [
+              {
+                "text": "Fischl prend la forme d'Oz, ce qui lui permet d'augmenter sa VIT de déplacement."
+              },
+              {
+                "text": "Les ennemis sur sa route sont frappés par la foudre et subissent des DGT Électro. Chaque ennemi ne peut être frappé qu'une fois."
+              }
+            ]
+          },
+          {
+            "name": "",
+            "text": "Lorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro. Restaure une partie de l'énergie élémentaire de Fischl une fois terminé.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "« … De toutes les bêtes suivant le sang maudit, seul le seigneur corbeau, dont les yeux ont été témoins de la destruction de mille mondes, était capable de comprendre sa grandeur. Et, la recouvrant d'un voile d'ébène, il fit le serment de la protéger à jamais. » — « Fleurs pour la princesse Fischl - Tome I : Apocalypse »"
+      },
+      "passif1": {
+        "name": "Corbeau maléfique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220090/Genshin/Talents/CorbeauMalefique.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Oz libère sur les ennemis proches la foudre du jugement lorsque Fischl le touche d'une flèche complètement chargée, leur infligeant des DGT Électro de zone équivalent à 152,7 % des DGT du tir.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Foudre divine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220082/Genshin/Talents/FoudreDivine.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Lorsque votre personnage déployé déclenche une réaction liée à l'élément Électro en la présence d'Oz, l'ennemi est frappé par la foudre du jugement divin, et subit des DGT Électro équivalent à 80 % de l'ATQ de Fischl.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Jardin secret",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709220076/Genshin/Talents/JardinSecret.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 21,
+          "id": ""
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 38,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "Esprit de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Corvus",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221730/Genshin/Constellation/Corvus.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Oeil de corbeau obscur",
+        "level": 1,
+        "description": "Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat : les attaques normales de Fischl infligent un bonus de DGT équivalent à 22 % de l'ATQ.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221721/Genshin/Constellation/OeilDuCorbeauObscur.webp"
+      },
+      {
+        "name": "Plume de jugement",
+        "level": 2,
+        "description": "Ailes de surveillance nocturne inflige un bonus de DGT équivalent à 200 % de l'ATQ ; la zone d'effet augmente de 50 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221713/Genshin/Constellation/PlumedeJugement.webp"
+      },
+      {
+        "name": "Ailes noires de l'Âbime",
+        "level": 3,
+        "description": "Niveau de compétence Ailes de surveillance nocturne +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221705/Genshin/Constellation/AilesNoiresDeLabime.webp"
+      },
+      {
+        "name": "Les fantasmes de la princesse",
+        "level": 4,
+        "description": "Incarnation de la nuit inflige un bonus de DGT Électro équivalent à 222 % de l'ATQ aux ennemis proches. Fischl récupère 20 % de PV à la fin de la compétence.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221697/Genshin/Constellation/LesFantasmesDeLaPrincesse.webp"
+      },
+      {
+        "name": "Apocalypse de la nuit",
+        "level": 5,
+        "description": "Niveau de compétence Incarnation de la nuit +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221688/Genshin/Constellation/ApocalypseDeLaNuit.webp"
+      },
+      {
+        "name": "Oiseau de la nuit éternelle",
+        "level": 6,
+        "description": "Prolonge la durée d'Oz de 2 s. De plus, Oz attaque aux côtés de votre personnage déployé, infligeant des DGT Électro équivalent à 30 % de l'ATQ de Fischl.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221681/Genshin/Constellation/OiseauDeLaNuitEternelle.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P12",
+    "name": "Xiangling",
+    "title": "Cheffe",
     "art": "",
     "icon": "",
     "weapon": {
@@ -1074,25 +3164,59 @@
     },
     "element": { "type": "", "icon": "" },
     "region": { "name": "", "icon": "" },
-    "ascension_materials": [
-      {
+    "ascension_materials": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 420000,
         "id": ""
       },
-      { "name": "", "picture": "", "number": 46, "id": "" },
-      { "name": "", "picture": "", "number": 1, "id": "" },
-      { "name": "", "picture": "", "number": 9, "id": "" },
-      { "name": "", "picture": "", "number": 9, "id": "" },
-      { "name": "", "picture": "", "number": 6, "id": "" },
-      { "name": "", "picture": "", "number": 168, "id": "" },
-      { "name": "", "picture": "", "number": 18, "id": "" },
-      { "name": "", "picture": "", "number": 30, "id": "" },
-      { "name": "", "picture": "", "number": 36, "id": "" }
-    ],
-    "talents": [
-      {
+      "stone": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 1,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "",
+        "picture": "",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "",
+        "picture": "",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        { "name": "", "picture": "", "number": 18, "id": "" },
+        { "name": "", "picture": "", "number": 30, "id": "" },
+        { "name": "", "picture": "", "number": 36, "id": "" }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "",
         "icon": "",
         "type": "Attaque normale",
@@ -1102,64 +3226,101 @@
           { "name": "Attaque plongeante", "text": "" }
         ]
       },
-      {
+      "competence": {
         "name": "",
         "icon": "",
         "type": "Compétence élémentaire",
         "description": [
-          { "name": "", "text": "" },
-          { "name": "", "text": "" }
-        ]
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
       },
-      {
+      "dechainement": {
         "name": "",
         "icon": "",
         "type": "Déchainement élémentaire",
         "description": [
-          { "name": "", "text": "" },
-          { "name": "", "text": "" }
-        ]
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
       },
-      {
+      "passif1": {
         "name": "",
         "icon": "",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": ""
+        "description": { "text": "", "effect": [{ "text": "" }] }
       },
-      {
+      "passif2": {
         "name": "",
         "icon": "",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": ""
+        "description": { "text": "", "effect": [{ "text": "" }] }
       },
-      {
+      "passif3": {
         "name": "",
         "icon": "",
         "type": "Passif utilitaire",
         "description": ""
       }
-    ],
-    "talent_upgrade": [
-      {
+    },
+    "talent_upgrade": {
+      "mora": {
         "name": "Mora",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
         "number": 1652000,
         "id": ""
       },
-      { "name": "Mobs", "picture": "", "number": 6, "id": "" },
-      { "name": "", "picture": "", "number": 22, "id": "" },
-      { "name": "", "picture": "", "number": 31, "id": "" },
-      { "name": "Livre", "picture": "", "number": 3, "id": "" },
-      { "name": "", "picture": "", "number": 21, "id": "" },
-      { "name": "", "picture": "", "number": 38, "id": "" },
-      { "name": "", "picture": "", "number": 6, "id": "" },
-      {
+      "mobLoot": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        { "name": "", "picture": "", "number": 3, "id": "" },
+        { "name": "", "picture": "", "number": 21, "id": "" },
+        { "name": "", "picture": "", "number": 38, "id": "" }
+      ],
+      "bossLoot": { "name": "", "picture": "", "number": 6, "id": "" },
+      "crown": {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
         "number": 1,
         "id": ""
       }
-    ],
+    },
     "constellation": { "name": "", "icon": "" },
     "constellation_upgrade": [
       { "name": "", "level": 1, "description": "", "icon": "" },
