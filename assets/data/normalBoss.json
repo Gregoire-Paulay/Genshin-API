@@ -23,12 +23,12 @@
         {
           "name": "Sucrose",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/SucroseIcon.webp",
-          "id": ""
+          "id": "P16"
         },
         {
           "name": "Venti",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.webp",
-          "id": ""
+          "id": "P17"
         }
       ]
     },
@@ -150,7 +150,7 @@
         {
           "name": "Chongyun",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.webp",
-          "id": ""
+          "id": "P14"
         },
         {
           "name": "Diona",
@@ -287,7 +287,7 @@
         {
           "name": "Ningguang",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.webp",
-          "id": ""
+          "id": "P15"
         },
         {
           "name": "Noëlle",
@@ -364,7 +364,7 @@
         {
           "name": "Xiangling",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp",
-          "id": ""
+          "id": "P12"
         },
         {
           "name": "Xinyan",
@@ -435,7 +435,7 @@
         {
           "name": "Xingqiu",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.webp",
-          "id": ""
+          "id": "P13"
         }
       ]
     },

@@ -3,6 +3,7 @@
     "id": "P1",
     "name": "Voyageur Anémo",
     "title": "Chevalier Honoraire",
+    "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.jpg",
     "weapon": {
@@ -193,43 +194,43 @@
           "name": "Enseignement de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
           "number": 6,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
           "number": 11,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
           "number": 4,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
           "number": 6,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
           "number": 12,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
           "number": 20,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -294,6 +295,7 @@
     "id": "P2",
     "name": "Voyageur Géo",
     "title": "Chevalier Honoraire",
+    "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.jpg",
     "weapon": {
@@ -479,43 +481,43 @@
             "name": "Enseignement de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
             "number": 3,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Guide de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
             "number": 6,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Guide de la résistance",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
             "number": 11,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Guide de la poésie",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
             "number": 4,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Philosophie de la liberté",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
             "number": 6,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Philosophie de la résistance",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
             "number": 12,
-            "id": ""
+            "id": "TM1"
           },
           {
             "name": "Philosophie de la poésie",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
             "number": 20,
-            "id": ""
+            "id": "TM1"
           }
         ],
         "bossLoot": {
@@ -563,43 +565,43 @@
             "name": "Enseignement de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616109/Genshin/Materials/Aptitude/EnseignementDeLaProsperite.webp",
             "number": 3,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Guide de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616102/Genshin/Materials/Aptitude/GuideDeLaProsperite.webp",
             "number": 6,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Guide de la diligence",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
             "number": 11,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Guide de l'or",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
             "number": 4,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Philosophie de la prospérité",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616094/Genshin/Materials/Aptitude/PhilosophieDeLaProsperite.webp",
             "number": 6,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Philosophiede la diligence",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
             "number": 12,
-            "id": ""
+            "id": "TM2"
           },
           {
             "name": "Philosophie de l'or",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
             "number": 20,
-            "id": ""
+            "id": "TM2"
           }
         ],
         "bossLoot": {
@@ -665,6 +667,7 @@
     "id": "P3",
     "name": "Amber",
     "title": "Éclaireuse de l'Ordre de Favonius",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617748/Genshin/Characters/Amber.png",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.webp",
     "weapon": {
@@ -858,19 +861,19 @@
           "name": "Enseignement de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -934,6 +937,7 @@
     "id": "P4",
     "name": "Kaeya",
     "title": "Capitaine de Cavalerie de l'Ordre de Favonius",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629245/Genshin/Characters/Kaeya.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.webp",
     "weapon": {
@@ -1117,19 +1121,19 @@
           "name": "Enseignement de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -1193,6 +1197,7 @@
     "id": "P5",
     "name": "Lisa",
     "title": "Bibliothécaire de l'Ordre de Favonius",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/Lisa.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.webp",
     "weapon": {
@@ -1391,19 +1396,19 @@
           "name": "Enseignement de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -1467,6 +1472,7 @@
     "id": "P6",
     "name": "Barbara",
     "title": "Idole de Moonstadt",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/Barbara.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.webp",
     "weapon": {
@@ -1665,19 +1671,19 @@
           "name": "Enseignement de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la liberté",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -1741,6 +1747,7 @@
     "id": "P7",
     "name": "Noëlle",
     "title": "Servante de l'Ordre de Favonius",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699758/Genshin/Characters/Noelle.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.webp",
     "weapon": {
@@ -1951,19 +1958,19 @@
           "name": "Enseignement de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -2027,6 +2034,7 @@
     "id": "P8",
     "name": "Bennet",
     "title": "Prince de la Guigne",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699280/Genshin/Characters/Bennett.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.webp",
     "weapon": {
@@ -2242,19 +2250,19 @@
           "name": "Enseignement de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -2318,6 +2326,7 @@
     "id": "P9",
     "name": "Razor",
     "title": "Enfant-loup",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699750/Genshin/Characters/Razor.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.webp",
     "weapon": {
@@ -2516,19 +2525,19 @@
           "name": "Enseignement de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la résistance",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -2592,6 +2601,7 @@
     "id": "P10",
     "name": "Beidou",
     "title": "Reine des mers sans couronne",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699283/Genshin/Characters/Beidou.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.webp",
     "weapon": {
@@ -2804,19 +2814,19 @@
           "name": "Enseignement de l'or",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616065/Genshin/Materials/Aptitude/EnseignementDeLor.webp",
           "number": 3,
-          "id": ""
+          "id": "TM2"
         },
         {
           "name": "Guide de l'or",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
           "number": 21,
-          "id": ""
+          "id": "TM2"
         },
         {
           "name": "Philosophie de l'or",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
           "number": 38,
-          "id": ""
+          "id": "TM2"
         }
       ],
       "bossLoot": {
@@ -2880,6 +2890,7 @@
     "id": "P11",
     "name": "Fischl",
     "title": "Princesse du châtiment !",
+    "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699244/Genshin/Characters/Fischl.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.webp",
     "weapon": {
@@ -3080,19 +3091,19 @@
           "name": "Enseignement de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
           "number": 3,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Guide de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
           "number": 21,
-          "id": ""
+          "id": "TM1"
         },
         {
           "name": "Philosophie de la poésie",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
           "number": 38,
-          "id": ""
+          "id": "TM1"
         }
       ],
       "bossLoot": {
@@ -3156,14 +3167,21 @@
     "id": "P12",
     "name": "Xiangling",
     "title": "Cheffe",
-    "art": "",
-    "icon": "",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700031/Genshin/Characters/Xiangling.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp",
     "weapon": {
-      "type": "",
-      "icon": ""
+      "type": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp"
     },
-    "element": { "type": "", "icon": "" },
-    "region": { "name": "", "icon": "" },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -3173,46 +3191,1418 @@
       },
       "stone": [
         {
-          "name": "",
-          "picture": "",
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
           "number": 1,
-          "id": ""
+          "id": "AM8"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
           "number": 9,
-          "id": ""
+          "id": "AM8"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
           "number": 9,
-          "id": ""
+          "id": "AM8"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
           "number": 6,
-          "id": ""
+          "id": "AM8"
         }
       ],
       "bossLoot": {
-        "name": "",
-        "picture": "",
+        "name": "Graine de feu",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
         "number": 46,
-        "id": ""
+        "id": "B6"
       },
       "material": {
-        "name": "",
-        "picture": "",
+        "name": "Piment de Jueyun",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709225722/Genshin/Materials/PimentDeJueyun.webp",
         "number": 168,
         "id": ""
       },
       "mobLoot": [
-        { "name": "", "picture": "", "number": 18, "id": "" },
-        { "name": "", "picture": "", "number": 30, "id": "" },
-        { "name": "", "picture": "", "number": 36, "id": "" }
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Cuisine-fu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226020/Genshin/Talents/CuisineFu.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Charge en ligne droite et inflige des DGT aux ennemis sur sa route ; cette attaque consomme de l'endurance."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Attaque Gooba",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226012/Genshin/Talents/AttaqueGooba.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Xiangling invoque le panda Gooba. Tant que Gooba est actif, il crache du feu sur les ennemis, leur infligeant des DGT pyro de zone continus.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Gooba raffole des produits épicés ; mais même ça c'est un peu trop pour lui."
+      },
+      "dechainement": {
+        "name": "Pyrotation",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226004/Genshin/Talents/Pyrotation.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Démontrant à nouveau sa maîtrise du feu et des armes, Xiangling libère une tornade de feu qui tournoie autour d'elle. La tornade suit le personnage tant qu'elle est active, infligeant des DGT Pyro aux ennemis sur sa route.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "On n'a jamais assez d'explosifs. JAMAIS."
+      },
+      "passif1": {
+        "name": "Feux croisés",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709225995/Genshin/Talents/FeuxCroises.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Augmente la portée des jets de feu de Gooba de 20 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Attention, ça pique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709225987/Genshin/Talents/AttentionCaPique.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "À la fin d'Attaque Gooba, le gentil petit Gooba laisse quelques piments sur sa position avant de disparaître. Ces piments confèrent un bonus de 10 % d'ATQ pendant 10 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Cheffe cuisinière",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709225979/Genshin/Talents/CheffeCuisini%C3%A8re.webp",
+        "type": "Passif utilitaire",
+        "description": "12 % de chance d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce l'ATQ."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616087/Genshin/Materials/Aptitude/EnseignementDeLaDiligence.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Griffe de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563233/Genshin/Materials/Boss/GriffeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Trulla",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226728/Genshin/Constellation/Trulla.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Croustillant à l'extérieur, tendre à l'intérieur",
+        "level": 1,
+        "description": "La RÉS Pyro des ennemis touchés par Gooba est réduite de 15 % pendant 6 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226719/Genshin/Constellation/CroustillantALexterieurTendreALinterieur.webp"
+      },
+      {
+        "name": "L'huile sur le feu",
+        "level": 2,
+        "description": "Le dernier coup d'attaque normale inflige pendant 2 s un effet d'implosion aux ennemis. Au bout de ce délai, ils explosent, infligeant des DGT Pyro de zone équivalent à 75 % de l'ATQ.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226709/Genshin/Constellation/LhuileSurLeFeu.webp"
+      },
+      {
+        "name": "Sauté profond",
+        "level": 3,
+        "description": "Niveau de compétence Pyrotation +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226700/Genshin/Constellation/SauteProfond.webp"
+      },
+      {
+        "name": "Douce cuisine",
+        "level": 4,
+        "description": "Prolonge la durée de Pyrotation de 40 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226690/Genshin/Constellation/DouceCuisine.webp"
+      },
+      {
+        "name": "Colère de Gooba",
+        "level": 5,
+        "description": "Niveau de compétence Attaque Gooba +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226681/Genshin/Constellation/ColereDeGooba.webp"
+      },
+      {
+        "name": "Pyrotation condensée",
+        "level": 6,
+        "description": "Les DGT Pyro de tous les personnages de l'équipe augmentent de 15 % tant que Pyrotation est active.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226672/Genshin/Constellation/PyrotationCondensee.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P13",
+    "name": "Xingqiu",
+    "title": "Jeune Galant",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/Xingqiu.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.webp",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Hydro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+          "number": 1,
+          "id": "AM7"
+        },
+        {
+          "name": "Fragment de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Morceau de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Pierre de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+          "number": 6,
+          "id": "AM7"
+        }
+      ],
+      "bossLoot": {
+        "name": "Coeur d'eau pure",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958310/Genshin/Materials/Boss/CoeurDeauPure.webp",
+        "number": 46,
+        "id": "B7"
+      },
+      "material": {
+        "name": "Fleur de soie",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558171/Genshin/Materials/FleurDeSoie.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Style Guhua",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558298/Genshin/Talents/StyleGuhua.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Épée Guhua: Pluie battante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558297/Genshin/Talents/EpeeGuhuaPluieBattante.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Lance une succession de 2 coups d'épée qui infligent des DGT Hydro aux ennemis en face. Dans le même temps, le personnage déployé s'entoure du nombre maximum d'épées de pluie. Les épées de pluie ont les propriétés suivantes :",
+            "effect": [
+              {
+                "text": "Les épées se brisent lorsque Xingqiu subit des DGT et ce faisant réduisent les DGT subis."
+              },
+              {
+                "text": "Les actions de Xingqiu sont plus difficiles à interrompre."
+              }
+            ]
+          },
+          {
+            "name": "",
+            "text": "20 % du bonus de DGT Hydro de Xingqiu est converti en réduction de DGT supplémentaire par les épées de pluie. Jusqu'à 24 % de réduction de DGT supplémentaire peut être obtenue de cette manière. Xingqiu commence avec 3 épées de pluie maximum. Applique l'état Trempé à Xingqiu lors du lancement.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Le dragon est facile à vaincre, mais la goutte de pluie est insaisissable."
+      },
+      "dechainement": {
+        "name": "Épée Guhua: Pluie et arc-en-ciel",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558295/Genshin/Talents/EpeeGuhuaPluieEtArcEnCiel.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Xingqiu fait appel à un déluge d'épées et combat avec une lame arc-en-ciel ; il s'entoure de plus du nombre maximum d'épées de pluie.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Lame arc-en-ciel",
+            "text": "",
+            "effect": [
+              {
+                "text": "Les attaques normales infligées par votre personnage déployé libèrent un déluge d'épées et infligent des DGT Hydro."
+              },
+              { "text": "Le nombre d'épées de pluie ne diminue pas." }
+            ]
+          }
+        ],
+        "note": "La Voie des Lames de Pluie est l'un des trois secrets jalousement gardés par le Clan Guhua."
+      },
+      "passif1": {
+        "name": "Clé d'invocation d'eau",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558294/Genshin/Talents/CleDinvocationDeau.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Lorsque l'épée de rideau pluvial est brisée par des attaques ou se termine, elle restaure les PV du personnage déployé basés sur 6 % des PV max de Xingqiu.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Lames et gouttes de pluie",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558292/Genshin/Talents/LamesEtGouttesDePluie.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Confère un bonus de DGT Hydro de 20 % à Xingqiu.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Illumination",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558292/Genshin/Talents/Illumination.webp",
+        "type": "Passif utilitaire",
+        "description": "Vous avez 25 % de chance de récupérer des matériaux de synthèse lors de la synthèse de matériaux d'aptitude."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616065/Genshin/Materials/Aptitude/EnseignementDeLor.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Queue de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Fabulae Textile",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558960/Genshin/Constellation/FabulaeTextile.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Parfum persistant",
+        "level": 1,
+        "description": "Augmente le nombre max d'épées de pluie de 1.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558959/Genshin/Constellation/ParfumPersistant.webp"
+      },
+      {
+        "name": "Arc-en-ciel sur le ciel d'azur",
+        "level": 2,
+        "description": "Prolonge la durée d'Épée Guhua : Pluie et arc-en-ciel de 3 s. De plus, les épées de pluie réduisent la RÉS Hydro des ennemis qu'elles touchent de 15 % pendant 4 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558958/Genshin/Constellation/ArcEnCielSurLeCielDazur.webp"
+      },
+      {
+        "name": "Tisseuse de vers",
+        "level": 3,
+        "description": "Niveau de compétence Épée Guhua : Pluie et arc-en-ciel +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558956/Genshin/Constellation/TisseuseDeVers.webp"
+      },
+      {
+        "name": "Conquérant du dragon",
+        "level": 4,
+        "description": "Épée Guhua : Pluie et arc-en-ciel inflige 50 % de DGT supplémentaires lorsque Épée Guhua : Pluie battante est active.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558955/Genshin/Constellation/ConquerantDuDragon.webp"
+      },
+      {
+        "name": "Embrassement de pluie",
+        "level": 5,
+        "description": "Niveau de compétence Épée Guhua : Pluie battante +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558954/Genshin/Constellation/EmbrassementDePluie.webp"
+      },
+      {
+        "name": "Rassemblement d'articles",
+        "level": 6,
+        "description": "Les DGT du déluge d'épées d'Épée Guhua : Pluie et arc-en-ciel augmentent considérablement tous les 2 pluies d'épées ; Xingqiu récupère de plus 3 pts d'énergie élémentaire.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558953/Genshin/Constellation/RassemblementDarticles.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P14",
+    "name": "Chongyun",
+    "title": "Corps de glace et coeur de feu",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/Chongyun.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.webp",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Duramen de Glace",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
+        "number": 46,
+        "id": "B3"
+      },
+      "material": {
+        "name": "Coeur de Lapis",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559689/Genshin/Materials/CoeurDeLapis.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Fléau des démons",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559841/Genshin/Talents/FleauDesDemons.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'attaques tournoyantes contre les ennemis proches. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Lame de l'esprit : Givre superposé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559839/Genshin/Talents/LameDeLespritGivreSuperpose.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Chongyun abat violemment sa longue épée sur le sol, provoquant une explosion de glace qui inflige des DGT Cryo aux ennemis en face dans une zone circulaire.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Après un court délai, les courants d'air froids de l'explosion se condensent en un champ de givre. Les DGT des attaques normales et chargées des personnages qui s'y trouvent et qui manient l'épée longue, à une main, ou une arme d'hast obtiennent un enchantement Cryo.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Lorsque les cloches sonnent, tout est calme et silencieux. Les eaux des lacs et des rivières ne s'écoulent plus, et les nuages sont couverts de givre épais. Les portes de l'autel s'ouvrent, tous les maux sont éliminés. "
+      },
+      "dechainement": {
+        "name": "Lame de l'esprit : Chute d'étoiles",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559836/Genshin/Talents/LameDeLespritChuteDetoiles.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "L'impact inflige des DGT Cryo de zone et projette les ennemis en l'air.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Ô lame du ciel et de la terre qui gèle tous les démons du monde… Entends mon appel !"
+      },
+      "passif1": {
+        "name": "Respiration stable",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559833/Genshin/Talents/RespirationStable.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": " Dans le champs de Lame de l'esprit : Givre superposé, la VIT d'attaque normale des personnages maniant une épée à une ou deux mains ou une arme d'hast augmente de 8 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Lame du chasseur de glace",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559831/Genshin/Talents/LameDuChasseurDeGlace.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Une lame apparaît à la fin du champ de Lame de l'esprit : Givre superposé ; elle inflige des DGT Cryo de zone équivalent à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La RÉS Cryo des ennemis touchés est réduite de 10 % pendant 8 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Périple alyzée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559828/Genshin/Talents/PeripleAlyzeen.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616087/Genshin/Materials/Aptitude/EnseignementDeLaDiligence.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Souffle de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Nubis Caesor",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560517/Genshin/Constellation/NubisCaesor.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Glace déchaîné",
+        "level": 1,
+        "description": "Le dernier coup d'attaque normale libère 3 lames de glace vers l'avant ; chacune inflige une quantité de DGT Cryo équivalent à 50 % de l'ATQ de Chongyun.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560515/Genshin/Constellation/GlaceDechaine.webp"
+      },
+      {
+        "name": "Révolution astrale",
+        "level": 2,
+        "description": "Lancer une compétence ou un déchaînement élémentaires dans le champ de Lame de l'esprit : Givre superposé réduit leur TdR de 15 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560512/Genshin/Constellation/Revolutionastrale.webp"
+      },
+      {
+        "name": "Étincellement des nuages",
+        "level": 3,
+        "description": "Niveau de compétence Lame de l'esprit : Chute d'étoiles +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560509/Genshin/Constellation/EtincellementDesNuages.webp"
+      },
+      {
+        "name": "Cieux givrés",
+        "level": 4,
+        "description": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo. Cet effet peut être déclenché toutes les 2 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560507/Genshin/Constellation/CieuxGivres.webp"
+      },
+      {
+        "name": "La voie",
+        "level": 5,
+        "description": "Niveau de compétence Lame de l'esprit : Givre superposé +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560504/Genshin/Constellation/LaVoie.webp"
+      },
+      {
+        "name": "Rassemblement des Quatre lames",
+        "level": 6,
+        "description": "Lame de l'esprit : Chute d'étoiles inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à ceux de Chongyun. De plus, une lame supplémentaire est générée à l'activation de la compétence.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560503/Genshin/Constellation/RassemblementDesQuatreLames.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P15",
+    "name": "Ningguang",
+    "title": "Megrez de l'éclipse",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/Ningguang.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.webp",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Géo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+          "number": 1,
+          "id": "AM6"
+        },
+        {
+          "name": "Fragment de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+          "number": 9,
+          "id": "AM6"
+        },
+        {
+          "name": "Morceau de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+          "number": 9,
+          "id": "AM6"
+        },
+        {
+          "name": "Pierre de topaze prithiva",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+          "number": 6,
+          "id": "AM6"
+        }
+      ],
+      "bossLoot": {
+        "name": "Pilier de basalte",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957738/Genshin/Materials/Boss/PilierDeBasalte.webp",
+        "number": 46,
+        "id": "B5"
+      },
+      "material": {
+        "name": "Lys Verni",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561090/Genshin/Materials/LysVerni.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Géo-dispersion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561421/Genshin/Talents/GeoDispersion.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Tire des gemmes qui infligent des DGT Géo. Ningguang obtient un Jade d'étoile à chaque fois qu'une gemme touche un ennemi."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Tire une gemme géante qui inflige des DGT Géo. Si Ningguang a obtenu des Jades d'étoile, l'attaque chargée les tire tous au même moment, infligeant des DGT supplémentaires."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Géo, infligeant des DGT aux ennemis en chemin et des DGT Géo de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Paravent d'astrolabe",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561418/Genshin/Talents/ParaventDastrolabe.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Ningguang puise dans son opulence pour créer un paravent d'or et d'obsidienne infligeant des DGT Géo de zone.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Paravent d'astrolabe",
+            "text": "",
+            "effect": [
+              { "text": "Bloque les projectiles ennemis." },
+              {
+                "text": "Les PV du paravent sont proportionnels aux PV max de Ningguang."
+              }
+            ]
+          },
+          {
+            "name": "",
+            "text": "Le paravent d'astrolabe est une construction Géo qui peut bloquer certaines attaques mais ne peut pas être escaladée. Il ne peut exister qu'un seul paravent à la fois.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Les étoiles sont dispersées dans le ciel nocturne, les pions sont prêts sur l'échiquier divin. Alors, le paravent d'astrolabe commence à s'étendre."
+      },
+      "dechainement": {
+        "name": "Éclatement des étoiles",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561414/Genshin/Talents/EclatementDesEtoiles.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Ningguang fait tournoyer plusieurs jades précieux à tête chercheuse autour d'elle, qu'elle relâche tous en même temps, infligeant ainsi d'importants DGT Géo.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Si le paravent d'astrolabe est actif lorsque cette attaque est exécutée, il l'accompagne d'un tir de jade supplémentaire.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Éparses sont les ténèbres quand les étoiles sont éclatées."
+      },
+      "passif1": {
+        "name": "Plan de reprise",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561410/Genshin/Talents/PlanDeReprise.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "L'attaque chargée de Ningguang ne consomme pas d'endurance tant que celle-ci possède des Jades d'étoile.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Réserve stratégique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561407/Genshin/Talents/ReserveStrategique.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Confère pendant 10 s un bonus de DGT Géo de 12 % aux personnages qui traversent les Paravent d'astrolabe.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Corne d'abondance",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561403/Genshin/Talents/CorneDabondance.webp",
+        "type": "Passif utilitaire",
+        "description": "Affiche l'emplacement des filons de minerai (fer, fer blanc, cristal, cristal magique et argétoile) sur la mini-carte."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616109/Genshin/Materials/Aptitude/EnseignementDeLaProsperite.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616102/Genshin/Materials/Aptitude/GuideDeLaProsperite.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616094/Genshin/Materials/Aptitude/PhilosophieDeLaProsperite.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Esprit de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Opus Aequilibrium",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561993/Genshin/Constellation/OpusAequilibrium.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Fragments perforants",
+        "level": 1,
+        "description": "Les attaques normales qui touchent infligent des DGT de zone.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561989/Genshin/Constellation/FragmentsPerforants.webp"
+      },
+      {
+        "name": "Effet de choc",
+        "level": 2,
+        "description": "Le TdR de Paravent d'astrolabe est annulé lorsque ce dernier est brisé. Cet effet peut être déclenché une fois toutes les 6 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561986/Genshin/Constellation/EffetDeChoc.webp"
+      },
+      {
+        "name": "Alignement des étoiles",
+        "level": 3,
+        "description": "Niveau de compétence Éclatement des étoiles +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561982/Genshin/Constellation/AlignementDesEtoiles.webp"
+      },
+      {
+        "name": "Exquis soit le Jade, éclatant de toutes parts",
+        "level": 4,
+        "description": "Paravent d'astrolabe agmente la RÉS élémentaire des personnages à proximité de 10 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561978/Genshin/Constellation/ExquisSoitLeJadeEclatantDeToutesParts.webp"
+      },
+      {
+        "name": "Invincible soit le Paravent d'astrolabe",
+        "level": 5,
+        "description": "Niveau de compétence Paravent d'astrolabe +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561974/Genshin/Constellation/InvincibleSoitLeParaventDastrolabe.webp"
+      },
+      {
+        "name": "Grandeur soit les Sept Étoiles",
+        "level": 6,
+        "description": "L'activation d'Éclatement des étoiles confère 7 Jades d'étoile à Ningguang.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561971/Genshin/Constellation/GrandeurSoitLesSeptEtoiles.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P16",
+    "name": "Sucrose",
+    "title": "Alchimiste 100% naturelle",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/Sucrose.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699723/Genshin/Characters/SucroseIcon.webp",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "graine d'ouragan",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
+        "number": 46,
+        "id": "B1"
+      },
+      "material": {
+        "name": "Chrysanthèmes à aubes",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556870/Genshin/Materials/ChrysanthemeAAubes.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Esprit du vent",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563181/Genshin/Talents/EspritDuVent.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 attaques chargées de vent qui infligent des DGT Anémo."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Après un court délai, inflige des DGT Anémo de zone ; cette attaque consomme de l'endurance."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis sur la route et des DGT Anémo de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Esprit du vent : Sujet 6308",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563176/Genshin/Talents/EspritDuVentSujet6308.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Sucrose invoque un Esprit du vent de taille réduite, qui attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des DGT Anémo.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "C'est un peu embarrassant, mais il faut bien reconnaître que malgré leur courte durée de vie, les Esprits créés via ce procédé sont particulièrement utiles pour l'aventure. Comme quoi, même les expériences ratées peuvent servir."
+      },
+      "dechainement": {
+        "name": "Esprit du vent : Isomorphe 75 Type II",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563171/Genshin/Talents/EspritDuVentIsomorphe75TypeII.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Sucrose jette une concoction instable qui libère un Esprit du vent de grande taille. L'Esprit attire les ennemis proches à lui, projetant les ennemis dans les airs et leurs infligeant des DGT Anémo.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Absorption élémentaire",
+            "text": "L'Esprit du vent absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Sucrose aime à donner des noms à ses Hypostases Anémo instables ; leur lignée est encore plus longue que celle du Baron Lapinou 893e du nom."
+      },
+      "passif1": {
+        "name": "Permutation de catalyste",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563167/Genshin/Talents/PermutationDeCatalyste.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Tous les personnages de l'équipe du type élémentaire concerné (à l'exception de Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une Dispersion.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Mollis Favonius",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563162/Genshin/Talents/MollisFavonius.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Lorsque Esprit du vent : Sujet 6308 ou Esprit du vent : Isomorphe 75 Type II touche un ennemi, tous les personnages (à l'exception de Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalent à 20 % de la maîtrise élémentaire de Sucrose.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Fragile découverte",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563158/Genshin/Talents/FragileDecouverte.webp",
+        "type": "Passif utilitaire",
+        "description": "Sucrose a 10 % de chance d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Esprit de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Ampulla",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563668/Genshin/Constellation/Ampulla.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Champ du néant",
+        "level": 1,
+        "description": "Confère une charge supplémentaire à Esprit du vent : Sujet 6308.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563663/Genshin/Constellation/ChamDuNeant.webp"
+      },
+      {
+        "name": "Bett : Forme éthérée",
+        "level": 2,
+        "description": "Prolonge la durée d'Esprit du vent : Isomorphe 75 Type II de 2 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563658/Genshin/Constellation/BettFormeEtheree.webp"
+      },
+      {
+        "name": "Zéro défaut",
+        "level": 3,
+        "description": " Niveau de compétence Esprit du vent : Sujet 6308 +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563653/Genshin/Constellation/ZeroDefaut.webp"
+      },
+      {
+        "name": "Alchémania",
+        "level": 4,
+        "description": "Réduit le TdR d'Esprit du vent : Sujet 6308 de 1 à 7 s toutes les 7 attaques normales et chargées que Sucrose inflige.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563648/Genshin/Constellation/Alchemania.webp"
+      },
+      {
+        "name": "Flasque standard",
+        "level": 5,
+        "description": "Niveau de compétence Esprit du vent : Isomorphe 75 Type II +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563643/Genshin/Constellation/FlasqueStandard.webp"
+      },
+      {
+        "name": "Théorie de l'entropie",
+        "level": 6,
+        "description": "En cas d'absorption élémentaire, Esprit du vent : Isomorphe 75 Type II confère à tous les personnages de l'équipe un bonus de DGT élémentaires de 20 % tant que la compétence est active.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563640/Genshin/Constellation/TheroriedeLentropie.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P17",
+    "name": "Venti",
+    "title": "Barde itinérant",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/Venti.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.webp",
+    "weapon": {
+      "type": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "graine d'ouragan",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "Cécilia",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709564193/Genshin/Materials/Cecilia.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 36,
+          "id": ""
+        }
       ]
     },
     "talents": {

@@ -103,12 +103,12 @@
           {
             "name": "Ningguang",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.webp",
-            "id": ""
+            "id": "P15"
           },
           {
             "name": "Sucrose",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.webp",
-            "id": ""
+            "id": "P16"
           }
         ]
       },
@@ -135,7 +135,7 @@
           {
             "name": "Xingqiu",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.webp",
-            "id": ""
+            "id": "P13"
           }
         ]
       },
@@ -300,7 +300,7 @@
           {
             "name": "Xiangling",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp",
-            "id": ""
+            "id": "P12"
           }
         ]
       },
@@ -322,7 +322,7 @@
           {
             "name": "Chongyun",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.webp",
-            "id": ""
+            "id": "P14"
           },
           {
             "name": "Voyageur Anémo",

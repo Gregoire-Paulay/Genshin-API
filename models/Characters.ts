@@ -12,6 +12,8 @@ export const charactersListSchema = z.array(
 export const characterDetailsSchema = z.object({
   id: z.string(),
   name: z.string(),
+  title: z.string(),
+  star: z.number(),
   art: z.string(),
   icon: z.string(),
   weapon: z.object({ type: z.string(), icon: z.string() }),
