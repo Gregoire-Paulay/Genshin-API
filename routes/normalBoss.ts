@@ -34,7 +34,7 @@ normalBossRouter.get("/boss/normal/details", (req: Request, res: Response) => {
       }
     }
 
-    return res.status(400).json("This id doesn't match any normal boss id");
+    return res.status(404).json("This id doesn't match any normal boss id");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);

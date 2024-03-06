@@ -130,7 +130,7 @@
           {
             "name": "Venti",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.webp",
-            "id": ""
+            "id": "P17"
           },
           {
             "name": "Xingqiu",
@@ -157,7 +157,7 @@
           {
             "name": "Klee",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.webp",
-            "id": ""
+            "id": "P18"
           },
           {
             "name": "Mona",
@@ -268,12 +268,12 @@
           {
             "name": "Diluc",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.webp",
-            "id": ""
+            "id": "P20"
           },
           {
             "name": "Jean",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/JeanIcon.webp",
-            "id": ""
+            "id": "P19"
           }
         ]
       },

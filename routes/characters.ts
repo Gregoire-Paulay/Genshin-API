@@ -39,7 +39,7 @@ charactersRoute.get("/characters/details", (req: Request, res: Response) => {
       }
     }
 
-    return res.status(400).json("no match found for this id");
+    return res.status(404).json("no match found for this id");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);

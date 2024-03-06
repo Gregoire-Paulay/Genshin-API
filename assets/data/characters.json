@@ -4607,6 +4607,1065 @@
     },
     "talents": {
       "attaqueNormale": {
+        "name": "Archerie divine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653692/Genshin/Talents/ArcherieDivine.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 6 tirs consécutifs."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Effectue un tir visé plus précis infligeant davantage de DGT. Lors de la visée, la flèche se charge en élément Anémo, infligeant de considérables DGT Anémo quand elle est complètement chargée."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Tire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Sonnet des Vents célestes",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653691/Genshin/Talents/SonnetDesVentsCelestes.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Le vent porteur de chants et de mélodies vient faire voler les êtres foulant cette terre.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Venti invoque une bourrasque sur la position de l'ennemi, qui inflige des DGT Anémo de zone et projette les ennemis en l'air.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Venti invoque une bourrasque plus puissante sur sa position, qui inflige des DGT Anémo de zone et projette les ennemis proches en l'air. L'appui long permet à Venti de voler dans les airs. Les ennemis projetés en l'air retombent lentement au sol.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Aux temps anciens où dieux et hommes se partageaient la terre, nombreux furent les chants qui atteignirent les cieux. Ce sonnet possède une mélodie oubliée depuis longtemps."
+      },
+      "dechainement": {
+        "name": "Ode au Vent",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653690/Genshin/Talents/OdeAuVent.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Venti tire une flèche porteuse de la puissance de mille vents et de l'Œil de la tempête. Ce dernier attire les ennemis en son centre, et inflige des DGT Anémo continus.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Absorption élémentaire",
+            "text": "L'Œil de la tempête absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      },
+      "passif1": {
+        "name": "Embrasse des vents",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653688/Genshin/Talents/EmbrasseDesVents.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "L'appui long de Sonnet des Vents célestes génère une bourrasque ascendante qui dure 20 s.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Oeil de la tempête",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653688/Genshin/Talents/OeilDeLaTempete.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Venti récupère 15 pts d'énergie élémentaire à la fin d'Ode au Vent. En cas d'absorption élémentaire, les personnages de l'élément correspondant récupèrent également 15 pts d'énergie élémentaire.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Chevaucheur du vent",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709653687/Genshin/Talents/ChevaucheurDuVent.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage. Ne peut être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Queue de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Carmen Dei",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654317/Genshin/Constellation/CarmenDei.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Vent violent fractionné",
+        "level": 1,
+        "description": "Le tir visé tire 2 flèches supplémentaires, chacune infligeant 33 % des DGT de la flèche d'origine.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654315/Genshin/Constellation/VentViolentFractionne.webp"
+      },
+      {
+        "name": "Bise de réminiscence",
+        "level": 2,
+        "description": "Sonnet des Vents célestes réduit la RÉS Anémo et la RÉS physique des ennemis de 12 % pendant 10 s. La RÉS Anémo et la RÉS physique des ennemis projetés en l'air par Sonnet des Vents célestes sont réduites de 12 % tant qu'ils sont en l'air.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654314/Genshin/Constellation/BiseDeReminiscence.webp"
+      },
+      {
+        "name": "L'Ode aux mille vents",
+        "level": 3,
+        "description": "Niveau de compétence Ode au Vent +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654312/Genshin/Constellation/LodeAuxMilleVents.webp"
+      },
+      {
+        "name": "Vent glacial de liberté",
+        "level": 4,
+        "description": "Venti inflige 25 % DGT Anémo supplémentaires pendant 10 s lorsqu'il obtient un orbe ou une particule élémentaire.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654310/Genshin/Constellation/VentGlacialDeLiberte.webp"
+      },
+      {
+        "name": "Concerto céleste",
+        "level": 5,
+        "description": "Niveau de compétence Sonnet des Vents célestes +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654309/Genshin/Constellation/ConcertoCeleste.webp"
+      },
+      {
+        "name": "Tempête de résistance",
+        "level": 6,
+        "description": "La RÉS Anémo des ennemis touchés par Ode au Vent est réduite de 20 %. En cas d'absorption élémentaire, leur RÉS à l'élément correspondant est également réduite de 20 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654308/Genshin/Constellation/TempeteDeResistance.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P18",
+    "name": "Klee",
+    "title": "Soleil fuyant",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/Klee.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.webp",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Graine de feu",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
+        "number": 46,
+        "id": "B6"
+      },
+      "material": {
+        "name": "Champignon anémophile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709133231/Genshin/Materials/ChamignonAnemophile.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Boum ! Boum !",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655292/Genshin/Talents/BoumBoum.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Une bombe qui explose au contact, ça c'est un bel objet ! Klee jette jusqu'à 3 bombes consécutives, qui infligent des DGT Pyro de zone."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour bombarder les ennemis après un court délai et leur infliger des DGT Pyro de zone."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Pyro, infligeant des DGT aux ennemis en chemin et des DGT Pyro de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Bombe rebondissante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655290/Genshin/Talents/BombeRebondissante.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Boiing, boiing ! Klee lance une bombe qui pète de joie ! La bombe rebondit 3 fois et explose à chaque rebond, infligeant des DGT Pyro de zone. Après le 3e rebond, la bombe se divise en plusieurs mines.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Les mines explosent après un court délai ou au contact de l'ennemi, infligeant des DGT Pyro de zone. Klee commence avec 2 charges.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "La Bombe rebondissante est l'amie fidèle de Klee… Elle veut toujours la présenter à tout le monde."
+      },
+      "dechainement": {
+        "name": "Fleur bobardier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655288/Genshin/Talents/FleurBombardier.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Klee s'enflamme ! Invoque une Fleur bombardier qui harcèle les ennemis, infligeant des DGT Pyro de zone.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Les membres de l'Ordre de Favonius sont convaincus qu'une bonne étoile veille sur Klee ; sinon, comment expliquer qu'elle ne se blesse jamais ?"
+      },
+      "passif1": {
+        "name": "Cadeau explosif",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655285/Genshin/Talents/CadeauExplosif.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Les attaques normales ainsi que Bombe rebondissante ont 50 % de chance de conférer à Klee une étincelle explosive lorsqu'elles infligent des DGT. Cette dernière est consommée lors de la prochaine attaque chargée, qui inflige 50 % de DGT supplémentaires sans consommer d'endurance.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Étincelle infinie",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655283/Genshin/Talents/EtincelleInfinie.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Lorsque Klee inflige des DGT CRIT avec des attaques chargées, l'énergie élémentaire de tous les membres de l'équipe est restaurée de 2 pts.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Des trésors partout !",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655281/Genshin/Talents/DesTresorsPartout.webp",
+        "type": "Passif utilitaire",
+        "description": "Affiche l'emplacement des produits de Mondstadt sur la mini-carte."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559426/Genshin/Materials/Aptitude/GuideDeLaLiberte.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la liberté",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559401/Genshin/Materials/Aptitude/PhilosophieDeLaLiberte.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Vertèbre de Borée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615278/Genshin/Materials/Boss/VertebreDeBoree.webp",
+        "number": 6,
+        "id": "WB1"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Trifolium",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655960/Genshin/Constellation/Trifolium.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Bombardement continu",
+        "level": 1,
+        "description": "Les attaques et aptitudes ont une chance de générer des étincelles qui bombardent les ennemis, infligeant 120 % des DGT de Fleur bombardier.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655957/Genshin/Constellation/BombardementContinu.webp"
+      },
+      {
+        "name": "Éclats de bombe",
+        "level": 2,
+        "description": "Les mines de Bombe rebondissante réduisent la DÉF des ennemis de 23 % pendant 10 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655954/Genshin/Constellation/EclatsDeBombe.webp"
+      },
+      {
+        "name": "Réglage spécial de Klee",
+        "level": 3,
+        "description": "Niveau de compétence Bombe rebondissante +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655951/Genshin/Constellation/ReglageSpecialDeKlee.webp"
+      },
+      {
+        "name": "Tout est prêt",
+        "level": 4,
+        "description": "Une explosion se produit lorsque Klee quitte le champ de bataille tant que Fleur bombardier est active. Cette explosion inflige 555 % des l'ATQ en DGT Pyro de zone.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655948/Genshin/Constellation/ToutEstPretKlee.webp"
+      },
+      {
+        "name": "Bombardement d'étoiles",
+        "level": 5,
+        "description": "Niveau de compétence Fleur bombardier +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655946/Genshin/Constellation/BombardementDetoiles.webp"
+      },
+      {
+        "name": "À tout feu",
+        "level": 6,
+        "description": "Klee restaure 3 pts d'énergie élémentaire à tous les membres de l'équipe (à l'exception de Klee) toutes les 3 s tant que Fleur bombardier est active. L'activation de Fleur bombardier confère un bonus de DGT Pyro de 10 % pendant 25 s à tous les membres de l'équipe.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655944/Genshin/Constellation/AToutFeu.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P19",
+    "name": "Jean",
+    "title": "Chevalier au Pissenlit",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699225/Genshin/Characters/Jean.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/JeanIcon.webp",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "graine d'ouragan",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
+        "number": 46,
+        "id": "B1"
+      },
+      "material": {
+        "name": "Graine de pissenlit",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679377/Genshin/Materials/GraineDePissenlit.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Escrime de Favonius",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679528/Genshin/Talents/EscrimeDeFavonius.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour libérer une puissante attaque ascendante portée par les vents. Les ennemis projetés en l'air retombent lentement au sol."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Épée de tourbillon",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679524/Genshin/Talents/EpeedeTourbillon.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Concentrant l'énergie des vents dans son épée, Jean libère une tornade qui projette les ennemis dans la direction ciblée, infligeant d'importants DGT Anémo.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Les ennemis et les objets proches sont attirés par la tornade ; cette attaque consomme de l'endurance sur la durée. La tornade peut être dirigée. Jean ne peut pas se déplacer tant que l'attaque dure.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Idéale pour protéger ses alliés, cette technique accompagne Jean depuis longtemps."
+      },
+      "dechainement": {
+        "name": "Brise de pissenlit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679521/Genshin/Talents/BriseDePissenlit.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Jean invoque la protection des vents ; un champ de pissenlits tournoyant repousse les ennemis proches, tout en leur infligeant des DGT Anémo. Dans le même temps, tous les personnages de l'équipe sont soignés considérablement ; le nombre de PV restaurés est proportionnel à l'ATQ de Jean.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Champ de pissenlits",
+            "text": "Le champ de pissenlits restaure en continu les PV des personnages dans la zone.",
+            "effect": [
+              { "text": "Le champ leur applique également l'élément Anémo." },
+              {
+                "text": "Les ennemis qui rentrent ou sortent de la zone subissent des DGT Anémo."
+              }
+            ]
+          }
+        ],
+        "note": "Semblable aux pissenlits bercés par le vent, la magnanimité de Jean n'a que l'horizon pour limite."
+      },
+      "passif1": {
+        "name": "Charge critique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679517/Genshin/Talents/ChargeCritique.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Les attaques normales de Jean ont 50 % de chance de restaurer une quantité de PV équivalent à 15 % de l'ATQ de Jean à tous les personnages de l'équipe lorsqu'elles touchent.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Que le vent vous guide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679514/Genshin/Talents/QueLeVentVousGuide.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Brise de pissenlit restaure 20 % d'énergie élémentaire lorsqu'elle prend fin.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Vent directeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679511/Genshin/Talents/VentDirecteur.webp",
+        "type": "Passif utilitaire",
+        "description": "12 % de chance d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Plume de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563250/Genshin/Materials/Boss/PlumeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Leo Minor",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680106/Genshin/Constellation/LeoMinor.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Tourmente tranchante",
+        "level": 1,
+        "description": "La VIT d'attraction et les DGT infligés par Épée de tourbillon augmentent de 40 % lorsque la compétence reste activée plus d'une seconde.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680102/Genshin/Constellation/TourmenteTranchante.webp"
+      },
+      {
+        "name": "Égide du peuple",
+        "level": 2,
+        "description": "La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680098/Genshin/Constellation/EgideDuPeuple.webp"
+      },
+      {
+        "name": "Lorsque le vent d'ouest souffle",
+        "level": 3,
+        "description": "Niveau de compétence Brise de pissenlit +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680094/Genshin/Constellation/LorsqueLeVentDouestSouffle.webp"
+      },
+      {
+        "name": "Territoire des pissenlits",
+        "level": 4,
+        "description": "La RÉS Anémo des ennemis à l'intérieur du champ de Brise de pissenlit est réduite de 40 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680091/Genshin/Constellation/TerritoireDesPissenlits.webp"
+      },
+      {
+        "name": "Le moment du vent violent",
+        "level": 5,
+        "description": "Niveau de compétence Épée de tourbillon +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680087/Genshin/Constellation/LeMomentDuVentViolent.webp"
+      },
+      {
+        "name": "Croc de Lion, le protecteur de Mondstadt",
+        "level": 6,
+        "description": "Les DGT subis par Jean lorsqu'elle se trouve dans le champ de Brise de pissenlitsont réduits de 35 %. Cet effet disparaît dans les 10 s ou après avoir subi 3 attaques une fois que Jean a quitté le champ.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680083/Genshin/Constellation/CrocDeLionLeProtecteurDeMoonstadt.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P20",
+    "name": "Diluc",
+    "title": "Ombre de l'Aurore",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699256/Genshin/Characters/Diluc.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.webp",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Moonstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Graine de feu",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
+        "number": 46,
+        "id": "B6"
+      },
+      "material": {
+        "name": "Herbe à lampe",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625519/Genshin/Materials/HerbeALampe.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Épée trempée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681040/Genshin/Talents/EpeeTrempee.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'entailles aussi rapides que tranchantes. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Assaut brûlant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681035/Genshin/Talents/AssautBrulant.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des DGT Pyro. Cette attaque peut être enchaînée 3 fois de suite. Elle entre en TdR si l'enchaînement n'est pas assez rapide.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et la responsabilité."
+      },
+      "dechainement": {
+        "name": "Aurore",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681030/Genshin/Talents/Aurore.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des DGT Pyro. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants DGT Pyro et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants DGT Pyro de zone.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Les flammes confèrent à l'arme de Diluc un enchantement Pyro.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Celui qui apporte la lumière doit marcher dans les ténèbres. Les flammes au loin ne sont que le prélude de l'aube à venir."
+      },
+      "passif1": {
+        "name": "Impitoyable",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681025/Genshin/Talents/Impitoyable.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Bénédiction du phénix",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681020/Genshin/Talents/BenedictionDuPhenix.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Prolonge l'enchantement Pyro d'Aurore de 4 s. Diluc inflige 20 % de DGT Pyro supplémentaires pendant la durée de cet effet.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Légende de l'aurore",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681016/Genshin/Talents/LegendeDeLaurore.webp",
+        "type": "Passif utilitaire",
+        "description": "Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Plume de Stormterror",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563250/Genshin/Materials/Boss/PlumeDeStormterror.webp",
+        "number": 6,
+        "id": "WB2"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Noctua",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681606/Genshin/Constellation/Noctua.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Conviction",
+        "level": 1,
+        "description": "Diluc inflige 15 % de DGT supplémentaires aux ennemis ayant plus de 50 % de leurs PV.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681600/Genshin/Constellation/Conviction.webp"
+      },
+      {
+        "name": "Chaleur des cendres",
+        "level": 2,
+        "description": "L'ATQ de Diluc augmente de 10 % et sa VIT d'attaque de 5 % pendant 10 s lorsqu'il subit des DGT. 3 cumuls max. Cet effet peut être déclenché une fois toutes les 1,5 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681595/Genshin/Constellation/ChaleurDesCendres.webp"
+      },
+      {
+        "name": "Feu et acier",
+        "level": 3,
+        "description": "Niveau de compétence Assaut brûlant +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681590/Genshin/Constellation/FeuEtAcier.webp"
+      },
+      {
+        "name": "Flamme courante",
+        "level": 4,
+        "description": "Exécuter Assaut brûlant en rythme augmente considérablement les DGT infligés. L'assaut brûlant suivant un premier Assaut brûlant inflige 40 % de DGT supplémentaires pendant 2 s lorsqu'il est exécuté dans les 2 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681584/Genshin/Constellation/FlammeCourante.webp"
+      },
+      {
+        "name": "Phénix, Messager de l'Aube",
+        "level": 5,
+        "description": "Niveau de compétence Aurore +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681579/Genshin/Constellation/PhenixMessagerDeLaube.webp"
+      },
+      {
+        "name": "L'épée des flammes brise-nuit",
+        "level": 6,
+        "description": "Confère aux 2 attaques normales suivant dans les 6 s le lancement d'Assaut brûlant un bonus de 30 % de DGT et de VIT d'attaque. De plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681574/Genshin/Constellation/LepeeDesFlammesBriseNuit.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P21",
+    "name": "Keqing",
+    "title": "Ardeur du tonnerre",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/Keqing.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIcon.webp",
+    "weapon": {
+      "type": "",
+      "icon": ""
+    },
+    "element": { "type": "", "icon": "" },
+    "region": { "name": "", "icon": "" },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 1,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "",
+        "picture": "",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "",
+        "picture": "",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        { "name": "", "picture": "", "number": 18, "id": "" },
+        { "name": "", "picture": "", "number": 30, "id": "" },
+        { "name": "", "picture": "", "number": 36, "id": "" }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
         "name": "",
         "icon": "",
         "type": "Attaque normale",

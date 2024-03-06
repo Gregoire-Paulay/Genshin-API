@@ -36,7 +36,7 @@ weeklyBossRouter.get("/boss/weekly/details", (req: Request, res: Response) => {
       }
     }
 
-    return res.status(200).json("This id doesn't match weekly boss id");
+    return res.status(404).json("This id doesn't match weekly boss id");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);
