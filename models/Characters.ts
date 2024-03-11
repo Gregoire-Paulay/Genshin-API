@@ -4,7 +4,8 @@ export const charactersListSchema = z.array(
   z.object({
     id: z.string(),
     name: z.string(),
-    icon: z.string(),
+    star: z.number(),
+    icon: z.string().url(),
     element: z.object({ type: z.string(), icon: z.string() }),
   })
 );
@@ -14,22 +15,22 @@ export const characterDetailsSchema = z.object({
   name: z.string(),
   title: z.string(),
   star: z.number(),
-  art: z.string(),
-  icon: z.string(),
+  art: z.string().url(),
+  icon: z.string().url(),
   weapon: z.object({ type: z.string(), icon: z.string() }),
   element: z.object({ type: z.string(), icon: z.string() }),
   region: z.object({ name: z.string(), icon: z.string() }),
   ascension_materials: z.object({
     mora: z.object({
       name: z.string(),
-      picture: z.string(),
+      picture: z.string().url(),
       number: z.number(),
       id: z.string(),
     }),
     stone: z.array(
       z.object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       })
@@ -37,21 +38,21 @@ export const characterDetailsSchema = z.object({
     bossLoot: z
       .object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       })
       .nullish(),
     material: z.object({
       name: z.string(),
-      picture: z.string(),
+      picture: z.string().url(),
       number: z.number(),
       id: z.string(),
     }),
     mobLoot: z.array(
       z.object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       })
@@ -60,13 +61,13 @@ export const characterDetailsSchema = z.object({
   talents: z.object({
     attaqueNormale: z.object({
       name: z.string(),
-      icon: z.string(),
+      icon: z.string().url(),
       type: z.string(),
       description: z.array(z.object({ name: z.string(), text: z.string() })),
     }),
     competence: z.object({
       name: z.string(),
-      icon: z.string(),
+      icon: z.string().url(),
       type: z.string(),
       description: z.array(
         z.object({
@@ -79,7 +80,7 @@ export const characterDetailsSchema = z.object({
     }),
     dechainement: z.object({
       name: z.string(),
-      icon: z.string(),
+      icon: z.string().url(),
       type: z.string(),
       description: z.array(
         z.object({
@@ -92,7 +93,7 @@ export const characterDetailsSchema = z.object({
     }),
     passif1: z.object({
       name: z.string(),
-      icon: z.string(),
+      icon: z.string().url(),
       type: z.string(),
       description: z.object({
         text: z.string(),
@@ -101,32 +102,43 @@ export const characterDetailsSchema = z.object({
     }),
     passif2: z.object({
       name: z.string(),
-      icon: z.string(),
+      icon: z.string().url(),
       type: z.string(),
       description: z.object({
         text: z.string(),
         effect: z.array(z.object({ text: z.string() })),
       }),
     }),
-    passif3: z.object({
-      name: z.string(),
-      icon: z.string(),
-      type: z.string(),
-      description: z.string(),
-    }),
+    passif3: z
+      .object({
+        name: z.string(),
+        icon: z.string().url(),
+        type: z.string(),
+        description: z.string(),
+      })
+      .optional(),
+    bonus: z
+      .object({
+        name: z.string(),
+        icon: z.string().url(),
+        type: z.string(),
+        description: z.string(),
+        note: z.string(),
+      })
+      .nullish(),
   }),
   talent_upgrade: z
     .object({
       mora: z.object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       }),
       mobLoot: z.array(
         z.object({
           name: z.string(),
-          picture: z.string(),
+          picture: z.string().url(),
           number: z.number(),
           id: z.string(),
         })
@@ -134,20 +146,20 @@ export const characterDetailsSchema = z.object({
       books: z.array(
         z.object({
           name: z.string(),
-          picture: z.string(),
+          picture: z.string().url(),
           number: z.number(),
           id: z.string(),
         })
       ),
       bossLoot: z.object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       }),
       crown: z.object({
         name: z.string(),
-        picture: z.string(),
+        picture: z.string().url(),
         number: z.number(),
         id: z.string(),
       }),
@@ -157,14 +169,14 @@ export const characterDetailsSchema = z.object({
         normal_attack: z.object({
           mora: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
           mobLoot: z.array(
             z.object({
               name: z.string(),
-              picture: z.string(),
+              picture: z.string().url(),
               number: z.number(),
               id: z.string(),
             })
@@ -172,20 +184,20 @@ export const characterDetailsSchema = z.object({
           books: z.array(
             z.object({
               name: z.string(),
-              picture: z.string(),
+              picture: z.string().url(),
               number: z.number(),
               id: z.string(),
             })
           ),
           bossLoot: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
           crown: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
@@ -193,14 +205,14 @@ export const characterDetailsSchema = z.object({
         elemental_burst_skill: z.object({
           mora: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
           mobLoot: z.array(
             z.object({
               name: z.string(),
-              picture: z.string(),
+              picture: z.string().url(),
               number: z.number(),
               id: z.string(),
             })
@@ -208,20 +220,20 @@ export const characterDetailsSchema = z.object({
           books: z.array(
             z.object({
               name: z.string(),
-              picture: z.string(),
+              picture: z.string().url(),
               number: z.number(),
               id: z.string(),
             })
           ),
           bossLoot: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
           crown: z.object({
             name: z.string(),
-            picture: z.string(),
+            picture: z.string().url(),
             number: z.number(),
             id: z.string(),
           }),
@@ -230,8 +242,8 @@ export const characterDetailsSchema = z.object({
     ),
   constellation: z.object({
     name: z.string(),
-    icon: z.string(),
-    icon2: z.string().nullish(),
+    icon: z.string().url(),
+    icon2: z.string().url().optional(),
   }),
   constellation_upgrade: z.array(
     z.object({

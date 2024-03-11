@@ -5,12 +5,16 @@ export const stoneListSchema = z.array(
     id: z.string(),
     name: z.string(),
     element: z.string(),
-    icon: z.string(),
+    icon: z.string().url().optional(),
     stone: z.array(
-      z.object({ name: z.string(), icon: z.string(), quality: z.number() })
+      z.object({
+        name: z.string(),
+        icon: z.string().url(),
+        quality: z.number(),
+      })
     ),
     character: z.array(
-      z.object({ name: z.string(), icon: z.string(), id: z.string() })
+      z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
     ),
     description: z.string().nullish(),
   })
@@ -20,18 +24,22 @@ export const stoneDetailsSchema = z.object({
   id: z.string(),
   name: z.string(),
   element: z.string(),
-  icon: z.string(),
+  icon: z.string().url().optional(),
   stone: z.array(
-    z.object({ name: z.string(), icon: z.string(), quality: z.number() })
+    z.object({ name: z.string(), icon: z.string().url(), quality: z.number() })
   ),
   character: z.array(
-    z.object({ name: z.string(), icon: z.string(), id: z.string() })
+    z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
   ),
   description: z.string().nullish(),
   weeklyBoss: z
-    .array(z.object({ name: z.string(), icon: z.string(), id: z.string() }))
-    .nullish(),
+    .array(
+      z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
+    )
+    .optional(),
   normalBoss: z
-    .array(z.object({ name: z.string(), icon: z.string(), id: z.string() }))
-    .nullish(),
+    .array(
+      z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
+    )
+    .optional(),
 });
