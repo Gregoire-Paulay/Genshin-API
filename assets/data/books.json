@@ -111,7 +111,7 @@
           {
             "name": "Eula",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699245/Genshin/Characters/EulaIcon.png",
-            "id": ""
+            "id": "P33"
           },
           {
             "name": "Jean",
@@ -194,7 +194,7 @@
           {
             "name": "Rosalia",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/RosaliaIcon.png",
-            "id": ""
+            "id": "P32"
           },
           {
             "name": "Voyageur Anémo",
@@ -280,7 +280,7 @@
           {
             "name": "Xiao",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/XiaoIcon.png",
-            "id": ""
+            "id": "P30"
           },
           {
             "name": "Yelan",
@@ -323,12 +323,12 @@
           {
             "name": "Hu Tao",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699224/Genshin/Characters/HuTaoIcon.png",
-            "id": ""
+            "id": "P31"
           },
           {
             "name": "Kaedehara Kazuha",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699219/Genshin/Characters/KaedeharaKazuhaIcon.png",
-            "id": ""
+            "id": "P35"
           },
           {
             "name": "Voyageur Géo",
@@ -401,7 +401,7 @@
           {
             "name": "Yanfei",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699999/Genshin/Characters/YanfeiIcon.png",
-            "id": ""
+            "id": "P34"
           },
           {
             "name": "Zhongli",

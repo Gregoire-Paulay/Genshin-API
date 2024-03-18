@@ -580,7 +580,7 @@
             "id": "TM2"
           },
           {
-            "name": "Philosophiede la diligence",
+            "name": "Philosophie de la diligence",
             "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
             "number": 12,
             "id": "TM2"
@@ -8087,7 +8087,7 @@
           "id": "TM2"
         },
         {
-          "name": "Philosophiede la diligence",
+          "name": "Philosophie de la diligence",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
           "number": 38,
           "id": "TM2"
@@ -8233,6 +8233,1636 @@
           "number": 36,
           "id": ""
         }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Coup de tourbillon",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683230/Genshin/Talents/CoupDeTourbillon.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 6 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour exécuter une attaque ascendante."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact. Xiao ne suvit pas de DGT lorsqu'il exécute une attaque descendante."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Cycle du vent lemniscatique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683224/Genshin/Talents/CycleDuVentLemniscatique.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route. Fonctionne aussi dans les airs.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Xiao commence avec 2 charges.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "La légende d'un lointain pays raconte qu'un jour, le monde périra entre deux roues à aubes. La maîtrise totale de la lance permet à Xiao d'écraser ses ennemis, à l'image des roues légendaires écrasant le monde."
+      },
+      "dechainement": {
+        "name": "Fléau du mal",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683219/Genshin/Talents/FleauDuMal.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "Masque du Yaksha",
+            "text": "Xiao arbore le Masque du Yaksha, qui, il y a bien longtemps, fit trembler dieux et démons.",
+            "effect": [
+              {
+                "text": "Améliore considérablement la capacité de saut de Xiao."
+              },
+              { "text": "Augmente la portée et les DGT d'attaque." },
+              {
+                "text": "Les DGT d'attaque sont convertis en DGT Anémo ne pouvant pas être enchantés."
+              }
+            ]
+          },
+          {
+            "name": "",
+            "text": "Cet effet consomme des PV de façon continue. L'état prend fin lorsque Xiao est vaincu ou quitte le champ de bataille.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "En revêtant le Masque du Yaksha, Xiao prend la forme terrifiante du Gardien Yaksha Dompteur de démon. Mais un tel pouvoir a un prix ; aussi l'appelle-t-on : le Fléau du mal."
+      },
+      "passif1": {
+        "name": "Dompteur de démons : Conquérant du mal",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683214/Genshin/Talents/DompteurDeDemonsConquerantDuMal.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Xiao inflige 5 % de DGT supplémentaires tant que Fléau du mal est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.",
+          "effect": [{ "text": " Cumul max : 25 % de DGT supplémentaires." }]
+        }
+      },
+      "passif2": {
+        "name": "Dissolution d'éon : Chute des cieux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683209/Genshin/Talents/DissolutionDeonChuteDesCieux.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Cycle du vent lemniscatique inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s. Cet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Transcendance : Contrôleur de gravité",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683206/Genshin/Talents/TranscendanceControleurDeGravite.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors de l'escalade. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Bave de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Mucus de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Essence de Blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616109/Genshin/Materials/Aptitude/EnseignementDeLaProsperite.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616102/Genshin/Materials/Aptitude/GuideDeLaProsperite.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la prospérité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616094/Genshin/Materials/Aptitude/PhilosophieDeLaProsperite.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Ombre du guerrier",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615275/Genshin/Materials/Boss/OmbreDuGuerrier.webp",
+        "number": 6,
+        "id": "WB3"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Alatus Nemeseos",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683952/Genshin/Constellation/AlatusNemeseos.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Dissolution d'éon : Destructeur de mondes",
+        "level": 1,
+        "description": "Confère une charge supplémentaire pour Cycle du vent lemniscatique.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683947/Genshin/Constellation/DissolutionDeonDestructeurDeMondes.webp"
+      },
+      {
+        "name": "Annihilation d'éon : Fleur du kaléidoscope",
+        "level": 2,
+        "description": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683942/Genshin/Constellation/AnnihilationDeonFleurDuKaleidoscope.webp"
+      },
+      {
+        "name": "Dompteur de démons : Déité de la colère",
+        "level": 3,
+        "description": "Niveau de compétence Cycle du vent lemniscatique +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683937/Genshin/Constellation/DompteurDeDemonDeiteDeLaColere.webp"
+      },
+      {
+        "name": "Transcendance : Extinction de la souffrance",
+        "level": 4,
+        "description": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV tombent en dessous de 50 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683932/Genshin/Constellation/TranscendanceExtinctionDeLaSouffrance.webp"
+      },
+      {
+        "name": "Évolution d'éon : Origine de l'ignorance",
+        "level": 5,
+        "description": "Niveau de compétence Fléau du mal +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683927/Genshin/Constellation/EvolutionDeonOrigineDeLignorance.webp"
+      },
+      {
+        "name": "Dompteur de démons : Gardien Yaksha",
+        "level": 6,
+        "description": "Lorsque Fléau du mal est actif, les attaques descendantes touchant au moins 2 ennemis confèrent immédiatement une charge de Cycle du vent lemniscatique supplémentaires, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683922/Genshin/Constellation/DompteurDeDemonsGardienYaksha.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P31",
+    "name": "Hu Tao",
+    "title": "Fragrance Nivale",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/HuTao.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158430/Genshin/Characters/HuTaoIcon.png",
+    "weapon": {
+      "type": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Jade juvénile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958759/Genshin/Materials/Boss/JadeJuvenile.webp",
+        "number": 46,
+        "id": "B8"
+      },
+      "material": {
+        "name": "Fleur de soie",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558171/Genshin/Materials/FleurDeSoie.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Lance secrète de Wangsheng",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687864/Genshin/Talents/LanceSecreteDeWansheng.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 6 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Chaperon de la renaissance",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687850/Genshin/Talents/ChaperonDeLaRenaissance.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Seule la flamme éternelle peut purifier le mal de ce monde. Hu Tao consomme un certain montant de PV pour repousser les ennemis proches, et entre dans l'état Paramita Papilio.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Paramita Papilio",
+            "text": "L'ATQ de Hu Tao augmente proportionnellement à ses PV max au moment où elle entre dans cet état. Le bonus ainsi conféré ne peut pas dépasser 400 % de son ATQ de base. ",
+            "effect": [
+              {
+                "text": "Les DGT d'attaque sont convertit en DGT Pyro, et ne peuvent pas être enchantés. "
+              },
+              {
+                "text": "Les attaques chargées infligent l'effet Bourgeon de prune."
+              },
+              { "text": "Augmente la RÉS à l'interruption de Hu Tao." }
+            ]
+          },
+          {
+            "name": "Bourgeon de Prune",
+            "text": "Les ennemis affectés par Bourgeon de prune subissent des DGT Pyro toutes les 4 s, qui sont considérés comme étant des DGT de compétence élémentaire. La même cible ne peut être affectée que par un seul Bourgeon de prune à la fois, et la durée de cet effet ne peut être rafraîchie que par Hu Tao. L'État de Paramita Papilio se termine à la fin de sa durée, lorsque Hu Tao quitte le champ de bataille ou lorsqu'elle est vaincue.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "La technique de la lance secrète est basée sur plusieurs principes, dont le premier est : «la lance ouvre les portes de l'au-delà et les papillons forment un pont entre les deux mondes.»"
+      },
+      "dechainement": {
+        "name": "Apaisement divin",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687835/Genshin/Talents/ApaisementDivin.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Faisant appel aux âmes ardentes, Hu Tao inflige des DGT Pyro dans une large zone. Hu Tao récupère à chaque ennemi touché (5 ennemis max) une quantité de PV proportionnelle à ses PV max. Les DGT infligés et les PV récupérés sont plus importants si les PV de Hu Tao sont inférieurs ou égaux à 50 % lorsque la compétence touche.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Le Funérarium Wangsheng ne voit pas d'un bon œil les âmes refusant de quitter ce monde. La crémation est pour Hu Tao le meilleur moyen d'avoir l'esprit tranquille - mais plus elle est anxieuse et plus son feu est puissant"
+      },
+      "passif1": {
+        "name": "Chrysalide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687821/Genshin/Talents/Chrysalide.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % durant 8 s lorsque l'état Paramita Papilio conféré par Chaperon de la renaissance prend fin.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Sang bouillant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687807/Genshin/Talents/SangBouillant.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Hu Tao obtient un bonus de DGT Pyro de 33 % lorsque ces PV sont inférieurs ou égaux à 50 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Plus il y en a, mieux c'est",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687793/Genshin/Talents/PlusYenAMieuxCest.webp",
+        "type": "Passif utilitaire",
+        "description": "18 % de chance d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616087/Genshin/Materials/Aptitude/EnseignementDeLaDiligence.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fragment du démon",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615269/Genshin/Materials/Boss/FragmentDuDemon.webp",
+        "number": 6,
+        "id": "WB3"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Papilio Charontis",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688571/Genshin/Constellation/PapilioCharontis.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Bouquet écarlate",
+        "level": 1,
+        "description": "Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état Paramita Papilio conféré par Chaperon de la renaissance.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688553/Genshin/Constellation/BouquetEcarlate.webp"
+      },
+      {
+        "name": "Sombres auspices",
+        "level": 2,
+        "description": "Bourgeon de prune inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet. Apaisement divin applique de plus l'effet Bourgeon de prune lorsqu'il touche.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688535/Genshin/Constellation/SombresAuspices.webp"
+      },
+      {
+        "name": "Rituel du sang",
+        "level": 3,
+        "description": "Niveau de compétence Chaperon de la renaissance +3. ",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688517/Genshin/Constellation/RituelDuSang.webp"
+      },
+      {
+        "name": "Jardin du repos éternel",
+        "level": 4,
+        "description": "Lorsqu'un ennemi affecté par Bourgeon de prune est vaincu, le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % pendant 15 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688499/Genshin/Constellation/JardinDuReposEternel.webp"
+      },
+      {
+        "name": "Encens floral",
+        "level": 5,
+        "description": "Niveau de compétence Apaisement divin +3. ",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688481/Genshin/Constellation/EncensFloral.webp"
+      },
+      {
+        "name": "L'envol du papillon",
+        "level": 6,
+        "description": "Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue : Hu Tao n'est pas vaincu cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement. Cet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao. Cet effet peut être déclenché une fois toutes les 60 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688463/Genshin/Constellation/LenvolDuPapillon.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P32",
+    "name": "Rosalia",
+    "title": "Soeur",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699747/Genshin/Characters/Rosalia.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158436/Genshin/Characters/RosariaIcon.png",
+    "weapon": {
+      "type": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Mondstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Duramen de Glace",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
+        "number": 46,
+        "id": "B3"
+      },
+      "material": {
+        "name": "Tombaie",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709128453/Genshin/Materials/Tombaie.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Lance expiatoire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689219/Genshin/Talents/LanceExpiatoire.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Confession des péchés",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689195/Genshin/Talents/ConfessionDesPeches.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Rosalia de déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des DGT Cryo. Ce mouvement ne fonctionne pas avec les ennemis trop grands.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Rosalia ne pardonne pas les péchés de ceux qui. se confessent à elle. Au contraire, plus le péché est grand, plus sa punition glaciale est implacable."
+      },
+      "dechainement": {
+        "name": "Sacrement mortel",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689174/Genshin/Talents/SacrementMortel.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des DGT Cryo. Tant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des DGT Cryo aux ennemis proches.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Un procès est bien trop long, autant en arriver directement à la sentence et donner les derniers sacrements. Rosalia ne croyant pas à l'Archon Anémo, c'est d'autant plus accommodant."
+      },
+      "passif1": {
+        "name": "Confession forcée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689153/Genshin/Talents/ConfessionForcee.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec Confession des péchés.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Samaritain de l'ombre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689132/Genshin/Talents/SamaritainDeLombre.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Exécuter Sacrement mortel confére à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s. Le bonus de taux CriT ainsi obtenu ne peut pas exéfer 15 %.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Balade nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689113/Genshin/Talents/BalladeNocturne.webp",
+        "type": "Passif utilitaire",
+        "description": "De nuit (18:00 - 6:00), augmente le VIT de l'équipe de 10 %. Ne prend pas effet dans les domaines, les domaines de Trounce ou les abysses en spirale. Non cumulable avec les talents passifs qui fournissent les mêmes effets."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559409/Genshin/Materials/Aptitude/GuideDeLaPoesie.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la poésie",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559385/Genshin/Materials/Aptitude/PhilosophieDeLaPoesie.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Ombre du guerrier",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615275/Genshin/Materials/Boss/OmbreDuGuerrier.webp",
+        "number": 6,
+        "id": "WB3"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Spinea Corona",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690173/Genshin/Constellation/SpineaCorona.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Guide du pécheur",
+        "level": 1,
+        "description": "Lorsque les attaques de Rosalia inglent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690143/Genshin/Constellation/GuideDuPecheur.webp"
+      },
+      {
+        "name": "Terre sacrée",
+        "level": 2,
+        "description": "Prolonge la durée de la lance de glace de Sacrement mortel de 4 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690112/Genshin/Constellation/TerreSacree.webp"
+      },
+      {
+        "name": "Rite de confession",
+        "level": 3,
+        "description": "Niveau d'aptitude Confession des péchés +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690081/Genshin/Constellation/RiteDeConfession.webp"
+      },
+      {
+        "name": "Souffrance bénie",
+        "level": 4,
+        "description": "Rosalia récupère 5 pts d'énergie élémentaire lorsque Confession des péchés inflige un coup CRIT. Cet effet ne peut être déclenché qu'une fois par Confession des péchés.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690052/Genshin/Constellation/SouffranceBenie.webp"
+      },
+      {
+        "name": "Prière agonisante",
+        "level": 5,
+        "description": "Niveau d'aptitude Sacrement mortel +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690026/Genshin/Constellation/PriereAgonisante.webp"
+      },
+      {
+        "name": "Châtiment divin",
+        "level": 6,
+        "description": "Les attaques de Sacrement mortel réduisent la RÉS physique des ennemis de 20 % endant 10 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690000/Genshin/Constellation/ChatimentDivin.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P33",
+    "name": "Eula",
+    "title": "Chevalier aux Embruns",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/Eula.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158452/Genshin/Characters/EulaIcon.png",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Mondstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fleur cristalline",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957357/Genshin/Materials/Boss/FleurCristalline.webp",
+        "number": 46,
+        "id": "B4"
+      },
+      "material": {
+        "name": "Graine de pissenlit",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709679377/Genshin/Materials/GraineDePissenlit.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Escrime de Favonius - Aristocratie",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714263/Genshin/Talents/EscrimeDeFavoniusAristocratie.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'entailles aussi rapides que tranchantes. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Vortex des mers glacées",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714237/Genshin/Talents/VortexDesMersGlacees.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Givre coupant et lame dansante.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Eula exécute une frappe rapide qui inflige des DGT Cryo. Si elle touche un ennemi, Eula gagne une charge de Cœur de glace (jusqu'à 2 charges max). Eula peut gagner une charge toutes les 0,3 s.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Cœur de glace",
+            "text": "Améliore la RÉS à l'interruption et la DÉF d'Eula.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Eula consomme toutes les charges de Cœur de glace pour faire tournoyer son épée devant elle et infliger des DGT Cryo de zone aux ennemis en face.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Si des charges de Cœur de glace sont consommées, la RÉS physique et la RÉS Cryo des ennemis proches diminuent. Chaque charge de Cœur de glace est convertit en épée vortex de glace, qui inflige des DGT Cryo aux ennemis proches.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Ainsi roula l'écume des vagues, engloutissant dans son sillage la couronne de la royauté. Et chaque embrun de cette marée glaciale étincela de sa lumineuse clarté"
+      },
+      "dechainement": {
+        "name": "Lame de fond",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714211/Genshin/Talents/LameDeFond.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Eula brandit son épée avec fureur, infligeant des DGT Cryo aux ennemis proches, et créé une épée de lumière qui la suit pendant 7 s max. Tant qu'elle est active, l'épée de lumière augmente la RÉS à l'interruption d'Eula. Lorsqu'Eula inflige des DGT à des ennemis avec son attaque normale, sa compétence ou son déchaînement élémentaire, elle accumule les charges d'énergie pour l'épée de lumière. Une charge d'énergie peut être cumulée toutes les 0,1 s.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "Lorsque la durée de l'épée de lumière est écoulée, elle explose violemment, infligeant des DGT physiques aux ennemis proches. Ces DGT augmentent en fonction du nombre de charges d'énergie accumulées. L'épée explose immédiatement lorsqu'Eula quitte le champ de bataille.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Le naufrage est facile. Et pourtant, Eula insiste pour figer cette marée."
+      },
+      "passif1": {
+        "name": "Maelström de glace",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714185/Genshin/Talents/MaelstromDeGlace.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Lorsque vous consommez 2 charges de Cœur de glace lors de l'appui long de Vortex des mers glacées, une brève épée de lumière est créée. Cette dernière explose immédiatement, infligeant des dégâts physiques équivalant à 50 % des dégâts de base de Lame de fond.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Esprit belligérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714159/Genshin/Talents/EspritBelligerant.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Le temps de recharge de Vortex des mers glacées est réinitialisé lors de l'utilisation de Lame de fond, et Eula obtient une charge de Cœur de glace.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Gratification aristocratique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714133/Genshin/Talents/GratificationAristocratique.webp",
+        "type": "Passif utilitaire",
+        "description": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'aptitudes de personnage."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
+          "number": 3,
+          "id": "TM1"
+        },
+        {
+          "name": "Guide de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559418/Genshin/Materials/Aptitude/GuideDeLaResistance.webp",
+          "number": 21,
+          "id": "TM1"
+        },
+        {
+          "name": "Philosophie de la résistance",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559392/Genshin/Materials/Aptitude/PhilosophieDeLaResistance.webp",
+          "number": 38,
+          "id": "TM1"
+        }
+      ],
+      "bossLoot": {
+        "name": "Couronne de roi dragon",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615259/Genshin/Materials/Boss/CouronneDuRoiDragon.webp",
+        "number": 6,
+        "id": "WB4"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Aphros Delos",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714985/Genshin/Constellation/AphrosDelos.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Illusion des marées",
+        "level": 1,
+        "description": "À chaque fois qu'une charge de Cœur de glace de Vortex des mers glacées est consommée, Eula gagne un bonus de DGT physiques de 30 % pendant 6 s. Chaque charge de Cœur de glace consommée prolonge la durée de l'effet de 6 s, jusqu'à un maximum de 18 s.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714949/Genshin/Constellation/IllusionDesMarees.webp"
+      },
+      {
+        "name": "Fille d'écume de mer",
+        "level": 2,
+        "description": "Diminue le TdR de l'appui long de Vortex des mers glacées pour correspondre à celui de l'appui simple.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714915/Genshin/Constellation/FilleDecumeDeMer.webp"
+      },
+      {
+        "name": "Le sang des Lawrence",
+        "level": 3,
+        "description": "Niveau d'aptitude Lame de fond +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714882/Genshin/Constellation/LeSangDesLawrence.webp"
+      },
+      {
+        "name": "Émergence de la plèbe",
+        "level": 4,
+        "description": "Augmente de 25 % les DGT infligés par l'épée de lumière aux ennemis ayant moins de 50 % de PV.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714849/Genshin/Constellation/EmergenceDeLaPlebe.webp"
+      },
+      {
+        "name": "Honneur de la chevalerie",
+        "level": 5,
+        "description": "Niveau d'aptitude Vortex des mers glacées +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714821/Genshin/Constellation/HonneurDeLaChevalerie.webp"
+      },
+      {
+        "name": "Obligations aristocratiques",
+        "level": 6,
+        "description": "Confère immédiatement 5 charges d'énergie à l'épée de lumière créée par Lame de fond. De plus, lorsque vous utilisez des attaques normales, la compétence ou le déchainement élémentaire pour cumuler des charges, vous avez 50 % de chances de gagner une charge supplémentaire.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714793/Genshin/Constellation/ObligationsAristocratiques.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P34",
+    "name": "Yanfei",
+    "title": "Sage innocence",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/Yanfei.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158444/Genshin/Characters/YanfeiIcon.png",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Jade juvénile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958759/Genshin/Materials/Boss/JadeJuvenile.webp",
+        "number": 46,
+        "id": "B8"
+      },
+      "material": {
+        "name": "Jade noctiluque",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216088/Genshin/Materials/JadeNoctiluque.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Sceau embrasé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766280/Genshin/Talents/SceauEmbrase.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Tire des boules de feu qui infligent jusqu'à 3 vagues de DGT Pyro. Lorsqu'une attaque normale touche un ennemi, Yanfei obtient un sceau écarlate. Yanfei peut détenir un maximum de 3 sceaux écarlates, et chaque fois que cet effet se déclenche, la durée des sceaux en sa possession est réinitialisée. Chaque sceau écarlate diminue la consommation d'endurance de Yanfei, et disparaît lorsque Yanfei quitte le champ de bataille."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour infliger des DGT Pyro de zone après un court délai. La portée et l'intensité de ces DGT Pyro de zone augmentent avec le nombre de sceaux écarlates consonmmeés."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Yanfei concentre sonénergie Pyro et plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT Pyro de zone à l'impact."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Pacte des flammes",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766275/Genshin/Talents/PacteDesFlammes.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Yanfei en appelle aux flammes dévastatrices, infligeant des DGT Pyro de zone. Lorsque des ennemis sont touchés, Yanfei gagne le nombre maximum de sceaux écarlates.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "En plus de leur valeur juridique, les sceaux de Yanfei présentent des conditions d'utilisation très personnalisées. Après tout, ce n'est pas comme si le Bureau des affaires civiles pouvait changer les lois de la nature."
+      },
+      "dechainement": {
+        "name": "Application des peines",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766271/Genshin/Talents/ApplicationDesPeines.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Invoque une explosion de flammes intense qui jaillit vers les ennemis proches, ingligeant des DGT Pyro de zone et confèrent à Yanfei le nombre maximum de sceaux écarlates, tout en appliquant l'effet Brillance.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Brillance",
+            "text": "Confère les effets suivants",
+            "effect": [
+              {
+                "text": "Confère à Yanfei un sceau écarlate à intervalles règuliers."
+              },
+              { "text": "Augmente les DGT infligés par ses attaques chargées." }
+            ]
+          }
+        ],
+        "note": "Les effets de Brillance se dissipent lorsque Yanfei quitte le champ de bataille ou qu'elle est vaincue. « Veuillez trouver ici les termes de cette question de vie ou de mort, et par làj'entends ma vie et votre mort ! »"
+      },
+      "passif1": {
+        "name": "Dispositions supplémentaires",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766266/Genshin/Talents/DispositionsSupplementaires.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Lorsque Yanfei consome un sceau écarlate en utilisant une attaque chargée, chaque sceau écarlate augmente le bonus de DGT Pyro de Yanfei de 5 % pour 6 s. Utiliser une attaque chargée avant la fin de la durée d'un effet dissiple l'effet précédent.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Œil de la justice",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766262/Genshin/Talents/OeilDeLaJustice.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Quand les attaques chargées de Yanfei infligent des coups CRIT aux ennemis, elle inflige des DGT Pyro de zone supplémentaires éqiovalant à 80 % de son ATQ. Ces DGT comptent comme des DGT d'ttaque chargées.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Connaissance du terrain",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766258/Genshin/Talents/ConnaissanceDuTerrain.webp",
+        "type": "Passif utilitaire",
+        "description": "Affiche l'emplacement des produits de Liyue sur la mini-carte."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616065/Genshin/Materials/Aptitude/EnseignementDeLor.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616057/Genshin/Materials/Aptitude/GuideDeLor.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de l'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616049/Genshin/Materials/Aptitude/PhilosophieDeLor.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Branche de jade cramoisi",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615266/Genshin/Materials/Boss/BrancheDeJadeCramoisi.webp",
+        "number": 6,
+        "id": "WB4"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Bestia Lusticia",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766891/Genshin/Constellation/BestiaLustitia.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Plaidoyer convaincant",
+        "level": 1,
+        "description": "Lorsque Yanfei utilise une attaqye chargée, chaque sceau écarlate existant réduit sa consommation d'endurance de 10 % supplémentaires et augmente la RÉs à l'interruption lors de son déclenchement.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766887/Genshin/Constellation/PlaidoyerConvaincant.webp"
+      },
+      {
+        "name": "Verdict final",
+        "level": 2,
+        "description": "Le taux CRIT des attaques chargées de Yanfei augmente de 20 % lorsqu'elles touchent des ennemis dont les PV sont inférieurs à 50 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766882/Genshin/Constellation/VerdictFinal.webp"
+      },
+      {
+        "name": "Mise sous scellés",
+        "level": 3,
+        "description": "Niveau d'aptitude Pacte des flammes +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766878/Genshin/Constellation/MiseSousScelles.webp"
+      },
+      {
+        "name": "Droit commun",
+        "level": 4,
+        "description": "Application des peines confère les effets suivants : Génère un bouclier qui absorbe une quantité de DGT équivalant à 45 % des PV max et dure 15 s. Le bouclier est efficace à 250 % contre les DGT Pyro.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766873/Genshin/Constellation/DroitCommun.webp"
+      },
+      {
+        "name": "Déclaration sous serment",
+        "level": 5,
+        "description": "Niveau d'aptitude Application des peines +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766869/Genshin/Constellation/DeclarationSousSerment.webp"
+      },
+      {
+        "name": "Clause complémentaire",
+        "level": 6,
+        "description": "Augmente le nombre max de sceaux écarlates de 1.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766865/Genshin/Constellation/ClauseComplementaire.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P35",
+    "name": "Kaedehara Kazuha",
+    "title": "Tourbillon de feuilles écarlates",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/KaedeharaKazuha.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158459/Genshin/Characters/KaedeharaKazuhaIcon.png",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Inazuma",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Mécanisme Oni",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960425/Genshin/Materials/Boss/MecanismeOni.webp",
+        "number": 46,
+        "id": "B11"
+      },
+      "material": {
+        "name": "Ganoderma marin",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710773834/Genshin/Materials/GanodermaMarin.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": {
+      "attaqueNormale": {
+        "name": "Escrime de Garyuu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788155/Genshin/Talents/EscrimeDeGaryuu.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact. Si une attaque plongeante est effectuée pendant « Véhémence divine », elle se transforme en « Attaque plongeante : Contrôle du chaos ». Lorsqu'une attaque plongeante est déclenchée en utilisant les effets de la compétence élémentaire « Véhémence divine », ses DGT sont convertis en DGT Anémo et un petit tunnel venteux est créé à l'atterrissage à l'aide d'une technique d'épée secrète pour attirer les objets et les ennemis proches."
+          }
+        ]
+      },
+      "competence": {
+        "name": "Véhémence divine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788142/Genshin/Talents/VehemenceDivine.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Libère une technique secrète aussi violente qu'une bourrasque déchaînée qui attire les ennemis et les objets vers la position actuelle de Kazuha, avant de projeter les ennemis situés dans la zone, leur infligeant des DGT Anémo et d'élever Kazuha sur un courant de vent impétueux. Si Kazuha déclenche une attaque plongeante depuis les airs dans un délai de 10 s après la compétence élémentaire « Véhémence divine », il provoque une attaque plongeante particulièrement puissante connue sous le nom de Contrôle du chaos.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui simple",
+            "text": "Permet d'utiliser l'aptitude dans les airs.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Appui long",
+            "text": "Améliore Charge l'aptitude avant de libérer davantage de DGT Anémo sur une zone plus large que lors d'un appui simple.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Attaque plongeante : Contrôle du chaos",
+            "text": "Lorsqu'une attaque plongeante est déclenchée en utilisant les effets de la compétence élémentaire « Véhémence divine », ses DGT sont convertis en DGT Anémo et un petit tunnel venteux est créé à l'atterrissage à l'aide d'une technique d'épée secrète pour attirer les objets et les ennemis proches. Les dégâts infligés par Contrôle du chaos sont considérés comme étant des DGT d'attaque plongeante.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "Les vents dans les érables pleurent, pour les dieux et les hommes du passé, comme des montagnes rouges d'automne."
+      },
+      "dechainement": {
+        "name": "Coupure de mille feuilles",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788128/Genshin/Talents/CoupureDeMilleFeuilles.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "Déclenche la technique ultime de Garyuu, une coupure unique semblable à une tempête des DGT Anémo de zone. Le trajet de la lame laissera derrière lui un champ appelé « Vent d'automne » qui infligera des DGT Anémo de façon intermittente aux ennemis à l'intérieur.",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "Absorption élémentaire",
+            "text": "Le Vent d'automne absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": "« Je vois passer l'éternité en un instant, les automnes de plusieurs années d'une seule feuille ; ainsi je trancherai cet érable en un éclair, et je poserai la question des âges... »"
+      },
+      "passif1": {
+        "name": "Lame d'érosion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788115/Genshin/Talents/LameDerosion.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": {
+          "text": "Si Véhémence divine entre en contact avec l'élément Hydro, Pyro, Cryo ou électro lors de son utilisation, l'attaque plongeante « Contrôle du chaos » déclenchée après cette Véhémence divine bénéficie d'une absorption élémentaire, ajoutant ensuite des DGT de l'élément correspondant pour 200 % de l'attaque, dégâts considérés comme étant des DGT d'attaque plongeante. Un seul élément peut être absorbé à chaque utilisation de Véhémence divine.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif2": {
+        "name": "Haïku de la brise",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788102/Genshin/Talents/HaikuDeLaBrise.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": {
+          "text": "Pour chaque point de maîtrise élémentaire de Kazuha, ce dernier accorde à tous les personnages de l'équipe un bonus de 0,04 % de DGT de l'élément correspondant pendant 8 s lorsqu'il déclenche une Dispersion. Il est possible de cumuler les bonus de DGT de différents éléments grâce à cette méthode.",
+          "effect": [{ "text": "" }]
+        }
+      },
+      "passif3": {
+        "name": "Vent d'aube",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788090/Genshin/Talents/VentDaube.webp",
+        "type": "Passif utilitaire",
+        "description": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint. Ne peut être cumulé avec d'autres attitudes passives aux effets identiques."
+      }
+    },
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne des Pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616087/Genshin/Materials/Aptitude/EnseignementDeLaDiligence.webp",
+          "number": 3,
+          "id": "TM2"
+        },
+        {
+          "name": "Guide de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616079/Genshin/Materials/Aptitude/GuideDeLaDiligence.webp",
+          "number": 21,
+          "id": "TM2"
+        },
+        {
+          "name": "Philosophie de la diligence",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708616072/Genshin/Materials/Aptitude/PhilosophieDeLaDiligence.webp",
+          "number": 38,
+          "id": "TM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Écaille dorée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615262/Genshin/Materials/Boss/EcailleDoree.webp",
+        "number": 6,
+        "id": "WB4"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Acer Palmatum",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788843/Genshin/Constellation/AcerPalmatum.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Montagnes écarlates",
+        "level": 1,
+        "description": "Réduit le TdR de Véhémence divine de 10 %. Coupure de mille feuillesréinitialise le TdR de Véhémence divine lorsqu'elle est activée.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788830/Genshin/Constellation/MontagnesEcarlates.webp"
+      },
+      {
+        "name": "Zanshin des montagnes cruelles",
+        "level": 2,
+        "description": "Le champ de Vent d'automne créé par Coupure de mille feuilles augmente la maîtrise élémentaire de Kazuha de 200 pts tant qu'il est actif ainsi que des personnages déployés dans le champ. Les effets d'augmentation de maîtrise élémentaire de cette constellation ne se cumulent pas. ",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788817/Genshin/Constellation/ZanshinDesMontagnesCruelles.webp"
+      },
+      {
+        "name": "Mystère d'érable",
+        "level": 3,
+        "description": "Niveau d'aptitude Véhémence divine +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788807/Genshin/Constellation/MystereDerable.webp"
+      },
+      {
+        "name": "Illusion du néant",
+        "level": 4,
+        "description": "Quand l'énergie élémentaire de Kazuha tombe en dessous de 45 pts cliquer simplement ou longuement pour utiliser Véhémence divine restaure l'énergie élémentaire de Kazuha de 3 ou 4 pts respectivement et, planer restaure l'énergie élémentaire de Kazuha de 2 pts toutes les secondes.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788791/Genshin/Constellation/IllusionDuNeant.webp"
+      },
+      {
+        "name": "Collection ancestrale",
+        "level": 5,
+        "description": "Niveau d'aptitude Coupure de mille feuilles +3.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788779/Genshin/Constellation/CollectionAncestrale.webp"
+      },
+      {
+        "name": "Pétales écarlates",
+        "level": 6,
+        "description": "Kazuha bénéficie d'un enchantement Anémo pendant 5 s après avoir utilisé Véhémence divine ou Coupure de mille feuilles. De plus, chaque point de maîtrise élémentaire de Kazuha augmente les DGT infligés par son attaque normale, son attaque chargée et son attaque plongeante de 0,2 %.",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788767/Genshin/Constellation/PetalesEcarlates.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P36",
+    "name": "Kamisato Ayaka",
+    "title": "",
+    "star": 5,
+    "art": "",
+    "icon": "",
+    "weapon": {
+      "type": "",
+      "icon": ""
+    },
+    "element": { "type": "", "icon": "" },
+    "region": { "name": "", "icon": "" },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 1,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "",
+        "picture": "",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "",
+        "picture": "",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        { "name": "", "picture": "", "number": 18, "id": "" },
+        { "name": "", "picture": "", "number": 30, "id": "" },
+        { "name": "", "picture": "", "number": 36, "id": "" }
       ]
     },
     "talents": {
