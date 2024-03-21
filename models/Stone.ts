@@ -23,7 +23,7 @@ export const stoneListSchema = z.array(
 export const stoneDetailsSchema = z.object({
   id: z.string(),
   name: z.string(),
-  element: z.string(),
+  element: z.string().optional(),
   icon: z.string().url().optional(),
   stone: z.array(
     z.object({ name: z.string(), icon: z.string().url(), quality: z.number() })
@@ -31,7 +31,7 @@ export const stoneDetailsSchema = z.object({
   character: z.array(
     z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
   ),
-  description: z.string().nullish(),
+  description: z.string().optional(),
   weeklyBoss: z
     .array(
       z.object({ name: z.string(), icon: z.string().url(), id: z.string() })

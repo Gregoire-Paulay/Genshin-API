@@ -42,7 +42,7 @@ export const characterDetailsSchema = z.object({
         number: z.number(),
         id: z.string(),
       })
-      .nullish(),
+      .optional(),
     material: z.object({
       name: z.string(),
       picture: z.string().url(),
@@ -58,75 +58,21 @@ export const characterDetailsSchema = z.object({
       })
     ),
   }),
-  talents: z.object({
-    attaqueNormale: z.object({
-      name: z.string(),
-      icon: z.string().url(),
-      type: z.string(),
-      description: z.array(z.object({ name: z.string(), text: z.string() })),
-    }),
-    competence: z.object({
+  talents: z.array(
+    z.object({
       name: z.string(),
       icon: z.string().url(),
       type: z.string(),
       description: z.array(
         z.object({
-          name: z.string(),
-          text: z.string(),
-          effect: z.array(z.object({ text: z.string() })),
+          name: z.string().optional(),
+          text: z.string().optional(),
+          effect: z.array(z.object({ text: z.string() })).optional(),
         })
       ),
-      note: z.string(),
-    }),
-    dechainement: z.object({
-      name: z.string(),
-      icon: z.string().url(),
-      type: z.string(),
-      description: z.array(
-        z.object({
-          name: z.string(),
-          text: z.string(),
-          effect: z.array(z.object({ text: z.string() })),
-        })
-      ),
-      note: z.string(),
-    }),
-    passif1: z.object({
-      name: z.string(),
-      icon: z.string().url(),
-      type: z.string(),
-      description: z.object({
-        text: z.string(),
-        effect: z.array(z.object({ text: z.string() })),
-      }),
-    }),
-    passif2: z.object({
-      name: z.string(),
-      icon: z.string().url(),
-      type: z.string(),
-      description: z.object({
-        text: z.string(),
-        effect: z.array(z.object({ text: z.string() })),
-      }),
-    }),
-    passif3: z
-      .object({
-        name: z.string(),
-        icon: z.string().url(),
-        type: z.string(),
-        description: z.string(),
-      })
-      .optional(),
-    bonus: z
-      .object({
-        name: z.string(),
-        icon: z.string().url(),
-        type: z.string(),
-        description: z.string(),
-        note: z.string(),
-      })
-      .nullish(),
-  }),
+      note: z.string().optional(),
+    })
+  ),
   talent_upgrade: z
     .object({
       mora: z.object({
@@ -249,7 +195,11 @@ export const characterDetailsSchema = z.object({
     z.object({
       name: z.string(),
       level: z.number(),
-      description: z.string(),
+      description: z.object({
+        text: z.string(),
+        effect: z.array(z.object({ text: z.string() })).optional(),
+        note: z.string().optional(),
+      }),
       icon: z.string(),
     })
   ),
