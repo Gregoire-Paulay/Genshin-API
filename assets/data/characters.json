@@ -91,7 +91,7 @@
           },
           {
             "name": "Attaque plongeante",
-            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
           }
         ]
       },
@@ -101,7 +101,7 @@
         "type": "Compétence élémentaire",
         "description": [
           {
-            "text": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face. Le vortex finit par exploser à la fin de la compétence ; l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants."
+            "text": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face. Le vortex finit par exploser à la fin de la compétence, l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants."
           },
           {
             "name": "Appui long",
@@ -124,10 +124,10 @@
           },
           {
             "name": "Absorption élémentaire",
-            "text": "La tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois."
+            "text": "La tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact, ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois."
           }
         ],
-        "note": "Vous avez étudié le battement des ailes du papillon avec Paimon."
+        "note": "Paimon et vous avez étudié les battements qui agitent les ailes des papillons..."
       },
       {
         "name": "Vent du ciel déchiré",
@@ -260,7 +260,7 @@
         "name": "Rafale de balayage",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Rafale de vent +3."
+          "text": "Niveau d'aptitude Rafale de vent +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560867/Genshin/Constellation/RafaleDeBalayage.webp"
       },
@@ -276,7 +276,7 @@
         "name": "Vortex stellaire",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Vortex destructeur +3."
+          "text": "Niveau d'aptitude Vortex destructeur +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560841/Genshin/Constellation/VortexStellaire.webp"
       },
@@ -284,7 +284,7 @@
         "name": "Vents enlacées",
         "level": 6,
         "description": {
-          "text": "La RÉS Anémo des ennemis touchés par Rafale de vent est réduite de 20 %. En cas d'absorption élémentaire, leur RÉS à l'élément correspondant est également réduite de 20 %."
+          "text": "La RÉS Anémo des ennemis touchés par Rafale de vent diminue de 20 %. En cas d'absorption élémentaire, leur RÉS à l'élément correspondant diminue également de 20 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560828/Genshin/Constellation/VentsEnlacees.webp"
       }
@@ -383,7 +383,7 @@
           },
           {
             "name": "Attaque plongeante",
-            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
           }
         ]
       },
@@ -414,7 +414,7 @@
             "text": "Repousse les ennemis proches et inflige des DGT Géo de zone. Un mur de roche s'érige ensuite autour des ondes de chox. Le mur de roche est une construction Géo qui bloque les attaques et peut être escaladée."
           }
         ],
-        "note": "Vous avez étudié le pouls des montagnes avec Paimon."
+        "note": "Paimon et vous avez étudié le pouls qui anime les montagnes..."
       },
       {
         "name": "Roche brisée",
@@ -617,7 +617,7 @@
         "name": "Mur de roche incassable",
         "level": 1,
         "description": {
-          "text": "Le taux CRIT des personnages de l'équipe se trouvant entourés par le mur de roche de Réveil de la terre augmente de 10% ; leurs actions sont aussi plus difficiles à interrompre."
+          "text": "Le taux CRIT des personnages de l'équipe se trouvant entourés par le mur de roche de Réveil de la terre augmente de 10%, leur RÉS à l'interruption augment également."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617318/Genshin/Constellation/MurDeRocheIncassable.webp"
       },
@@ -633,7 +633,7 @@
         "name": "Volonté de roche",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Réveil de la terre +3."
+          "text": "Niveau d'aptitude Réveil de la terre +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617289/Genshin/Constellation/VolonteDeRoche.webp"
       },
@@ -641,7 +641,7 @@
         "name": "Force de réaction",
         "level": 4,
         "description": {
-          "text": "Chaque onde de choc de Réveil de la terre restaure 5 pts d'énergie élémentaire à chaque ennemi touché. Jusqu'à 25 pts d'énergie élémentaire peuvent être restaurés de cette manière."
+          "text": "Chaque onde de choc de Réveil de la terre restaure 5 pts d'énergie élémentaire à chaque ennemi touché. Un maximum de25 pts d'énergie élémentaire peut être restaurés de cette manière."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617275/Genshin/Constellation/ForceDeReaction.webp"
       },
@@ -649,7 +649,7 @@
         "name": "Impact de météorite",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Épée d'étoile déchue +3."
+          "text": "Niveau d'aptitude Épée d'étoile déchue +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617260/Genshin/Constellation/ImpactDeMeteorite.webp"
       },
@@ -774,10 +774,13 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708626188/Genshin/Talents/PoupeeExplosive.webp",
         "type": "Compétence élémentaire",
         "description": [
+          { "text": "Le fidèle Baron Lapinou est déployé sur le terrain." },
           {
             "name": "Baron Lapinou",
-            "text": "Le fidèle Baron Lapinou est déployé sur le terrain.",
             "effect": [
+              {
+                "text": "Le baron nargue les ennemis proche et attire leur attention."
+              },
               { "text": "Ses PV sont proportionnels aux PV max d'Amber." },
               {
                 "text": "Le baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone."
@@ -797,7 +800,7 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Tire une pluie de flèches qui inflige des DGT Pyro continus. Amber est une fille chaleureuse et pleine de passion."
+            "text": "Tire une pluie de flèches qui inflige des DGT Pyro continus."
           }
         ],
         "note": "Amber est une fille chaleureuse et pleine de passion."
@@ -918,7 +921,7 @@
         "name": "Ça brûle",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Pluie de flèches +3."
+          "text": "Niveau d'aptitude Pluie de flèches +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708628613/Genshin/Constellation/CaBrule.webp"
       },
@@ -934,7 +937,7 @@
         "name": "Baron Lapinou !",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Poupée explosive +3."
+          "text": "Niveau d'aptitude Poupée explosive +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708628496/Genshin/Constellation/BaronLapinou.webp"
       },
@@ -1066,7 +1069,7 @@
         "note": "Qui serait capable de faire fondre la glace qui se cache derrière ce masque aimable…'"
       },
       {
-        "name": "Valse Glaciale",
+        "name": "Valse glaciale",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643663/Genshin/Talents/ValseGlaciale.webp",
         "type": "Déchainement élémentaire",
         "description": [
@@ -1092,7 +1095,7 @@
         "type": "Passif de la 4ème phase d'élévation",
         "description": [
           {
-            "text": "Les ennemis gelés par Attaque givrée font tomber d'avantage de particules élémentaires. Jusqu'à 2 particules supplémentaires peuvent ainsi être obtenues par Attaque givrée."
+            "text": "Les ennemis gelés par Attaque givrée font tomber d'avantage de particules élémentaires. Attaque givrée peut accorder un maximum de 2 particules supplémentaires de cette manière à chaque utilisation."
           }
         ]
       },
@@ -1184,7 +1187,7 @@
         "name": "Danse Givrée éternelle",
         "level": 2,
         "description": {
-          "text": "Chaque ennemi éliminé pendant la durée de Valse glaciale prolonge la durée de la compétence de 2,5 s. Cumul max : 15 s."
+          "text": "Chaque ennemi éliminé pendant la durée de Valse glaciale prolonge la durée de la compétence de 2,5 s. Cumul maximum : 15 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708644297/Genshin/Constellation/DanseGivreeEternelle.webp"
       },
@@ -1192,7 +1195,7 @@
         "name": "Ébats glacials",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Attaque givrée +3."
+          "text": "Niveau d'aptitude Attaque givrée +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708644282/Genshin/Constellation/EbatsGlacials.webp"
       },
@@ -1200,7 +1203,7 @@
         "name": "Baiser glacé",
         "level": 4,
         "description": {
-          "text": "Kaeya génère un bouclier lorsque ses PV sont inférieurs à 20 % avec les effets suivants :.",
+          "text": "Kaeya génère un bouclier lorsque ses PV sont inférieurs à 20 % avec les effets suivants :",
           "effect": [
             {
               "text": "Le bouclier absorbe une quantité de DGT équivalent à 30 % des PV max et dure 20 s."
@@ -1215,7 +1218,7 @@
         "name": "Étreinte glaciale",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Valse glaciale +3."
+          "text": "Niveau d'aptitude Valse glaciale +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708644252/Genshin/Constellation/EtreinteGlaciale.webp"
       },
@@ -1345,7 +1348,7 @@
           },
           {
             "name": "Appui simple",
-            "text": "Libère un orbe électrique à tête chercheuse. Lorsqu'il touche une cible, l'orbe inflige des DGT Électro, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois."
+            "text": "Libère un orbe électrique à tête chercheuse. Lorsqu'il touche une cible, l'orbe inflige des DGT Électro, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois maximum."
           },
           {
             "name": "Appui long",
@@ -1488,7 +1491,7 @@
         "name": "Tonnerre résonant",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Rose de foudre +3."
+          "text": "Niveau d'aptitude Rose de foudre +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130672/Genshin/Constellation/TonnerreResonant.webp"
       },
@@ -1496,7 +1499,7 @@
         "name": "Éruption de plasma",
         "level": 4,
         "description": {
-          "text": "Rose de foudre libère 1 à 3 décharges supplémentaires."
+          "text": "Rose de foudre permet de libérer 1 à 3 décharges."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130670/Genshin/Constellation/EruptionDePlasma.webp"
       },
@@ -1504,7 +1507,7 @@
         "name": "Électrification",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Arc fulminant +3."
+          "text": "Niveau d'aptitude Arc fulminant +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709130669/Genshin/Constellation/Electrification.webp"
       },
@@ -1778,7 +1781,7 @@
         "name": "Étoile du lendemain",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Miracle brillant ♪ +3."
+          "text": "Niveau d'aptitude Miracle brillant ♪ +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134307/Genshin/Constellation/EtoileDuLendemain.webp"
       },
@@ -1794,7 +1797,7 @@
         "name": "Lien innocent",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence C'est parti pour le show ♪ +3."
+          "text": "Niveau d'aptitude C'est parti pour le show ♪ +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709134302/Genshin/Constellation/LienInnocent.webp"
       },
@@ -1931,10 +1934,11 @@
                 "text": "Les attaques normales et chargées de Noëlle ont une chance de restaurer les PV de tous les personnages de l'équipe lorsqu'elles touchent un ennemi."
               },
               {
-                "text": "L'armure est efficace à 250 % contre les DGT Géo."
+                "text": "L'armure est efficace à 150 % contre les DGT élémentaires et physiques."
               }
             ]
-          }
+          },
+          { "text": "Les soins reçus sont proportionnels à la DÉF de Noëlle" }
         ],
 
         "note": "Noëlle est à la fois une servante fidèle et un chevalier vaillant."
@@ -1945,7 +1949,7 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Concentrant le pouvoir de la roche sur son arme, Noëlle exécute une puissante attaque circulaire qui inflige des DGT Géo aux ennemis proches. Noëlle bénéficie ensuite des effets suivants",
+            "text": "Concentrant le pouvoir de la roche sur son arme, Noëlle exécute une puissante attaque circulaire qui inflige des DGT Géo aux ennemis proches. Noëlle bénéficie ensuite des effets suivants :",
             "effect": [
               {
                 "text": "Portée d'attaque augmentée."
@@ -1967,10 +1971,13 @@
         "type": "Passif de la 1ère phase d'élévation",
         "description": [
           {
-            "text": "Lorsque Noëlle est en réserve, l'effet suivant se déclenche automatiquement si les PV du personnage déployé tombent en dessous de 30 %. Confère un bouclier au personnage déployé pouvant absorber des DGT équivalent à 400 % de la DÉF de Noëlle pendant 20 s.",
+            "text": "Lorsque Noëlle est en réserve, l'effet suivant se déclenche automatiquement si les PV du personnage déployé tombent en dessous de 30 % :",
             "effect": [
               {
-                "text": "Le bouclier est efficace à 250 % contre les DGT Géo."
+                "text": "Confère un bouclier au personnage déployé pouvant absorber des DGT équivalent à 400 % de la DÉF de Noëlle pendant 20 s."
+              },
+              {
+                "text": "Le bouclier est efficace à 150 % contre les DGT élémentaires et les DGT physiques."
               },
               {
                 "text": "Le bouclier peut être déclenché une fois toutes les 60 s."
@@ -1985,7 +1992,7 @@
         "type": "Passif de la 4ème phase d'élévation",
         "description": [
           {
-            "text": "Le TdR d'Armure de cœur est réduit de 1 s tous les 4 coups d'attaques normales et chargées. Toucher simultanément plusieurs ennemis compte comme un seul coup."
+            "text": "Noëlle diminue le TdR d'Armure de coeur de 1 s tout les 4 coups d'attaque normale ou chargée qu'elle inflige à un ennemi. Un coup peut être compté toutes les 0,1 s."
           }
         ]
       },
@@ -2082,10 +2089,10 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709211001/Genshin/Constellation/ServanteDeTourbillon.webp"
       },
       {
-        "name": "La servant ne sera jamais blessée",
+        "name": "La servante ne sera jamais blessée",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Armure de cœur +3."
+          "text": "Niveau d'aptitude Armure de cœur +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210997/Genshin/Constellation/LaservantNeSeraJamaisBlessee.webp"
       },
@@ -2101,7 +2108,7 @@
         "name": "Maîtresse de ménage",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Grand ménage +3."
+          "text": "Niveau d'aptitude Grand ménage +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210990/Genshin/Constellation/MaitresseDeMenage.webp"
       },
@@ -2109,7 +2116,7 @@
         "name": "Aucune poussière",
         "level": 6,
         "description": {
-          "text": "Grand ménage augmente la DÉF de Noëlle de 50 %. De plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée d'1 s (10 s max)."
+          "text": "Grand ménage fait bénéficier Noëlle d'un bonus supplémentaire d'ATQ à hauteur de 50 % de sa DÉF. De plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée de 1 s (10 s maximum)."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709210987/Genshin/Constellation/AucunePoussiere.webp"
       }
@@ -2288,9 +2295,9 @@
           {
             "text": "Dans le champ de Merveilleux voyage, Surpassion bénéficie des effets suivants :",
             "effect": [
-              { "text": "TdR réduit de 50 %." },
+              { "text": "Diminue le TDR de 50 %." },
               {
-                "text": "ne projette pas Bennett en l'air en Niveau 2 de charge."
+                "text": "Ne projette pas Bennett en l'air en Niveau 2 de charge."
               }
             ]
           }
@@ -2302,7 +2309,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+            "text": "Diminue la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
           }
         ]
       }
@@ -2392,7 +2399,7 @@
         "name": "Passion ardente",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Surpassion +3."
+          "text": "Niveau d'aptitude Surpassion +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213007/Genshin/Constellation/PassionArdente.webp"
       },
@@ -2400,7 +2407,7 @@
         "name": "Enthousiasme éternel",
         "level": 4,
         "description": {
-          "text": "Une attaque supplémentaire est permise lorsque le deuxième coup de Surpassion en 1e charge est une attaque normale. Celle-ci inflige 135 % des DGT du deuxième coup."
+          "text": "L'utilisation d'une attaque normale lors de l'exécution de la deuxième attaque du niveau 1 de charge de Surpassion permet d'effectuer une attaque supplémentaire. Celle-ci inflige 135 % des DGT de la deuxième attaque."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709213002/Genshin/Constellation/EnthousismeEternel.webp"
       },
@@ -2408,7 +2415,7 @@
         "name": "Ouverture d'âme",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Merveilleux voyage +3."
+          "text": "Niveau d'aptitude Merveilleux voyage +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212997/Genshin/Constellation/OuvertureDame.webp"
       },
@@ -2416,7 +2423,7 @@
         "name": "Feu et courage",
         "level": 6,
         "description": {
-          "text": "Le champ de Merveilleux voyage confère à tous les personnages de l'équipe déployés et maniant une épée à une ou deux mains ou une arme d'hast qui s'y trouvent un bonus de DGT Pyro de 15 %, ainsi qu'un enchantement Pyro."
+          "text": "Le champ de Merveilleux voyage confère à tous les personnages de l'équipe déployés et maniant une épée à une main, à deux mains ou d'une arme d'hast qui s'y trouvent un bonus de DGT Pyro de 15 %, ainsi qu'un enchantement Pyro."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709212993/Genshin/Constellation/FeuEtCourage.webp"
       }
@@ -2520,11 +2527,11 @@
           },
           {
             "name": "Attaque chargée",
-            "text": "Exécute une succession d'attaques tournoyantes ; cette attaque consomme de l'endurance sur la durée. L'attaque chargée se termine sur un coup puissant."
+            "text": "Consomme de l'endurance de façon continue pour éxécuter une succession d'attaque tournoyantes contre les ennemis proches. L'attaque chargée se termine sur un coup puissant."
           },
           {
             "name": "Attaque plongeante",
-            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
           }
         ]
       },
@@ -2538,7 +2545,7 @@
           },
           {
             "name": "Appui simple",
-            "text": "D'un coup de griffe du loup du tonnerre, il inflige des DGT Électro aux ennemis en face. Razor obtient un sceau Électro lorsque cette attaque touche un ennemi ; chaque sceau lui confère un bonus de recharge d'énergie. Razor peut cumuler jusqu'à 3 sceaux Électro ; chaque nouveau sceau réinitialise leur durée"
+            "text": "D'un coup de griffe du loup du tonnerre, il inflige des DGT Électro aux ennemis en face. Razor obtient un sceau Électro lorsque cette attaque touche un ennemi, chaque sceau lui confère un bonus de recharge d'énergie. Razor peut cumuler jusqu'à 3 sceaux Électro, chaque nouveau sceau réinitialise leur durée"
           },
           {
             "name": "Appui long",
@@ -2553,10 +2560,24 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Le loup de tonnerre qui sommeille se réveille et vient à la rescousse, infligeant des DGT Électro aux ennemis proches ; ceci supprime également tous les sceaux Électro, qui sont convertis en énergie élémentaire. Le loup de tonnerre combat aux côtés de Razor tant qu'il est actif."
+            "text": "Le loup de tonnerre qui sommeille se réveille et vient à la rescousse, infligeant des DGT Électro aux ennemis proches. Ceci supprime également tous les sceaux Électro, qui sont convertis en énergie élémentaire. Le loup de tonnerre combat aux côtés de Razor tant qu'il est actif."
           },
           {
-            "text": "Le loup de tonnerre disparaît lorsque Razor est vaincu ou quitte le champ de bataille. Le temps restant est converti en énergie élémentaire (10 pts max) lorsque Razor quitte le champ de bataille."
+            "name": "Loup de tonnerre",
+            "effect": [
+              {
+                "text": "Attaque lorsque Razor effectue une attaque normale, et inflige des DGT Électro."
+              },
+              {
+                "text": "Augmente la VIT d'attaque ainsi que la RÉS Électro de Razor."
+              },
+              { "text": "Razor est immunisé aux DGT d'Électrocution." },
+              { "text": "Attaque chargée impossible" },
+              { "text": "Augmente la RÉS à l'interruption de Razor." }
+            ]
+          },
+          {
+            "text": "Le loup de tonnerre disparaît lorsque Razor est vaincu ou quitte le champ de bataille. Le temps restant est converti en énergie élémentaire (10 pts maximum) lorsque Rzor quitte le champ de bataille."
           }
         ],
         "note": "Le loup s'est réveillé. L'heure de la chasse a sonné."
@@ -2669,7 +2690,7 @@
         "name": "Répression",
         "level": 2,
         "description": {
-          "text": "Le taux de CRIT de Razor augmente de 10 % quand il attaque des ennemis ayant moins de 30 % de PV."
+          "text": "Le taux de CRIT de Razor augmente de 10 % quand il attaque des ennemis dont les PV sont inférieurs à 30 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214998/Genshin/Constellation/Repression.webp"
       },
@@ -2677,7 +2698,7 @@
         "name": "Âme de loup",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Croc éclair +3."
+          "text": "Niveau d'aptitude Croc éclair +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214992/Genshin/Constellation/AmeDeLoup.webp"
       },
@@ -2685,7 +2706,7 @@
         "name": "Morsure",
         "level": 4,
         "description": {
-          "text": "L'appui simple de Griffe et tonnerre réduit la DÉF des cibles de 15 % pendant 7 s."
+          "text": "L'appui simple de Griffe et tonnerre diminue la DÉF des cibles de 15 % pendant 7 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214985/Genshin/Constellation/Morsure.webp"
       },
@@ -2693,7 +2714,7 @@
         "name": "Griffes tranchantes",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Griffe et tonnerre +3."
+          "text": "Niveau d'aptitude Griffe et tonnerre +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214979/Genshin/Constellation/GriffesTranchantes.webp"
       },
@@ -2701,7 +2722,7 @@
         "name": "Lupus Fulguris",
         "level": 6,
         "description": {
-          "text": "Toutes les 10 s, l'arme de Razor se charge d'énergie électrique pour infliger lors de la prochaine attaque normale des DGT Électro équivalent à 100 % de l'ATQ. Chaque ennemi touché confère à Razor un sceau électro de Griffe et tonnerre tant que Croc éclair n'est pas actif."
+          "text": "Toutes les 10 s, l'arme de Razor se charge d'énergie électrique pour infliger lors de la prochaine attaque normale des DGT Électro équivalent à 100 % de l'ATQ. Chaque ennemi touché confère à Razor un sceau Électro de Griffe et tonnerre tant que Croc éclair n'est pas actif."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709214973/Genshin/Constellation/LupusFulguris.webp"
       }
@@ -2814,7 +2835,7 @@
         ]
       },
       {
-        "name": "Inocation des marées",
+        "name": "Invocation des marées",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709216243/Genshin/Talents/InvocationDesMarees.webp",
         "type": "Compétence élémentaire",
         "description": [
@@ -2827,16 +2848,16 @@
           },
           {
             "name": "Appui long",
-            "text": "Beidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou. Lorsque vous relachez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, qui inflige des DGT Électro. Augmente considérablement les DGT infligés selon le nombre de coups portés lors de la durée de la conséquence. Deux coups minimum doivent être portés pour obtenir le bonus de DGT maximum. Bouclier :",
+            "text": "Beidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou. Lorsque vous relachez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, qui inflige des DGT Électro. Les DGT infligés augmentent en fonction du nombre d'attaques subies par Beidou pendant la durée de la compétence. Le bonus de DGT maximum est atteint lorsque l'effet est décenché deux fois. Le bouclier à les propriétés suivantes :",
             "effect": [
               {
-                "text": "Le bouclier est efficace à 250 % contre les DGT Électro."
+                "text": "A 250 % d'efficacité contre les DGT Électro."
               },
-              { "text": "Applique l'élément Électro à Beidou." }
+              { "text": "Applique l'élément Électro à Beidou à l'activation." }
             ]
           }
         ],
-        "note": "À l'assaut de la tempête et des vagues dansantes !"
+        "note": "À l'assaut des mers ! À la poursuites des vagues et de la tempête !"
       },
       {
         "name": "Brisure d'orage",
@@ -2848,18 +2869,20 @@
           },
           {
             "name": "Bouclier de foudre",
-            "text": "Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro.",
             "effect": [
               {
-                "text": "Au maximum une décharge par seconde peut être libérée."
+                "text": "Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro."
               },
               {
-                "text": "Les actions de Beidou sont plus difficiles à interrompre et les DGT qu'elle reçoit diminuent tant que le bouclier est actif."
+                "text": "Augmente la rés À l'interruption et diminue les DGT subis."
+              },
+              {
+                "text": "Une décharge peut être libérée une fois toutes les secondes."
               }
             ]
           }
         ],
-        "note": "Le plus puissant des éclairs peut fendre mers et montagnes."
+        "note": "Le plus puissant des éclairs peut fendre mers et montagnes"
       },
       {
         "name": "Châtiment",
@@ -2881,6 +2904,9 @@
             "effect": [
               {
                 "text": "Les attaques normales et chargées infligent 15 % de DGT supplémentaires."
+              },
+              {
+                "text": "La VIT des attaques normales et chargées augmente de 15 %."
               },
               {
                 "text": "Les attaques chargées se chargent beaucoup plus vite."
@@ -2993,7 +3019,7 @@
         "name": "Invocateur de tonnerre",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Invocation des marées +3."
+          "text": "Niveau d'aptitude Invocation des marées +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218384/Genshin/Constellation/InvocateurDeTonnerre.webp"
       },
@@ -3001,7 +3027,7 @@
         "name": "Vengeance étonnante",
         "level": 4,
         "description": {
-          "text": "Les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s quand elle est touchée."
+          "text": "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218377/Genshin/Constellation/VengeanceEtonnante.webp"
       },
@@ -3009,7 +3035,7 @@
         "name": "Marcheur de marée écarlate",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Brisure d'orage +3."
+          "text": "Niveau d'aptitude Brisure d'orage +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218369/Genshin/Constellation/MarcheDeMareeEcarlate.webp"
       },
@@ -3017,7 +3043,7 @@
         "name": "Chancre du mal",
         "level": 6,
         "description": {
-          "text": "La RÉS Électro des ennemis proches est réduite de 15 % tant que Brisure d'orage est actif."
+          "text": "La RÉS Électro des ennemis proches diminue de 15 % tant que Brisure d'orage est actif."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709218363/Genshin/Constellation/ChancreDuMal.webp"
       }
@@ -3139,7 +3165,7 @@
           },
           {
             "name": "Appui long",
-            "text": "Ajuste la zone où la compétence sera lancée ; appuyez à nouveau lorsqu'Oz est actif pour le faire revenir."
+            "text": "Ajuste la zone où la compétence sera lancée. appuyez à nouveau lorsqu'Oz est actif pour le faire revenir."
           }
         ],
         "note": "« Vous ne méritez pas que je gaspille mon pouvoir sur vous… Oz, fais pleuvoir les éclairs de justice. » — « Fleurs pour la princesse Fischl - Tome IV : Adieu, maîtresse. »"
@@ -3161,7 +3187,7 @@
             ]
           },
           {
-            "text": "Lorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro. Restaure une partie de l'énergie élémentaire de Fischl une fois terminé."
+            "text": "Lorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro."
           }
         ],
         "note": "« … De toutes les bêtes suivant le sang maudit, seul le seigneur corbeau, dont les yeux ont été témoins de la destruction de mille mondes, était capable de comprendre sa grandeur. Et, la recouvrant d'un voile d'ébène, il fit le serment de la protéger à jamais. » — « Fleurs pour la princesse Fischl - Tome I : Apocalypse »"
@@ -3192,7 +3218,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+            "text": "Diminue la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
           }
         ]
       }
@@ -3266,7 +3292,7 @@
         "name": "Oeil de corbeau obscur",
         "level": 1,
         "description": {
-          "text": "Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat, les attaques normales de Fischl infligent un bonus de DGT équivalent à 22 % de l'ATQ."
+          "text": "Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat : les attaques normales de Fischl infligent un bonus de DGT équivalent à 22 % de l'ATQ."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221721/Genshin/Constellation/OeilDuCorbeauObscur.webp"
       },
@@ -3274,7 +3300,7 @@
         "name": "Plume de jugement",
         "level": 2,
         "description": {
-          "text": "Ailes de surveillance nocturne inflige un bonus de DGT équivalent à 200 % de l'ATQ. La zone d'effet augmente de 50 %."
+          "text": "Ailes de surveillance nocturne inflige un bonus de DGT équivalent à 200 % de l'ATQ et sa zone d'effet augmente de 50 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221713/Genshin/Constellation/PlumedeJugement.webp"
       },
@@ -3282,7 +3308,7 @@
         "name": "Ailes noires de l'Âbime",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Ailes de surveillance nocturne +3."
+          "text": "Niveau d'aptitude Ailes de surveillance nocturne +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221705/Genshin/Constellation/AilesNoiresDeLabime.webp"
       },
@@ -3298,7 +3324,7 @@
         "name": "Apocalypse de la nuit",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Incarnation de la nuit +3."
+          "text": "Niveau d'aptitude Incarnation de la nuit +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709221688/Genshin/Constellation/ApocalypseDeLaNuit.webp"
       },
@@ -3410,7 +3436,7 @@
           },
           {
             "name": "Attaque chargée",
-            "text": "Charge en ligne droite et inflige des DGT aux ennemis sur sa route ; cette attaque consomme de l'endurance."
+            "text": "Consomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route."
           },
           {
             "name": "Attaque plongeante",
@@ -3424,10 +3450,10 @@
         "type": "Compétence élémentaire",
         "description": [
           {
-            "text": "Xiangling invoque le panda Gooba. Tant que Gooba est actif, il crache du feu sur les ennemis, leur infligeant des DGT pyro de zone continus."
+            "text": "Xiangling invoque Gooba. Tant que Gooba est actif, il crache du feu sur les ennemis, leur infligeant des DGT pyro de zone."
           }
         ],
-        "note": "Gooba raffole des produits épicés ; mais même ça c'est un peu trop pour lui."
+        "note": "Gooba raffole des produits épicés… mais même ça c'est un peu trop pour lui."
       },
       {
         "name": "Pyrotation",
@@ -3446,7 +3472,7 @@
         "type": "Passif de la 1ère phase d'élévation",
         "description": [
           {
-            "text": "Augmente la portée des jets de feu de Gooba de 20 %."
+            "text": "Augmente la portée des crachets de feu de Gooba de 20 %."
           }
         ]
       },
@@ -3456,7 +3482,7 @@
         "type": "Passif de la 4ème phase d'élévation",
         "description": [
           {
-            "text": "À la fin d'Attaque Gooba, le gentil petit Gooba laisse quelques piments sur sa position avant de disparaître. Ces piments confèrent un bonus de 10 % d'ATQ pendant 10 s."
+            "text": "À la fin d'Attaque Gooba, le gentil petit Gooba laisse un piment à son emplacement avant de disparaître. Ce piment confère un bonus de 10 % d'ATQ pendant 10 s à celui qui le ramasse."
           }
         ]
       },
@@ -3540,7 +3566,7 @@
         "name": "Croustillant à l'extérieur, tendre à l'intérieur",
         "level": 1,
         "description": {
-          "text": "La RÉS Pyro des ennemis touchés par Gooba est réduite de 15 % pendant 6 s."
+          "text": "La RÉS Pyro des ennemis touchés par Gooba diminue de 15 % pendant 6 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226719/Genshin/Constellation/CroustillantALexterieurTendreALinterieur.webp"
       },
@@ -3556,7 +3582,7 @@
         "name": "Sauté profond",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Pyrotation +3."
+          "text": "Niveau d'aptitude Pyrotation +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226700/Genshin/Constellation/SauteProfond.webp"
       },
@@ -3572,7 +3598,7 @@
         "name": "Colère de Gooba",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Attaque Gooba +3."
+          "text": "Niveau d'aptitude Attaque Gooba +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709226681/Genshin/Constellation/ColereDeGooba.webp"
       },
@@ -3688,7 +3714,7 @@
           },
           {
             "name": "Attaque plongeante",
-            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact."
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
           }
         ]
       },
@@ -3698,13 +3724,13 @@
         "type": "Compétence élémentaire",
         "description": [
           {
-            "text": "Lance une succession de 2 coups d'épée qui infligent des DGT Hydro aux ennemis en face. Dans le même temps, le personnage déployé s'entoure du nombre maximum d'épées de pluie. Les épées de pluie ont les propriétés suivantes :",
+            "text": "Lance une succession de 2 coups d'épée qui infligent des DGT Hydro aux ennemis en face. En même temps, le personnage déployé s'entoure du nombre maximum d'épées de pluie. Les épées de pluie ont les propriétés suivantes :",
             "effect": [
               {
-                "text": "Les épées se brisent lorsque Xingqiu subit des DGT et ce faisant réduisent les DGT subis."
+                "text": "Les épées se brisent lorsque Xingqiu subit des DGT, et ce faisant, réduisent les DGT subis."
               },
               {
-                "text": "Les actions de Xingqiu sont plus difficiles à interrompre."
+                "text": "Augment la RÉS à l'interruption du personnage."
               }
             ]
           },
@@ -3720,7 +3746,7 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Xingqiu fait appel à un déluge d'épées et combat avec une lame arc-en-ciel, il s'entoure de plus du nombre maximum d'épées de pluie."
+            "text": "Xingqiu fait appel à un déluge d'épées et combat avec une lame arc-en-ciel, tout en s'entourant du nombre maximum d'épée de pluie."
           },
           {
             "name": "Lame arc-en-ciel",
@@ -3740,7 +3766,7 @@
         "type": "Passif de la 1ère phase d'élévation",
         "description": [
           {
-            "text": "Lorsque l'épée de rideau pluvial est brisée par des attaques ou se termine, elle restaure les PV du personnage déployé basés sur 6 % des PV max de Xingqiu."
+            "text": "Lorsqu'une épée de pluie est brisée par des attaques ou se termine, elle restaure les PV du personnage déployé d'une quantité de PV équivalant à 6 % des PV max de Xingqiu."
           }
         ]
       },
@@ -3760,7 +3786,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Vous avez 25 % de chance de récupérer des matériaux de synthèse lors de la synthèse de matériaux d'aptitude."
+            "text": "25 % de chance de récupérer des ressourceslors de la synthèse de matériaux d'amélioration d'aptitude."
           }
         ]
       }
@@ -3834,7 +3860,7 @@
         "name": "Parfum persistant",
         "level": 1,
         "description": {
-          "text": "Augmente le nombre max d'épées de pluie de 1."
+          "text": "Augmente le nombre maximum d'épées de pluie de 1."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558959/Genshin/Constellation/ParfumPersistant.webp"
       },
@@ -3850,7 +3876,7 @@
         "name": "Tisseuse de vers",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Épée Guhua : Pluie et arc-en-ciel +3."
+          "text": "Niveau d'aptitude Épée Guhua : Pluie et arc-en-ciel +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558956/Genshin/Constellation/TisseuseDeVers.webp"
       },
@@ -3858,7 +3884,7 @@
         "name": "Conquérant du dragon",
         "level": 4,
         "description": {
-          "text": "Épée Guhua : Pluie et arc-en-ciel inflige 50 % de DGT supplémentaires lorsque Épée Guhua : Pluie battante est active."
+          "text": "Pendant la durée d'Épée Guhua : Pluie et arc-en-ciel, Les DGT infligés par Épée Guhua : Pluie battante augmentent de 50 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558955/Genshin/Constellation/ConquerantDuDragon.webp"
       },
@@ -3866,7 +3892,7 @@
         "name": "Embrassement de pluie",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Épée Guhua : Pluie battante +3."
+          "text": "Niveau d'aptitude Épée Guhua : Pluie battante +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709558954/Genshin/Constellation/EmbrassementDePluie.webp"
       },
@@ -3998,7 +4024,7 @@
             "text": "Après un court délai, les courants d'air froids de l'explosion se condensent en un champ de givre. Les DGT des attaques normales et chargées des personnages qui s'y trouvent et qui manient l'épée longue, à une main, ou une arme d'hast obtiennent un enchantement Cryo."
           }
         ],
-        "note": "Lorsque les cloches sonnent, tout est calme et silencieux. Les eaux des lacs et des rivières ne s'écoulent plus, et les nuages sont couverts de givre épais. Les portes de l'autel s'ouvrent, tous les maux sont éliminés. "
+        "note": "«Lorsque les cloches sonnent, tout est calme et silencieux. Les eaux des lacs et des rivières ne s'écoulent plus, et les nuages sont couverts de givre épais. Les portes de l'autel s'ouvrent, tous les maux sont éliminés.» "
       },
       {
         "name": "Lame de l'esprit : Chute d'étoiles",
@@ -4006,13 +4032,10 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai."
-          },
-          {
-            "text": "L'impact inflige des DGT Cryo de zone et projette les ennemis en l'air."
+            "text": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai.L'impact inflige des DGT Cryo de zone et projette les ennemis en l'air."
           }
         ],
-        "note": "Ô lame du ciel et de la terre qui gèle tous les démons du monde… Entends mon appel !"
+        "note": "«Ô lame du ciel et de la terre qui gèle tous les démons du monde… Entends mon appel !»"
       },
       {
         "name": "Respiration stable",
@@ -4020,7 +4043,7 @@
         "type": "Passif de la 1ère phase d'élévation",
         "description": [
           {
-            "text": " Dans le champs de Lame de l'esprit : Givre superposé, la VIT d'attaque normale des personnages maniant une épée à une ou deux mains ou une arme d'hast augmente de 8 %."
+            "text": " Dans le champs de Lame de l'esprit : Givre superposé, la VIT d'attaque normale des personnages armés d'une épée à une main, à deux mains ou d'une arme d'hast augmente de 8 %."
           }
         ]
       },
@@ -4030,17 +4053,17 @@
         "type": "Passif de la 4ème phase d'élévation",
         "description": [
           {
-            "text": "Une lame apparaît à la fin du champ de Lame de l'esprit : Givre superposé ; elle inflige des DGT Cryo de zone équivalent à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La RÉS Cryo des ennemis touchés est réduite de 10 % pendant 8 s."
+            "text": "Une lame apparaît à la fin du champ de Lame de l'esprit : Givre superposé, elle inflige des DGT Cryo de zone équivalent à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La RÉS Cryo des ennemis touchés est réduite de 10 % pendant 8 s."
           }
         ]
       },
       {
-        "name": "Périple alyzée",
+        "name": "Périple alyzéen",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709559828/Genshin/Talents/PeripleAlyzeen.webp",
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+            "text": "Diminue la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
           }
         ]
       }
@@ -4122,7 +4145,7 @@
         "name": "Révolution astrale",
         "level": 2,
         "description": {
-          "text": "Lancer une compétence ou un déchaînement élémentaires dans le champ de Lame de l'esprit : Givre superposé réduit leur TdR de 15 %."
+          "text": "Lancer une compétence ou un déchaînement élémentaires dans le champ de Lame de l'esprit : Givre superposé diminue leur TdR de 15 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560512/Genshin/Constellation/Revolutionastrale.webp"
       },
@@ -4130,7 +4153,7 @@
         "name": "Étincellement des nuages",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Lame de l'esprit : Chute d'étoiles +3."
+          "text": "Niveau d'aptitude Lame de l'esprit : Chute d'étoiles +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560509/Genshin/Constellation/EtincellementDesNuages.webp"
       },
@@ -4138,7 +4161,7 @@
         "name": "Cieux givrés",
         "level": 4,
         "description": {
-          "text": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo. Cet effet peut être déclenché toutes les 2 s."
+          "text": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo. Cet effet peut être déclenché une fois toutes les 2 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560507/Genshin/Constellation/CieuxGivres.webp"
       },
@@ -4146,7 +4169,7 @@
         "name": "La voie",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Lame de l'esprit : Givre superposé +3."
+          "text": "Niveau d'aptitude Lame de l'esprit : Givre superposé +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709560504/Genshin/Constellation/LaVoie.webp"
       },
@@ -4329,7 +4352,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Affiche l'emplacement des filons de minerai (fer, fer blanc, cristal, cristal magique et argétoile) sur la mini-carte."
+            "text": "Affiche l'emplacement des filons de minerai utilisables en forge sur la mini-carte."
           }
         ]
       }
@@ -4420,7 +4443,7 @@
         "name": "Alignement des étoiles",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Éclatement des étoiles +3."
+          "text": "Niveau d'aptitude Éclatement des étoiles +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561982/Genshin/Constellation/AlignementDesEtoiles.webp"
       },
@@ -4436,7 +4459,7 @@
         "name": "Invincible soit le Paravent d'astrolabe",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Paravent d'astrolabe +3."
+          "text": "Niveau d'aptitude Paravent d'astrolabe +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561974/Genshin/Constellation/InvincibleSoitLeParaventDastrolabe.webp"
       },
@@ -4544,15 +4567,15 @@
         "description": [
           {
             "name": "Attaque normale",
-            "text": "Enchaîne jusqu'à 4 attaques chargées de vent qui infligent des DGT Anémo."
+            "text": "Enchaîne jusqu'à 4 attaques de vent qui infligent des DGT Anémo."
           },
           {
             "name": "Attaque chargée",
-            "text": "Après un court délai, inflige des DGT Anémo de zone ; cette attaque consomme de l'endurance."
+            "text": "Consomme de l'endurance pour infliger des DGT Anémo de zone après un court délai.."
           },
           {
             "name": "Attaque plongeante",
-            "text": "Plonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis sur la route et des DGT Anémo de zone à l'impact."
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis enchemin et des DGT Anémo de zone à l'impact."
           }
         ]
       },
@@ -4577,10 +4600,10 @@
           },
           {
             "name": "Absorption élémentaire",
-            "text": "L'Esprit du vent absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant. Un seul élément peut être absorbé à la fois."
+            "text": "L'Esprit du vent absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact, ceux-ci lui confèrant leurs attributs et infligeant un bonus de DGT de l'élément correspondant. Une seule réaction d'absorption peut avoir lieu par utilisation."
           }
         ],
-        "note": "Sucrose aime à donner des noms à ses Hypostases Anémo instables ; leur lignée est encore plus longue que celle du Baron Lapinou 893e du nom."
+        "note": "Sucrose aime à donner des noms à ses Hypostases Anémo instables… Leur lignée est encore plus longue que celle du Baron Lapinou 893e du nom."
       },
       {
         "name": "Permutation de catalyste",
@@ -4588,7 +4611,7 @@
         "type": "Passif de la 1ère phase d'élévation",
         "description": [
           {
-            "text": "Tous les personnages de l'équipe du type élémentaire concerné (à l'exception de Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une Dispersion."
+            "text": "Tous les personnages de l'équipe du type élémentaire concerné (hormis Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une réaction de Dispersion."
           }
         ]
       },
@@ -4598,7 +4621,7 @@
         "type": "Passif de la 4ème phase d'élévation",
         "description": [
           {
-            "text": "Lorsque Esprit du vent : Sujet 6308 ou Esprit du vent : Isomorphe 75 Type II touche un ennemi, tous les personnages (à l'exception de Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalent à 20 % de la maîtrise élémentaire de Sucrose."
+            "text": "Lorsque Esprit du vent : Sujet 6308 ou Esprit du vent : Isomorphe 75 Type II touche un ennemi, tous les personnages (hormis Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalent à 20 % de la maîtrise élémentaire de Sucrose."
           }
         ]
       },
@@ -4608,7 +4631,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Sucrose a 10 % de chance d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme."
+            "text": "10 % de chance d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme."
           }
         ]
       }
@@ -4682,7 +4705,7 @@
         "name": "Champ du néant",
         "level": 1,
         "description": {
-          "text": "Confère une charge supplémentaire à Esprit du vent : Sujet 6308."
+          "text": "Confère une charge supplémentaire de Esprit du vent : Sujet 6308."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563663/Genshin/Constellation/ChamDuNeant.webp"
       },
@@ -4698,7 +4721,7 @@
         "name": "Zéro défaut",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Esprit du vent : Sujet 6308 +3."
+          "text": "Niveau d'aptitude Esprit du vent : Sujet 6308 +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563653/Genshin/Constellation/ZeroDefaut.webp"
       },
@@ -4706,7 +4729,7 @@
         "name": "Alchémania",
         "level": 4,
         "description": {
-          "text": "Réduit le TdR d'Esprit du vent : Sujet 6308 de 1 à 7 s toutes les 7 attaques normales et chargées que Sucrose inflige."
+          "text": "Sucrose diminue le TdR d'Esprit du vent : Sujet 6308 de 1 à 7 s tout les 7 coups d'attaques normales ou chargées qu'elle inflige à un ennemi. Un coup peut être compté toutes les 0,1 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563648/Genshin/Constellation/Alchemania.webp"
       },
@@ -4714,7 +4737,7 @@
         "name": "Flasque standard",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Esprit du vent : Isomorphe 75 Type II +3."
+          "text": "Niveau d'aptitude Esprit du vent : Isomorphe 75 Type II +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709563643/Genshin/Constellation/FlasqueStandard.webp"
       },
@@ -4848,7 +4871,10 @@
           },
           {
             "name": "Appui long",
-            "text": "Venti invoque une bourrasque plus puissante sur sa position, qui inflige des DGT Anémo de zone et projette les ennemis proches en l'air. L'appui long permet à Venti de voler dans les airs. Les ennemis projetés en l'air retombent lentement au sol."
+            "text": "Venti invoque une bourrasque plus puissante sur sa position, qui inflige des DGT Anémo de zone et projette les ennemis proches en l'air. L'appui long permet à Venti de voler dans les airs."
+          },
+          {
+            "text": "Les ennemis projetés en l'air retombent lentement au sol."
           }
         ],
         "note": "Aux temps anciens où dieux et hommes se partageaient la terre, nombreux furent les chants qui atteignirent les cieux. Ce sonnet possède une mélodie oubliée depuis longtemps."
@@ -4863,9 +4889,10 @@
           },
           {
             "name": "Absorption élémentaire",
-            "text": "L'Œil de la tempête absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant."
+            "text": "L'Œil de la tempête absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact, ceux-ci lui confèrant leurs attributs et infligent un bonus de DGT de l'élément correspondant. Une seule réaction d'absorption élémentaire peut avoir lieu par utilisation"
           }
-        ]
+        ],
+        "note": "Nombre de poèmes chantant la gloire de l'Archon Anémo ont été perdus. Celui-ci raconte sa puissance, et la puissance des vents."
       },
       {
         "name": "Embrasse des vents",
@@ -4893,7 +4920,7 @@
         "type": "Passif utilitaire",
         "description": [
           {
-            "text": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage. Ne peut être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+            "text": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage. Ne peut être cumulé avec d'autres aptitudes passives aux effets identiques."
           }
         ]
       }
@@ -4975,7 +5002,7 @@
         "name": "Bise de réminiscence",
         "level": 2,
         "description": {
-          "text": "Sonnet des Vents célestes réduit la RÉS Anémo et la RÉS physique des ennemis de 12 % pendant 10 s. La RÉS Anémo et la RÉS physique des ennemis projetés en l'air par Sonnet des Vents célestes sont réduites de 12 % tant qu'ils sont en l'air."
+          "text": "Sonnet des Vents célestes diminue la RÉS Anémo et la RÉS physique des ennemis de 12 % pendant 10 s. La RÉS Anémo et la RÉS physique des ennemis projetés en l'air par Sonnet des Vents célestes diminuent de 12 % tant qu'ils sont en l'air."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654314/Genshin/Constellation/BiseDeReminiscence.webp"
       },
@@ -4983,7 +5010,7 @@
         "name": "L'Ode aux mille vents",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Ode au Vent +3."
+          "text": "Niveau d'aptitude' Ode au Vent +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654312/Genshin/Constellation/LodeAuxMilleVents.webp"
       },
@@ -4999,7 +5026,7 @@
         "name": "Concerto céleste",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Sonnet des Vents célestes +3."
+          "text": "Niveau d'aptitude Sonnet des Vents célestes +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654309/Genshin/Constellation/ConcertoCeleste.webp"
       },
@@ -5007,7 +5034,7 @@
         "name": "Tempête de résistance",
         "level": 6,
         "description": {
-          "text": "La RÉS Anémo des ennemis touchés par Ode au Vent est réduite de 20 %. En cas d'absorption élémentaire, leur RÉS à l'élément correspondant est également réduite de 20 %."
+          "text": "La RÉS Anémo des ennemis touchés par Ode au Vent diminue de 20 %. En cas d'absorption élémentaire, leur RÉS à l'élément correspondant diminue également de 20 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709654308/Genshin/Constellation/TempeteDeResistance.webp"
       }
@@ -5128,7 +5155,7 @@
             "text": "Boiing, boiing ! Klee lance une bombe qui pète de joie ! La bombe rebondit 3 fois et explose à chaque rebond, infligeant des DGT Pyro de zone. Après le 3e rebond, la bombe se divise en plusieurs mines."
           },
           {
-            "text": "Les mines explosent après un court délai ou au contact de l'ennemi, infligeant des DGT Pyro de zone. Klee commence avec 2 charges."
+            "text": "Les mines explosent après un court délai ou au contact de l'ennemi, infligeant des DGT Pyro de zone. Klee commence avec 2 cutilisations disponibles."
           }
         ],
         "note": "La Bombe rebondissante est l'amie fidèle de Klee… Elle veut toujours la présenter à tout le monde."
@@ -5139,10 +5166,10 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Klee s'enflamme ! Invoque une Fleur bombardier qui harcèle les ennemis, infligeant des DGT Pyro de zone."
+            "text": "Klee s'enflamme ! Invoque une Fleur bombardier qui harcèle les ennemis proches, infligeant des DGT Pyro de zone."
           }
         ],
-        "note": "Les membres de l'Ordre de Favonius sont convaincus qu'une bonne étoile veille sur Klee ; sinon, comment expliquer qu'elle ne se blesse jamais ?"
+        "note": "Les membres de l'Ordre de Favonius sont convaincus qu'une bonne étoile veille sur Klee… Sinon, comment expliquer qu'elle ne se blesse jamais ?"
       },
       {
         "name": "Cadeau explosif",
@@ -5260,7 +5287,7 @@
         "name": "Réglage spécial de Klee",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Bombe rebondissante +3."
+          "text": "Niveau d'aptitude Bombe rebondissante +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655951/Genshin/Constellation/ReglageSpecialDeKlee.webp"
       },
@@ -5268,7 +5295,7 @@
         "name": "Tout est prêt",
         "level": 4,
         "description": {
-          "text": "Une explosion se produit lorsque Klee quitte le champ de bataille tant que Fleur bombardier est active. Cette explosion inflige 555 % des l'ATQ en DGT Pyro de zone."
+          "text": "Une explosion se produit lorsque Klee quitte le champ de bataille tant que Fleur bombardier est active. Cette explosion inflige 555 % de l'ATQ en DGT Pyro de zone."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655948/Genshin/Constellation/ToutEstPretKlee.webp"
       },
@@ -5276,7 +5303,7 @@
         "name": "Bombardement d'étoiles",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Fleur bombardier +3."
+          "text": "Niveau d'aptitude Fleur bombardier +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655946/Genshin/Constellation/BombardementDetoiles.webp"
       },
@@ -5284,7 +5311,7 @@
         "name": "À tout feu",
         "level": 6,
         "description": {
-          "text": "Klee restaure 3 pts d'énergie élémentaire à tous les membres de l'équipe (à l'exception de Klee) toutes les 3 s tant que Fleur bombardier est active. L'activation de Fleur bombardier confère un bonus de DGT Pyro de 10 % pendant 25 s à tous les membres de l'équipe."
+          "text": "Klee restaure 3 pts d'énergie élémentaire à tous les membres de l'équipe (hormis Klee) toutes les 3 s tant que Fleur bombardier est active. L'activation de Fleur bombardier confère un bonus de DGT Pyro de 10 % pendant 25 s à tous les membres de l'équipe."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655944/Genshin/Constellation/AToutFeu.webp"
       }
@@ -5406,7 +5433,7 @@
           },
           {
             "name": "Appui long",
-            "text": "Les ennemis et les objets proches sont attirés par la tornade ; cette attaque consomme de l'endurance sur la durée. La tornade peut être dirigée. Jean ne peut pas se déplacer tant que l'attaque dure."
+            "text": "Consomme de l'endurance de façon continue pour générer une tornade qui attire ennemis et objets proches. La tornade peut être dirigée. Jean ne peut pas se déplacer tant que l'attaque dure."
           }
         ],
         "note": "Idéale pour protéger ses alliés, cette technique accompagne Jean depuis longtemps."
@@ -5417,12 +5444,14 @@
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "text": "Jean invoque la protection des vents ; un champ de pissenlits tournoyant repousse les ennemis proches, tout en leur infligeant des DGT Anémo. Dans le même temps, tous les personnages de l'équipe sont soignés considérablement ; le nombre de PV restaurés est proportionnel à l'ATQ de Jean."
+            "text": "Jean invoque la protection des vents pour générer un champ de pissenlits tournoyant qui repousse les ennemis proches, tout en leur infligeant des DGT Anémo. En même temps, tous les personnages sont soignés considérablement, la quantité de PV restaurés étant proportionnelle à l'ATQ de Jean."
           },
           {
             "name": "Champ de pissenlits",
-            "text": "Le champ de pissenlits restaure en continu les PV des personnages dans la zone.",
             "effect": [
+              {
+                "text": "Le champ de pissenlits restaure  les PV des personnages dans la zone de façon continue."
+              },
               { "text": "Le champ leur applique également l'élément Anémo." },
               {
                 "text": "Les ennemis qui rentrent ou sortent de la zone subissent des DGT Anémo."
@@ -5548,7 +5577,7 @@
         "name": "Lorsque le vent d'ouest souffle",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Brise de pissenlit +3."
+          "text": "Niveau d'aptitude Brise de pissenlit +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680094/Genshin/Constellation/LorsqueLeVentDouestSouffle.webp"
       },
@@ -5556,7 +5585,7 @@
         "name": "Territoire des pissenlits",
         "level": 4,
         "description": {
-          "text": "La RÉS Anémo des ennemis à l'intérieur du champ de Brise de pissenlit est réduite de 40 %."
+          "text": "La RÉS Anémo des ennemis à l'intérieur du champ de Brise de pissenlit diminue de 40 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680091/Genshin/Constellation/TerritoireDesPissenlits.webp"
       },
@@ -5564,7 +5593,7 @@
         "name": "Le moment du vent violent",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Épée de tourbillon +3."
+          "text": "Niveau d'aptitude Épée de tourbillon +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680087/Genshin/Constellation/LeMomentDuVentViolent.webp"
       },
@@ -5573,7 +5602,7 @@
         "level": 6,
         "description": {
           "text": "Les DGT subis par Jean lorsqu'elle se trouve dans le champ de Brise de pissenlitsont réduits de 35 %.",
-          "note": "Cet effet disparaît dans les 10 s ou après avoir subi 3 attaques une fois que Jean a quitté le champ."
+          "note": "Après avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou après 10 s.."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709680083/Genshin/Constellation/CrocDeLionLeProtecteurDeMondstadt.webp"
       }
@@ -5694,7 +5723,7 @@
             "text": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des DGT Pyro. Cette attaque peut être enchaînée 3 fois de suite. Elle entre en TdR si l'enchaînement n'est pas assez rapide."
           }
         ],
-        "note": "Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et la responsabilité."
+        "note": "Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et responsabilité."
       },
       {
         "name": "Aurore",
@@ -5810,7 +5839,7 @@
         "name": "Conviction",
         "level": 1,
         "description": {
-          "text": "Diluc inflige 15 % de DGT supplémentaires aux ennemis ayant plus de 50 % de leurs PV."
+          "text": "Diluc inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont supérieurs à 50 %."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681600/Genshin/Constellation/Conviction.webp"
       },
@@ -5818,8 +5847,8 @@
         "name": "Chaleur des cendres",
         "level": 2,
         "description": {
-          "text": "L'ATQ de Diluc augmente de 10 % et sa VIT d'attaque de 5 % pendant 10 s lorsqu'il subit des DGT. 3 cumuls max. ",
-          "note": "Cet effet peut être déclenché une fois toutes les 1,5 s."
+          "text": "L'ATQ de Diluc augmente de 10 % et sa VIT d'attaque de 5 % pendant 10 s lorsqu'il subit des DGT.",
+          "note": "Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 1,5 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681595/Genshin/Constellation/ChaleurDesCendres.webp"
       },
@@ -5827,7 +5856,7 @@
         "name": "Feu et acier",
         "level": 3,
         "description": {
-          "text": "Niveau de compétence Assaut brûlant +3."
+          "text": "Niveau d'aptitude Assaut brûlant +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681590/Genshin/Constellation/FeuEtAcier.webp"
       },
@@ -5835,7 +5864,7 @@
         "name": "Flamme courante",
         "level": 4,
         "description": {
-          "text": "Exécuter Assaut brûlant en rythme augmente considérablement les DGT infligés. L'assaut brûlant suivant un premier Assaut brûlant inflige 40 % de DGT supplémentaires pendant 2 s lorsqu'il est exécuté dans les 2 s."
+          "text": "Exécuter Assaut brûlant en rythme augmente considérablement les DGT infligés. 2 s après le lancement d'Assaut brûlant, les DGT du prochain Assaut brûlant sont augmentés de 40 % pendant 2 s."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681584/Genshin/Constellation/FlammeCourante.webp"
       },
@@ -5843,7 +5872,7 @@
         "name": "Phénix, Messager de l'Aube",
         "level": 5,
         "description": {
-          "text": "Niveau de compétence Aurore +3."
+          "text": "Niveau d'aptitude Aurore +3."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681579/Genshin/Constellation/PhenixMessagerDeLaube.webp"
       },
@@ -5851,7 +5880,7 @@
         "name": "L'épée des flammes brise-nuit",
         "level": 6,
         "description": {
-          "text": "Confère aux 2 attaques normales suivant dans les 6 s le lancement d'Assaut brûlant un bonus de 30 % de DGT et de VIT d'attaque. De plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales."
+          "text": "Confère aux 2 attaques normales dans les 6 s suivant le lancement d'Assaut brûlant un bonus de 30 % de DGT et de VIT d'attaque normale. De plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709681574/Genshin/Constellation/LepeeDesFlammesBriseNuit.webp"
       }
@@ -6874,7 +6903,7 @@
           },
           {
             "name": "Contre-courant",
-            "text": "Les ennemis affectés par cet effet subissent l'un des types de DGT Hydro de zone suivants lorsque Tartaglia attaque, les DGT infligés par ces effets comptent comme les DGT d'une attaque normale. Contre-courant - Flash : Les tirs visés complètement chargés touchant les ennemis affectés par Contre-courant infligent des DGT de zone consécutifs. Contre-courant : Flas peut être déclenché une fois toutes les 0,7 s. Contre-courant - Éclat : Vaincre un ennemi affecté par Contre-courant provoque une onde qui inflige l'effet Contre-courant aux ennemis proches."
+            "text": "Les ennemis affectés par cet effet subissent l'un des types de DGT Hydro de zone suivants lorsque Tartaglia attaque, les DGT infligés par ces effets comptent comme les DGT d'une attaque normale. Contre-courant - Flash : Les tirs visés complètement chargés touchant les ennemis affectés par Contre-courant infligent des DGT de zone consécutifs. Contre-courant : Flash peut être déclenché une fois toutes les 0,7 s. Contre-courant - Éclat : Vaincre un ennemi affecté par Contre-courant provoque une onde qui inflige l'effet Contre-courant aux ennemis proches."
           },
           {
             "name": "Attaque plongeante",
@@ -8660,8 +8689,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Coup de tourbillon",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683230/Genshin/Talents/CoupDeTourbillon.webp",
         "type": "Attaque normale",
@@ -8680,25 +8709,21 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Cycle du vent lemniscatique",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683224/Genshin/Talents/CycleDuVentLemniscatique.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route. Fonctionne aussi dans les airs.",
-            "effect": [{ "text": "" }]
+            "text": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route. Fonctionne aussi dans les airs."
           },
           {
-            "name": "",
-            "text": "Xiao commence avec 2 charges.",
-            "effect": [{ "text": "" }]
+            "text": "Xiao commence avec 2 charges."
           }
         ],
         "note": "La légende d'un lointain pays raconte qu'un jour, le monde périra entre deux roues à aubes. La maîtrise totale de la lance permet à Xiao d'écraser ses ennemis, à l'image des roues légendaires écrasant le monde."
       },
-      "dechainement": {
+      {
         "name": "Fléau du mal",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683219/Genshin/Talents/FleauDuMal.webp",
         "type": "Déchainement élémentaire",
@@ -8717,38 +8742,43 @@
             ]
           },
           {
-            "name": "",
-            "text": "Cet effet consomme des PV de façon continue. L'état prend fin lorsque Xiao est vaincu ou quitte le champ de bataille.",
-            "effect": [{ "text": "" }]
+            "text": "Cet effet consomme des PV de façon continue. L'état prend fin lorsque Xiao est vaincu ou quitte le champ de bataille."
           }
         ],
         "note": "En revêtant le Masque du Yaksha, Xiao prend la forme terrifiante du Gardien Yaksha Dompteur de démon. Mais un tel pouvoir a un prix ; aussi l'appelle-t-on : le Fléau du mal."
       },
-      "passif1": {
+      {
         "name": "Dompteur de démons : Conquérant du mal",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683214/Genshin/Talents/DompteurDeDemonsConquerantDuMal.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Xiao inflige 5 % de DGT supplémentaires tant que Fléau du mal est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.",
-          "effect": [{ "text": " Cumul max : 25 % de DGT supplémentaires." }]
-        }
+        "description": [
+          {
+            "text": "Xiao inflige 5 % de DGT supplémentaires tant que Fléau du mal est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.",
+            "effect": [{ "text": " Cumul max : 25 % de DGT supplémentaires." }]
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Dissolution d'éon : Chute des cieux",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683209/Genshin/Talents/DissolutionDeonChuteDesCieux.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Cycle du vent lemniscatique inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s. Cet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Cycle du vent lemniscatique inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s. Cet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Transcendance : Contrôleur de gravité",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683206/Genshin/Talents/TranscendanceControleurDeGravite.webp",
         "type": "Passif utilitaire",
-        "description": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors de l'escalade. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+        "description": [
+          {
+            "text": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors de l'escalade. Ne peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -8817,37 +8847,49 @@
       {
         "name": "Dissolution d'éon : Destructeur de mondes",
         "level": 1,
-        "description": "Confère une charge supplémentaire pour Cycle du vent lemniscatique.",
+        "description": {
+          "text": "Confère une charge supplémentaire pour Cycle du vent lemniscatique."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683947/Genshin/Constellation/DissolutionDeonDestructeurDeMondes.webp"
       },
       {
         "name": "Annihilation d'éon : Fleur du kaléidoscope",
         "level": 2,
-        "description": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé.",
+        "description": {
+          "text": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683942/Genshin/Constellation/AnnihilationDeonFleurDuKaleidoscope.webp"
       },
       {
         "name": "Dompteur de démons : Déité de la colère",
         "level": 3,
-        "description": "Niveau de compétence Cycle du vent lemniscatique +3.",
+        "description": {
+          "text": "Niveau de compétence Cycle du vent lemniscatique +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683937/Genshin/Constellation/DompteurDeDemonDeiteDeLaColere.webp"
       },
       {
         "name": "Transcendance : Extinction de la souffrance",
         "level": 4,
-        "description": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV tombent en dessous de 50 %.",
+        "description": {
+          "text": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV tombent en dessous de 50 %."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683932/Genshin/Constellation/TranscendanceExtinctionDeLaSouffrance.webp"
       },
       {
         "name": "Évolution d'éon : Origine de l'ignorance",
         "level": 5,
-        "description": "Niveau de compétence Fléau du mal +3.",
+        "description": {
+          "text": "Niveau de compétence Fléau du mal +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683927/Genshin/Constellation/EvolutionDeonOrigineDeLignorance.webp"
       },
       {
         "name": "Dompteur de démons : Gardien Yaksha",
         "level": 6,
-        "description": "Lorsque Fléau du mal est actif, les attaques descendantes touchant au moins 2 ennemis confèrent immédiatement une charge de Cycle du vent lemniscatique supplémentaires, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé.",
+        "description": {
+          "text": "Lorsque Fléau du mal est actif, les attaques descendantes touchant au moins 2 ennemis confèrent immédiatement une charge de Cycle du vent lemniscatique supplémentaires, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710683922/Genshin/Constellation/DompteurDeDemonsGardienYaksha.webp"
       }
     ]
@@ -8938,8 +8980,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Lance secrète de Wangsheng",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687864/Genshin/Talents/LanceSecreteDeWansheng.webp",
         "type": "Attaque normale",
@@ -8958,15 +9000,13 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Chaperon de la renaissance",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687850/Genshin/Talents/ChaperonDeLaRenaissance.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Seule la flamme éternelle peut purifier le mal de ce monde. Hu Tao consomme un certain montant de PV pour repousser les ennemis proches, et entre dans l'état Paramita Papilio.",
-            "effect": [{ "text": "" }]
+            "text": "Seule la flamme éternelle peut purifier le mal de ce monde. Hu Tao consomme un certain montant de PV pour repousser les ennemis proches, et entre dans l'état Paramita Papilio."
           },
           {
             "name": "Paramita Papilio",
@@ -8983,50 +9023,53 @@
           },
           {
             "name": "Bourgeon de Prune",
-            "text": "Les ennemis affectés par Bourgeon de prune subissent des DGT Pyro toutes les 4 s, qui sont considérés comme étant des DGT de compétence élémentaire. La même cible ne peut être affectée que par un seul Bourgeon de prune à la fois, et la durée de cet effet ne peut être rafraîchie que par Hu Tao. L'État de Paramita Papilio se termine à la fin de sa durée, lorsque Hu Tao quitte le champ de bataille ou lorsqu'elle est vaincue.",
-            "effect": [{ "text": "" }]
+            "text": "Les ennemis affectés par Bourgeon de prune subissent des DGT Pyro toutes les 4 s, qui sont considérés comme étant des DGT de compétence élémentaire. La même cible ne peut être affectée que par un seul Bourgeon de prune à la fois, et la durée de cet effet ne peut être rafraîchie que par Hu Tao. L'État de Paramita Papilio se termine à la fin de sa durée, lorsque Hu Tao quitte le champ de bataille ou lorsqu'elle est vaincue."
           }
         ],
         "note": "La technique de la lance secrète est basée sur plusieurs principes, dont le premier est : «la lance ouvre les portes de l'au-delà et les papillons forment un pont entre les deux mondes.»"
       },
-      "dechainement": {
+      {
         "name": "Apaisement divin",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687835/Genshin/Talents/ApaisementDivin.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Faisant appel aux âmes ardentes, Hu Tao inflige des DGT Pyro dans une large zone. Hu Tao récupère à chaque ennemi touché (5 ennemis max) une quantité de PV proportionnelle à ses PV max. Les DGT infligés et les PV récupérés sont plus importants si les PV de Hu Tao sont inférieurs ou égaux à 50 % lorsque la compétence touche.",
-            "effect": [{ "text": "" }]
+            "text": "Faisant appel aux âmes ardentes, Hu Tao inflige des DGT Pyro dans une large zone. Hu Tao récupère à chaque ennemi touché (5 ennemis max) une quantité de PV proportionnelle à ses PV max. Les DGT infligés et les PV récupérés sont plus importants si les PV de Hu Tao sont inférieurs ou égaux à 50 % lorsque la compétence touche."
           }
         ],
         "note": "Le Funérarium Wangsheng ne voit pas d'un bon œil les âmes refusant de quitter ce monde. La crémation est pour Hu Tao le meilleur moyen d'avoir l'esprit tranquille - mais plus elle est anxieuse et plus son feu est puissant"
       },
-      "passif1": {
+      {
         "name": "Chrysalide",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687821/Genshin/Talents/Chrysalide.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % durant 8 s lorsque l'état Paramita Papilio conféré par Chaperon de la renaissance prend fin.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % durant 8 s lorsque l'état Paramita Papilio conféré par Chaperon de la renaissance prend fin."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Sang bouillant",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687807/Genshin/Talents/SangBouillant.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Hu Tao obtient un bonus de DGT Pyro de 33 % lorsque ces PV sont inférieurs ou égaux à 50 %.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Hu Tao obtient un bonus de DGT Pyro de 33 % lorsque ces PV sont inférieurs ou égaux à 50 %."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Plus il y en a, mieux c'est",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710687793/Genshin/Talents/PlusYenAMieuxCest.webp",
         "type": "Passif utilitaire",
-        "description": "18 % de chance d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait."
+        "description": [
+          {
+            "text": "18 % de chance d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -9095,37 +9138,50 @@
       {
         "name": "Bouquet écarlate",
         "level": 1,
-        "description": "Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état Paramita Papilio conféré par Chaperon de la renaissance.",
+        "description": {
+          "text": "Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état Paramita Papilio conféré par Chaperon de la renaissance."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688553/Genshin/Constellation/BouquetEcarlate.webp"
       },
       {
         "name": "Sombres auspices",
         "level": 2,
-        "description": "Bourgeon de prune inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet. Apaisement divin applique de plus l'effet Bourgeon de prune lorsqu'il touche.",
+        "description": {
+          "text": "Bourgeon de prune inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet. Apaisement divin applique de plus l'effet Bourgeon de prune lorsqu'il touche."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688535/Genshin/Constellation/SombresAuspices.webp"
       },
       {
         "name": "Rituel du sang",
         "level": 3,
-        "description": "Niveau de compétence Chaperon de la renaissance +3. ",
+        "description": {
+          "text": "Niveau de compétence Chaperon de la renaissance +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688517/Genshin/Constellation/RituelDuSang.webp"
       },
       {
         "name": "Jardin du repos éternel",
         "level": 4,
-        "description": "Lorsqu'un ennemi affecté par Bourgeon de prune est vaincu, le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % pendant 15 s.",
+        "description": {
+          "text": "Lorsqu'un ennemi affecté par Bourgeon de prune est vaincu, le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % pendant 15 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688499/Genshin/Constellation/JardinDuReposEternel.webp"
       },
       {
         "name": "Encens floral",
         "level": 5,
-        "description": "Niveau de compétence Apaisement divin +3. ",
+        "description": {
+          "text": "Niveau de compétence Apaisement divin +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688481/Genshin/Constellation/EncensFloral.webp"
       },
       {
         "name": "L'envol du papillon",
         "level": 6,
-        "description": "Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue : Hu Tao n'est pas vaincu cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement. Cet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao. Cet effet peut être déclenché une fois toutes les 60 s.",
+        "description": {
+          "text": "Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue : Hu Tao n'est pas vaincu cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement. ",
+          "note": "Cet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao. Cet effet peut être déclenché une fois toutes les 60 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710688463/Genshin/Constellation/LenvolDuPapillon.webp"
       }
     ]
@@ -9216,8 +9272,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Lance expiatoire",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689219/Genshin/Talents/LanceExpiatoire.webp",
         "type": "Attaque normale",
@@ -9236,57 +9292,62 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Confession des péchés",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689195/Genshin/Talents/ConfessionDesPeches.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Rosalia de déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des DGT Cryo. Ce mouvement ne fonctionne pas avec les ennemis trop grands.",
-            "effect": [{ "text": "" }]
+            "text": "Rosalia de déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des DGT Cryo. Ce mouvement ne fonctionne pas avec les ennemis trop grands."
           }
         ],
         "note": "Rosalia ne pardonne pas les péchés de ceux qui. se confessent à elle. Au contraire, plus le péché est grand, plus sa punition glaciale est implacable."
       },
-      "dechainement": {
+      {
         "name": "Sacrement mortel",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689174/Genshin/Talents/SacrementMortel.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des DGT Cryo. Tant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des DGT Cryo aux ennemis proches.",
-            "effect": [{ "text": "" }]
+            "text": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des DGT Cryo."
+          },
+          {
+            "text": "Tant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des DGT Cryo aux ennemis proches."
           }
         ],
         "note": "Un procès est bien trop long, autant en arriver directement à la sentence et donner les derniers sacrements. Rosalia ne croyant pas à l'Archon Anémo, c'est d'autant plus accommodant."
       },
-      "passif1": {
+      {
         "name": "Confession forcée",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689153/Genshin/Talents/ConfessionForcee.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec Confession des péchés.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec Confession des péchés."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Samaritain de l'ombre",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689132/Genshin/Talents/SamaritainDeLombre.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Exécuter Sacrement mortel confére à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s. Le bonus de taux CriT ainsi obtenu ne peut pas exéfer 15 %.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Exécuter Sacrement mortel confére à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s. Le bonus de taux CriT ainsi obtenu ne peut pas exéfer 15 %."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Balade nocturne",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710689113/Genshin/Talents/BalladeNocturne.webp",
         "type": "Passif utilitaire",
-        "description": "De nuit (18:00 - 6:00), augmente le VIT de l'équipe de 10 %. Ne prend pas effet dans les domaines, les domaines de Trounce ou les abysses en spirale. Non cumulable avec les talents passifs qui fournissent les mêmes effets."
+        "description": [
+          {
+            "text": "De nuit (18:00 - 6:00), augmente le VIT de l'équipe de 10 %. Ne prend pas effet dans les domaines, les domaines de Trounce ou les abysses en spirale. Non cumulable avec les talents passifs qui fournissent les mêmes effets."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -9355,37 +9416,49 @@
       {
         "name": "Guide du pécheur",
         "level": 1,
-        "description": "Lorsque les attaques de Rosalia inglent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4 s.",
+        "description": {
+          "text": "Lorsque les attaques de Rosalia inglent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690143/Genshin/Constellation/GuideDuPecheur.webp"
       },
       {
         "name": "Terre sacrée",
         "level": 2,
-        "description": "Prolonge la durée de la lance de glace de Sacrement mortel de 4 s.",
+        "description": {
+          "text": "Prolonge la durée de la lance de glace de Sacrement mortel de 4s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690112/Genshin/Constellation/TerreSacree.webp"
       },
       {
         "name": "Rite de confession",
         "level": 3,
-        "description": "Niveau d'aptitude Confession des péchés +3.",
+        "description": {
+          "text": "Niveau d'aptitude Confession des péchés +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690081/Genshin/Constellation/RiteDeConfession.webp"
       },
       {
         "name": "Souffrance bénie",
         "level": 4,
-        "description": "Rosalia récupère 5 pts d'énergie élémentaire lorsque Confession des péchés inflige un coup CRIT. Cet effet ne peut être déclenché qu'une fois par Confession des péchés.",
+        "description": {
+          "text": "Rosalia récupère 5 pts d'énergie élémentaire lorsque Confession des péchés inflige un coup CRIT. Cet effet ne peut être déclenché qu'une fois par Confession des péchés."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690052/Genshin/Constellation/SouffranceBenie.webp"
       },
       {
         "name": "Prière agonisante",
         "level": 5,
-        "description": "Niveau d'aptitude Sacrement mortel +3.",
+        "description": {
+          "text": "Niveau d'aptitude Sacrement mortel +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690026/Genshin/Constellation/PriereAgonisante.webp"
       },
       {
         "name": "Châtiment divin",
         "level": 6,
-        "description": "Les attaques de Sacrement mortel réduisent la RÉS physique des ennemis de 20 % endant 10 s.",
+        "description": {
+          "text": "Les attaques de Sacrement mortel réduisent la RÉS physique des ennemis de 20 % endant 10 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710690000/Genshin/Constellation/ChatimentDivin.webp"
       }
     ]
@@ -9476,8 +9549,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Escrime de Favonius - Aristocratie",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714263/Genshin/Talents/EscrimeDeFavoniusAristocratie.webp",
         "type": "Attaque normale",
@@ -9496,82 +9569,77 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Vortex des mers glacées",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714237/Genshin/Talents/VortexDesMersGlacees.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Givre coupant et lame dansante.",
-            "effect": [{ "text": "" }]
+            "text": "Givre coupant et lame dansante."
           },
           {
             "name": "Appui simple",
-            "text": "Eula exécute une frappe rapide qui inflige des DGT Cryo. Si elle touche un ennemi, Eula gagne une charge de Cœur de glace (jusqu'à 2 charges max). Eula peut gagner une charge toutes les 0,3 s.",
-            "effect": [{ "text": "" }]
+            "text": "Eula exécute une frappe rapide qui inflige des DGT Cryo. Si elle touche un ennemi, Eula gagne une charge de Cœur de glace (jusqu'à 2 charges max). Eula peut gagner une charge toutes les 0,3 s."
           },
           {
             "name": "Cœur de glace",
-            "text": "Améliore la RÉS à l'interruption et la DÉF d'Eula.",
-            "effect": [{ "text": "" }]
+            "text": "Améliore la RÉS à l'interruption et la DÉF d'Eula."
           },
           {
             "name": "Appui long",
-            "text": "Eula consomme toutes les charges de Cœur de glace pour faire tournoyer son épée devant elle et infliger des DGT Cryo de zone aux ennemis en face.",
-            "effect": [{ "text": "" }]
+            "text": "Eula consomme toutes les charges de Cœur de glace pour faire tournoyer son épée devant elle et infliger des DGT Cryo de zone aux ennemis en face."
           },
           {
-            "name": "",
-            "text": "Si des charges de Cœur de glace sont consommées, la RÉS physique et la RÉS Cryo des ennemis proches diminuent. Chaque charge de Cœur de glace est convertit en épée vortex de glace, qui inflige des DGT Cryo aux ennemis proches.",
-            "effect": [{ "text": "" }]
+            "text": "Si des charges de Cœur de glace sont consommées, la RÉS physique et la RÉS Cryo des ennemis proches diminuent. Chaque charge de Cœur de glace est convertit en épée vortex de glace, qui inflige des DGT Cryo aux ennemis proches."
           }
         ],
         "note": "Ainsi roula l'écume des vagues, engloutissant dans son sillage la couronne de la royauté. Et chaque embrun de cette marée glaciale étincela de sa lumineuse clarté"
       },
-      "dechainement": {
+      {
         "name": "Lame de fond",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714211/Genshin/Talents/LameDeFond.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Eula brandit son épée avec fureur, infligeant des DGT Cryo aux ennemis proches, et créé une épée de lumière qui la suit pendant 7 s max. Tant qu'elle est active, l'épée de lumière augmente la RÉS à l'interruption d'Eula. Lorsqu'Eula inflige des DGT à des ennemis avec son attaque normale, sa compétence ou son déchaînement élémentaire, elle accumule les charges d'énergie pour l'épée de lumière. Une charge d'énergie peut être cumulée toutes les 0,1 s.",
-            "effect": [{ "text": "" }]
+            "text": "Eula brandit son épée avec fureur, infligeant des DGT Cryo aux ennemis proches, et créé une épée de lumière qui la suit pendant 7 s max. Tant qu'elle est active, l'épée de lumière augmente la RÉS à l'interruption d'Eula. Lorsqu'Eula inflige des DGT à des ennemis avec son attaque normale, sa compétence ou son déchaînement élémentaire, elle accumule les charges d'énergie pour l'épée de lumière. Une charge d'énergie peut être cumulée toutes les 0,1 s."
           },
           {
-            "name": "",
-            "text": "Lorsque la durée de l'épée de lumière est écoulée, elle explose violemment, infligeant des DGT physiques aux ennemis proches. Ces DGT augmentent en fonction du nombre de charges d'énergie accumulées. L'épée explose immédiatement lorsqu'Eula quitte le champ de bataille.",
-            "effect": [{ "text": "" }]
+            "text": "Lorsque la durée de l'épée de lumière est écoulée, elle explose violemment, infligeant des DGT physiques aux ennemis proches. Ces DGT augmentent en fonction du nombre de charges d'énergie accumulées. L'épée explose immédiatement lorsqu'Eula quitte le champ de bataille."
           }
         ],
         "note": "Le naufrage est facile. Et pourtant, Eula insiste pour figer cette marée."
       },
-      "passif1": {
+      {
         "name": "Maelström de glace",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714185/Genshin/Talents/MaelstromDeGlace.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Lorsque vous consommez 2 charges de Cœur de glace lors de l'appui long de Vortex des mers glacées, une brève épée de lumière est créée. Cette dernière explose immédiatement, infligeant des dégâts physiques équivalant à 50 % des dégâts de base de Lame de fond.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Lorsque vous consommez 2 charges de Cœur de glace lors de l'appui long de Vortex des mers glacées, une brève épée de lumière est créée. Cette dernière explose immédiatement, infligeant des dégâts physiques équivalant à 50 % des dégâts de base de Lame de fond."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Esprit belligérant",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714159/Genshin/Talents/EspritBelligerant.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Le temps de recharge de Vortex des mers glacées est réinitialisé lors de l'utilisation de Lame de fond, et Eula obtient une charge de Cœur de glace.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Le temps de recharge de Vortex des mers glacées est réinitialisé lors de l'utilisation de Lame de fond, et Eula obtient une charge de Cœur de glace."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Gratification aristocratique",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714133/Genshin/Talents/GratificationAristocratique.webp",
         "type": "Passif utilitaire",
-        "description": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'aptitudes de personnage."
+        "description": [
+          {
+            "text": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'aptitudes de personnage."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -9640,37 +9708,50 @@
       {
         "name": "Illusion des marées",
         "level": 1,
-        "description": "À chaque fois qu'une charge de Cœur de glace de Vortex des mers glacées est consommée, Eula gagne un bonus de DGT physiques de 30 % pendant 6 s. Chaque charge de Cœur de glace consommée prolonge la durée de l'effet de 6 s, jusqu'à un maximum de 18 s.",
+        "description": {
+          "text": "À chaque fois qu'une charge de Cœur de glace de Vortex des mers glacées est consommée, Eula gagne un bonus de DGT physiques de 30 % pendant 6s.",
+          "note": "Chaque charge de Cœur de glace consommée prolonge la durée de l'effet de 6s, jusqu'à un maximum de 18s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714949/Genshin/Constellation/IllusionDesMarees.webp"
       },
       {
         "name": "Fille d'écume de mer",
         "level": 2,
-        "description": "Diminue le TdR de l'appui long de Vortex des mers glacées pour correspondre à celui de l'appui simple.",
+        "description": {
+          "text": "Diminue le TdR de l'appui long de Vortex des mers glacées pour correspondre à celui de l'appui simple."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714915/Genshin/Constellation/FilleDecumeDeMer.webp"
       },
       {
         "name": "Le sang des Lawrence",
         "level": 3,
-        "description": "Niveau d'aptitude Lame de fond +3.",
+        "description": {
+          "text": "Niveau d'aptitude Lame de fond +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714882/Genshin/Constellation/LeSangDesLawrence.webp"
       },
       {
         "name": "Émergence de la plèbe",
         "level": 4,
-        "description": "Augmente de 25 % les DGT infligés par l'épée de lumière aux ennemis ayant moins de 50 % de PV.",
+        "description": {
+          "text": "Augmente de 25 % les DGT infligés par l'épée de lumière aux ennemis ayant moins de 50 % de PV."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714849/Genshin/Constellation/EmergenceDeLaPlebe.webp"
       },
       {
         "name": "Honneur de la chevalerie",
         "level": 5,
-        "description": "Niveau d'aptitude Vortex des mers glacées +3.",
+        "description": {
+          "text": "Niveau d'aptitude Vortex des mers glacées +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714821/Genshin/Constellation/HonneurDeLaChevalerie.webp"
       },
       {
         "name": "Obligations aristocratiques",
         "level": 6,
-        "description": "Confère immédiatement 5 charges d'énergie à l'épée de lumière créée par Lame de fond. De plus, lorsque vous utilisez des attaques normales, la compétence ou le déchainement élémentaire pour cumuler des charges, vous avez 50 % de chances de gagner une charge supplémentaire.",
+        "description": {
+          "text": "Confère immédiatement 5 charges d'énergie à l'épée de lumière créée par Lame de fond. De plus, lorsque vous utilisez des attaques normales, la compétence ou le déchainement élémentaire pour cumuler des charges, vous avez 50 % de chances de gagner une charge supplémentaire."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710714793/Genshin/Constellation/ObligationsAristocratiques.webp"
       }
     ]
@@ -9761,8 +9842,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Sceau embrasé",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766280/Genshin/Talents/SceauEmbrase.webp",
         "type": "Attaque normale",
@@ -9781,28 +9862,24 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Pacte des flammes",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766275/Genshin/Talents/PacteDesFlammes.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Yanfei en appelle aux flammes dévastatrices, infligeant des DGT Pyro de zone. Lorsque des ennemis sont touchés, Yanfei gagne le nombre maximum de sceaux écarlates.",
-            "effect": [{ "text": "" }]
+            "text": "Yanfei en appelle aux flammes dévastatrices, infligeant des DGT Pyro de zone. Lorsque des ennemis sont touchés, Yanfei gagne le nombre maximum de sceaux écarlates."
           }
         ],
         "note": "En plus de leur valeur juridique, les sceaux de Yanfei présentent des conditions d'utilisation très personnalisées. Après tout, ce n'est pas comme si le Bureau des affaires civiles pouvait changer les lois de la nature."
       },
-      "dechainement": {
+      {
         "name": "Application des peines",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766271/Genshin/Talents/ApplicationDesPeines.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Invoque une explosion de flammes intense qui jaillit vers les ennemis proches, ingligeant des DGT Pyro de zone et confèrent à Yanfei le nombre maximum de sceaux écarlates, tout en appliquant l'effet Brillance.",
-            "effect": [{ "text": "" }]
+            "text": "Invoque une explosion de flammes intense qui jaillit vers les ennemis proches, ingligeant des DGT Pyro de zone et confèrent à Yanfei le nombre maximum de sceaux écarlates, tout en appliquant l'effet Brillance."
           },
           {
             "name": "Brillance",
@@ -9817,31 +9894,37 @@
         ],
         "note": "Les effets de Brillance se dissipent lorsque Yanfei quitte le champ de bataille ou qu'elle est vaincue. « Veuillez trouver ici les termes de cette question de vie ou de mort, et par làj'entends ma vie et votre mort ! »"
       },
-      "passif1": {
+      {
         "name": "Dispositions supplémentaires",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766266/Genshin/Talents/DispositionsSupplementaires.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Lorsque Yanfei consome un sceau écarlate en utilisant une attaque chargée, chaque sceau écarlate augmente le bonus de DGT Pyro de Yanfei de 5 % pour 6 s. Utiliser une attaque chargée avant la fin de la durée d'un effet dissiple l'effet précédent.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Lorsque Yanfei consome un sceau écarlate en utilisant une attaque chargée, chaque sceau écarlate augmente le bonus de DGT Pyro de Yanfei de 5 % pour 6 s. Utiliser une attaque chargée avant la fin de la durée d'un effet dissiple l'effet précédent."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Œil de la justice",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766262/Genshin/Talents/OeilDeLaJustice.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Quand les attaques chargées de Yanfei infligent des coups CRIT aux ennemis, elle inflige des DGT Pyro de zone supplémentaires éqiovalant à 80 % de son ATQ. Ces DGT comptent comme des DGT d'ttaque chargées.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Quand les attaques chargées de Yanfei infligent des coups CRIT aux ennemis, elle inflige des DGT Pyro de zone supplémentaires éqiovalant à 80 % de son ATQ. Ces DGT comptent comme des DGT d'ttaque chargées."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Connaissance du terrain",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766258/Genshin/Talents/ConnaissanceDuTerrain.webp",
         "type": "Passif utilitaire",
-        "description": "Affiche l'emplacement des produits de Liyue sur la mini-carte."
+        "description": [
+          {
+            "text": "Affiche l'emplacement des produits de Liyue sur la mini-carte."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -9910,37 +9993,53 @@
       {
         "name": "Plaidoyer convaincant",
         "level": 1,
-        "description": "Lorsque Yanfei utilise une attaqye chargée, chaque sceau écarlate existant réduit sa consommation d'endurance de 10 % supplémentaires et augmente la RÉs à l'interruption lors de son déclenchement.",
+        "description": {
+          "text": "Lorsque Yanfei utilise une attaqye chargée, chaque sceau écarlate existant réduit sa consommation d'endurance de 10 % supplémentaires et augmente la RÉs à l'interruption lors de son déclenchement."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766887/Genshin/Constellation/PlaidoyerConvaincant.webp"
       },
       {
         "name": "Verdict final",
         "level": 2,
-        "description": "Le taux CRIT des attaques chargées de Yanfei augmente de 20 % lorsqu'elles touchent des ennemis dont les PV sont inférieurs à 50 %.",
+        "description": {
+          "text": "Le taux CRIT des attaques chargées de Yanfei augmente de 20 % lorsqu'elles touchent des ennemis dont les PV sont inférieurs à 50 %."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766882/Genshin/Constellation/VerdictFinal.webp"
       },
       {
         "name": "Mise sous scellés",
         "level": 3,
-        "description": "Niveau d'aptitude Pacte des flammes +3.",
+        "description": { "text": "Niveau d'aptitude Pacte des flammes +3." },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766878/Genshin/Constellation/MiseSousScelles.webp"
       },
       {
         "name": "Droit commun",
         "level": 4,
-        "description": "Application des peines confère les effets suivants : Génère un bouclier qui absorbe une quantité de DGT équivalant à 45 % des PV max et dure 15 s. Le bouclier est efficace à 250 % contre les DGT Pyro.",
+        "description": {
+          "text": "Application des peines confère les effets suivants :",
+          "effect": [
+            {
+              "text": "Génère un bouclier qui absorbe une quantité de DGT équivalant à 45 % des PV max et dure 15 s."
+            },
+            { "text": "Le bouclier est efficace à 250 % contre les DGT Pyro." }
+          ]
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766873/Genshin/Constellation/DroitCommun.webp"
       },
       {
         "name": "Déclaration sous serment",
         "level": 5,
-        "description": "Niveau d'aptitude Application des peines +3.",
+        "description": {
+          "text": "Niveau d'aptitude Application des peines +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766869/Genshin/Constellation/DeclarationSousSerment.webp"
       },
       {
         "name": "Clause complémentaire",
         "level": 6,
-        "description": "Augmente le nombre max de sceaux écarlates de 1.",
+        "description": {
+          "text": "Augmente le nombre max de sceaux écarlates de 1."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710766865/Genshin/Constellation/ClauseComplementaire.webp"
       }
     ]
@@ -10031,8 +10130,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Escrime de Garyuu",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788155/Genshin/Talents/EscrimeDeGaryuu.webp",
         "type": "Attaque normale",
@@ -10051,77 +10150,79 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Véhémence divine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788142/Genshin/Talents/VehemenceDivine.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
             "text": "Libère une technique secrète aussi violente qu'une bourrasque déchaînée qui attire les ennemis et les objets vers la position actuelle de Kazuha, avant de projeter les ennemis situés dans la zone, leur infligeant des DGT Anémo et d'élever Kazuha sur un courant de vent impétueux. Si Kazuha déclenche une attaque plongeante depuis les airs dans un délai de 10 s après la compétence élémentaire « Véhémence divine », il provoque une attaque plongeante particulièrement puissante connue sous le nom de Contrôle du chaos.",
             "effect": [{ "text": "" }]
           },
           {
             "name": "Appui simple",
-            "text": "Permet d'utiliser l'aptitude dans les airs.",
-            "effect": [{ "text": "" }]
+            "text": "Permet d'utiliser l'aptitude dans les airs."
           },
           {
             "name": "Appui long",
-            "text": "Améliore Charge l'aptitude avant de libérer davantage de DGT Anémo sur une zone plus large que lors d'un appui simple.",
-            "effect": [{ "text": "" }]
+            "text": "Améliore Charge l'aptitude avant de libérer davantage de DGT Anémo sur une zone plus large que lors d'un appui simple."
           },
           {
             "name": "Attaque plongeante : Contrôle du chaos",
-            "text": "Lorsqu'une attaque plongeante est déclenchée en utilisant les effets de la compétence élémentaire « Véhémence divine », ses DGT sont convertis en DGT Anémo et un petit tunnel venteux est créé à l'atterrissage à l'aide d'une technique d'épée secrète pour attirer les objets et les ennemis proches. Les dégâts infligés par Contrôle du chaos sont considérés comme étant des DGT d'attaque plongeante.",
-            "effect": [{ "text": "" }]
+            "text": "Lorsqu'une attaque plongeante est déclenchée en utilisant les effets de la compétence élémentaire « Véhémence divine », ses DGT sont convertis en DGT Anémo et un petit tunnel venteux est créé à l'atterrissage à l'aide d'une technique d'épée secrète pour attirer les objets et les ennemis proches. Les dégâts infligés par Contrôle du chaos sont considérés comme étant des DGT d'attaque plongeante."
           }
         ],
         "note": "Les vents dans les érables pleurent, pour les dieux et les hommes du passé, comme des montagnes rouges d'automne."
       },
-      "dechainement": {
+      {
         "name": "Coupure de mille feuilles",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788128/Genshin/Talents/CoupureDeMilleFeuilles.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Déclenche la technique ultime de Garyuu, une coupure unique semblable à une tempête des DGT Anémo de zone. Le trajet de la lame laissera derrière lui un champ appelé « Vent d'automne » qui infligera des DGT Anémo de façon intermittente aux ennemis à l'intérieur.",
-            "effect": [{ "text": "" }]
+            "text": "Déclenche la technique ultime de Garyuu, une coupure unique semblable à une tempête des DGT Anémo de zone. Le trajet de la lame laissera derrière lui un champ appelé « Vent d'automne » qui infligera des DGT Anémo de façon intermittente aux ennemis à l'intérieur."
           },
           {
             "name": "Absorption élémentaire",
-            "text": "Le Vent d'automne absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.",
-            "effect": [{ "text": "" }]
+            "text": "Le Vent d'automne absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant."
           }
         ],
         "note": "« Je vois passer l'éternité en un instant, les automnes de plusieurs années d'une seule feuille ; ainsi je trancherai cet érable en un éclair, et je poserai la question des âges... »"
       },
-      "passif1": {
+      {
         "name": "Lame d'érosion",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788115/Genshin/Talents/LameDerosion.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Si Véhémence divine entre en contact avec l'élément Hydro, Pyro, Cryo ou électro lors de son utilisation, l'attaque plongeante « Contrôle du chaos » déclenchée après cette Véhémence divine bénéficie d'une absorption élémentaire, ajoutant ensuite des DGT de l'élément correspondant pour 200 % de l'attaque, dégâts considérés comme étant des DGT d'attaque plongeante. Un seul élément peut être absorbé à chaque utilisation de Véhémence divine.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Si Véhémence divine entre en contact avec l'élément Hydro, Pyro, Cryo ou électro lors de son utilisation, l'attaque plongeante « Contrôle du chaos » déclenchée après cette Véhémence divine bénéficie d'une absorption élémentaire, ajoutant ensuite des DGT de l'élément correspondant pour 200 % de l'attaque, les dégâts sont considérés comme étant des DGT d'attaque plongeante."
+          },
+          {
+            "text": "Un seul élément peut être absorbé à chaque utilisation de Véhémence divine."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Haïku de la brise",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788102/Genshin/Talents/HaikuDeLaBrise.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Pour chaque point de maîtrise élémentaire de Kazuha, ce dernier accorde à tous les personnages de l'équipe un bonus de 0,04 % de DGT de l'élément correspondant pendant 8 s lorsqu'il déclenche une Dispersion. Il est possible de cumuler les bonus de DGT de différents éléments grâce à cette méthode.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Pour chaque point de maîtrise élémentaire de Kazuha, ce dernier accorde à tous les personnages de l'équipe un bonus de 0,04 % de DGT de l'élément correspondant pendant 8 s lorsqu'il déclenche une Dispersion. Il est possible de cumuler les bonus de DGT de différents éléments grâce à cette méthode."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Vent d'aube",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788090/Genshin/Talents/VentDaube.webp",
         "type": "Passif utilitaire",
-        "description": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint. Ne peut être cumulé avec d'autres attitudes passives aux effets identiques."
+        "description": [
+          {
+            "text": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint. Ne peut être cumulé avec d'autres attitudes passives aux effets identiques."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -10190,37 +10291,48 @@
       {
         "name": "Montagnes écarlates",
         "level": 1,
-        "description": "Réduit le TdR de Véhémence divine de 10 %. Coupure de mille feuillesréinitialise le TdR de Véhémence divine lorsqu'elle est activée.",
+        "description": {
+          "text": "Réduit le TdR de Véhémence divine de 10 %. Coupure de mille feuillesréinitialise le TdR de Véhémence divine lorsqu'elle est activée."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788830/Genshin/Constellation/MontagnesEcarlates.webp"
       },
       {
         "name": "Zanshin des montagnes cruelles",
         "level": 2,
-        "description": "Le champ de Vent d'automne créé par Coupure de mille feuilles augmente la maîtrise élémentaire de Kazuha de 200 pts tant qu'il est actif ainsi que des personnages déployés dans le champ. Les effets d'augmentation de maîtrise élémentaire de cette constellation ne se cumulent pas. ",
+        "description": {
+          "text": "Le champ de Vent d'automne créé par Coupure de mille feuilles augmente la maîtrise élémentaire de Kazuha de 200 pts tant qu'il est actif ainsi que des personnages déployés dans le champ.",
+          "note": "Les effets d'augmentation de maîtrise élémentaire de cette constellation ne se cumulent pas."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788817/Genshin/Constellation/ZanshinDesMontagnesCruelles.webp"
       },
       {
         "name": "Mystère d'érable",
         "level": 3,
-        "description": "Niveau d'aptitude Véhémence divine +3.",
+        "description": { "text": "Niveau d'aptitude Véhémence divine +3." },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788807/Genshin/Constellation/MystereDerable.webp"
       },
       {
         "name": "Illusion du néant",
         "level": 4,
-        "description": "Quand l'énergie élémentaire de Kazuha tombe en dessous de 45 pts cliquer simplement ou longuement pour utiliser Véhémence divine restaure l'énergie élémentaire de Kazuha de 3 ou 4 pts respectivement et, planer restaure l'énergie élémentaire de Kazuha de 2 pts toutes les secondes.",
+        "description": {
+          "text": "Quand l'énergie élémentaire de Kazuha tombe en dessous de 45 pts cliquer simplement ou longuement pour utiliser Véhémence divine restaure l'énergie élémentaire de Kazuha de 3 ou 4 pts respectivement et, planer restaure l'énergie élémentaire de Kazuha de 2 pts toutes les secondes."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788791/Genshin/Constellation/IllusionDuNeant.webp"
       },
       {
         "name": "Collection ancestrale",
         "level": 5,
-        "description": "Niveau d'aptitude Coupure de mille feuilles +3.",
+        "description": {
+          "text": "Niveau d'aptitude Coupure de mille feuilles +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788779/Genshin/Constellation/CollectionAncestrale.webp"
       },
       {
         "name": "Pétales écarlates",
         "level": 6,
-        "description": "Kazuha bénéficie d'un enchantement Anémo pendant 5 s après avoir utilisé Véhémence divine ou Coupure de mille feuilles. De plus, chaque point de maîtrise élémentaire de Kazuha augmente les DGT infligés par son attaque normale, son attaque chargée et son attaque plongeante de 0,2 %.",
+        "description": {
+          "text": "Kazuha bénéficie d'un enchantement Anémo pendant 5 s après avoir utilisé Véhémence divine ou Coupure de mille feuilles. De plus, chaque point de maîtrise élémentaire de Kazuha augmente les DGT infligés par son attaque normale, son attaque chargée et son attaque plongeante de 0,2 %."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710788767/Genshin/Constellation/PetalesEcarlates.webp"
       }
     ]
@@ -10311,8 +10423,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "École Kamisato - Sveltesse",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852795/Genshin/Talents/EcoleKamisatoSveltesse.webp",
         "type": "Attaque normale",
@@ -10331,32 +10443,27 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "École Kamisato : Fleur de glace",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852790/Genshin/Talents/EcoleKamisatoFleurDeGlace.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Ayaka invoque une fleur glacée qui projette les ennemis proches, leur infligeant des DGT Cryo de zone.",
-            "effect": [{ "text": "" }]
+            "text": "Ayaka invoque une fleur glacée qui projette les ennemis proches, leur infligeant des DGT Cryo de zone."
           }
         ],
         "note": "« Les nuages enveloppent la lune, le désir descend tel un brouillard, emplissant le cœur du voyageur. »"
       },
-      "dechainement": {
+      {
         "name": "École Kamisato : Givre mortel",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852785/Genshin/Talents/EcoleKamisatoGivreMortel.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Ayaka adopte une posture magnifique pour libérer un tourbillon givré qui avance sans s'arrêter.",
-            "effect": [{ "text": "" }]
+            "text": "Ayaka adopte une posture magnifique pour libérer un tourbillon givré qui avance sans s'arrêter."
           },
           {
             "name": "Tourbillon givré",
-            "text": "",
             "effect": [
               {
                 "text": "Le tourbillon givré lacère de façon continue les ennemis qui se trouvent sur sa route, infligeant des DGT Cryo."
@@ -10369,52 +10476,61 @@
         ],
         "note": "Le blizzard dissimule les pensées du héron, au cœur rempli de pitié."
       },
-      "passif1": {
+      {
         "name": "Sanctification de l'impur",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852781/Genshin/Talents/SanctificationDeLimpur.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Confère aux attaques normales et chargées d'Ayaka suivant dans les 6 s le lancement d'École Kamisato : Fleur de glace un bonus de 30 % de DGT.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Confère aux attaques normales et chargées d'Ayaka suivant dans les 6s le lancement - d'École Kamisato : Fleur de glace - un bonus de 30 % de DGT."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Bénédiction de Kanten Senmyou",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852776/Genshin/Talents/BenedictionDeKantenSenmyou.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "L'énergie glacée libérée à la fin du Sentier de givre du sprint - École Kamisato : Sentier de givre - confère à Ayaka les effets suivants lorsqu'elle touche l'ennemi : ",
-          "effect": [
-            { "text": "Régénération de 10 pts d'endurance" },
-            { "text": "Bonus de DGT Cryo de 18 % pendant 10 s." }
-          ]
-        }
+        "description": [
+          {
+            "text": "L'énergie glacée libérée à la fin du Sentier de givre du sprint - École Kamisato : Sentier de givre - confère à Ayaka les effets suivants lorsqu'elle touche l'ennemi : ",
+            "effect": [
+              { "text": "Régénération de 10 pts d'endurance" },
+              { "text": "Bonus de DGT Cryo de 18 % pendant 10 s." }
+            ]
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Fruits de Shinsa",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852772/Genshin/Talents/FruitsDeShinsa.webp",
         "type": "Passif utilitaire",
-        "description": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme."
+        "description": [
+          {
+            "text": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme."
+          }
+        ]
       },
-      "bonus": {
+      {
         "name": "École Kamisato : Sentier de givre",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852767/Genshin/Talents/EcoleKamisatoSentierdeGivre.webp",
         "type": "Sprint",
-        "description": {
-          "name": "Remplace le sprint",
-          "text": "Ayaka consomme de l'endurance pour se déplacer rapidement au milieu d'un brouillard de glace. Sous Sentier de givre, Ayaka peut se déplacer rapidement sur l'eau. À la fin de l'état, elle réapparaît ; deux choses se produisent alors simultanément :",
-          "effect": [
-            {
-              "text": "Elle libère une énergie glacée qui applique aux ennemis proches l'élément Cryo."
-            },
-            {
-              "text": "Le froid se concentre sur son épée : les DGT qu'inflige cette dernière sont momentanément convertis en DGT Cryo."
-            }
-          ]
-        },
+        "description": [
+          {
+            "name": "Remplace le sprint",
+            "text": "Ayaka consomme de l'endurance pour se déplacer rapidement au milieu d'un brouillard de glace. Sous Sentier de givre, Ayaka peut se déplacer rapidement sur l'eau. À la fin de l'état, elle réapparaît ; deux choses se produisent alors simultanément :",
+            "effect": [
+              {
+                "text": "Elle libère une énergie glacée qui applique aux ennemis proches l'élément Cryo."
+              },
+              {
+                "text": "Le froid se concentre sur son épée : les DGT qu'inflige cette dernière sont momentanément convertis en DGT Cryo."
+              }
+            ]
+          }
+        ],
         "note": "« Volent les ailes mouillées / Le héron blanc marche sur l'eau / D'une vision parfaite »."
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -10483,37 +10599,50 @@
       {
         "name": "Cerise givrée",
         "level": 1,
-        "description": "Les attaques normales et chargées d'Ayaka ont 50 % de chances de réduire le TdR d'École Kamisato : Fleur de glace de 0,3 s lorsqu'elles infligent des DGT Cryo aux ennemis. Cet effet peut être déclencher une fois toutes les 0,1 s.",
+        "description": {
+          "text": "Les attaques normales et chargées d'Ayaka ont 50 % de chances de réduire le TdR d'École Kamisato : Fleur de glace de 0,3 s lorsqu'elles infligent des DGT Cryo aux ennemis. Cet effet peut être déclencher une fois toutes les 0,1 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855222/Genshin/Constellation/CeriseGivree.webp"
       },
       {
         "name": "Lame de blizzard Seki",
         "level": 2,
-        "description": "Deux petits tourbillons givrés supplémentaires sont libérés à l'activation d'École Kamisato : Givre mortel ; chacun inflige 20 % des DGT du tourbillon d'origine.",
+        "description": {
+          "text": "Deux petits tourbillons givrés supplémentaires sont libérés à l'activation d'École Kamisato : Givre mortel, chacun inflige 20 % des DGT du tourbillon d'origine."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855217/Genshin/Constellation/LameDeBlizzardSeki.webp"
       },
       {
         "name": "Confettis de fleuraison givrée",
         "level": 3,
-        "description": "Niveau d'aptitude École Kamisato : Givre mortel +3.",
+        "description": {
+          "text": "Niveau d'aptitude École Kamisato : Givre mortel +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855213/Genshin/Constellation/ConfettisDeFleuraisonGivree.webp"
       },
       {
         "name": "Retour prééminent",
         "level": 4,
-        "description": "La DÉF des ennemis subissant les DGT infligés par le tuorbillon givré d'École Kamisato : Givre mortel est réduite de 30 % pendant 6 s.",
+        "description": {
+          "text": "La DÉF des ennemis subissant les DGT infligés par le tuorbillon givré d'École Kamisato : Givre mortel est réduite de 30 % pendant 6 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855208/Genshin/Constellation/RetourPreeminent.webp"
       },
       {
         "name": "Lune entre les nuages",
         "level": 5,
-        "description": "Niveau de compétence École Kamisato : Fleur de glace +3.",
+        "description": {
+          "text": "Niveau de compétence École Kamisato : Fleur de glace +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855204/Genshin/Constellation/LuneEntreLesNuages.webp"
       },
       {
         "name": "Danse de la lune",
         "level": 6,
-        "description": "Kamisato Ayaka s'illumine d'une gracieuse gelée toutes les 10 s, augmentant les DGT infligés par son attaque chargée de 298 %. Cet effet s'annule 0,5 s après que l'attaque chargée d'Ayaka touche un ennemi, puis le chronomètre de cette capacité démarre.",
+        "description": {
+          "text": "Kamisato Ayaka s'illumine d'une gracieuse gelée toutes les 10 s, augmentant les DGT infligés par son attaque chargée de 298 %.",
+          "note": "Cet effet s'annule 0,5 s après que l'attaque chargée d'Ayaka touche un ennemi, puis le chronomètre de cette capacité démarre."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710855200/Genshin/Constellation/DanseDeLaLune.webp"
       }
     ]
@@ -10595,8 +10724,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Tonnerre venu d'ailleurs",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710863571/Genshin/Talents/TonnerreVenuDailleurs.webp",
         "type": "Attaque normale",
@@ -10615,15 +10744,13 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Lame d'éclair",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710863555/Genshin/Talents/LameDeclair.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Libère trois ombres de foudre rapides, qui infligent des DGT Électro aux ennemis, et laissent une amulette b'abondance lorsqu'elles touchent un ennemi. Jusqu'à 2 amulettes d'abondance peuvent être ainsi génerées. Réutiliser la compétence annule les amulettes d'abondance générées.",
-            "effect": [{ "text": "" }]
+            "text": "Libère trois ombres de foudre rapides, qui infligent des DGT Électro aux ennemis, et laissent une amulette b'abondance lorsqu'elles touchent un ennemi. Jusqu'à 2 amulettes d'abondance peuvent être ainsi génerées. Réutiliser la compétence annule les amulettes d'abondance générées."
           },
           {
             "name": "Amulettes d'abondance",
@@ -10636,43 +10763,42 @@
         ],
         "note": "Vous discutez des différents chemins que peut prendre l'électricité avec Paimon."
       },
-      "dechainement": {
+      {
         "name": "Tonnerre hurlant",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710863539/Genshin/Talents/TonnerreHurlant.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "Vous invoquez la protection de la foudre, qui repousse les ennemis proches. et leur inflige des DGT Électro.",
-            "text": "",
-            "effect": [{ "text": "" }]
+            "text": "Vous invoquez la protection de la foudre, qui repousse les ennemis proches. et leur inflige des DGT Électro."
           },
           {
             "name": "Voile de foudre",
-            "text": "Les attaques chargées ou normale du personnage déployé font pleuvoir la Foudre majestueuse lorsqu'elles touchent, qui inflige des DGT Électro. Lorsque la Foudre majestueuse touche un ennemi, elle fait récupérer de l'énergie élémentaire à ce personnage. Jusqu'à 1 Foudre majestueuse peut être déclenchée toutes les 0,5 s.",
-            "effect": [{ "text": "" }]
+            "text": "Les attaques chargées ou normale du personnage déployé font pleuvoir la Foudre majestueuse lorsqu'elles touchent, qui inflige des DGT Électro. Lorsque la Foudre majestueuse touche un ennemi, elle fait récupérer de l'énergie élémentaire à ce personnage. Jusqu'à 1 Foudre majestueuse peut être déclenchée toutes les 0,5 s."
           }
         ],
         "note": "Paimon et vous avez étudié la lumière qui traverse les nuages."
       },
-      "passif1": {
+      {
         "name": "Éclair soudain",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710863522/Genshin/Talents/EclairSoudain.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Réduit de 1,5 s le TdR de Lame d'éclair lorsqu'un autre personnage proche absorbe l'amulette d'abondance générée par Lame d'éclair.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Réduit de 1,5 s le TdR de Lame d'éclair lorsqu'un autre personnage proche absorbe l'amulette d'abondance générée par Lame d'éclair."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Tonnerre retentissant",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710863508/Genshin/Talents/TonnerreRetentissant.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Confére un bonus supplémentaire de recharge d'énergie à l'amulette d'abondance générée par Lame d'éclair équivalant à 10 % de la recharge d'énergie du voyageur.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Confére un bonus supplémentaire de recharge d'énergie à l'amulette d'abondance générée par Lame d'éclair équivalant à 10 % de la recharge d'énergie du voyageur."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -10766,37 +10892,45 @@
       {
         "name": "Orage de récolte printanière",
         "level": 1,
-        "description": "Augmente le nombre d'amulettes d'abondance pouvant être générées avec Lame d'éclair à 3.",
+        "description": {
+          "text": "Augmente le nombre d'amulettes d'abondance pouvant être générées avec Lame d'éclair à 3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864500/Genshin/Constellation/OrageDeRecoltePrintaniere.webp"
       },
       {
         "name": "Véhémence pourpre",
         "level": 2,
-        "description": "Réduit de 15 % pendant 8 s la RÉS Électro des ennemis ayant été touchés par la Foudre majestueuse de Tonnerre hurlant.",
+        "description": {
+          "text": "Réduit de 15 % pendant 8 s la RÉS Électro des ennemis ayant été touchés par la Foudre majestueuse de Tonnerre hurlant."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864485/Genshin/Constellation/VehemencePourpre.webp"
       },
       {
         "name": "Grondement lointain",
         "level": 3,
-        "description": "Niveau d'aptitude Tonnerre hurlant +3.",
+        "description": { "text": "Niveau d'aptitude Tonnerre hurlant +3." },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864470/Genshin/Constellation/GrondementLointain.webp"
       },
       {
         "name": "Cumulonimbus imprévisible",
         "level": 4,
-        "description": "Si l'énergie élémentaire d'un personnage obtenant une amulette d'abondance générée par Lame d'éclair est inférieure à 35 %, l'énergie restaurée par l'amulette d'abondance augmente de 100 %",
+        "description": {
+          "text": "Si l'énergie élémentaire d'un personnage obtenant une amulette d'abondance générée par Lame d'éclair est inférieure à 35 %, l'énergie restaurée par l'amulette d'abondance augmente de 100 %"
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864456/Genshin/Constellation/CumulonimbusImprevisible.webp"
       },
       {
         "name": "Clameurs de la nature",
         "level": 5,
-        "description": "Niveau d'aptitude Lame d'éclair +3.",
+        "description": { "text": "Niveau d'aptitude Lame d'éclair +3." },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864441/Genshin/Constellation/ClameursdeLaNature.webp"
       },
       {
         "name": "Secousse céleste",
         "level": 6,
-        "description": "Toutes les 2 Foudres majestueuses déclenchées par Tonnerre hurlant, la Foudre majestueuse suivante inflige 200 % de ses DGT d'origine et le personnage actuel récupère 1 pt d'énergie élémentaire supplémentaire.",
+        "description": {
+          "text": "Toutes les 2 Foudres majestueuses déclenchées par Tonnerre hurlant, la Foudre majestueuse suivante inflige 200 % de ses DGT d'origine et le personnage actuel récupère 1 pt d'énergie élémentaire supplémentaire."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710864428/Genshin/Constellation/SecousseCeleste.webp"
       }
     ]
@@ -10887,8 +11021,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Flambée pyrotechnique",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865209/Genshin/Talents/FlambeePyrotechnique.webp",
         "type": "Attaque normale",
@@ -10907,62 +11041,67 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "Danse du feu « Niwabi »",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865185/Genshin/Talents/DanseDuFeuNiwabi.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
+            "text": "Yoimiya brandit un cierge magique, s'entourant d'un champ de salpêtres."
+          },
+          {
             "name": "Niwabi Enshou",
-            "text": "Yoimiya brandit un cierge magique, s'entourant d'un champ de salpêtres. Pendant la durée de cette aptitude, les flèches tirées lors de l'attaque normale de Yoimiya sont des flèches enflammées, infligeant davantage de DGT, et dont les DGT sont convertis en DGT Pyro. Durant cette période, la deuxième charge de son attaque normale « Flambée pyrotechnique » ne génère pas de flèche chercheuses. L'effet s'arrête lorsque Yoimiya quitte le champ de bataille.",
-            "effect": [{ "text": "" }]
+            "text": "Pendant la durée de cette aptitude, les flèches tirées lors de l'attaque normale de Yoimiya sont des flèches enflammées, infligeant davantage de DGT, et dont les DGT sont convertis en DGT Pyro. Durant cette période, la deuxième charge de son attaque normale « Flambée pyrotechnique » ne génère pas de flèche chercheuses. L'effet s'arrête lorsque Yoimiya quitte le champ de bataille."
           }
         ],
         "note": "Le « Niwabi » est une sorte de feux d'artifice à base d'encens inventé par Yoimiya, qui ne requiert aucune formation ou préparation préalable, ce qui le rend particulièrement populaire. Après pusieurs incidents, la Commission administrative a interdit l'usage du « Niwabi » dans l'enseinte de la ville, mais il arrive encore que de discrètes étincelles illuminent la nuit. Vues des hauteurs, on dirait de petites étoiles filantes."
       },
-      "dechainement": {
+      {
         "name": "Saxifrage Ryuukin",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865161/Genshin/Talents/SaxifrageRyuukin.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Yoimiya s'élance dans les airs avec sa création originale, le « Saxifrage Ryuukin » et tire des roquettes flamboyantes pleines de surprises, qui infligent des DGT Pyro de zone, et marquent un ennemi d'une « Flamme Ryuukin ».",
-            "effect": [{ "text": "" }]
+            "text": "Yoimiya s'élance dans les airs avec sa création originale, le « Saxifrage Ryuukin » et tire des roquettes flamboyantes pleines de surprises, qui infligent des DGT Pyro de zone, et marquent un ennemi d'une « Flamme Ryuukin »."
           },
           {
             "name": "Flamme Ryuukin",
-            "text": "Les attaques normales, chargées et plongeantes, les compétences élémentaires et les déchaînements élémentaires de tous les personnages de l'équipe (hormis Yoimiya) génèrent une explosion lorsqu'elles touchent un ennemi marqué d'une Flamme Ryuukin, infligeant des DGT Pyro de zone. Lorsqu'un ennemi marqué d'une Flamme Ryuukin est vaincu avant la fin de l'effet, ce dernier est transféré à un ennemi proche qui hérite de la durée restante. Il est possible de générer ainsi une explosion toutes les 2 s max. Quand Yoimiya est vaincue, l'effet des Flammes Ryuukin générées par aptitudes prend fin.",
-            "effect": [{ "text": "" }]
+            "text": "Les attaques normales, chargées et plongeantes, les compétences élémentaires et les déchaînements élémentaires de tous les personnages de l'équipe (hormis Yoimiya) génèrent une explosion lorsqu'elles touchent un ennemi marqué d'une Flamme Ryuukin, infligeant des DGT Pyro de zone. Lorsqu'un ennemi marqué d'une Flamme Ryuukin est vaincu avant la fin de l'effet, ce dernier est transféré à un ennemi proche qui hérite de la durée restante. Il est possible de générer ainsi une explosion toutes les 2 s max. Quand Yoimiya est vaincue, l'effet des Flammes Ryuukin générées par aptitudes prend fin."
           }
         ],
         "note": "Les feux d'artifice sont les étoiles créées par l'homme, comètes detinées aux cieux. Et même si elle n'est qu'éphémère, la lumière qu'ils génèrent peut demeurer longtemps dans le cœur des hommes."
       },
-      "passif1": {
+      {
         "name": "Tour de passe-passe",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865137/Genshin/Talents/TourDePassePasse.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Tant que Danse du feu « Niwabi » est active, les attaques normales de Yoimiya augmentent son bonus de DGT Pyro de 2 %. Cet effet dure 3 s et peut être cumulé jusqu'à 10 fois.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Tant que Danse du feu « Niwabi » est active, les attaques normales de Yoimiya augmentent son bonus de DGT Pyro de 2 %. Cet effet dure 3 s et peut être cumulé jusqu'à 10 fois."
+          }
+        ]
       },
-      "passif2": {
+      {
         "name": "Aube d'une nuit d'été",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865113/Genshin/Talents/AubeDuneNuitDete.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Lorsque Yoimiya libère Saxifrage Ryuukin, l'ATQ de tous les autres personnages de l'èuipe (hormis Yoimiya) augmente de 10 % pendant 15 s. De plud, chaque cumul de l'aptitude passive « Tour de passe-passe » que Yoimiya possède lorsqu'elle exécute Saxifrage d'or augmente ce bonus d'ATQ de 1 %.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Lorsque Yoimiya libère Saxifrage Ryuukin, l'ATQ de tous les autres personnages de l'équipe (hormis Yoimiya) augmente de 10 % pendant 15 s. De plud, chaque cumul de l'aptitude passive « Tour de passe-passe » que Yoimiya possède lorsqu'elle exécute Saxifrage d'or augmente ce bonus d'ATQ de 1 %."
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "Rentabilisation maximum",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710865090/Genshin/Talents/RentabilisationMaximum.webp",
         "type": "Passif utilitaire",
-        "description": "Lors de la fabrication de décorations, d'aménagements ou de décorations de paysage, une partie des matériaux est récupérée."
+        "description": [
+          {
+            "text": "Lors de la fabrication de décorations, d'aménagements ou de décorations de paysage, une partie des matériaux est récupérée."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -11031,37 +11170,47 @@
       {
         "name": "Agate Ryuukin",
         "level": 1,
-        "description": "Prolonge la durée de la Flamme Ryuukin générée par Saxifrage Ryuukin de 4 s. De plus, lorsqu'un ennemi affecté par Flamme Ryuukin est vaincu pendant la durée de l'effet, l'ATQ de Yoimiya augmente de 20 % pendant 20 s.",
+        "description": {
+          "text": "Prolonge la durée de la Flamme Ryuukin générée par Saxifrage Ryuukin de 4 s. De plus, lorsqu'un ennemi affecté par Flamme Ryuukin est vaincu pendant la durée de l'effet, l'ATQ de Yoimiya augmente de 20 % pendant 20 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027110/Genshin/Constellation/AgateRyuukin.webp"
       },
       {
         "name": "Procession de feux de joie",
         "level": 2,
-        "description": "Lorsque les DGT Pyro infligés par Yoimiya résultent en un coup CRIT, cette derinére obtient pendant 6 s un bonus de DGT Pyro de 25 %. Cet effet s'applique également lorsque Yoimiya fait partie de l'équip mais n'est pas déployée.",
+        "description": {
+          "text": "Lorsque les DGT Pyro infligés par Yoimiya résultent en un coup CRIT, cette derinére obtient pendant 6 s un bonus de DGT Pyro de 25 %. Cet effet s'applique également lorsque Yoimiya fait partie de l'équip mais n'est pas déployée."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027106/Genshin/Constellation/ProcessionDeFeuxDeJoie.webp"
       },
       {
         "name": "Flammes ingénieuses",
         "level": 3,
-        "description": "Niveau d'aptitude Danse du feu « Niwabi » +3.",
+        "description": {
+          "text": "Niveau d'aptitude Danse du feu « Niwabi » +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027101/Genshin/Constellation/FlammesIngenieuses.webp"
       },
       {
         "name": "Pro de la pyrotechnie",
         "level": 4,
-        "description": "Réduit le Tdr de Danse du feu « Niwabi » de 1,2 s lorsque Flamme Ryuukin de Yoimiya déclenche une explosion.",
+        "description": {
+          "text": "Réduit le Tdr de Danse du feu « Niwabi » de 1,2 s lorsque Flamme Ryuukin de Yoimiya déclenche une explosion."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027097/Genshin/Constellation/ProDeLaPyrotechnie.webp"
       },
       {
         "name": "Nuit d'un festival d'été",
         "level": 5,
-        "description": "Niveau d'aptitude Saxifrage Ryuukin +3.",
+        "description": { "text": "Niveau d'aptitude Saxifrage Ryuukin +3." },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027092/Genshin/Constellation/NuitDunFestivalDete.webp"
       },
       {
         "name": "Pluie de météores de Naganohara",
         "level": 6,
-        "description": "Tant que Danse du feu « Niwabi » est active, les attaques normales de Yoimiya ont 50 % de chances de libérer une flèche enflammée supplémentaire qui inflige 60 % des DGT d'origine. Ces DGT sont considérés comme des DGT d'attaque normale.",
+        "description": {
+          "text": "Tant que Danse du feu « Niwabi » est active, les attaques normales de Yoimiya ont 50 % de chances de libérer une flèche enflammée supplémentaire qui inflige 60 % des DGT d'origine. Ces DGT sont considérés comme des DGT d'attaque normale."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027088/Genshin/Constellation/PluieDeMeteoresNaganohara.webp"
       }
     ]
@@ -11152,8 +11301,8 @@
         }
       ]
     },
-    "talents": {
-      "attaqueNormale": {
+    "talents": [
+      {
         "name": "Lame ninja du Shuumatsuban",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027826/Genshin/Talents/LameNinjaDuShuumatsuban.webp",
         "type": "Attaque normale",
@@ -11172,43 +11321,35 @@
           }
         ]
       },
-      "competence": {
+      {
         "name": "École Yoohoo : Course Fuuin",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027811/Genshin/Talents/EcoleYoohooCourseFuuin.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "La technique spéciale des ninjas de l'École Yoohoo ! Se recroqueville sous la forme d'un tourbillon Fuufuu, qui inflige des DGT Anémo aux ennemis qu'elle percute à grande vitesse, pour terminer sur un coup de pied Fuufuu qui inflige des DGT Anémo de zone.",
-            "effect": [{ "text": "" }]
+            "text": "La technique spéciale des ninjas de l'École Yoohoo ! Se recroqueville sous la forme d'un tourbillon Fuufuu, qui inflige des DGT Anémo aux ennemis qu'elle percute à grande vitesse, pour terminer sur un coup de pied Fuufuu qui inflige des DGT Anémo de zone."
           },
           {
             "name": "Appui simple",
-            "text": "Se met sous la forme d'un tourbillon Fuufuu et roule vers l'avant sur une courte distance avant d'exécuter son coup de pied Fuufuu.",
-            "effect": [{ "text": "" }]
+            "text": "Se met sous la forme d'un tourbillon Fuufuu et roule vers l'avant sur une courte distance avant d'exécuter son coup de pied Fuufuu."
           },
           {
             "name": "Appui Long",
-            "text": "Roule continuellement en tourbillon Fuufuu, augmentent la RÉS à l'interruption de Sayu. Sayu peut contrôler la direction dans laquelle elle roule, et utiliser à nouveau la compétence permet de sortir de cet état d'exécuter un coup de pied Fuufuu plus puissant. L'apppui long de cette compétence peut séclencher une absorption élémentaire.",
-            "effect": [{ "text": "" }]
+            "text": "Roule continuellement en tourbillon Fuufuu, augmentent la RÉS à l'interruption de Sayu. Sayu peut contrôler la direction dans laquelle elle roule, et utiliser à nouveau la compétence permet de sortir de cet état d'exécuter un coup de pied Fuufuu plus puissant. L'apppui long de cette compétence peut séclencher une absorption élémentaire."
           },
           {
             "name": "Absorption élémentaire",
-            "text": "Cette compétence a une durée max de 10 s, et entre en TdR lorsque son effet prend fin. Plus Sayu reste longtemps en tourbillon Fuufu, plus le TdR est long. Si Sayu entre en contact avec les éléments Hydro, Pyro, Cryo, et Électro lorsqu'elle est en tourbillon Fuufuu, elle obtient les attributs élémentaires correspondants, et le tourbillon Fuufuu ainsi que le coup de pied Fuufuu infligent des DGt supplementaires de l'élément absorbé. L'absorption élémentaire ne peut se produire qu'une fois pendant la durée de la compétence.",
-            "effect": [{ "text": "" }]
+            "text": "Cette compétence a une durée max de 10 s, et entre en TdR lorsque son effet prend fin. Plus Sayu reste longtemps en tourbillon Fuufu, plus le TdR est long. Si Sayu entre en contact avec les éléments Hydro, Pyro, Cryo, et Électro lorsqu'elle est en tourbillon Fuufuu, elle obtient les attributs élémentaires correspondants, et le tourbillon Fuufuu ainsi que le coup de pied Fuufuu infligent des DGt supplementaires de l'élément absorbé. L'absorption élémentaire ne peut se produire qu'une fois pendant la durée de la compétence."
           }
-        ],
-        "note": ""
+        ]
       },
-      "dechainement": {
+      {
         "name": "École Yoohoo : Bourrasque du mujina",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027797/Genshin/Talents/EcoleYoohooBourrasqueDeMujina.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "Une autre technique spéciale des ninjas d'École Yoohoo, qui fait appel à une invocation pour venir en aide à Sayu. Inflige des DGT Anémo aux ennemis proches, et soigne tous les personnages de l'équipe proches d'uune quantité de PV proportionelle à l'ATQ de Sayu. Iinvoque également un Daruma Muji-muji.",
-            "effect": [{ "text": "" }]
+            "text": "Une autre technique spéciale des ninjas d'École Yoohoo, qui fait appel à une invocation pour venir en aide à Sayu. Inflige des DGT Anémo aux ennemis proches, et soigne tous les personnages de l'équipe proches d'uune quantité de PV proportionelle à l'ATQ de Sayu. Iinvoque également un Daruma Muji-muji."
           },
           {
             "name": "Daruma Muji-muji",
@@ -11225,38 +11366,46 @@
         ],
         "note": "Ceux qui ne comprennent rien au jujitsu adorent voir Sayu fair étalage de cette technique, et certains ont même essayé de l'apprendre auprès d'elle. Mais Sayu veut dormir et n'a aucune envie d'être dérangée."
       },
-      "passif1": {
+      {
         "name": "Quelqu'un de plus efficace",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027783/Genshin/Talents/QuelquunDePlusEfficace.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": {
-          "text": "Lorsque Sayu déclenche une Dispersion, elle soigne les personnages de l'équie ainsi que les personnage alliés proches à hauteur de 300 PV. Sayu récupère de plus 1,2 PV supplémentaires pour chacun de ses pts de maîtrise élémentaires. Cet effet peut être déclenché une fois toutes les 2 s.",
-          "effect": [{ "text": "" }]
-        }
+        "description": [
+          {
+            "text": "Lorsque Sayu déclenche une Dispersion, elle soigne les personnages de l'équie ainsi que les personnage alliés proches à hauteur de 300 PV. Sayu récupère de plus 1,2 PV supplémentaires pour chacun de ses pts de maîtrise élémentaires."
+          },
+          { "text": "Cet effet peut être déclenché une fois toutes les 2 s." }
+        ]
       },
-      "passif2": {
+      {
         "name": "Pas de boulot aujourd'hui !",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027769/Genshin/Talents/PasDeBoulotAujourdhui.webp",
         "type": "Passif de la 4ème phase d'élévation",
-        "description": {
-          "text": "Confère au Darum Muji-muji invoqué pendant École Yoohoo : Bourrasque du mujina les effets suivants :",
-          "effect": [
-            {
-              "text": "Lorqu'il soigne un personnage, les personnages proches de ce dernier sont soignés à hauteur de 20 % des PV récupérés par le personnage."
-            },
-            {
-              "text": "La zone de DGT infligés augmente lorsqu'il attaque un ennemi."
-            }
-          ]
-        }
+        "description": [
+          {
+            "text": "Confère au Darum Muji-muji invoqué pendant École Yoohoo : Bourrasque du mujina les effets suivants :",
+            "effect": [
+              {
+                "text": "Lorqu'il soigne un personnage, les personnages proches de ce dernier sont soignés à hauteur de 20 % des PV récupérés par le personnage."
+              },
+              {
+                "text": "La zone de DGT infligés augmente lorsqu'il attaque un ennemi."
+              }
+            ]
+          }
+        ]
       },
-      "passif3": {
+      {
         "name": "École Yoohoo : Art du silence",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711027756/Genshin/Talents/EcoleYoohooArtDuSilence.webp",
         "type": "Passif utilitaire",
-        "description": "Quand Sayu fait partie de l'équipe, vos personnages f'effraient pas certains animaux, tels que le papillon cristallin. Pour savoir quels sont les animaux concernés, consultez l'onglet « Divers » dans la section « Faune » du Bestiaire des Archives."
+        "description": [
+          {
+            "text": "Quand Sayu fait partie de l'équipe, vos personnages f'effraient pas certains animaux, tels que le papillon cristallin. Pour savoir quels sont les animaux concernés, consultez l'onglet « Divers » dans la section « Faune » du Bestiaire des Archives."
+          }
+        ]
       }
-    },
+    ],
     "talent_upgrade": {
       "mora": {
         "name": "Mora",
@@ -11325,7 +11474,9 @@
       {
         "name": "Technique multitâche",
         "level": 1,
-        "description": "Le Daruma Muji-muji invoqué pae École Yoohoo : Bourrasque du mujina ignore les limites de PV et peut attaquer les ennemis proches et soigner les personnages en même temps.",
+        "description": {
+          "text": "Le Daruma Muji-muji invoqué pae École Yoohoo : Bourrasque du mujina ignore les limites de PV et peut attaquer les ennemis proches et soigner les personnages en même temps."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711028528/Genshin/Constellation/TechniqueMultitache.webp"
       },
       {
@@ -11347,19 +11498,25 @@
       {
         "name": "Bah, le clone s'en occupe...",
         "level": 3,
-        "description": "Niveau d'aptitude École Yoohoo : Bourrasque du mujina +3.",
+        "description": {
+          "text": "Niveau d'aptitude École Yoohoo : Bourrasque du mujina +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711028500/Genshin/Constellation/BahLeCloneSenOccupe.webp"
       },
       {
         "name": "Paresse revue et améliorée",
         "level": 4,
-        "description": "Sayu récupère 1,2pts d'énergie élémentaire lorsqu'elle déclenche une Dispersion sur le champ de bataille. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "description": {
+          "text": "Sayu récupère 1,2pts d'énergie élémentaire lorsqu'elle déclenche une Dispersion sur le champ de bataille. Cet effet peut être déclenché une fois toutes les 2 s."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711028486/Genshin/Constellation/ParesseRevueEtAmelioree.webp"
       },
       {
         "name": "La vitesse avant tout",
         "level": 5,
-        "description": "Niveau d'aptituse École Yoohoo : Course Fuuin +3.",
+        "description": {
+          "text": "Niveau d'aptituse École Yoohoo : Course Fuuin +3."
+        },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711028472/Genshin/Constellation/LaVitesseAvantTout.webp"
       },
       {
@@ -11377,6 +11534,254 @@
           ]
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711028460/Genshin/Constellation/CestLheureDunBonDodo.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P40",
+    "name": "Shogun Raiden",
+    "title": "",
+    "star": 5,
+    "art": "",
+    "icon": "",
+    "weapon": {
+      "type": "",
+      "icon": ""
+    },
+    "element": { "type": "", "icon": "" },
+    "region": { "name": "", "icon": "" },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 1,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "",
+        "picture": "",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "",
+        "picture": "",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        { "name": "", "picture": "", "number": 18, "id": "" },
+        { "name": "", "picture": "", "number": 30, "id": "" },
+        { "name": "", "picture": "", "number": 36, "id": "" }
+      ]
+    },
+    "talents": [
+      {
+        "name": "",
+        "icon": "",
+        "type": "Attaque normale",
+        "description": [
+          { "name": "Attaque normale", "text": "" },
+          { "name": "Attaque chargée", "text": "" },
+          { "name": "Attaque plongeante", "text": "" }
+        ]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [{ "text": "", "effect": [{ "text": "" }] }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [{ "text": "", "effect": [{ "text": "" }] }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif utilitaire",
+        "description": [{ "text": "", "effect": [{ "text": "" }] }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Sprint",
+        "description": [
+          {
+            "name": "Remplace le sprint",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        { "name": "", "picture": "", "number": 3, "id": "" },
+        { "name": "", "picture": "", "number": 21, "id": "" },
+        { "name": "", "picture": "", "number": 38, "id": "" }
+      ],
+      "bossLoot": { "name": "", "picture": "", "number": 6, "id": "" },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": { "name": "", "icon": "" },
+    "constellation_upgrade": [
+      {
+        "name": "",
+        "level": 1,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 2,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 3,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 4,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 5,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 6,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
       }
     ]
   }
