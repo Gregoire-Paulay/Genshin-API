@@ -17,9 +17,9 @@ export const characterDetailsSchema = z.object({
   star: z.number(),
   art: z.string().url(),
   icon: z.string().url(),
-  weapon: z.object({ type: z.string(), icon: z.string() }),
-  element: z.object({ type: z.string(), icon: z.string() }),
-  region: z.object({ name: z.string(), icon: z.string() }),
+  weapon: z.object({ type: z.string(), icon: z.string().url() }),
+  element: z.object({ type: z.string(), icon: z.string().url() }),
+  region: z.object({ name: z.string(), icon: z.string().url().optional() }),
   ascension_materials: z.object({
     mora: z.object({
       name: z.string(),
@@ -194,7 +194,7 @@ export const characterDetailsSchema = z.object({
   constellation_upgrade: z.array(
     z.object({
       name: z.string(),
-      level: z.number(),
+      level: z.number().or(z.string()),
       description: z.object({
         text: z.string(),
         effect: z.array(z.object({ text: z.string() })).optional(),

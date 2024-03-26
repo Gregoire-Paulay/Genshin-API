@@ -767,17 +767,17 @@
           {
             "name": "Aloy",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699292/Genshin/Characters/AloyIcon.png",
-            "id": ""
+            "id": "P43"
           },
           {
             "name": "Gorou",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/GorouIcon.png",
-            "id": ""
+            "id": "P46"
           },
           {
             "name": "Shogun Raiden",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/ShogunRaidenIcon.png",
-            "id": ""
+            "id": "P40"
           }
         ]
       },
@@ -789,17 +789,17 @@
           {
             "name": "Sangonomiya Kokomi",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/SangonomiyaKokomiIcon.png",
-            "id": ""
+            "id": "P41"
           },
           {
             "name": "Shenhe",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699734/Genshin/Characters/ShenheIcon.png",
-            "id": ""
+            "id": "P47"
           },
           {
             "name": "Thomas",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/ThomasIcon.png",
-            "id": ""
+            "id": "P44"
           }
         ]
       },
@@ -811,17 +811,17 @@
           {
             "name": "Arataki Itto",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/AratakiIttoIcon.png",
-            "id": ""
+            "id": "P45"
           },
           {
             "name": "Kujou Sara",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KujouSaraIcon.png",
-            "id": ""
+            "id": "P42"
           },
           {
             "name": "Yun Jin",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699982/Genshin/Characters/YunJinIcon.png",
-            "id": ""
+            "id": "P48"
           }
         ]
       }
@@ -933,7 +933,7 @@
           {
             "name": "Yae Miko",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/YaeMikoIcon.png",
-            "id": ""
+            "id": "P49"
           }
         ]
       }
