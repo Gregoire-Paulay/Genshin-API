@@ -285,7 +285,7 @@
           {
             "name": "Yelan",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
-            "id": ""
+            "id": "P51"
           }
         ]
       },
@@ -457,7 +457,7 @@
           {
             "name": "Shikanoin Heizou",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
-            "id": ""
+            "id": "P53"
           },
           {
             "name": "Thomas",
@@ -520,7 +520,7 @@
           {
             "name": "Kuki Shinobu",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
-            "id": ""
+            "id": "P52"
           },
           {
             "name": "Voyageur Électro",
@@ -619,12 +619,12 @@
           {
             "name": "Candace",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
-            "id": ""
+            "id": "P60"
           },
           {
             "name": "Cyno",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
-            "id": ""
+            "id": "P58"
           },
           {
             "name": "Faruzan",
@@ -634,12 +634,12 @@
           {
             "name": "Tighnari",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
-            "id": ""
+            "id": "P55"
           },
           {
             "name": "Voyageur Dendro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
-            "id": ""
+            "id": "P54"
           }
         ]
       },
@@ -672,7 +672,7 @@
           {
             "name": "Dori",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
-            "id": ""
+            "id": "P57"
           },
           {
             "name": "Kaveh",
@@ -692,7 +692,7 @@
           {
             "name": "Voyageur Dendro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
-            "id": ""
+            "id": "P54"
           }
         ]
       },
@@ -720,7 +720,7 @@
           {
             "name": "Collei",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
-            "id": ""
+            "id": "P56"
           },
           {
             "name": "Dehya",
@@ -730,7 +730,7 @@
           {
             "name": "Nilou",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
-            "id": ""
+            "id": "P59"
           },
           {
             "name": "Nomade",
@@ -740,7 +740,7 @@
           {
             "name": "Voyageur Dendro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
-            "id": ""
+            "id": "P54"
           }
         ]
       }

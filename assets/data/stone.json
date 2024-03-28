@@ -26,9 +26,29 @@
     ],
     "character": [
       {
-        "name": "Voyageur",
+        "name": "Voyageur Anémo",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
         "id": "P1"
+      },
+      {
+        "name": "Voyageur Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P2"
+      },
+      {
+        "name": "Voyageur Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P37"
+      },
+      {
+        "name": "Voyageur Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P54"
+      },
+      {
+        "name": "Voyageur Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": ""
       }
     ],
     "description": "Récompense de niveau d'aventure"
@@ -95,7 +115,7 @@
       {
         "name": "Shikanoin Heizou",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
-        "id": ""
+        "id": "P53"
       },
       {
         "name": "Sucrose",
@@ -375,7 +395,7 @@
       {
         "name": "Collei",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
-        "id": ""
+        "id": "P56"
       },
       {
         "name": "Kaveh",
@@ -395,7 +415,7 @@
       {
         "name": "Tighnari",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
-        "id": ""
+        "id": "P55"
       },
       {
         "name": "Yaoyao",
@@ -460,12 +480,12 @@
       {
         "name": "Cyno",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
-        "id": ""
+        "id": "P58"
       },
       {
         "name": "Dori",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
-        "id": ""
+        "id": "P57"
       },
       {
         "name": "Fischl",
@@ -485,7 +505,7 @@
       {
         "name": "Kuki Shinobu",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
-        "id": ""
+        "id": "P52"
       },
       {
         "name": "Lisa",
@@ -730,7 +750,7 @@
       {
         "name": "Candace",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
-        "id": ""
+        "id": "P60"
       },
       {
         "name": "Furina",
@@ -755,7 +775,7 @@
       {
         "name": "Nilou",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
-        "id": ""
+        "id": "P59"
       },
       {
         "name": "Sangonomiya Kokomi",
@@ -775,7 +795,7 @@
       {
         "name": "Yelan",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
-        "id": ""
+        "id": "P51"
       }
     ],
     "weeklyBoss": [
