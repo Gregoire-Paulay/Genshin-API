@@ -17863,14 +17863,20 @@
     "name": "Nahida",
     "title": "Physique de pureté",
     "star": 5,
-    "art": "",
-    "icon": "",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/Nahida.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157153/Genshin/Characters/NahidaIcon.png",
     "weapon": {
-      "type": "",
-      "icon": ""
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
     },
-    "element": { "type": "", "icon": "" },
-    "region": { "name": "", "icon": "" },
+    "element": {
+      "type": "Dendro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
+    },
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+    },
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -17880,46 +17886,982 @@
       },
       "stone": [
         {
-          "name": "",
-          "picture": "",
+          "name": "Éclat d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
           "number": 1,
-          "id": ""
+          "id": "AM4"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Fragment d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698266/Genshin/Materials/Stone/FragmentDemeraudeNagadus.webp",
           "number": 9,
-          "id": ""
+          "id": "AM4"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Morceau d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698262/Genshin/Materials/Stone/MorceauDemeraudeNagadus.webp",
           "number": 9,
-          "id": ""
+          "id": "AM4"
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Pierre d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698259/Genshin/Materials/Stone/PierreDemeraudeNagadus.webp",
           "number": 6,
-          "id": ""
+          "id": "AM4"
         }
       ],
       "bossLoot": {
-        "name": "",
-        "picture": "",
+        "name": "Liane d'oblitération",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045490/Genshin/Materials/Boss/LianeDobliteration.webp",
         "number": 46,
-        "id": ""
+        "id": "B22"
       },
       "material": {
-        "name": "",
-        "picture": "",
+        "name": "Kalpalotus",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634253/Genshin/Materials/Kalpalotus.webp",
         "number": 168,
         "id": ""
       },
       "mobLoot": [
-        { "name": "", "picture": "", "number": 18, "id": "" },
-        { "name": "", "picture": "", "number": 30, "id": "" },
-        { "name": "", "picture": "", "number": 36, "id": "" }
+        {
+          "name": "Spores de Fongus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552602/Genshin/Materials/Mobs/SporeDeFongus.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pollen fluorescent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552594/Genshin/Materials/Mobs/PollenFluorescent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Poussière cristalline de sporange",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552588/Genshin/Materials/Mobs/PoussiereCristallineDeSporange.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Akara",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058529/Genshin/Talents/Akara.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 attaques qui infligent des DGT Dendro vers l'avant."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour infliger des DGT Dendro de zone vers l'avant après un court délai."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Dendro, infligeant des DGT aux ennemis en chemin et des DGT Dendro de zone."
+          }
+        ]
+      },
+      {
+        "name": "Omniscience des plans",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058525/Genshin/Talents/OmniscienceDesPlans.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Envoie des liens karmiques des bois autour d'elle, infligeant des DGT Dendro de zone et apposant une graine de Skandha à un maximum de 8 ennemis touchés. En cas d'appui long, la compétence est déclenchée différemment."
+          },
+          {
+            "name": "Appui long",
+            "text": "Bascule en mode visée, ce qui permet de sélectionner une certaine quantité d'ennemis dans une zone limitée, tout en augmentant la RÉS à l'interruption de Nahida pendant le processus. Lorsque le mode visée se termine, cette compétence leur inflige des DGT Dendro et leur appose une graine de Skandha. Le mode visée dure 5 s maximum et permet de sélectionner jusqu'à 8 ennemis."
+          },
+          {
+            "name": "Graine de Skandha",
+            "text": "Les ennemis marqués par une graine de Skandha sont liés les uns aux autres jusqu'à une certaine distance. Après avoir déclenché une réaction élémentaire sur un ennemi affecté par une graine de Skandha ou lui avoir infligé des DGT grâce à un noyau Dendro (incluant Bourgeonnement et Exubérance), Nahida déclenche une purification trikarmique sur cet ennemi et tous les ennemis liés, infligeant des DGT Dendro selon son ATQ et sa maîtrise élémentaire. La purification trikarmique ne peut être déclenchée qu'une fois par intervalle de temps défini."
+          }
+        ],
+        "note": "Toisez, la divinité de l'herbe et des arbres fait briller sa vérité ultime dans le vide, éclairant l'origine et la destruction des trois karmas."
+      },
+      {
+        "name": "Cœur illusoire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058520/Genshin/Talents/CoeurIllusoire.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Manifeste la cour des rêves et déploie le sanctuaire de Maya. Lorsque le champ du sanctuaire de Maya est déclenché, les effets suivants s'appliquent séparément selon les types élémentaires présents dans l'équipe :",
+            "effect": [
+              {
+                "text": "Pyro : lorsque Nahida est dans le sanctuaire de Maya, les DGT infligés par la purification trikarmique d'Omniscience des plans augmentent."
+              },
+              {
+                "text": "Électro : lorsque Nahida est dans le sanctuaire de Maya, l'intervalle de déclenchement entre chaque purification trikarmique d'Omniscience des plans diminue."
+              },
+              { "text": "Hydro : la durée du sanctuaire de Maya augmente." }
+            ]
+          },
+          {
+            "text": "Si un minimum de 2 personnages des types élémentaires susmentionnés sont présents lorsque le champ est déployé, ces effets augmentent davantage. Même si Nahida fait partie de l'équipe mais n'est pas déployée, les effets mentionnés ci-dessus peuvent être obtenus tant que l'équipe est dans le sanctuaire de Maya."
+          }
+        ],
+        "note": "Peut-être que tout ce qui habite sous les berceaux des arbres n'est qu'un rêve éphémère inversé aux yeux de la divinité de la sagesse…"
+      },
+      {
+        "name": "Compassion illuminée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058516/Genshin/Talents/CompassionIlluminee.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Cœur illusoire accorde l'effet suivant au sanctuaire de Maya :",
+            "effect": [
+              {
+                "text": "Augmente la maîtrise élémentaire du personnage déployé à portée d'une valeur équivalant à 25 % de la maîtrise élémentaire du personnage de l'équipe en ayant le plus."
+              },
+              {
+                "text": "La maîtrise élémentaire peut être augmentée d'un maximum de 250 pts de cette manière."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Éveil élucidé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058511/Genshin/Talents/EveilElucide.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Pour chaque pt de maîtrise élémentaire que Nahida possède au-delà de 200 pts, les DGT infligés par la purification trikarmique d'Omniscience des plans augmentent de 0,1 % et son taux CRIT de 0,03 %."
+          },
+          {
+            "text": "Les DGT de la purification trikarmique peuvent être augmentés d'un maximum de 80 % et son taux CRIT d'un maximum de 24 % de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Universalité méditée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712058507/Genshin/Talents/UniversaliteMeditee.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Nahida peut utiliser Omniscience des plans pour interagir avec certains objets récoltables dans une zone d'effet fixe. Cette compétence peut même avoir d'autres effets…"
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Spores de Fongus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552602/Genshin/Materials/Mobs/SporeDeFongus.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Pollen fluorescent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552594/Genshin/Materials/Mobs/PollenFluorescent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Poussière cristalline de sporange",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711552588/Genshin/Materials/Mobs/PoussiereCristallineDeSporange.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615952/Genshin/Materials/Aptitude/EnseignementDeLingenuite.webp",
+          "number": 3,
+          "id": "TM4"
+        },
+        {
+          "name": "Guide de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615945/Genshin/Materials/Aptitude/GuideDeLingenuite.webp",
+          "number": 21,
+          "id": "TM4"
+        },
+        {
+          "name": "Philosophie de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615937/Genshin/Materials/Aptitude/PhilosophieDeLingenuite.webp",
+          "number": 38,
+          "id": "TM4"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fils de marionnette",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615237/Genshin/Materials/Boss/FilsDeMarionnette.webp",
+        "number": 6,
+        "id": "WB7"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Sapientia Oromasdis",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059621/Genshin/Constellation/SapientiaOromasdis.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Graine du savoir emmagasiné",
+        "level": 1,
+        "description": {
+          "text": "Lorsque le sanctuaire de Maya est déployé et que les types élémentaires des personnages de l'équipe sont calculés, un personnage Pyro, Électro et Hydro supplémentaire est comptabilisé."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059616/Genshin/Constellation/GraineDuSavoirEmmagasine.webp"
+      },
+      {
+        "name": "Racine de toute plénitude",
+        "level": 2,
+        "description": {
+          "text": "Les ennemis affectés par une graine de Skandha de Nahida subissent les effets suivants :",
+          "effect": [
+            {
+              "text": "Les réactions subies de Brûlure, de Fleurissement, d'Exubérance et de Bourgeonnement peuvent leur infliger des coups CRIT, dont le taux CRIT est fixé à 20 % et les DGT CRIT à 100 %."
+            },
+            {
+              "text": "Pendant 8 s après avoir subi une réaction de Stimulation, de Suractivation ou de Propagation, leur DÉF diminue de 30 %."
+            }
+          ]
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059611/Genshin/Constellation/RacineDeToutePlenitude.webp"
+      },
+      {
+        "name": "Pousse de réalisation consciente",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Omniscience des plans +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059606/Genshin/Constellation/PousseDeRealisationConsciente.webp"
+      },
+      {
+        "name": "Tige d'inférence manifeste",
+        "level": 4,
+        "description": {
+          "text": "Lorsque 1, 2, 3 ou au moins 4 ennemis proches sont affectés par une graine de Skandha d'Omniscience des plans, la maîtrise élémentaire de Nahida augmente respectivement de 100, 120, 140 ou 160 pts."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059602/Genshin/Constellation/TigeDindifferenceManifeste.webp"
+      },
+      {
+        "name": "Feuille de discours éclairant",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Cœur illusoire +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059597/Genshin/Constellation/FeuilleDeDiscoursEclairant.webp"
+      },
+      {
+        "name": "Fruit d'aboutissement rationnel",
+        "level": 6,
+        "description": {
+          "text": "Lorsque Nahida touche un ennemi affecté par une graine de Skandha d'Omniscience des plans avec une attaque normale ou chargée après avoir utilisé Cœur illusoire, elle utilise une « Purification trikarmique : Oubli karmique » sur cet ennemi et tous les autres ennemis liés, infligeant des DGT Dendro d'une valeur équivalant à 200 % de son ATQ et 400 % de sa maîtrise élémentaire.",
+          "note": "Les DGT infligés par la « Purification trikarmique : Oubli karmique » sont considérés comme des DGT de compétence élémentaire et peuvent être déclenchés une fois tous les 0,2 s. Cet effet dure 10 s ou disparaît après avoir déclenché une « Purification trikarmique : Oubli karmique » 6 fois."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712059593/Genshin/Constellation/FruitDaboutissementRationnel.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P62",
+    "name": "Layla",
+    "title": "Merveilleuse étoile vespérale",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/Layla.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156538/Genshin/Characters/LaylaIcon.png",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Calibre perpétuel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044175/Genshin/Materials/Boss/CalibrePerpetuel.webp",
+        "number": 46,
+        "id": "B20"
+      },
+      "material": {
+        "name": "Nilotpalotus",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711554755/Genshin/Materials/Nilotpalotus.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Épée de radiance",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060581/Genshin/Talents/EpeeDeRadiance.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 3 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Nuits de solennité",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060571/Genshin/Talents/NuitsDeSolennite.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Brandit un bouclier connu sous le nom de « Rideau de sommeil » et inflige des DGT Cryo de zone. L'absorption de DGT d'un rideau de sommeil est basée sur les PV max de Layla et ce dernier absorbe les DGT Cryo 250 % plus efficacement. Lorsque le bouclier est déployé, Layla obtient une brève application Cryo."
+          },
+          {
+            "name": "Étoiles vespérales et étoiles filantes",
+            "text": "Tant qu'un rideau de sommeil est actif, il obtient 1 étoile vespérale toutes les 1,5 s. Lorsqu'un personnage protégé par ce bouclier utilise une compétence élémentaire, le bouclier obtient 2 étoiles vespérales, des étoiles vespérales pouvant être créées une fois toutes les 0,3 s de cette manière. Un maximum de 4 étoiles vespérales peut être cumulé en même temps. Lorsqu'un rideau de sommeil a cumulé 4 étoiles vespérales et que des ennemis sont à proximité, ces étoiles vespérales se transforment en étoiles filantes à tête chercheuse qui sont tirées en séquence, infligeant des DGT Cryo aux ennemis touchés. Si la durée d'un rideau de sommeil se termine ou s'il est détruit, les étoiles vespérales disparaissent, mais si une ou plusieurs étoiles filantes ont déjà été tirées, ces dernières durent jusqu'à la fin de cette vague de tirs."
+          },
+          {
+            "text": "Il est impossible de créer de nouvelles étoiles vespérales tant que la vague d'étoiles filantes n'a pas fini d'être tirée."
+          }
+        ],
+        "note": "« Elle et moi sommes comme deux maîtres artisans qui ne se sont jamais rencontrés, mais qui sont assis sur le même siège rembourré, brodant la même fleur de rêve. »"
+      },
+      {
+        "name": "Rêve berçant les étoiles",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060560/Genshin/Talents/ReveBercantLesEtoiles.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Libère une sphère de rêve céleste qui tire de façon continue des rayons de lumière stellaire sur les ennemis à portée, infligeant des DGT Cryo. Lorsqu'un rayon de lumière stellaire touche un ennemi, il génère 1 étoile vespérale pour les rideaux de sommeil à proximité. Chaque rideau de sommeil peut obtenir 1 étoile vespérale toutes les 0,5 s de cette manière."
+          }
+        ],
+        "note": "« Dors maintenant, dors maintenant ; et que bien des destins se dévoilent devant tes yeux endormis, dans tes rêves pavés d'étoiles. »"
+      },
+      {
+        "name": "Telle la lumière naissante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060549/Genshin/Talents/TelleLaLumiereNaissante.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Pendant la durée d'un rideau de sommeil, chaque étoile vespérale obtenue accorde l'effet Sommeil profond :",
+            "effect": [
+              {
+                "text": "Augmente la force du bouclier du personnage affecté par le rideau de sommeil de 6 %."
+              },
+              {
+                "text": "Cet effet peut être cumulé 4 fois maximum et dure jusqu'à la fin du rideau de sommeil."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sommeil imperturbable",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060538/Genshin/Talents/SommeilImperturbable.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Augmente les DGT infligés par les étoiles filantes tirées par Nuits de solennité d'une valeur équivalant à 1,5 % des PV max de Layla."
+          }
+        ]
+      },
+      {
+        "name": "Présage de rêve ténébreux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712060528/Genshin/Talents/PresageDeReveTenebreux.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'aptitude de personnage."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Parchemin divinatoire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615952/Genshin/Materials/Aptitude/EnseignementDeLingenuite.webp",
+          "number": 3,
+          "id": "TM4"
+        },
+        {
+          "name": "Guide de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615945/Genshin/Materials/Aptitude/GuideDeLingenuite.webp",
+          "number": 21,
+          "id": "TM4"
+        },
+        {
+          "name": "Philosophie de l'ingénuité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615937/Genshin/Materials/Aptitude/PhilosophieDeLingenuite.webp",
+          "number": 38,
+          "id": "TM4"
+        }
+      ],
+      "bossLoot": {
+        "name": "Miroir de Mushin",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615234/Genshin/Materials/Boss/MiroirDeMushin.webp",
+        "number": 6,
+        "id": "WB7"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Luscinia",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061432/Genshin/Constellation/Luscinia.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Forteresse de fantaisie",
+        "level": 1,
+        "description": {
+          "text": "Augmente l'absorption de DGT des rideaux de sommeil de Nuits de solennité de 20 %. De plus, déclencher Nuits de solennité génère un bouclier pour tous les personnages de l'équipe à proximité qui ne sont pas protégés par un rideau de sommeil. Ce bouclier bénéficie d'une absorption de DGT équivalant à 35 % de celle d'un rideau de sommeil, dure 12 s et absorbe les DGT Cryo 250 % plus efficacement."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061416/Genshin/Constellation/ForteresseDeFantaisie.webp"
+      },
+      {
+        "name": "Hégémonie de lumière",
+        "level": 2,
+        "description": {
+          "text": "Lorsqu'une étoile filante de Nuits de solennité touche un ennemi, Layla récupère 1 pt d'énergie. Chaque étoile filante peut restaurer l'énergie de Layla 1 fois de cette manière."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061400/Genshin/Constellation/HegemonieDeLumiere.webp"
+      },
+      {
+        "name": "Secret de la nuit",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Nuits de solennité +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061385/Genshin/Constellation/SecretDeLaNuit.webp"
+      },
+      {
+        "name": "Illumination étoilée",
+        "level": 4,
+        "description": {
+          "text": "Lorsque Nuits de solennité commence à tirer des étoiles filantes, tous les personnages de l'équipe à proximité obtiennent l'effet Étoile d'aube, augmentant les DGT de leurs attaques normales et chargées d'une valeur équivalant à 5 % des PV max de Layla.",
+          "note": "L'effet Étoile d'aube dure 3 s ou disparaît 0,05 s après avoir infligé des DGT d'attaque normale ou chargée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061368/Genshin/Constellation/IlluminationEtoilee.webp"
+      },
+      {
+        "name": "Flux de conscience",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Rêve berçant les étoiles +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061353/Genshin/Constellation/FluxDeConscience.webp"
+      },
+      {
+        "name": "Feu d'âme radieux",
+        "level": 6,
+        "description": {
+          "text": "Augmente les DGT infligés par les étoiles filantes de Nuits de solennité et par les rayons de lumière stellaire de Rêve berçant les étoiles de 40 %.",
+          "note": "De plus, diminue l'intervalle entre la création des étoiles vespérales de Nuits de solennité de 20 %."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712061338/Genshin/Constellation/FeuDameRadieux.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P63",
+    "name": "Nomade",
+    "title": "L'éternellement égaré",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699762/Genshin/Characters/Nomade.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156540/Genshin/Characters/NomadeIcon.png",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Calibre perpétuel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044175/Genshin/Materials/Boss/CalibrePerpetuel.webp",
+        "number": 46,
+        "id": "B20"
+      },
+      "material": {
+        "name": "Champignon sacramental",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711632709/Genshin/Materials/ChampignonSacramental.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Garde-main ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852589/Genshin/Materials/Mobs/GardeMainAncien.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852581/Genshin/Materials/Mobs/GardeMainKageuchi.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Garde-main célèbre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852573/Genshin/Materials/Mobs/GardeMainCelebre.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Battement flottant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066217/Genshin/Talents/BattementFlottant.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Utilise des lames de vent pour enchaîner jusqu'à 3 attaques qui infligent des DGT Anémo."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour concentrer un champ à haute pression en avant et infliger des DGT Anémo de zone après un court délai."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis en chemin et des DGT Anémo de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Hanega : Lyrisme des vents",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066197/Genshin/Talents/HanegaLyrismeDesvents.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Concentre la puissance des vents pour déjouer les contraintes de la terre, infligeant des DGT Anémo dans la zone avant de bondir dans les airs pour entrer dans l'état Bienfait venteux."
+          },
+          {
+            "name": "Bienfait venteux",
+            "text": "Dans cet état, le Nomade ne peut pas effectuer d'attaques plongeantes, mais ses attaques normales et chargées sont respectivement converties en Kuugo : Fushoudan et Kuugo : Toufukai, dont les DGT et la zone d'effet augmentent, les DGT étant alors respectivement considérés comme des DGT d'attaque normale ou comme des DGT d'attaque chargée. De plus, Kuugo : Toufukai ne consomme pas d'endurance. Dans cet état, le Nomade flotte de façon continue dans les airs et ses actions déclenchent les effets suivants :",
+            "effect": [
+              {
+                "text": "Il consomme de façon continue du Kuugoryoku pour maintenir l'état de flottaison."
+              },
+              {
+                "text": "Son sprint consomme une quantité de Kuugoryoku supplémentaire pour qu'il puisse accélérer dans les airs. Maintenir le sprint consomme du Kuugoryoku de façon continue afin de maintenir la vitesse. Cet effet remplace le sprint."
+              },
+              {
+                "text": "Sauter consomme une quantité de Kuugoryoku supplémentaire pour augmenter la hauteur de flottaison. Maintenir le saut consomme du Kuugoryoku de façon continue afin de continuer à monter."
+              }
+            ]
+          },
+          {
+            "text": "L'état prend fin une fois le Kuugoryoku épuisé. Utiliser à nouveau la compétence pendant la durée du bienfait venteux met fin à l'état."
+          }
+        ],
+        "note": "« Le monde danse dans un tourbillon d'apesanteur, présentant un secret qui ne peut être décelé que dans les fleurs. »"
+      },
+      {
+        "name": "Kyougen : Gobandate en cinq actes",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066177/Genshin/Talents/KyougenGobandateEnCinqActes.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Compresse l'atmosphère en une faille capable de mettre fin à tous les soucis, infligeant plusieurs fois des DGT Anémo de zone. Si le personnage est dans l'état Bienfait venteux accordé par « Hanega : Lyrisme des vents », l'état prend fin après l'utilisation de cette compétence."
+          }
+        ],
+        "note": "« Brillant est le regard rétréci du ciel, jetant son regard sur les rêves passés et présents, comme l'éclat qui lave la poussière sous les vents. »"
+      },
+      {
+        "name": "Fleur de jade",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066157/Genshin/Talents/FleurDeJade.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Pendant Hanega : Lyrisme des vents, entrer au contact de l'élément Hydro/Pyro/Cryo/Électro permet à l'état Bienfait venteux qui en résulte d'obtenir un effet de renforcement selon l'élément concerné :",
+            "effect": [
+              { "text": "Hydro : la limite de Kuugoryoku augmente de 20 pts." },
+              { "text": "Pyro : l'ATQ augmente de 30 %." },
+              { "text": "Cryo : le taux CRIT augmente de 20 %." },
+              {
+                "text": "Électro : les attaques normales et chargées restaurent 0,8 pt d'énergie élémentaire après avoir touché un ennemi. L'énergie élémentaire peut être restaurée une fois toutes les 0,2 s de cette manière."
+              }
+            ]
+          },
+          {
+            "text": "Un maximum de 2 types différents de ces effets de renforcement peut être obtenu simultanément."
+          }
+        ]
+      },
+      {
+        "name": "Rafales de rêverie",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066137/Genshin/Talents/RafalesDeReverie.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque le Nomade touche un ennemi avec Kuugo : Fushoudan ou Kuugo : Toufukai pendant l'état Bienfait venteux, il a 16 % de chances d'obtenir l'effet Descente : la prochaine fois qu'il accélère dans les airs pendant cet état Bienfait venteux, l'effet est annulé, l'accélération ne consomme aucun pt de Kuugoryoku et il tire 4 flèches de vent qui infligent chacune des DGT Anémo d'une valeur équivalant à 35 % de son ATQ."
+          },
+          {
+            "text": "Si Kuugo : Fushoudan ou Kuugo : Toufukai ne déclenche pas l'effet Descente, les chances de le déclencher la fois suivante augmentent de 12 %. Le calcul du déclenchement de l'effet se fait une fois toutes les 0,1 s."
+          }
+        ]
+      },
+      {
+        "name": "Accord des vents tourbillonnants",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712066119/Genshin/Talents/AccordDesVentsTourbillonnants.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Les moras utilisés lors de l'élévation de catalyseurs et d'arcs sont réduits de 50 %."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Garde-main ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852589/Genshin/Materials/Mobs/GardeMainAncien.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852581/Genshin/Materials/Mobs/GardeMainKageuchi.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Garde-main célèbre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852573/Genshin/Materials/Mobs/GardeMainCelebre.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615930/Genshin/Materials/Aptitude/EnseignementDeLusage.webp",
+          "number": 3,
+          "id": "TM4"
+        },
+        {
+          "name": "Guide de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615922/Genshin/Materials/Aptitude/GuideDeLusage.webp",
+          "number": 21,
+          "id": "TM4"
+        },
+        {
+          "name": "Philosophie de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615915/Genshin/Materials/Aptitude/PhilosophieDeLusage.webp",
+          "number": 38,
+          "id": "TM4"
+        }
+      ],
+      "bossLoot": {
+        "name": "Cloche de Daka",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615231/Genshin/Materials/Boss/ClocheDeDaka.webp",
+        "number": 6,
+        "id": "WB7"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Peregrinus",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712069103/Genshin/Constellation/Peregrinus.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Shoban : Pennage ostentatoire",
+        "level": 1,
+        "description": {
+          "text": "Pendant l'état Bienfait venteux, la VIT d'attaque de Kuugo : Fushoudan et de Kuugo : Toufukai du Nomade augmente de 10 %. De plus, les flèches de vent tirées par l'aptitude passive « Rafales de rêverie » infligent des DGT supplémentaires équivalant à 25 % de l'ATQ. L'aptitude passive « Rafales de rêverie » doit être déjà débloquée pour cet effet."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712069078/Genshin/Constellation/ShobanPennageOstentatoire.webp"
+      },
+      {
+        "name": "Niban : Île dans les vagues blanches",
+        "level": 2,
+        "description": {
+          "text": "Pendant l'état Bienfait venteux, les DGT infligés par Kyougen : Gobandate en cinq actes augmentent de 4 % pour chaque point de différence entre la quantité actuelle et maximale de Kuugoryoku.",
+          "note": "Les DGT infligés par Kyougen : Gobandate en cinq actes peuvent être augmentés d'un maximum de 200 % de cette manière."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712069053/Genshin/Constellation/NibanIlleDansLesVaguesBlanches.webp"
+      },
+      {
+        "name": "Sanban : Kusemai de belle-de-nuit",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Kyougen : Gobandate en cinq actes +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712069027/Genshin/Constellation/SanbanKusemaiDeBelleNuit.webp"
+      },
+      {
+        "name": "Yonban : Dérive vers le printemps",
+        "level": 4,
+        "description": {
+          "text": "Si l'effet de renforcement selon le type élémentaire de l'aptitude passive « Fleur de jade » est déclenché en utilisant Hanega : Lyrisme des vents, un effet de renforcement n'ayant pas été déclenché cette fois-ci est aléatoirement accordé. Un maximum de 3 types différents de ces effets de renforcement peut être obtenu simultanément.",
+          "note": "L'aptitude passive « Fleur de jade » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712069002/Genshin/Constellation/YonbanDeriveVersLePrintemps.webp"
+      },
+      {
+        "name": "Matsuban : Illustre du lointain",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Hanega : Lyrisme des vents +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712068977/Genshin/Constellation/MatsubanIllustreDuLointain.webp"
+      },
+      {
+        "name": "Shugen : Mélancolie de la brume",
+        "level": 6,
+        "description": {
+          "text": "Lorsque le Nomade touche un ennemi en utilisant Kuugo : Fushoudan pendant l'état Bienfait venteux, les effets suivants se produisent :",
+          "effect": [
+            {
+              "text": "Il déclenche Kuugo : Fushoudan une fois de plus à l'emplacement touché, infligeant 40 % des DGT d'origine, ces DGT étant considérés comme des DGT d'attaque normale."
+            },
+            {
+              "text": "Si son Kuugoryoku est inférieur à 40 pts, il restaure 4 pts. Les pts de Kuugoryoku peuvent être restaurés une fois toutes les 0,2 s de cette manière, et un maximum de 5 fois pour chaque durée de l'état Bienfait venteux."
+            }
+          ]
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712068952/Genshin/Constellation/ShugenMelancolieDeLaBrume.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P64",
+    "name": "Faruzan",
+    "title": "Machiniste énigmatique",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699246/Genshin/Characters/Faruzan.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156549/Genshin/Characters/FaruzanIcon.png",
+    "weapon": {
+      "type": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Tétraèdre de lumière",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045039/Genshin/Materials/Boss/TetraedreDeLumiere.webp",
+        "number": 46,
+        "id": "B21"
+      },
+      "material": {
+        "name": "Quandong",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711642743/Genshin/Materials/Quandong.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Satin rouge délavé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634221/Genshin/Materials/Mobs/SatinRougeDelave.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Soie rouge brodée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634209/Genshin/Materials/Mobs/SoieRougeBrodee.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Brocart rouge luxueux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634198/Genshin/Materials/Mobs/BrocartRougeLuxueux.webp",
+          "number": 36,
+          "id": ""
+        }
       ]
     },
     "talents": [
