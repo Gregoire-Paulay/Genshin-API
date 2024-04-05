@@ -100,7 +100,7 @@
       {
         "name": "Lynette",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
-        "id": ""
+        "id": "P74"
       },
       {
         "name": "Nomade",
@@ -235,7 +235,7 @@
       {
         "name": "Fréminet",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699238/Genshin/Characters/FreminetIcon.png",
-        "id": ""
+        "id": "P75"
       },
       {
         "name": "Ganyu",
@@ -280,7 +280,7 @@
       {
         "name": "Wriothesley",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
-        "id": ""
+        "id": "P76"
       }
     ],
     "weeklyBoss": [
@@ -935,7 +935,7 @@
       {
         "name": "Lyney",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/LyneyIcon.png",
-        "id": ""
+        "id": "P73"
       },
       {
         "name": "Thomas",

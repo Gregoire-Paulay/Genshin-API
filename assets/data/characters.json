@@ -21208,8 +21208,8 @@
     "name": "Voyageur Hydro",
     "title": "Chevalier honoraire",
     "star": 5,
-    "art": "",
-    "icon": "",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -21277,6 +21277,1536 @@
           "number": 36,
           "id": ""
         }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Débordement étranger",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320522/Genshin/Talents/DebordementEtranger.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Sabre d'ondulation",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320517/Genshin/Talents/SabreDondulation.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Libère un torrent qui peut purifier le monde."
+          },
+          {
+            "name": "Appui simple",
+            "text": "Envoie un courant torrentiel vers l'avant, infligeant des DGT Hydro aux ennemis touchés."
+          },
+          {
+            "name": "Appui long",
+            "text": "Bascule en mode visée pour lancer de façon continue des gouttes de rosée dans la direction ciblée, infligeant des DGT Hydro aux ennemis touchés. Lorsque le mode visée se termine, un courant torrentiel est envoyé vers l'avant, infligeant des DGT Hydro aux ennemis touchés. Profusion : lors de l'appui long, si les PV du voyageur/de la voyageuse sont supérieurs à 50 %, les DGT de ses gouttes de rosée augmentent en fonction de ses PV max et il/elle perd une quantité fixe de PV à chaque seconde."
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, après avoir envoyé un courant torrentiel, une épine d'inhalation qui transperce les ennemis est libérée pour infliger des DGT Hydro chargés d'énergie pneuma."
+          }
+        ],
+        "note": "Paimon et vous avez étudié les ondulations qui parcourent l'eau."
+      },
+      {
+        "name": "Montée des eaux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320513/Genshin/Talents/MonteeDesEaux.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Libère une bulle flottante lente qui inflige de façon continue des DGT Hydro aux ennemis proches."
+          }
+        ],
+        "note": "Paimon et vous avez étudié les fluctuations qui rythment les marées…"
+      },
+      {
+        "name": "Eau pure",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320507/Genshin/Talents/EauPure.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsqu'une goutte de rosée lancée en maintenant Sabre d'ondulation a touché un ennemi, une goutte d'eau de source apparaît à proximité du voyageur/de la voyageuse. En la ramassant, ce dernier/cette dernière récupère 7 % de PV."
+          },
+          {
+            "text": "Une goutte d'eau de source peut être créée de cette manière une fois toutes les secondes, et chaque utilisation de Sabre d'ondulation permet de créer un maximum de 4 gouttes d'eau de source."
+          }
+        ]
+      },
+      {
+        "name": "Eau claire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320503/Genshin/Talents/EauClaire.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Si des PV ont été consommés lors d'une profusion en maintenant Sabre d'ondulation, les DGT du courant torrentiel à la fin augmentent d'une valeur équivalant à 45 % de PV consommés par le voyageur/la voyageuse lors de la profusion en question. Les DGT peuvent être augmentés d'un maximum de 5 000 pts de cette manière."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320968/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615907/Genshin/Materials/Aptitude/EnseignementDeLequite.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615900/Genshin/Materials/Aptitude/GuideDeLequite.webp",
+          "number": 6,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615893/Genshin/Materials/Aptitude/PhilosophieDeLequite.webp",
+          "number": 6,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615878/Genshin/Materials/Aptitude/GuideDeLaJustice.webp",
+          "number": 11,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615871/Genshin/Materials/Aptitude/PhilosophieDeLaJustice.webp",
+          "number": 12,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615856/Genshin/Materials/Aptitude/GuideDeLordre.webp",
+          "number": 4,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615849/Genshin/Materials/Aptitude/PhilosophieDeLordre.webp",
+          "number": 20,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fougère du monde luxuriant",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615228/Genshin/Materials/Boss/FougereDuMondeLuxuriant.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Viator (Aether) / Viatrix (Lumine)",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viator.webp",
+      "icon2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708621181/Genshin/Constellation/Viatrix.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Eau ondulante de lac",
+        "level": 1,
+        "description": {
+          "text": "Ramasser une goutte d'eau de source restaure 2 pts d'énergie élémentaire au voyageur/à la voyageuse.",
+          "note": "L'aptitude passive « Eau pure » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321483/Genshin/Constellation/EauOndulanteDeLac.webp"
+      },
+      {
+        "name": "Eau ruisselante de pureté",
+        "level": 2,
+        "description": {
+          "text": "Diminue la VIT de déplacement des bulles flottantes de Montée des eaux de 30 % et augmente leur durée de 3 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321478/Genshin/Constellation/EauRuisselanteDePurete.webp"
+      },
+      {
+        "name": "Eau turbulente d'ondulation",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Sabre d'ondulation +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321473/Genshin/Constellation/EauTurbulanteDondulation.webp"
+      },
+      {
+        "name": "Eau tombante d'averse",
+        "level": 4,
+        "description": {
+          "text": "Lors de l'utilisation de Sabre d'ondulation, le voyageur/la voyageuse obtient un bouclier d'ondulations qui absorbe une quantité de DGT équivalant à 10 % de ses PV max. Le bouclier est efficace à 250 % contre les DGT Hydro et dure jusqu'à la fin de la capacité.",
+          "note": "Une fois toutes les 2 s, lorsqu'une goutte de rosée a touché un ennemi, si le voyageur est protégé/la voyageuse est protégée par un bouclier d'ondulations, l'absorption du bouclier est restaurée à 10 % des PV max du voyageur/de la voyageuse ; si le voyageur n'est pas protégé/la voyageuse n'est pas protégée par un bouclier d'ondulations, un tel bouclier est généré."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321469/Genshin/Constellation/EauTombanteDaverse.webp"
+      },
+      {
+        "name": "Eau tournoyante de vortex",
+        "level": 5,
+        "description": {
+          "text": "Niveau de compétence Montée des eaux +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321464/Genshin/Constellation/EauTournoyanteDeVortex.webp"
+      },
+      {
+        "name": "Eau montante de justice",
+        "level": 6,
+        "description": {
+          "text": "Lorsque le voyageur/la voyageuse récupère une goutte d'eau de source, il/elle restaure 6 % de PV max au personnage de l'équipe à proximité ayant le pourcentage de PV le plus bas."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712321460/Genshin/Constellation/EauMontanteDeJustice.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P73",
+    "name": "Lyney",
+    "title": "Spectacle de fantasmagorie",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/Lyney.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156564/Genshin/Characters/LyneyIcon.png",
+    "weapon": {
+      "type": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Résolution de l'empereur",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048152/Genshin/Materials/Boss/ResolutionDeLempereur.webp",
+        "number": 46,
+        "id": "B26"
+      },
+      "material": {
+        "name": "Rose arc-en-ciel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322659/Genshin/Materials/RoseArcEnCiel.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Cartomagie",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322845/Genshin/Talents/Cartomagie.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 tirs consécutifs."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Tire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Effectue un tir visé plus précis infligeant davantage de DGT. Lors de la visée, la puissance du feu vient se concentrer sur la pointe de la flèche. Les effets varient selon le nombre de charges :",
+            "effect": [
+              {
+                "text": "1 charge : Tire une flèche enflammée qui inflige des DGT Pyro."
+              },
+              {
+                "text": "2 charges : Tire une flèche postiche qui inflige des DGT Pyro et invoque un chapeau félinois après avoir touché."
+              }
+            ]
+          },
+          {
+            "text": "Si Lyney tire une flèche postiche en ayant plus de 60 % de PV, il consomme une partie de ses PV pour obtenir un cumul de fantasmagorie. Cet effet peut être cumulé 5 fois maximum, et sera annulé après 30 s si Lyney quitte le combat. Les PV de Lyney peuvent être diminués jusqu'à 60 % de cette manière."
+          },
+          {
+            "name": "Chapeau félinois",
+            "effect": [
+              {
+                "text": "Permet de narguer les ennemis proches pour attirer leurs attaques, chaque ennemi pouvant être nargué par le chapeau une fois toutes les 5 s."
+              },
+              {
+                "text": "La durabilité du chapeau est proportionnelle aux PV max de Lyney."
+              },
+              {
+                "text": "Lorsque le chapeau est éliminé ou expire, il tire une balle d'artifice sur un ennemi proche, infligeant des DGT Pyro."
+              },
+              {
+                "text": "Il ne peut exister qu'un seul chapeau félinois à la fois."
+              }
+            ]
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, une épine d'inhalation descend à l'emplacement touché par une flèche postiche pour infliger des DGT Pyro chargés d'énergie pneuma."
+          }
+        ]
+      },
+      {
+        "name": "Lumières de fioriture",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322834/Genshin/Talents/LumieresDeFioriture.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Lyney agite son chapeau pour déclencher un feu d'artifice surprise. L'utilisation de cette capacité consomme tous les cumuls de fantasmagorie possédés et inflige des DGT Pyro de zone aux ennemis en face. Les DGT augmentent selon la quantité de cumuls consommés, et les PV de Lyney sont aussi restaurés selon ses PV max."
+          },
+          {
+            "text": "Lorsqu'un chapeau félinois créé par Lyney est présent sur le champ de bataille, le feu d'artifice le fait exploser pour infliger des DGT Pyro de zone d'une valeur équivalant aux DGT d'une balle d'artifice. Les DGT infligés par un chapeau félinois de cette manière sont considérés comme des DGT d'attaque chargée."
+          }
+        ],
+        "note": "« Tout le monde sait que les magiciens détournent intentionnellement le public… Eh oui, pendant que vous me regardiez, mon chapeau et mon assistant là-bas ont tous deux disparu… Fascinant, n'est-ce pas ? »"
+      },
+      {
+        "name": "Clou du spectacle : Parade prodigieuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322823/Genshin/Talents/ClouDuSpectacleParadeProdigieuse.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Libérant sa magie, Lyney se transforme en un félin chaponois qui peut se déplacer rapidement. (À ne pas confondre avec son chapeau félinois. Ce sont deux accessoires bien différents !)"
+          },
+          {
+            "text": "Lorsque le félin chaponois s'approche des ennemis, il fait pleuvoir des flammes sur ces derniers, infligeant une fois des DGT Pyro à chaque ennemi. Une fois la durée terminée, le félin chaponois se dissipe en faisant exploser un magnifique feu d'artifice, ce qui inflige des DGT Pyro de zone, invoque un chapeau félinois et lui accorde un cumul de fantasmagorie."
+          },
+          { "text": "Un félin chaponois peut être dissipé manuellement." }
+        ],
+        "note": "« Regardez attentivement. C'est le moment du miracle, et il n'appartient qu'à nous ! »"
+      },
+      {
+        "name": "Performance périlleuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322812/Genshin/Talents/PerformancePerilleuse.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Si Lyney consomme des PV en tirant une flèche postiche, lorsque le chapeau félinois invoqué touche un ennemi, Lyney récupère 3 pts d'énergie élémentaire et les DGT infligés augmentent d'une valeur équivalant à 80 % de l'ATQ."
+          }
+        ]
+      },
+      {
+        "name": "Ovation concluante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322802/Genshin/Talents/OvationConcluante.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Les DGT infligés par Lyney aux ennemis affectés par l'élément Pyro bénéficient des augmentations suivantes :",
+            "effect": [
+              { "text": "+60 % de base." },
+              {
+                "text": "+20 % pour chacun des personnages de type Pyro (hormis Lyney) dans l'équipe."
+              }
+            ]
+          },
+          {
+            "text": "Les DGT infligés par Lyney aux ennemis affectés par l'élément Pyro peuvent être augmentés d'un maximum de 100 % de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Observation triviale",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322791/Genshin/Talents/ObservationTriviale.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Affiche l'emplacement des produits de Fontaine sur la mini-carte."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615907/Genshin/Materials/Aptitude/EnseignementDeLequite.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615900/Genshin/Materials/Aptitude/GuideDeLequite.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615893/Genshin/Materials/Aptitude/PhilosophieDeLequite.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Floraison première de l'oasis",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615225/Genshin/Materials/Boss/FloraisonPremiereDeLoasis.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Felis Fuscus",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323888/Genshin/Constellation/FelisFuscus.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Art de mysticité",
+        "level": 1,
+        "description": {
+          "text": "Un maximum de 2 chapeaux félinois peut exister en même temps. De plus, les flèches postiches invoquent 2 chapeaux félinois et accordent un cumul supplémentaire de fantasmagorie.",
+          "note": "Cet effet peut être déclenché une fois toutes les 15 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323874/Genshin/Constellation/ArtDeMysticite.webp"
+      },
+      {
+        "name": "Cajolerie affable",
+        "level": 2,
+        "description": {
+          "text": "Lyney obtient un cumul de lucidité toutes les 2 s qu'il passe sur le terrain, augmentant ses DGT CRIT de 20 %. ",
+          "note": "Cet effet peut être cumulé 3 fois maximum, et cesse lorsque Lyney quitte le champ de bataille."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323860/Genshin/Constellation/CajolerieAffable.webp"
+      },
+      {
+        "name": "Dextérité d'illusionnisme",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Attaque normale : Cartomagie +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323847/Genshin/Constellation/DexteriteDillusionnisme.webp"
+      },
+      {
+        "name": "Planification de familiarité",
+        "level": 4,
+        "description": {
+          "text": "La RÉS Pyro des ennemis touchés par l'attaque chargée de type Pyro de Lyney diminue de 20 % pendant 6 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323833/Genshin/Constellation/PlannificationDeFamiliarite.webp"
+      },
+      {
+        "name": "Malice de révélation",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Clou du spectacle : Parade prodigieuse +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323819/Genshin/Constellation/MaliceDeRevelation.webp"
+      },
+      {
+        "name": "Sourire diplomatique",
+        "level": 6,
+        "description": {
+          "text": "Lorsque Lyney décoche une flèche postiche, il tire une balle d'artifice répliquée qui inflige des DGT d'une valeur équivalant à 80 % des DGT d'une balle d'artifice. Ces DGT sont considérés comme des DGT d'attaque chargée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712323807/Genshin/Constellation/SourireDiplomatique.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P74",
+    "name": "Lynette",
+    "title": "Élégance parmi les ombres",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/Lynette.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156578/Genshin/Characters/LynetteIcon.png",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Anémo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+          "number": 1,
+          "id": "AM2"
+        },
+        {
+          "name": "Fragment de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Morceau de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+          "number": 9,
+          "id": "AM2"
+        },
+        {
+          "name": "Pierre de turquoise vayuda",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+          "number": 6,
+          "id": "AM2"
+        }
+      ],
+      "bossLoot": {
+        "name": "Engrenage artificiel de rechange : Coppelia",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047598/Genshin/Materials/Boss/EngrenageCoppelia.webp",
+        "number": 46,
+        "id": "B25"
+      },
+      "material": {
+        "name": "Clochette de lumidouce",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324486/Genshin/Materials/ClochetteDeLumidouce.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Rapière rapide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324991/Genshin/Talents/RapiereRapide.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher deux coups d'épée rapides."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Feinte sibylline",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324971/Genshin/Talents/FeinteSibylline.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Balance sa cape et déclenche une aiguille énigmatique infligeant des DGT Anémo. Lorsqu'une aiguille énigmatique touche un ennemi, Lynette récupère des PV selon ses PV max, avant de perdre, pendant les 4 s qui suivent, une certaine quantité de PV à chaque seconde. L'aiguille énigmatique est utilisée différemment selon la méthode de déclenchement :"
+          },
+          {
+            "name": "Appui simple",
+            "text": "Utilise rapidement une aiguille énigmatique."
+          },
+          {
+            "name": "Appui long",
+            "text": "Lynette entre dans l'état Logogriphe qui permet de se déplacer à grande vitesse, et applique une saillie sombre à un ennemi proche. Pendant ce déplacement, Lynette peut contrôler la direction de sa course et peut s'arrêter en utilisant à nouveau la compétence. Lorsque cet état rapide prend fin, Lynette déclenche son aiguille énigmatique. Si un ennemi marqué d'une saillie sombre est à proximité, Lynette s'en approche en un éclair avant d'utiliser son aiguille énigmatique. Il ne peut y avoir qu'un seul ennemi marqué d'une saillie sombre de Lynette à la fois, et lorsqu'un ennemi ainsi marqué s'éloigne trop, la saillie s'annule."
+          },
+          {
+            "name": "Arkhe : Ousia",
+            "text": "Régulièrement, lorsque Lynette utilise une aiguille énigmatique, elle déclenche une lame fluide pour infliger des DGT Anémo chargés d'énergie ousia."
+          }
+        ],
+        "note": "« Tournez maintenant vos yeux vers la scène et profitez de la performance ! La prochaine fois que j'apparaîtrai, je serai là où vous vous y attendez le moins. »"
+      },
+      {
+        "name": "Magie : Variation étonnante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324951/Genshin/Talents/MagieVariationEtonnante.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Lynette lève sa cape en hauteur pour infliger des DGT Anémo de zone et utilise un tour de passe-passe pour faire apparaître une boîte minestyque géante !"
+          },
+          {
+            "name": "Boîte minestyque",
+            "effect": [
+              {
+                "text": "Nargue les ennemis proches et attire leurs attaques."
+              },
+              {
+                "text": "Inflige des DGT Anémo aux ennemis proches de façon régulière."
+              },
+              {
+                "text": "Lorsqu'une boîte minestyque entre en contact avec l'élément Hydro, Pyro, Cryo ou Électro, elle absorbe l'élément correspondant et tire en plus des balles bariolées de façon régulière sur les ennemis proches pour infliger des DGT de cet élément. Une seule réaction d'absorption élémentaire peut avoir lieu par utilisation."
+              }
+            ]
+          }
+        ],
+        "note": "« Par ici, par ici. Regardez attentivement. C'est le moment du miracle, rien que pour nous ! »"
+      },
+      {
+        "name": "Synergie ingénieuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324932/Genshin/Talents/SynergieIngenieuse.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Si l'équipe comprend des personnages de 1/2/3/4 types élémentaires, l'ATQ de tous les personnages de l'équipe augmente respectivement de 8/12/16/20 % pendant 10 s après l'utilisation de Magie : Variation étonnante."
+          }
+        ]
+      },
+      {
+        "name": "Apprêt d'accessoires",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324912/Genshin/Talents/AppretDaccessoires.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsqu'une boîte minestyque invoquée par Magie : Variation étonnante a effectué une absorption élémentaire, les DGT infligés par les déchaînements élémentaires de Lynette augmentent de 15 %. Cet effet dure jusqu'à la disparition de la boîte minestyque."
+          }
+        ]
+      },
+      {
+        "name": "Mnémoniques de localisation",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324892/Genshin/Talents/MnemoniquesDeLocalisation.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Affiche l'emplacement des globes de revitalisation sur la mini-carte et permet d'augmenter l'endurance aquatique et les PV récupérés en touchant ces globes de 25 %."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615863/Genshin/Materials/Aptitude/EnseignementDeLordre.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615856/Genshin/Materials/Aptitude/GuideDeLordre.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615849/Genshin/Materials/Aptitude/PhilosophieDeLordre.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Constambre",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615222/Genshin/Materials/Boss/Constambre.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Felis Alba",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325872/Genshin/Constellation/FelisAlba.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Lame d'ombre frisquette",
+        "level": 1,
+        "description": {
+          "text": "Lorsqu'une aiguille énigmatique de Feinte sibylline touche un ennemi marqué d'une saillie sombre, un vortex est déclenché à l'emplacement de ce dernier pour attirer les ennemis proches."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325842/Genshin/Constellation/LameDombreFrisquette.webp"
+      },
+      {
+        "name": "Mystère de continuité infinie",
+        "level": 2,
+        "description": {
+          "text": "Lorsqu'une boîte minestyque invoquée par Magie : Variation étonnante tire une balle bariolée, elle tire une balle supplémentaire."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325815/Genshin/Constellation/MystereDeContinuiteInfinie.webp"
+      },
+      {
+        "name": "Regard de cognition inversée",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Magie : Variation étonnante +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325792/Genshin/Constellation/RegardDeCognitionInversee.webp"
+      },
+      {
+        "name": "Coordination de réponse tacite",
+        "level": 4,
+        "description": {
+          "text": "Confère une utilisation supplémentaire de Feinte sibylline."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325769/Genshin/Constellation/CoordinationDeReponseTacite.webp"
+      },
+      {
+        "name": "Obstacle d'ambiguïté ténébreuse",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Feinte sibylline +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325746/Genshin/Constellation/ObstacleDambiguiteTenebreuse.webp"
+      },
+      {
+        "name": "Œil perspicace",
+        "level": 6,
+        "description": {
+          "text": "Lorsque Lynette utilise une aiguille énigmatique de Feinte sibylline, elle bénéficie d'un enchantement Anémo et son bonus de DGT Anémo augmente de 20 %, pendant 6 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712325724/Genshin/Constellation/OeilPerspicace.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P75",
+    "name": "Fréminet",
+    "title": "Aspirant à des profondeurs invisibles",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699241/Genshin/Characters/Freminet.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156573/Genshin/Characters/FreminetIcon.png",
+    "weapon": {
+      "type": "Épée à 2 mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Engrenage artificiel de rechange : Coppelius",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047595/Genshin/Materials/Boss/EngrenageCoppelius.webp",
+        "number": 46,
+        "id": "B25"
+      },
+      "material": {
+        "name": "Fleur romaritime",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326241/Genshin/Materials/FleurRomaritime.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Tourbillon fluide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326637/Genshin/Talents/TourbillonFluide.webp",
+        "type": "Attaque normale",
+        "description": [
+          { "name": "Attaque normale", "text": "Enchaîne jusqu'à 4 attaques." },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance de façon continue pour exécuter une succession d'attaques tournoyantes contre les ennemis proches. L'attaque chargée se termine sur un coup puissant."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Pressurisation des floes",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326608/Genshin/Talents/PressurisationDesFloes.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Effectue une attaque ascendante infligeant des DGT Cryo et fait entrer Fréminet dans l'état Indicateur de Pers pendant 10 s. Dans cet état, sa compétence élémentaire devient un concassage pressurisé."
+          },
+          {
+            "name": "Concassage pressurisé",
+            "text": "Exécute différentes attaques selon le niveau de pression de l'indicateur de Pers, puis annule l'état.",
+            "effect": [
+              {
+                "text": "Niveau 0 : Effectue une coupe verticale infligeant des DGT Cryo."
+              },
+              {
+                "text": "Niveau I à III : Effectue une coupe verticale en coordination avec Pers, infligeant des DGT Cryo et des DGT physiques, les DGT dépendant du niveau de pression."
+              },
+              {
+                "text": "Niveau IV : Utilise la puissance d'un Pers totalement pressurisé pour infliger des DGT physiques, ce niveau remplaçant également l'attaque normale « Tourbillon fluide » par un concassage pressurisé."
+              }
+            ]
+          },
+          {
+            "name": "Indicateur de Pers",
+            "text": "Lorsque Fréminet utilise une attaque normale, il libère également un frimas infligeant des DGT Cryo et augmente le niveau de pression de l'indicateur de Pers. Ces DGT Cryo sont considérés comme des DGT de compétence élémentaire."
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, après avoir effectué une attaque ascendante, une épine d'inhalation prenant la forme d'une autre attaque ascendante est libérée pour infliger des DGT Cryo chargés d'énergie pneuma."
+          }
+        ],
+        "note": "Immobiliser son adversaire sans lui ôter la vie peut aussi être considéré comme une stratégie de « survie » que l'on peut choisir. « Pers… Je te laisse le reste. »"
+      },
+      {
+        "name": "Embuscade du chassombre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326580/Genshin/Talents/EmbuscadeDuChassombre.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Libère une vague de froid impalpable, infligeant des DGT Cryo de zone, réinitialisant le TdR de la compétence élémentaire « Pressurisation des floes » et faisant passer Fréminet en mode traque pendant 10 s."
+          },
+          {
+            "text": "Dans cet état, sa RÉS à l'interruption augmente, et Pressurisation des floes bénéfice des bonus suivants :",
+            "effect": [
+              { "text": "Son TdR diminue de 70 %." },
+              {
+                "text": "Les attaques normales accordent à l'indicateur de Pers un niveau de pression supplémentaire, et leur frimas inflige des DGT pour une valeur équivalant à 200 % de leurs DGT d'origine."
+              }
+            ]
+          },
+          {
+            "text": "Cet effet cesse lorsque Fréminet quitte le champ de bataille."
+          }
+        ],
+        "note": "« Maintenant… Je n'ai besoin d'aucun bruit superflu. »"
+      },
+      {
+        "name": "Plongée profonde saturée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326551/Genshin/Talents/PlongeeProfondeSaturee.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "En utilisant un concassage pressurisé, si le niveau de pression de l'indicateur de Pers est inférieur à IV, le TdR de Pressurisation des floes diminue de 1 s."
+          }
+        ]
+      },
+      {
+        "name": "Condenseur parallèle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326523/Genshin/Talents/CondenseurParallele.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque Fréminet a déclenché une réaction de Brise-glace sur un ennemi, les DGT infligés par le concassage pressurisé de Pressurisation des floes augmentent de 40 % pendant 5 s."
+          }
+        ]
+      },
+      {
+        "name": "Navigation en eaux profondes",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712326496/Genshin/Talents/NavigationEnEauxProfondes.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Réduit la consommation d'endurance aquatique de vos personnages dans l'équipe de 35 %. Ne peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615885/Genshin/Materials/Aptitude/EnseignementDeLaJustice.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615878/Genshin/Materials/Aptitude/GuideDeLaJustice.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615871/Genshin/Materials/Aptitude/PhilosophieDeLaJustice.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fougère du monde luxuriant",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615228/Genshin/Materials/Boss/FougereDuMondeLuxuriant.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Automaton",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327566/Genshin/Constellation/Automaton.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Rêves des profondeurs mousseuses",
+        "level": 1,
+        "description": {
+          "text": "Le taux CRIT du concassage pressurisé de Pressurisation des floes augmente de 15 %."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327521/Genshin/Constellation/RevesDesProfondeursMousseuses.webp"
+      },
+      {
+        "name": "Pingouins et terre d'abondance",
+        "level": 2,
+        "description": {
+          "text": "Utiliser un concassage pressurisé de Pressurisation des floes restaure 2 pts d'énergie élémentaire à Fréminet. Si un concassage pressurisé avec un niveau de pression de IV est déclenché, 3 pts sont restaurés à la place."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327481/Genshin/Constellation/PingouinsEtTerreDabondance.webp"
+      },
+      {
+        "name": "Chant de tourbillons et de sable",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Attaque normale : Tourbillon fluide +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327443/Genshin/Constellation/ChantDeTourbillonsEtDeSable.webp"
+      },
+      {
+        "name": "Danse de lune et de flûte",
+        "level": 4,
+        "description": {
+          "text": "Lorsque Fréminet a déclenché une réaction de Gel, de Brise-glace ou de Supraconduction sur un ennemi, son ATQ augmente de 9 % pendant 6 s.",
+          "note": "Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327412/Genshin/Constellation/DanseDeLuneEtDeFlute.webp"
+      },
+      {
+        "name": "Nuit de feu et de joie",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Pressurisation des floes +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327381/Genshin/Constellation/NuitDeFeuEtDeJoie.webp"
+      },
+      {
+        "name": "Instant d'aube et de détermination",
+        "level": 6,
+        "description": {
+          "text": "Lorsque Fréminet a déclenché une réaction de Gel, de Brise-glace ou de Supraconduction sur un ennemi, ses DGT CRIT augmentent de 12 % pendant 6 s.",
+          "note": "Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327352/Genshin/Constellation/InstantDaubeEtDeDetermination.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P76",
+    "name": "Wriothesley",
+    "title": "Émissaire de l'iniquité solitaire",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/Wriothesley.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156578/Genshin/Characters/WriothesleyIcon.png",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Appareil Tourbillon",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048852/Genshin/Materials/Boss/AppareilTourbillon.webp",
+        "number": 46,
+        "id": "B28"
+      },
+      "material": {
+        "name": "Unité de sous-détection",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712327920/Genshin/Materials/UniteDeSousDetection.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Poing vigoureux du givre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328407/Genshin/Talents/PoingVigoureuxDuGivre.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Condense du givre sur son poing et déclenche un puissant poing de réprimande, enchaînant jusqu'à 5 attaques rapides qui infligent des DGT Cryo. De plus, l'enchaînement d'attaques normales ne sera pas réinitialisé pendant une courte période après la compétence élémentaire « Ruée glaciale du croc » ou l'initiation d'un sprint."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour sauter et déclencher un poing bondissant qui inflige des DGT Cryo de zone."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT Cryo de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Ruée glaciale du croc",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328358/Genshin/Talents/RueeGlacialeDuCroc.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "En ajustant sa respiration, son rythme et sa cadence, Wriothesley sprinte vers l'avant sur une courte distance, entrant dans l'état Châtiment algide qui lui permet de déclencher des attaques encore plus puissantes."
+          },
+          {
+            "name": "Châtiment algide",
+            "effect": [
+              { "text": "Augmente la RÉS à l'interruption de Wriothesley." },
+              {
+                "text": "Lorsque les PV de Wriothesley sont supérieurs à 50 % : le poing de réprimande de l'attaque normale « Poing vigoureux du givre » est renforcé et ses DGT augmentés, et toucher avec ce poing consomme une quantité fixe des PV de Wriothesley, les PV pouvant être perdus une fois toutes les 0,1 s de cette manière."
+              },
+              {
+                "text": "Cet effet cesse lorsque Wriothesley quitte le champ de bataille."
+              }
+            ]
+          }
+        ],
+        "note": "« Les condamnations passées sont passées. Ce sont nos choix futurs que nous devons appréhender. Si vous ne voulez pas vous faire consumer par les péchés du moment, alors s'il vous plaît, chérissez cet instant. »"
+      },
+      {
+        "name": "Morsure lupine de l'or",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328321/Genshin/Talents/MorsureLupineDeLor.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Activant ses gants de boxe, Wriothesley déclenche un coup droit condensé de givre, puis utilise un impact de stalactite pour infliger plusieurs fois des DGT Cryo de zone."
+          },
+          {
+            "name": "Arkhe : Ousia",
+            "text": "Après la fin de l'impact de stalactite, une lame fluide descend à l'emplacement de l'ennemi pour infliger des DGT Cryo chargés d'énergie ousia."
+          }
+        ],
+        "note": "Il y a des choses contre lesquelles même le duc de la Forteresse de Méropide ne peut pas faire grand-chose : par exemple, la paperasserie compliquée, les futilités d'un superviseur ou bien… les petits enfants qui collent toute une série d'autocollants mignons mais difficiles à enlever sur ses gants de boxe…"
+      },
+      {
+        "name": "Plaidoirie pour la justice",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328284/Genshin/Talents/PlaidoiriePourLaJustice.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque les PV de Wriothesley sont inférieurs à 60 %, il obtient une réprimande miséricordieuse qui convertit la prochaine attaque chargée de son attaque normale « Poing vigoureux du givre » en poing bondissant de réprimande : ne consomme pas d'endurance, augmente les DGT infligés de 50 %, et restaure les PV de Wriothesley d'une valeur équivalant à 30 % de ses PV max en touchant."
+          },
+          {
+            "text": "Une réprimande miséricordieuse peut être obtenue une fois toutes les 5 s de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Rétribution pour le péché",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328247/Genshin/Talents/RetributionPourLePeche.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque les PV actuels de Wriothesley augmentent ou diminuent et s'il est sous l'effet du châtiment algide accordé par Ruée glaciale du croc, le châtiment algide obtient un cumul d'édit d'accusation. Cet effet peut être cumulé 5 fois maximum, chaque cumul permettant d'augmenter l'ATQ de Wriothesley de 6 %."
+          }
+        ]
+      },
+      {
+        "name": "Clémence du duc",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712328211/Genshin/Talents/ClemenceDuDuc.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": " 10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615863/Genshin/Materials/Aptitude/EnseignementDeLordre.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615856/Genshin/Materials/Aptitude/GuideDeLordre.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615849/Genshin/Materials/Aptitude/PhilosophieDeLordre.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Floraison première de l'oasis",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615225/Genshin/Materials/Boss/FloraisonPremiereDeLoasis.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Cerberus",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329276/Genshin/Constellation/Cerberus.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Terreur pour les malfaiteurs",
+        "level": 1,
+        "description": {
+          "text": "La réprimande miséricordieuse de l'aptitude passive « Plaidoirie pour la justice » est modifiée : Si les PV de Wriothesley sont inférieurs à 60 % ou s'il est sous l'effet du châtiment algide de Ruée glaciale du croc, il obtient une réprimande miséricordieuse lorsque la 5e attaque du poing de réprimande touche. Une réprimande miséricordieuse peut être obtenue une fois toutes les 2,5 s. De plus, le poing bondissant de réprimande obtient les renforcements suivants :",
+          "effect": [
+            {
+              "text": "Le bonus de DGT infligés augmente davantage jusqu'à 200 %."
+            },
+            {
+              "text": "En touchant alors que Wriothesley est sous l'effet d'un châtiment algide, la durée du châtiment se prolonge de 4 s. Une seule prolongation de durée peut avoir lieu par châtiment algide."
+            }
+          ],
+          "note": "L'aptitude passive « Plaidoirie pour la justice » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329233/Genshin/Constellation/TerreurPourLesMalfaiteurs.webp"
+      },
+      {
+        "name": "Entrave pour les arrogants",
+        "level": 2,
+        "description": {
+          "text": "En utilisant Morsure lupine de l'or, chaque cumul d'édit d'accusation de l'aptitude passive « Rétribution pour le péché » augmente les DGT infligés de 40 %.",
+          "note": "L'aptitude passive « Rétribution pour le péché » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329188/Genshin/Constellation/EntravePourLesArrogants.webp"
+      },
+      {
+        "name": "Punition pour les frauduleux",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Attaque normale : Poing vigoureux du givre +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329153/Genshin/Constellation/PunitionPourLesFrauduleux.webp"
+      },
+      {
+        "name": "Rédemption pour les nécessiteux",
+        "level": 4,
+        "description": {
+          "text": "Les PV que le poing bondissant de réprimande restaure à Wriothesley augmentent à une valeur équivalant à 50 % de ses PV max. L'aptitude passive « Plaidoirie pour la justice » doit être déjà débloquée. De plus, lorsque Wriothesley reçoit un soin et si la quantité du soin dépasse la quantité maximum que Wriothesley peut recevoir, les effets suivants se produisent selon si Wriothesley est déployé ou non : ",
+          "effect": [
+            {
+              "text": "S'il est déployé, sa VIT d'attaque augmente de 20 % pendant 4 s."
+            },
+            {
+              "text": "S'il fait partie de l'équipe mais n'est pas déployé, la VIT d'attaque de tous vos personnages dans l'équipe augmente de 10 % pendant 6 s."
+            }
+          ],
+          "note": "Ces deux effets d'augmentation de VIT d'attaque ne peuvent pas se cumuler."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329118/Genshin/Constellation/RedemptionPourLesNecessiteux.webp"
+      },
+      {
+        "name": "Indulgence pour les innocents",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Morsure lupine de l'or +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329083/Genshin/Constellation/IndulgencePourLesInnocents.webp"
+      },
+      {
+        "name": "Estime pour les irréprochables",
+        "level": 6,
+        "description": {
+          "text": "Le taux CRIT du poing bondissant de réprimande augmente de 10 % et ses DGT CRIT de 80 %, et son déclenchement permet de libérer un pic de glace supplémentaire infligeant des DGT Cryo d'une valeur équivalant à 100 % des DGT d'origine. Les DGT infligés de cette manière sont considérés comme des DGT d'attaque chargée.",
+          "note": "L'aptitude passive « Plaidoirie pour la justice » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712329050/Genshin/Constellation/EstimePourLesIrreprochables.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P77",
+    "name": "Neuvillette",
+    "title": "Ordonnateur de jugement inexorable",
+    "star": 5,
+    "art": "",
+    "icon": "",
+    "weapon": {
+      "type": "",
+      "icon": ""
+    },
+    "element": { "type": "", "icon": "" },
+    "region": { "name": "", "icon": "" },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 1,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ],
+      "bossLoot": {
+        "name": "",
+        "picture": "",
+        "number": 46,
+        "id": ""
+      },
+      "material": {
+        "name": "",
+        "picture": "",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        { "name": "", "picture": "", "number": 18, "id": "" },
+        { "name": "", "picture": "", "number": 30, "id": "" },
+        { "name": "", "picture": "", "number": 36, "id": "" }
       ]
     },
     "talents": [
