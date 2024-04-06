@@ -22750,6 +22750,902 @@
     "name": "Neuvillette",
     "title": "Ordonnateur de jugement inexorable",
     "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/Neuvillette.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156580/Genshin/Characters/NeuvilletteIcon.png",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Hydro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+          "number": 1,
+          "id": "AM7"
+        },
+        {
+          "name": "Fragment de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Morceau de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Pierre de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+          "number": 6,
+          "id": "AM7"
+        }
+      ],
+      "bossLoot": {
+        "name": "Corne fontemarine",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048527/Genshin/Materials/Boss/CorneFontemarine.webp",
+        "number": 46,
+        "id": "B27"
+      },
+      "material": {
+        "name": "Sombrétoile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401100/Genshin/Materials/Sombretoile.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Stabilité de l'eau",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401441/Genshin/Talents/StabiliteDeLeau.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Agite légèrement sa canne, ordonnant aux marées de déclencher jusqu'à 3 attaques qui infligent des DGT Hydro."
+          },
+          {
+            "name": "Charge d'attaque chargée : Avertissement procédural",
+            "text": "Pendant la charge, Neuvillette concentre progressivement la puissance de l'eau en un sceau d'arbitrage. Dans cet état, Neuvillette peut se déplacer, changer d'orientation et absorber les gouttes d'eau de source à portée. Chaque goutte absorbée permet d'augmenter la vitesse de formation du sceau d'arbitrage et soigne les PV de Neuvillette. À la fin de la charge, Neuvillette déclenche une attaque chargée si le sceau d'arbitrage est incomplet. Si ce dernier est complet, il déclenche une attaque chargée « Jugement équitable »."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour attaquer les ennemis avec un cercle d'eau qui inflige des DGT Hydro de zone."
+          },
+          {
+            "name": "Attaque chargée : Jugement équitable",
+            "text": "Neuvillette libère un torrent déferlant qui inflige des DGT Hydro de zone de façon continue aux ennemis en ligne droite devant lui. Le jugement équitable ne consomme pas l'endurance et dure 3 s. Lorsque ses PV sont supérieurs à 50 %, Neuvillette perd des PV de façon continue en utilisant cette attaque."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Concentre la puissance de l'élément Hydro avant de plonger depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT Hydro de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Ô larmes, je rembourse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401437/Genshin/Talents/OLarmesJeRembourse.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Neuvillette invoque une cascade déchaînée qui inflige des DGT Hydro de zone aux ennemis en face de lui selon ses PV max. Après avoir touché un ennemi, 3 gouttes d'eau de source sont générées à proximité de ce dernier."
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, après avoir invoqué une cascade déchaînée, une épine d'inhalation qui transperce les ennemis est libérée pour infliger des DGT Hydro chargés d'énergie pneuma."
+          }
+        ],
+        "note": "« La loi peut restreindre toutes sortes de crimes, mais elle ne peut extirper le mal lui-même. »"
+      },
+      {
+        "name": "Ô marées, je reviens",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401433/Genshin/Talents/OMareesJeReviens.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Neuvillette déchaîne une vague de rupture qui inflige des DGT Hydro de zone selon ses PV max. Après un court délai, 2 cascades sont invoquées pour infliger des DGT Hydro sur une petite zone et générer 6 gouttes d'eau de source en avant."
+          }
+        ],
+        "note": "« Une loi n'est établie qu'après sa publication, et surtout, les lois de la nature régissent toutes les espèces et les époques depuis les temps anciens. »"
+      },
+      {
+        "name": "Héritier de l'autorité de l'ancienne mer",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401428/Genshin/Talents/HeritierDeLautoriteDeLancienneMer.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsqu'un personnage de l'équipe déclenche une réaction d'Évaporation, de Gel, d'Électrocution, de Fleurissement, de Dispersion Hydro ou de Cristallisation Hydro sur un ennemi, Neuvillette obtient un cumul de gloire draconique passée pendant 30 s : peut être cumulé 3 fois maximum, ce qui augmente les DGT de l'attaque chargée « Jugement équitable » à une valeur équivalant à 110 %, 125 % ou 160 % des DGT d'origine, selon le nombre de cumuls."
+          },
+          {
+            "text": "Les cumuls de gloire draconique passée de chaque réaction élémentaire existent indépendamment les uns des autres."
+          }
+        ]
+      },
+      {
+        "name": "Discipline de l'arbitrage suprême",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401424/Genshin/Talents/DisciplineDeLarbitrageSupreme.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Pour chaque tranche de 1 % de PV actuels au-dessus de 30 % de ses PV max, Neuvillette obtient un bonus de DGT Hydro de 0,6 %. Le bonus peut être augmenté d'un maximum de 30 % de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Rassemblement de la marée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401419/Genshin/Talents/RassemblementDeLaMaree.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Augmente la VIT de sprint sous l'eau de vos personnages dans l'équipe de 15 %. Ne peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615907/Genshin/Materials/Aptitude/EnseignementDeLequite.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615900/Genshin/Materials/Aptitude/GuideDeLequite.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'équité",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615893/Genshin/Materials/Aptitude/PhilosophieDeLequite.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Constambre",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615222/Genshin/Materials/Boss/Constambre.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Leviathan Judicator",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402217/Genshin/Constellation/LeviathanJudicator.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Création de l'honneur",
+        "level": 1,
+        "description": {
+          "text": "Neuvillette obtient un cumul de gloire draconique passée de l'aptitude passive « Héritier de l'autorité de l'ancienne mer » lorsqu'il est déployé au combat. L'aptitude passive « Héritier de l'autorité de l'ancienne mer » doit être déjà débloquée. De plus, sa RÉS à l'interruption augmente lors de la charge de l'attaque chargée « Avertissement procédural » et de l'utilisation de l'attaque chargée « Jugement équitable »."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402212/Genshin/Constellation/CreationDeLhonneur.webp"
+      },
+      {
+        "name": "Exhortation de la loi",
+        "level": 2,
+        "description": {
+          "text": "L'aptitude passive « Héritier de l'autorité de l'ancienne mer » est renforcée : chaque cumul de gloire draconique passée augmente les DGT CRIT de l'attaque chargée « Jugement équitable » de 14 %, les DGT CRIT pouvant être augmentés d'un maximum de 42 % de cette manière.",
+          "note": "L'aptitude passive « Héritier de l'autorité de l'ancienne mer » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402207/Genshin/Constellation/ExhortationDeLaLoi.webp"
+      },
+      {
+        "name": "Postulat de l'antan",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Attaque normale : Stabilité de l'eau +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402203/Genshin/Constellation/PostulatDeLantan.webp"
+      },
+      {
+        "name": "Couronne de la commisération",
+        "level": 4,
+        "description": {
+          "text": "Lorsque Neuvillette est déployé et reçoit des soins, 1 goutte d'eau de source est générée. Cet effet peut être déclenché une fois toutes les 4 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402198/Genshin/Constellation/CouronneDeLaCommiseration.webp"
+      },
+      {
+        "name": "Verdict de l'axiome",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Ô marées, je reviens +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402194/Genshin/Constellation/VerdictDeLaxiome.webp"
+      },
+      {
+        "name": "Récompense du courroux",
+        "level": 6,
+        "description": {
+          "text": "En utilisant l'attaque chargée « Jugement équitable », Neuvillette peut aspirer les gouttes d'eau de source à portée. Chaque goutte absorbée permet de prolonger la durée de l'attaque chargée « Jugement équitable » de 1 s.",
+          "note": "De plus, lorsque l'attaque chargée « Jugement équitable » touche un ennemi, 2 torrents supplémentaires sont libérés toutes les 2 s, chacun infligeant des DGT Hydro pour une valeur équivalant à 10 % des PV max de Neuvillette. Les DGT infligés de cette manière sont considérés comme des DGT de l'attaque chargée « Jugement équitable »."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712402190/Genshin/Constellation/RecompenseDuCourroux.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P78",
+    "name": "Furina",
+    "title": "Solo infini de solitude",
+    "star": 5,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699239/Genshin/Characters/Furina.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156580/Genshin/Characters/FurinaIcon.png",
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "element": {
+      "type": "Hydro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+          "number": 1,
+          "id": "AM7"
+        },
+        {
+          "name": "Fragment de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Morceau de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+          "number": 9,
+          "id": "AM7"
+        },
+        {
+          "name": "Pierre de lazurite varunada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+          "number": 6,
+          "id": "AM7"
+        }
+      ],
+      "bossLoot": {
+        "name": "Eau n'ayant pas transcendé",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049261/Genshin/Materials/Boss/EauNayantPasTranscende.webp",
+        "number": 46,
+        "id": "B29"
+      },
+      "material": {
+        "name": "Lys lacmineux",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404092/Genshin/Materials/LysLacmineux.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Sollicitation de la soliste",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404290/Genshin/Talents/SollicitationDeLaSoliste.webp",
+        "type": "Attaque normale",
+        "description": [
+          { "name": "Attaque normale", "text": "Enchaîne jusqu'à 4 attaques." },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher une aura de danse solo, infligeant des DGT physiques aux ennemis proches et modifiant l'alignement de l'Arkhe de Furina. Si des membres du salon ou un chanteur des eaux invoqués par sa compétence élémentaire « Salon solitaire » sont présents sur le champ de bataille, ils sont changés en conséquence."
+          },
+          {
+            "name": "Arkhe : Sacralité et sécularisation",
+            "text": "Régulièrement, lorsque l'attaque normale de Furina touche, une épine d'inhalation ou une lame fluide est libérée à l'emplacement touché selon l'alignement actuel de son Arkhe pour infliger des DGT Hydro chargés d'énergie pneuma ou ousia. Lorsque Furina est déployée au combat, son Arkhe est chargé d'énergie ousia."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Salon solitaire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404276/Genshin/Talents/SalonSolitaire.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Furina invite les convives du Salon solitaire à se joindre à sa performance, convoquant les membres du salon ou le chanteur des eaux selon l'alignement actuel de son Arkhe."
+          },
+          {
+            "name": "Ousia",
+            "text": "De l'écume danse joyeusement, infligeant des DGT Hydro de zone selon les PV max de Furina et convoquant 3 membres du salon : le gentilhomme Usher en forme de poulpe bouffi, la surintendante Chevalmarin en forme d'Hippocampe bulleux et la demoiselle Crabaletta en forme de Cuiracrabe. Ces derniers attaquent les ennemis proches de façon intermittente en donnant la priorité aux cibles que le personnage déployé attaque, infligeant des DGT Hydro selon les PV max de Furina. En attaquant, les membres du salon renforcent l'attaque en cours selon le nombre de personnages de l'équipe à proximité dont les PV sont supérieurs à 50 % tout en consommant les PV de ces derniers : lorsque 1, 2, 3 ou au moins 4 personnages sont concernés, l'attaque inflige des DGT pour une valeur équivalant respectivement à 110 %, 120 %, 130 % ou 140 % des DGT d'origine."
+          },
+          {
+            "name": "Pneuma",
+            "text": "Furina convoque le chanteur des eaux, qui restaure régulièrement les PV des personnages déployés à proximité selon ses PV max."
+          },
+          {
+            "text": "Les membres du salon et le chanteur des eaux partagent la même durée. Ainsi, lorsque Furina change ces convives en utilisant son attaque chargée, les nouveaux arrivants héritent de la durée restante. Lorsque des membres du salon ou un chanteur des eaux sont présents, Furina peut se déplacer sur l'eau."
+          }
+        ],
+        "note": "Une liste fixe d'habitués fréquente le Salon solitaire de Furina. Parfois, la demoiselle Crabaletta, la surintendante Chevalmarin et le gentilhomme Usher viennent ; les mercredis maussades, c'est le chanteur qui rend visite."
+      },
+      {
+        "name": "Liesse populaire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404261/Genshin/Talents/LiessePopulaire.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Éveille l'envie de se délecter, créant une scène d'écume qui inflige des DGT Hydro de zone selon les PV max de Furina et accorde l'état Réjouissance universelle aux personnages de l'équipe à proximité : pendant sa durée, lorsque les PV actuels d'un personnage augmentent ou diminuent, Furina obtient 1 pt de fanfare à chaque fois que le personnage obtient ou perd des PV pour une valeur équivalant à 1 % de ses PV Max."
+          },
+          {
+            "text": "De plus, les DGT infligés et le bonus de soins reçus de tous les personnages de l'équipe à proximité augmentent selon la quantité de points de fanfare de Furina. Une fois la durée terminée, la fanfare de Furina est annulée."
+          }
+        ],
+        "note": "« Acclamez ! Louez ! Réjouissez ! Buvez ! Chaque nuit sans banquet est un gaspillage sordide de douloureuse et sobre lumière du jour… Et, hmm, ceux qui ne sont pas encore en âge peuvent prendre du jus de raisin à la place ! »"
+      },
+      {
+        "name": "Valse inarrêtable",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404246/Genshin/Talents/ValseInarretable.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque le personnage déployé de votre groupe est soigné, si ces soins ne proviennent pas de Furina et dépassent la quantité maximum qu'il peut recevoir, Furina soigne les personnages de l'équipe à proximité pour une valeur équivalant à 2 % de leurs PV max respectifs une fois toutes les 2 s pendant 4 s."
+          }
+        ]
+      },
+      {
+        "name": "Confession inattendue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404230/Genshin/Talents/ConfessionInattendue.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Chaque tranche de 1 000 PV max que Furina possède accorde à son Salon solitaire différents effets bonus selon l'alignement de son Arkhe :",
+            "effect": [
+              {
+                "text": "Les DGT infligés par les membres du salon augmentent de 0,7 %, les DGT infligés pouvant être augmentés d'un maximum de 28 % de cette manière."
+              },
+              {
+                "text": "'intervalle des soins accordés aux personnages déployés à proximité par le chanteur des eaux diminue de 0,4 %, l'intervalle des soins pouvant être diminué d'un maximum de 16 % de cette manière."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Scène de la mer",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404216/Genshin/Talents/SceneDeLaMer.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Le TdR des capacités des Aberrants fontemarins xénochromatiques diminue de 30 %."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Nectar de fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615885/Genshin/Materials/Aptitude/EnseignementDeLaJustice.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615878/Genshin/Materials/Aptitude/GuideDeLaJustice.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615871/Genshin/Materials/Aptitude/PhilosophieDeLaJustice.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Masse sans lumière",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615213/Genshin/Materials/Boss/MasseSansLumiere.webp",
+        "number": 6,
+        "id": "WB9"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Animula Choragi",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405715/Genshin/Constellation/AnimulaChoragi.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "« L'amour est un oiseau rebelle que nul ne peut apprivoiser »",
+        "level": 1,
+        "description": {
+          "text": "En utilisant Liesse populaire, Furina obtient 150 pts de fanfare. De plus, la limite de fanfare augmente de 100 pts."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405699/Genshin/Constellation/LamourEstUnOiseaurebelleQueNulNePeutApprivoiser.webp"
+      },
+      {
+        "name": "« Comme la plume au vent, femme est volage »",
+        "level": 2,
+        "description": {
+          "text": "Pendant la durée de Liesse populaire, l'obtention de fanfare de Furina après une augmentation ou une diminution des PV actuels des personnages de l'équipe à proximité augmente de 250 %. De plus, chaque point de fanfare au-dessus de la limite augmente les PV max de Furina de 0,35 %, la limite de PV max pouvant être augmentée d'un maximum de 140 % de cette manière."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405684/Genshin/Constellation/CommeLaPlumeAuVentFemmeEstVolage.webp"
+      },
+      {
+        "name": "« Mon mystère est scellé en moi, personne ne saura mon nom »",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Liesse populaire +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405668/Genshin/Constellation/MonMystereEstScelleEnMoiPersonneNeSauraMonNom.webp"
+      },
+      {
+        "name": "« Si l'on comprend la vie, amis, c'est en enfer ! »",
+        "level": 4,
+        "description": {
+          "text": "Lorsqu'un membre du salon de Salon solitaire touche un ennemi ou qu'un chanteur des eaux restaure les PV d'un personnage déployé, Furina récupère 4 pts d'énergie élémentaire.",
+          "note": "Cet effet peut être déclenché une fois toutes les 5 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405653/Genshin/Constellation/SiLonComprendLaVieAmisCestUnEnfer.webp"
+      },
+      {
+        "name": "« Son nom que je connais maintenant, c'est... »",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Salon solitaire +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405638/Genshin/Constellation/SonNomQueJeConnaisMaintenantCest.webp"
+      },
+      {
+        "name": "« Entends-moi, et levons les coupes de l'amour ! »",
+        "level": 6,
+        "description": {
+          "text": "Lorsqu'elle utilise Salon solitaire, Furina devient le centre d'attention pendant 10 s. Pendant cette durée, les DGT de ses attaques normales, chargées et plongeantes sont convertis en DGT Hydro ne pouvant pas être enchantés et augmentent d'une valeur équivalant à 18 % de ses PV max. De plus, après avoir touché un ennemi pendant cette durée, ses attaques normales (sauf les attaques de « Arkhe : Sacralité et sécularisation »), chargées et l'impact au sol de ses attaques plongeantes produisent divers effets toutes les 0,1 s selon l'alignement actuel de son Arkhe :",
+          "effect": [
+            {
+              "text": "Arkhe Ousia : Soigne les PV de tous les personnages de l'équipe à proximité pour une valeur équivalant à 4 % des PV max de Furina toutes les secondes pendant 2,9 s, tout déclenchement répété prolongeant cette durée."
+            },
+            {
+              "text": "Arkhe Pneuma : Les DGT de cette attaque normale (sauf les attaques de « Arkhe : Sacralité et sécularisation »), chargée ou plongeante (lorsque cette dernière touche le sol) augmentent encore d'une valeur équivalant à 25 % des PV max de Furina. De plus, lorsqu'une de ces attaques touche un ennemi, tous les personnages de l'équipe à proximité perdent 1 % de leurs PV actuels."
+            }
+          ],
+          "note": "Les effets mentionnés ci-dessus peuvent être déclenchés un maximum de 6 fois pendant la durée d'un centre d'attention, et ce dernier prend fin après 6 déclenchements d'effet ou lorsque sa durée expire."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712405622/Genshin/Constellation/EntendsMoiEtLevonsLesCoupesDeLamour.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P79",
+    "name": "Charlotte",
+    "title": "Oeil pour la vérité",
+    "star": 4,
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/Charlotte.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156567/Genshin/Characters/CharlotteIcon.png",
+    "weapon": {
+      "type": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "element": {
+      "type": "Cryo",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
+    },
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+    },
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+          "number": 1,
+          "id": "AM3"
+        },
+        {
+          "name": "Fragment de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Morceau de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+          "number": 9,
+          "id": "AM3"
+        },
+        {
+          "name": "Pierre de jade shivada",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+          "number": 6,
+          "id": "AM3"
+        }
+      ],
+      "bossLoot": {
+        "name": "Appareil Tourbillon",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048852/Genshin/Materials/Boss/AppareilTourbillon.webp",
+        "number": 46,
+        "id": "B28"
+      },
+      "material": {
+        "name": "Conque de Béryl",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406353/Genshin/Materials/ConqueDeBeryl.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Phototype à froid",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406619/Genshin/Talents/PhototypeAFroid.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Visant ses cibles à l'aide de Monsieur Vérité, son Daguerréotype personnalisé, Charlotte enchaîne jusqu'à 3 attaques qui infligent des DGT Cryo."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déployer Monsieur Vérité après un moment de préparation et infliger des DGT Cryo de zone."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs en concentrant ses pouvoirs Cryo, infligeant des DGT aux ennemis en chemin et des DGT Cryo de zone à l'impact."
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, après avoir utilisé une attaque chargée, une épine d'inhalation qui transperce les ennemis est libérée pour infliger des DGT Cryo de zone chargés d'énergie pneuma."
+          }
+        ]
+      },
+      {
+        "name": "Cadrage : Composition gelée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406597/Genshin/Talents/CadrageCompositionGelee.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Grâce à son instinct de grande journaliste, Charlotte utilise ses compétences en photographie pour produire différents effets selon la méthode de déclenchement :"
+          },
+          {
+            "name": "Appui simple",
+            "text": "Prend un cliché net à l'aide de Monsieur Vérité, infligeant des DGT Cryo de zone aux ennemis en face ainsi que l'effet Silhouette instantanée à un maximum de 5 ennemis touchés. Pendant sa durée, l'effet Silhouette instantanée inflige des DGT Cryo aux ennemis de façon intermittente."
+          },
+          {
+            "name": "Appui long",
+            "text": "En activant le mode visée de Monsieur Vérité, Charlotte entre dans l'état Composition et le viseur peut s'agrandir jusqu'à atteindre le cadre de finition en maintenant l'appui long. Dans cet état, Charlotte peut se déplacer et changer d'orientation. Lorsque le mode visée se termine, Monsieur Vérité inflige des DGT Cryo aux ennemis verrouillés dans son viseur ainsi que le même effet Silhouette instantanée déclenché lors d'un appui simple. Si Charlotte met fin au mode visée après que le viseur a atteint le cadre de finition, elle inflige à la place l'effet Impression ciblée, ce dernier durant plus longtemps et infligeant plus de DGT, bien qu'il prolongera le TdR de la compétence. L'état Composition dure 15 s maximum et peut verrouiller un maximum de 5 ennemis."
+          }
+        ],
+        "note": "« Les photos de presse nécessitent des clichés simples avec une thématique exceptionnelle, mais il faut surtout avoir le don de capturer l'instant présent ! »"
+      },
+      {
+        "name": "Pose : Corroboration complète",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406574/Genshin/Talents/PoseCorroborationComplete.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "En condensant de la glace pour créer l'emblème de L'Oiseau de vapeur, Charlotte crée un champ de flash info qui inflige des DGT Cryo de zone et restaure les PV de tous les personnages de l'équipe à proximité selon son ATQ."
+          },
+          {
+            "name": "Champ de flash info",
+            "effect": [
+              {
+                "text": "Tant qu'il est actif, Monsieur Vérité attaque les ennemis à l'intérieur de façon intermittente pour leur infliger des DGT Cryo."
+              },
+              {
+                "text": "Lorsque le personnage déployé est à l'intérieur du champ, ses PV sont restaurés de façon continue selon l'ATQ de Charlotte."
+              }
+            ]
+          }
+        ],
+        "note": "« Écouter des histoires sous plusieurs perspectives pour recréer ce qui s'est réellement passé est la clé d'un bon reportage… Je veux dire, c'est ainsi qu'on peut choisir le meilleur angle pour son article ! »"
+      },
+      {
+        "name": "Moment d'impact",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406552/Genshin/Talents/MomentDimpact.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsqu'un ennemi affligé de l'effet Impression ciblée est éliminé, le TdR de Cadrage : Composition gelée diminue de 2 s. Le TdR peut être diminué 4 fois toutes les 12 s de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Enquête de diversité",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406529/Genshin/Talents/EnqueteDeDiversite.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsque l'équipe contient 1, 2 ou 3 personnages fontainois (en plus de Charlotte), Charlotte obtient un bonus de soins de 5 %, 10 % ou 15 %, respectivement. Lorsque l'équipe contient 1, 2 ou 3 personnages non-fontainois, Charlotte bénéficie d'un bonus de DGT Cryo de 5 %, 10 % ou 15 %, respectivement."
+          }
+        ]
+      },
+      {
+        "name": "Premier obturateur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712406507/Genshin/Talents/PremierObturateur.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Une fois que Charlotte a activé son zoom d'analyse spéciale, l'appui long de sa compétence élémentaire « Cadrage : Composition gelée » ne peut plus déclencher les effets d'origine, mais elle peut désormais prendre des photos d'une manière spéciale…"
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615885/Genshin/Materials/Aptitude/EnseignementDeLaJustice.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615878/Genshin/Materials/Aptitude/GuideDeLaJustice.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615871/Genshin/Materials/Aptitude/PhilosophieDeLaJustice.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Ficelle de soie sans lumière",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615219/Genshin/Materials/Boss/FicelleDeSoieSansLumiere.webp",
+        "number": 6,
+        "id": "WB9"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Hualina Veritas",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407471/Genshin/Constellation/HualinaVeritas.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Une vérification des faits",
+        "level": 1,
+        "description": {
+          "text": "Lorsque Pose : Corroboration complète a effectué un soin sur un personnage, ce dernier obtient une marque de vérification pendant 6 s, qui le soigne une fois toutes les 2 s pour une valeur équivalant à 80 % de l'ATQ de Charlotte."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407437/Genshin/Constellation/UneVerificationDesFaits.webp"
+      },
+      {
+        "name": "Une poursuite de la vérité",
+        "level": 2,
+        "description": {
+          "text": "Lorsque Monsieur Vérité touche 1, 2, ou au moins 3 ennemis pendant Cadrage : Composition gelée, l'ATQ de Charlotte augmente respectivement de 10 %, 20 % ou 30 % pendant 12 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407405/Genshin/Constellation/UnePoursuiteDeLaVerite.webp"
+      },
+      {
+        "name": "Une nécessité d'indépendance",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Pose : Corroboration complète +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407372/Genshin/Constellation/UneNecessiteDindependance.webp"
+      },
+      {
+        "name": "Une responsabilité de surveillance",
+        "level": 4,
+        "description": {
+          "text": "Lorsque Pose : Corroboration complète touche un ennemi affligé de l'effet Silhouette instantanée ou de l'effet Impression ciblée, les DGT infligés augmentent de 10 % et Charlotte récupère 2 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée 5 fois toutes les 20 s de cette manière."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407339/Genshin/Constellation/UneResponsabiliteDeSurveillance.webp"
+      },
+      {
+        "name": "Un principe de conscience",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Cadrage : Composition gelée +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407306/Genshin/Constellation/UnPrincipeDeConscience.webp"
+      },
+      {
+        "name": "Un résumé de pertinence",
+        "level": 6,
+        "description": {
+          "text": "Lorsqu'une attaque normale ou chargée du personnage déployé a touché un ennemi affligé de l'effet Impression ciblée de Cadrage : Composition gelée, Monsieur Vérité effectue une attaque coordonnée qui inflige des DGT Cryo de zone d'une valeur équivalant à 180 % de l'ATQ de Charlotte et soigne les PV des personnages déployés à portée de l'attaque pour une valeur équivalant à 42 % de l'ATQ de Charlotte.",
+          "note": "Cet effet peut être déclenché une fois toutes les 6 s et les DGT et soins déclenchés de cette manière sont considérés comme provenant du déchaînement élémentaire de Charlotte."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712407274/Genshin/Constellation/UnResumeDePertinence.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P80",
+    "name": "Navia",
+    "title": "Nautonière de la rose radieuse",
+    "star": 5,
     "art": "",
     "icon": "",
     "weapon": {

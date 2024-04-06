@@ -40,7 +40,7 @@ export const normalBossListSchema = z.array(
 export const normalBossSchema = z.object({
   id: z.string(),
   name: z.string(),
-  name2: z.string(),
+  name2: z.string().optional(),
   art: z.string().url(),
   icon: z.string().url(),
   uniqueRewards: z

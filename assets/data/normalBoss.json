@@ -134,7 +134,6 @@
   {
     "id": "B3",
     "name": "Arbre congelé",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956835/Genshin/Boss/ArbreCongele.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956842/Genshin/Boss/ArbreCongeleIcon.png",
     "region": {
@@ -328,7 +327,6 @@
   {
     "id": "B6",
     "name": "Arbre enflammé",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958023/Genshin/Boss/ArbreEnflamme.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958025/Genshin/Boss/ArbreEnflammeIcon.png",
     "region": {
@@ -404,7 +402,6 @@
   {
     "id": "B7",
     "name": "Océanide",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958363/Genshin/Boss/Oceanide.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958366/Genshin/Boss/OceanideIcon.Icon",
     "region": {
@@ -470,7 +467,6 @@
   {
     "id": "B8",
     "name": "Géosaure antique",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958644/Genshin/Boss/GeosaureAntique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
     "region": {
@@ -627,7 +623,6 @@
   {
     "id": "B9",
     "name": "Serpent des ruines",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959153/Genshin/Boss/SerpentDesRuines.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959156/Genshin/Boss/SerpentDesRuinesIcon.png",
     "region": {
@@ -688,7 +683,6 @@
   {
     "id": "B10",
     "name": "Suanni Solitaire",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960058/Genshin/Boss/SuanniSolitaire.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960063/Genshin/Boss/SuanniSolitaireIcon.png",
     "region": {
@@ -763,7 +757,6 @@
   {
     "id": "B11",
     "name": "Lame Oni",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960411/Genshin/Boss/LameOni.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960415/Genshin/Boss/LameOniIcon.png",
     "region": {
@@ -1035,7 +1028,6 @@
   {
     "id": "B15",
     "name": "Manifestation du tonerre",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963649/Genshin/Boss/ManifestationDuTonnerre.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963654/Genshin/Boss/ManifestationDuTonnerreIcon.png",
     "region": {
@@ -1091,7 +1083,6 @@
   {
     "id": "B16",
     "name": "Loup alpha doré",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963886/Genshin/Boss/LoupAlphaDore.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963892/Genshin/Boss/LoupAlphaDoreIcon.png",
     "region": {
@@ -1147,7 +1138,6 @@
   {
     "id": "B17",
     "name": "Harde d'Élémentosaures abyssaux",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964152/Genshin/Boss/HardeDelementosaureAbyssaux.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964160/Genshin/Boss/HardeDelementosaureAbyssauxIcon.png",
     "region": {
@@ -1227,7 +1217,6 @@
   {
     "id": "B18",
     "name": "Champieffroi panaché",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964453/Genshin/Boss/ChampieffroiPanache.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964457/Genshin/Boss/ChampieffroiPanacheIcon.png",
     "region": {
@@ -1283,7 +1272,6 @@
   {
     "id": "B19",
     "name": "Arbre foudroyé",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043650/Genshin/Boss/ArbreFoudroye.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043659/Genshin/Boss/ArbreFoudroyeIcon.png",
     "region": {
@@ -1339,7 +1327,6 @@
   {
     "id": "B20",
     "name": "Dragon Cataclysmique",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044187/Genshin/Boss/DragonCataclysmique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044186/Genshin/Boss/DragonCataclysmiqueIcon.png",
     "region": {
@@ -1424,7 +1411,6 @@
   {
     "id": "B21",
     "name": "Algorithme de semi-intransition matriciaire d'observation en néo-réseau",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045080/Genshin/Boss/Algorithme.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045081/Genshin/Boss/AlgorithmeIcon.webp",
     "region": {
@@ -1570,7 +1556,6 @@
   {
     "id": "B23",
     "name": "Wenuth de Setekh",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046836/Genshin/Boss/WenutDeSeketh.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046838/Genshin/Boss/WenutDeSetekhIcon.png",
     "region": {
@@ -1626,7 +1611,6 @@
   {
     "id": "B24",
     "name": "Lustrateur inique",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047152/Genshin/Boss/LustrateurInique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
     "region": {
@@ -1754,7 +1738,6 @@
   {
     "id": "B25",
     "name": "Suite cryolienne",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047671/Genshin/Boss/SuiteCryolienne.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047674/Genshin/Boss/SuiteCryolienneIcon.png",
     "region": {
@@ -1848,7 +1831,6 @@
   {
     "id": "B26",
     "name": "Empereur du feu ferreux",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048210/Genshin/Boss/EmpereurDuFeuFerreux.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048213/Genshin/Boss/EmpereurDuFeuFerreuxIcon.png",
     "region": {
@@ -1904,7 +1886,6 @@
   {
     "id": "B27",
     "name": "Hippocampe perlé millénaire",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048582/Genshin/Boss/HippocampePerleMillenaire.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048586/Genshin/Boss/HippocampePerleMillenaireIcon.png",
     "region": {
@@ -1925,7 +1906,7 @@
         {
           "name": "Neuvillette",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/NeuvilletteIcon.png",
-          "id": ""
+          "id": "P77"
         }
       ]
     },
@@ -1961,7 +1942,6 @@
   {
     "id": "B28",
     "name": "Générateur de champ expérimental",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048916/Genshin/Boss/GenerateurDeChampExperimental.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048921/Genshin/Boss/GenerateurDeChampExperimentalIcon.png",
     "region": {
@@ -1977,7 +1957,7 @@
         {
           "name": "Charlotte",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
-          "id": ""
+          "id": "P79"
         },
         {
           "name": "Wriothesley",
@@ -2017,7 +1997,6 @@
   {
     "id": "B29",
     "name": "Tulpa Hydro",
-    "name2": "",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049314/Genshin/Boss/TulpaHydro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049320/Genshin/Boss/TulpaHydroIcon.png",
     "region": {
@@ -2033,7 +2012,7 @@
         {
           "name": "Furina",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
-          "id": ""
+          "id": "P78"
         }
       ]
     },
