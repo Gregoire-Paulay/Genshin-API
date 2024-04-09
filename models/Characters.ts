@@ -20,6 +20,12 @@ export const characterDetailsSchema = z.object({
   weapon: z.object({ type: z.string(), icon: z.string().url() }),
   element: z.object({ type: z.string(), icon: z.string().url() }),
   region: z.object({ name: z.string(), icon: z.string().url().optional() }),
+  region2: z
+    .object({ name: z.string(), icon: z.string().url().optional() })
+    .optional(),
+  region3: z
+    .object({ name: z.string(), icon: z.string().url().optional() })
+    .optional(),
   ascension_materials: z.object({
     mora: z.object({
       name: z.string(),

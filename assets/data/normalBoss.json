@@ -698,7 +698,7 @@
         {
           "name": "Xyanyun",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
-          "id": ""
+          "id": "P82"
         }
       ]
     },
@@ -1755,6 +1755,11 @@
             "name": "Lynette",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
             "id": "P74"
+          },
+          {
+            "name": "Chiori",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/ChioriIcon.png",
+            "id": "P84"
           }
         ]
       },
@@ -1771,7 +1776,7 @@
           {
             "name": "Navia",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/NaviaIcon.png",
-            "id": ""
+            "id": "P80"
           }
         ]
       }
@@ -1846,7 +1851,7 @@
         {
           "name": "Gaming",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
-          "id": ""
+          "id": "P83"
         },
         {
           "name": "Lyney",
@@ -1901,7 +1906,7 @@
         {
           "name": "Chevreuse",
           "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
-          "id": ""
+          "id": "P81"
         },
         {
           "name": "Neuvillette",
