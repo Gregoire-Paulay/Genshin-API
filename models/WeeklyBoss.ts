@@ -3,6 +3,7 @@ import { z } from "zod";
 export const weeklyBossListSchema = z.array(
   z.object({
     id: z.string(),
+    name: z.string(),
     icon: z.string().url(),
     uniqueRewards: z.array(
       z.object({
@@ -22,6 +23,8 @@ export const weeklyBossSchema = z.object({
   icon: z.string().url(),
   art: z.string().url(),
   art2: z.string(),
+  title: z.string(),
+  element: z.array(z.object({ name: z.string(), icon: z.string().url() })),
   region: z.object({
     name: z.string(),
     icon: z.string().url(),
