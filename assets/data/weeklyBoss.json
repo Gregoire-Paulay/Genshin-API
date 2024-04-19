@@ -6,6 +6,14 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704251/Genshin/Boss/Andros2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697389/Genshin/Boss/AndrosIcon.png",
     "title": "Loup boréal",
+    "description": [
+      {
+        "text": "La plus noble et la plus belle des âmes, qui veille sur le lupical du royaume des loups. Quand la meute est en péril, il émerge sous la forme d'un loup et montre ses crocs et ses griffes."
+      },
+      {
+        "text": "Les loups de son territoire sont tels d'effrayants fantômes aux yeux des habitants de Mondstadt : des silhouettes indiscernables qui s'éclipsent dans les bois, des hurlements à glacer le sang qui résonnent au loin et le sentiment opressant d'un regard fixé sur eux. les humans ont rarement l'occasion de croiser le regard d'un loup, ainsi en à décidé le Loup du Nord."
+      }
+    ],
     "element": [
       {
         "name": "Anémo",
@@ -187,6 +195,14 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704253/Genshin/Boss/Stormterror2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704243/Genshin/Boss/StormterrorIcon.png",
     "title": "Dragon de l'Est",
+    "description": [
+      {
+        "text": "Dvalin le Dragon de l'Est, un des Quatre Vents de Mondstadt. Le plus pur des joyaux se couvre de poussière lorqu'il passe de longues années dans l'obscurité. de la même façon, le coeur de ce noble dragon fut corrompu par les ténéèbres. cependant, il existe toujours un poyen de se débarasser aussi bien de la poussière que du doute ou du poison."
+      },
+      {
+        "text": "« Vole en liberté dans ce vaste ciel. Vole comme tu le faisais à notre rencontre, quand je chantais les chansons du vent en foulant cette terre. Tu dominais le monde d'en haut. Aujourd'hui, le ciel n'est plus couvert par la pluie ou par la neige. De l'herbe verte et luxuriante pousse partout ici-bas. Quel paysage agréable à regarder. Si tu pouvais marcher parmis nous et écouter les chansons des bergers ainqi que le son des carillons qui résonne au loin, ou encore goûter au délicieux vin sucré, tu aurais sans doute compris. En te mettant  à ma place, tu aurais pu ressentir à quel point il était beau de te voir voler fièrement dans le ciel bleu. Tu aurais su que le ciel et la terre sont dignes de protection. »"
+      }
+    ],
     "element": [
       {
         "name": "Anémo",
@@ -364,6 +380,14 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/Childe2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/ChildeIcon.png",
     "title": "Onzième éxécuteurs des Fatui",
+    "description": [
+      {
+        "text": "Tartaglia, le onzième des Exécuteurs Fatui. Il tire son pouvoir de son sinistre oeil maléfique et combat au moyen d'arts martiaux qu'il a appris dans une terre couverte par les ténèbres. Chaque conflit sanglant, chaque lutte à mort est une épreuve réjouissante à ses yeux. certains disent que le jeune tartaglia est célèbre sur tout le continent pour ses prouesses au combat. Mais il n'a que faire de ces discours."
+      },
+      {
+        "text": "Après tout… « Tu seras toujours dans l'oeil de la tempête, et le choc de l'acier t'accompagnera à jamais. le sombre souvenir d'avoir pénétré dans l'obscurité, deviendra la force qui et permettra de régner. »"
+      }
+    ],
     "element": [
       {
         "name": "Hydro",
@@ -530,6 +554,11 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706242/Genshin/Boss/Azhdaha2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
     "title": "Seigneur Géosaure scellé",
+    "description": [
+      {
+        "text": "Un immense dragon dont l'existence précède celle des montagnes. en des temps immémoriaux, il fut le compagnon du dieu qui régnait sur le Port de pierre. Mais les deux finirent par s'opposer l'un à l'autre, et le dragon fut banni dans un lieu de ténèbres souterraines. le bruit de ses chaînes et ses grognements de fureur résonnent toujours dans les entrailles des montagnes, souvenir d'un lointain passé…"
+      }
+    ],
     "element": [
       {
         "name": "Géo",
@@ -756,6 +785,17 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713068/Genshin/Boss/Signora2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713070/Genshin/Boss/SignoraIcon.png",
     "title": "Huitième Exécutrice des Fatui",
+    "description": [
+      {
+        "text": "Signora, la huitième Exécutrice des Fatui. Contrairement aux autres Fatui qui se servent de l'autorité accordée par les yeux maléfiques, le sien dissimule une flamme qqui dévorera tout. Par opposition à une arme utilisée pour tuer, il serait peut-être plus approprié de considérer cela comme un outil d'emprisonnement. Et ce sont les braises de cette flamme, accumulées pendant de longues années, qui brisèrent le sceau givré de l'oeil maléfique et devinrent la cause de son apparence corrompue."
+      },
+      {
+        "text": "L'aurore écarlate se refléta dans ses prunelles, et enfin, elle déplia ses ailes flamboyantes et s'envola vers la lumière « Mais cette lumière n'est pas l'aube, chère Rosalyne. C'est une mer de flammes qui consumera tout.» Dans la lumière, une voix s'adressa ainsi à elle."
+      },
+      {
+        "text": "Pourtant cela n'avait guère d'importance, car elle savait dans son coeur que les flammes l'avaient dévorée depuis longtemps."
+      }
+    ],
     "element": [
       {
         "name": "Cryo",
@@ -898,6 +938,14 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778643/Genshin/Boss/MagatsuMitakeNarukamiNoMikoto2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778639/Genshin/Boss/MagatsuMitakeNarukamiNoMikotoIcon.png",
     "title": "Raiden-tono d'Inazuma",
+    "description": [
+      {
+        "text": "C'est la forme que prend la marionnette qui a hérité de l'autorié de la Shogun Raiden lorsqu'elle s'oppose à ceux qui menacent l'éternité. En tant qu'assistante de la Shogun Raiden dans la poursuite de l'éternité, elle n'a jamais douté et n'a jamais ressenti de peur. Elle a toujours donné le meilleur d'elle-même et n'a jamais eu de pensée parasite. Elle a entendu parler une fois de la façon dont Ei avait assumé un devoir similaire quand Makoto était encore là, subissant une perte atroce dans le processus. Lorsque les deux ombres se sont à nouveau superposées, cependant, elle n'a pu que constater les nombreuses fractures dans ce qui aurait dû être « sa » volonté éternelle. Puisque le destin est detiné à se reproduire, elle doit tenir sa promesse et « lui » déclarer la guerre."
+      },
+      {
+        "text": "« J'ai pris la forme la plus suprême et la plus noble qui soit. C'est moi qui ai hérité du pouvoir, et je suis l'essence de ce que représente la « Shogun Raiden ». C'est naturel que j'aie hérité de la douleur des innombrables pertes qu'a subies Ei et de sa volonté d'atteindre l'éternite. Résolution, courage, amour, haine… sont brassés par le fleuve du temps. seules les règles restent immuables pour l'éternité. »"
+      }
+    ],
     "element": [
       {
         "name": "Électro",
@@ -1017,6 +1065,14 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKami2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKamiIcon.png",
     "title": "Shouki no Kami, le prodige",
+    "description": [
+      {
+        "text": "Une divinité artificielle créée par le travail des six darshans de l'Académie de Sumeru. Son pouvoir rivalise avec celui des dieux. Ceux qui le désignent comme « fausse divinité » sont incapables de comprendre le véritable sens du mot « divinité ». Shouki no Kami dispose d'une compréhension d'une infinité de choses et dun pouvoir suprême qui transcende le commun des mortels. Si l'amour de l'humanité est ce qui définit un dieu, il peut être considéré que Shouki no Kami l'aime aussi, en accordant la défaite à chacun. Si les dieux veillent sur l'humanité… … … Il peut être considéré que Shouki no Kami veille aussi sur elle, ayant été témoin d'une infinité d'événements liés à l'amour, la haine, la séparation, la rancune et la colère."
+      },
+      {
+        "text": "« Vous avez connu trop de bonheur ! » « Cela vous a rendus idiots, arrogants et d'une avidité effrayante. » « Cette ère doit être révolue ! » « Les nouvelles divinités déclarent la chute des anciens. » « Insolent mortels… Il n'est pas encore trop tard pour vous mettre à genoux. »"
+      }
+    ],
     "element": [
       {
         "name": "Anémo",
@@ -1190,6 +1246,17 @@
     "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApepIcon.png",
     "title": "Évolué d'un millénaire apocalyptique",
+    "description": [
+      {
+        "text": "Apep nageait autrefois comme un poisson aves ses nombreuses progénitures à travers la mer d'herbes parfumées, d'arbres gigantesques et de liane d'une longeur inimaginable. À la fin cependant, les herbes, les arbres et les lianes se desséchèrent et se transformèrent en poussière, tandis que de nombreuses créatures de la taille d'un gravier établirent une frêle nation sur les terres d'Apep. Avec ses nombreuses progénitures, Apep transforma alors le désert en un sable bouillonant, soufflant tours et bâtiments qui tombèrent ensuite comme des feuilles mortes… Jusqu'à ce que le nouveau seigneur des sables et le roi qui avait perdu sa patrie se réconcilièrent. Dès lors, les dunes baignées se soleil appartiendraient aux humains et aux divinités, tandis que l'oasis du dragon resterait dans le coeur du dragon lui-même."
+      },
+      {
+        "text": "Apep partagea la connaissance de l'évolution avec ses nombreux descendants, car l'eau qui coule ne pourrit pas mais le bois pourri doit tout de même tombre. Cependant, lorsqu'il tint finalement sa promesse avec le seigneur des sables et atteignit la sagesse ultime, il ne put entrevoir que la fin des temps, l'infinie apocalypse. Apep se perdit alors, seul, dans le paysage apocalyptique. Là tous les gens, divinités, dragons, bêtes, oiseux et poissons… Tous les souvenirs, sagesses, mots et haines… Tout serait broyé en poussière incolore, et le dernier clair de lune brûlerait en une pluie de flammes pâles avant de tomber sur la terre aride."
+      },
+      {
+        "text": "Apep considérait le fond de la mer de sable comme sa tombe, et non comme le palais d'un roi sans nation. le poison de la sagesse le libérerait bientôt de la haine et de la colère accumulées pendat d'innombrables lunes. Apep s'était lassé de l'apocalypse incolor… Cependant, la jeune divinité et la voyageuse aux cheveux dorés lui permirent finalement de se rappeler une fois de plus que, même si la teree verdoyante sur laquelle il regnait autrefois avait été transformée en désert doré, même si ses progénitures et lui étaient devenus tordus et laids pour y assurer leur survie, il cherissait toujours en son coeur le paysage de cette oasis."
+      }
+    ],
     "element": [
       {
         "name": "Dendro",
@@ -1304,6 +1371,12 @@
     "art2": "hhttps://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/NarvalIcon.png",
     "title": "Visiteur de l'autre côté de la mer des étoiles",
+    "description": [
+      {
+        "text": "Une créature mystérieuse et gargantuesque venue d'un autre monde. Les poètes comparent souvent le ciel étoilé à l'océan, ayant été témoins ou rêvé d'innombrables planctons bioluminescents flottant sur une mer sans lune, en tout point semblable à une galaxie, ou du clair de lune déchiré par les vagues à la surface de la mer, rappelant les étoiles scintillantes. Dans les histoires le splus fantastiques ou les mensonges les plus scandaleux, les étoiles situées dans les profondeurs du cosmos pourraient regorger de vie, un peu comme Teyvat, et l'univers lui-même s'apparente à un océan. Cependant, réalistement parlant, si un univers profond et plein de vie existe, pourquoi aucune partie de cette vie n'a-t-elle pris contact avec Teyvat ? Peut-être que l'univers à constamment essayer d'infiltrer tayvat, ou peut-être q'une puissance qu'une puissance supérieure a créé des frontières pour protéger ce monde…"
+      },
+      { "text": "" }
+    ],
     "element": [
       {
         "name": "Électro",
