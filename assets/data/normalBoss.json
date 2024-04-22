@@ -2,7 +2,7 @@
   {
     "id": "B1",
     "name": "Hypostase Anémo",
-    "name2": "Bett",
+    "title": "Bett",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955600/Genshin/Boss/HypostaseAnemo.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955601/Genshin/Boss/HypostaseAnemoIcon.png",
     "region": {
@@ -10,6 +10,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
       "location": "Montagnes du guet"
     },
+    "description": [
+      {
+        "text": "Nom de code « Bett », une entité Anémo de niveau supérieur. Les Hypotases sont des formes de vie ayant abandonné leur forme et structure biologique originelles afin d'atteindre le niveau le plus élevé de pureté élémentaire."
+      },
+      {
+        "text": "Les recherches sur les Hypotases élémentaires sont menées principalement par les chercheurs de l'Académie de Sumeru. Mais en raison du danger qu'elles posent, les connaissances à leur sujet se limitent pour ainsi dire à leur nom scientifique ainsi que leur nom de code."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Graine d'ouragan",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
@@ -63,7 +77,7 @@
   {
     "id": "B2",
     "name": "Hypostase Èlectro",
-    "name2": "Alep",
+    "title": "Alep",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956287/Genshin/Boss/HypostaseElectro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956288/Genshin/Boss/HypostaseElectroIcon.png",
     "region": {
@@ -71,6 +85,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
       "location": "Cap de la promesse"
     },
+    "description": [
+      {
+        "text": "Nom de code « Alep », une entité Électro de niveau supérieur. Les Hypostases sont des structures élémentaires de la forme la plus aboutie, qui se forment généralement dans les lieux emplis d'énergie élémentaire ou le long de lignes énergétiques congestionnées."
+      },
+      {
+        "text": "Les Hypostases élémentaires ont développé chacune différents mécanismes de combat s'appuyant sur leurs attributs élémentaires respectifs."
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Prisme d'éclair",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
@@ -134,6 +162,7 @@
   {
     "id": "B3",
     "name": "Arbre congelé",
+    "title": "Baiser du froid",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956835/Genshin/Boss/ArbreCongele.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956842/Genshin/Boss/ArbreCongeleIcon.png",
     "region": {
@@ -141,6 +170,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
       "location": "Vallée tombétoile"
     },
+    "description": [
+      {
+        "text": "Un monstre né d'une plante grimpante qui a été polongée dans le froid au sein des lignes énergétiques."
+      },
+      {
+        "text": "Des études montrent que les plantes sont les organes de la terre régulant l'énergie élémentaire. les fleurs de brume et les Fleurs mensongères en sont des exemples concrets."
+      },
+      {
+        "text": "Ces plantes prennent une taille monstrueuse à l'instinct meurtrier, comme les arbres congelés, après de nombreuses années."
+      }
+    ],
+    "element": [
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Duramen de glace",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
@@ -209,7 +255,7 @@
   {
     "id": "B4",
     "name": "Hypostase Cryo",
-    "name2": "Daleth",
+    "title": "Daleth",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957501/Genshin/Boss/HypostaseCryo.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957502/Genshin/Boss/HypostaseCryoIcon.png",
     "region": {
@@ -217,6 +263,17 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
       "location": "Mont Dosdragon"
     },
+    "description": [
+      {
+        "text": "Nom de code « Daleth », une entité Cryo de niveau supérieur. Selon les recherches, les Hypostatses présentent des différences subtiles en matière de composition physique par rapport aux créatures élémentaires ordinaires. Ces différences émaneraient de leur morphologie très stable et leur mode de mouvement mécanique."
+      }
+    ],
+    "element": [
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Fleur cristalline",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957357/Genshin/Materials/Boss/FleurCristalline.webp",
@@ -265,14 +322,28 @@
   {
     "id": "B5",
     "name": "Hypostase Géo",
-    "name2": "Grimor",
-    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957664/Genshin/Boss/HypostaseGeoIcon.webp",
-    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957663/Genshin/Boss/HypostaseGeo.png",
+    "title": "Grimor",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957664/Genshin/Boss/HypostaseGeo.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957663/Genshin/Boss/HypostaseGeoIcon.png",
     "region": {
       "name": "Liyue",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp",
       "location": "Forêt de pierre de Guyun"
     },
+    "description": [
+      {
+        "text": "Nom de code « Grimor », une entité Géo de niveau supérieur. Les Hypostases sont des stuctures compactes à la masse élevée."
+      },
+      {
+        "text": "L'énergie élémentaire ainsi concentrée forme une coquille rigide autour du coeur de l'Hypostase, ne laissant que ce dernier réagir aux stimuli élémentaires."
+      }
+    ],
+    "element": [
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Pilier de basalte",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957738/Genshin/Materials/Boss/PilierDeBasalte.webp",
@@ -327,6 +398,7 @@
   {
     "id": "B6",
     "name": "Arbre enflammé",
+    "title": "Flamme bourgeonnante",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958023/Genshin/Boss/ArbreEnflamme.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958025/Genshin/Boss/ArbreEnflammeIcon.png",
     "region": {
@@ -334,6 +406,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Liyue.webp",
       "location": "Pente Cuijue"
     },
+    "description": [
+      {
+        "text": "Une plante grimpante géante qui a absorbé l'ancienne flamme qui brûle dans les lignes énergétiques."
+      },
+      {
+        "text": "Cette créature végétales est habitée d'une furie inextinguible. poètes, bardes et même certains chercheurs croient que les éléments contiennent aussi des particules d'espoir et d'émotion. Si cela est vrai, alors on se demande quels sont les sentiments qui permettent à l'Arbre enflammé de brûler sans jamais se consummer, comme s'im cherchait à se libérer des entraves de ce monde…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Graine de feu",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
@@ -402,6 +488,7 @@
   {
     "id": "B7",
     "name": "Océanide",
+    "title": "Maîtresse des eaux de Qingce",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958363/Genshin/Boss/Oceanide.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710160093/Genshin/Boss/OceanideIcon.png",
     "region": {
@@ -409,6 +496,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Liyue.webp",
       "location": "Source de jade"
     },
+    "description": [
+      {
+        "text": "Un être vivant résultant de la condensation de l'élément Hydro à l'état pur. cette créature est souvent accompagnée de corps aqueux."
+      },
+      {
+        "text": "On raconte que plus ceux-ci sont purs, plus on y trouve d'élément Hydro, et plus l'Océanide est alors puissante. Une autre légende prétend que les Océanides sont des créatures des mers venues d'un lieu lointain et porteuses des fragments d'un dieu passé qui se seraient éparpillées à travers le monde, peut-être pour que l'amour de leur ancien dieu puisse recouvrir mers et terres…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Coeur d'eau pure",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958310/Genshin/Materials/Boss/CoeurDeauPure.webp",
@@ -467,6 +568,7 @@
   {
     "id": "B8",
     "name": "Géosaure antique",
+    "title": "Géosaure qui regnait avec le Roi",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958644/Genshin/Boss/GeosaureAntique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
     "region": {
@@ -474,6 +576,36 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Liyue.webp",
       "location": "Vallée Tianqu"
     },
+    "description": [
+      {
+        "text": "Un Géosaure immense, aussi âgé que puissant, et capable de s'adapter aux mutations élémentaires de l'environnement."
+      },
+      {
+        "text": "D'après la croyance populaire, le seigneur des Géosaures et les Géosaures antiques auraient été emprisonnés sous terre suite à la catastrophe ayant détruit la Vallée Tianqiu. Entrés dans un état d'hibernation, ils n'attendent que l'occasion de se réveiller…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Jade juvénile",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958759/Genshin/Materials/Boss/JadeJuvenile.webp",
@@ -623,6 +755,7 @@
   {
     "id": "B9",
     "name": "Serpent des ruines",
+    "title": "Excavateur SI/Glp",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959153/Genshin/Boss/SerpentDesRuines.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959156/Genshin/Boss/SerpentDesRuinesIcon.png",
     "region": {
@@ -630,6 +763,14 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Liyue.webp",
       "location": "Mine souterrainess du Gouffre"
     },
+    "description": [
+      {
+        "text": "Un automate ancien à l'aspect inhabituel."
+      },
+      {
+        "text": "Les légendes disent que ce serait un engin de chantier d'un royaume déchu. Les engrenages situés sur sa « tête » lui permettent de se frayer un chemin même à travers la roche la plus dure. Compte tenu de cela, il a certainement pu creuser des tunnels suffisamment grands pour permettre le passage d'une armée entière à travers les continents."
+      }
+    ],
     "uniqueRewards": {
       "name": "Croc Runique",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959263/Genshin/Materials/Boss/CrocRunique.webp",
@@ -683,6 +824,7 @@
   {
     "id": "B10",
     "name": "Suanni Solitaire",
+    "title": "Ancien seigneur des montagnes",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960058/Genshin/Boss/SuanniSolitaire.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960063/Genshin/Boss/SuanniSolitaireIcon.png",
     "region": {
@@ -690,6 +832,27 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Liyue.webp",
       "location": "Vallon Chenyu"
     },
+    "description": [
+      {
+        "text": "Ces élégantes et fières bêtes ne vivent que dans les montagnes enveloppées d'énergie mystique. Depuis les temps anciens, elles sont considérées comme un symbole de bonne fortune et leur préférence pour une vie à l'écart du monde des humains a été admirée par les intellectuels pendant des générations. Dans les anciennes légendes du Vallon Chenyu, la cheffe des suannis était appelée la maîtresse de la montagne et était considérée comme ayant le même statut que les Adeptes."
+      },
+      {
+        "text": "Une autre théorie prétend que les Bêtes de Xuanwen qui parcourent le smontagnes de nos jours sont les descendants des suannis, mais que la dilution de leur sang au fil des années les a amenées à se transformer en créatures violentes. bien que cela contredise une autre théorie concernant l'origine des Bêtes de Xuanwen, les quelques documents sur les suannis les decrivent  souvent accompagnés d'un grand nombre de Bêtes de Xuanwen."
+      },
+      {
+        "text": "De nos jours, la célèbre dans de wushou du Vallon Chenyu est basée sur les mouvements des suannis. mais comme seule une poignée de personnes ont réellement vu ces créatures, la plupart ne peuvent qu'imaginer à à quoi elles ressemblent. Après des milliers d'années de changements et d'interprétations artistiques différentes, la tête du costume de wushou a évolué vers son style actuel."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Écaille nuageuse",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960180/Genshin/Materials/Boss/EcailleNuageuse.webp",
@@ -757,6 +920,7 @@
   {
     "id": "B11",
     "name": "Lame Oni",
+    "title": "Mécanisme ingénieux - Marionnette épéiste",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960411/Genshin/Boss/LameOni.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960415/Genshin/Boss/LameOniIcon.png",
     "region": {
@@ -764,6 +928,25 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Tête du serpent"
     },
+    "description": [
+      { "text": "Un humanoïde maniant l'épée." },
+      {
+        "text": "Il semble n'avoir ni les moyens, ni l'envie de parler, se contentant de communiquer avec ses épées. on raconte qu'on intégra lors de la conception de cette machine les souvenirs d'un ancien maître fondateur d'une certaine école de maniement de l'épée. pour des raisons inconnues, l'automate perdit le contrôle, et finit par être abandonné."
+      },
+      {
+        "text": "On prétend également que l'esprit de l'épée erre là où son destin s'est arrêté, tandis que le visage féroce qui la garde vient de quelque fameux et puissant démon ancien."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Mécanisme Oni",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960425/Genshin/Materials/Boss/MecanismeOni.webp",
@@ -836,7 +1019,7 @@
   {
     "id": "B12",
     "name": "Matrice mécanique perpétuelle",
-    "name2": "",
+    "title": "Résonnance perpétuelle SI/Ald",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961878/Genshin/Boss/MatriceMecaniquePerpetuelle.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961881/Genshin/Boss/MatriceMecaniquePerpetuelleIcon.png",
     "region": {
@@ -844,6 +1027,14 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Ile de Narukami"
     },
+    "description": [
+      {
+        "text": "Une étrange machine de guerre. La légende prétend qu'il s'agit là de méchaniqme guerriers laissés par quelque nation détruite. sa conception modulaire lui permet de s'adapter à différents environnements de combat et d'utiliser différents types d'attaques."
+      },
+      {
+        "text": "Sa forme cubique n'est pas sans rappeler les Hypostases élémentaires."
+      }
+    ],
     "uniqueRewards": {
       "name": "Coeur perpétuel",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961970/Genshin/Materials/Boss/CoeurPerpetuel.webp",
@@ -916,7 +1107,7 @@
   {
     "id": "B13",
     "name": "Hypostase Pyro",
-    "name2": "Ayin",
+    "title": "Ayin",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708962134/Genshin/Boss/HypostasePyro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708962140/Genshin/Boss/HypostasePyroIcon.png",
     "region": {
@@ -924,6 +1115,17 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Kannazuka"
     },
+    "description": [
+      {
+        "text": "Nom de code « Ayin », une entité Pyro de niveau supérieur. D'après les recherches, les Hypostases élémentaires sont liées aux anomalies des veines élémentaires locales. Mais on ignore toujours si c'est l'existence des Hypostases qui a influencé sur les veines élémentaires, ou l'inverse."
+      }
+    ],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Perle brûlante",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708962152/Genshin/Materials/Boss/PerleBrulante.webp",
@@ -972,7 +1174,7 @@
   {
     "id": "B14",
     "name": "Hypostase Hydro",
-    "name2": "He",
+    "title": "He",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963409/Genshin/Boss/HypostaseHydro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963416/Genshin/Boss/HypostaseHydroIcon.png",
     "region": {
@@ -980,6 +1182,17 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Ile de Watatsumi"
     },
+    "description": [
+      {
+        "text": "Nom de code « He », une entité Hydro de niveau supérieur. Les Hypostases ont de grandes capacités de rejet et expulseront sans pitié tous ceux qui les testent. Son comportement de rejet s'étend même aux éléments naturels."
+      }
+    ],
+    "element": [
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Rosée du rejet",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963492/Genshin/Materials/Boss/RoseeDuRejet.webp",
@@ -1028,6 +1241,7 @@
   {
     "id": "B15",
     "name": "Manifestation du tonerre",
+    "title": "Tonnerre déchaîné du pic Amakumo",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963649/Genshin/Boss/ManifestationDuTonnerre.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963654/Genshin/Boss/ManifestationDuTonnerreIcon.png",
     "region": {
@@ -1035,6 +1249,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Pic Amakumo"
     },
+    "description": [
+      {
+        "text": "Une entité Électro anormale. bien que rappelant une Océanide, elle ne possède ni sa sagesse, ni sa mémoire."
+      },
+      {
+        "text": "La Manifestation du tonnerre est animée par une colère primitive. ces créatures naissent, dit-on, lorsque la foudre frappe des lieux ou demeure une forte énergie négative, comme le lugubre Pic Amakumo perdu dans les nuages sombres… Comme si le tonnerre ne suffisait pas."
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Perles tempestives",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963722/Genshin/Materials/Boss/PerlesTempestives.webp",
@@ -1083,6 +1311,7 @@
   {
     "id": "B16",
     "name": "Loup alpha doré",
+    "title": "Roi anonyme de faille",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963886/Genshin/Boss/LoupAlphaDore.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963892/Genshin/Boss/LoupAlphaDoreIcon.png",
     "region": {
@@ -1090,6 +1319,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Ile de Tsurumi"
     },
+    "description": [
+      {
+        "text": "Originaire d'un monde sombre, ce souverain des canidés noirs a le pouvoir d'invoquer ses adeptes. ses griffes cachées, pour dissoudre l'espace lui-même et forger une faille par laquelle il peut entrer. Le loup alpha n'a pas de nom, car il n'était que l'une des créations involontaires de l'« Or », et c'est précisément pourquoi il est obsédé par l'invasion de mondes qui ne lui appartiennent pas, afin de se faire un nom."
+      },
+      {
+        "text": "Cela dit, la meute de canidés est loin d'être inintelligente : après avoir subi une défaite lors de sa précédente invasion, une île déserte où aucun humain ou protecteur n'habite à été sélectionnée pour se préparer à l'arrivée de leur seigneur."
+      }
+    ],
+    "element": [
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Régalia de faille",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963973/Genshin/Materials/Boss/RegaliaDeFaille.webp",
@@ -1137,7 +1380,8 @@
 
   {
     "id": "B17",
-    "name": "Harde d'Élémentosaures abyssaux",
+    "name": "Protecteurs du corail",
+    "title": "Harde d'Élémentosaures abyssaux",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964152/Genshin/Boss/HardeDelementosaureAbyssaux.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964160/Genshin/Boss/HardeDelementosaureAbyssauxIcon.png",
     "region": {
@@ -1145,6 +1389,24 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp",
       "location": "Enkanomiya"
     },
+    "description": [
+      {
+        "text": "Un Élémentosaure qui habite dans les profondeurs océaniques. Pour des raisons d'adaptations sociale, certains Élémentosaures ont développé une forme en rapport avec l'élément Cryo. Avec l'arrivée des humains et de la confrontation avec eux, les Élémentosaures abyssaux ont commencé à se développer. Ils ont évolué à la menière des fourmis, parmi lesquelles la répartition du travail et les caractériqtiques biologiques ont conduit à l'émergence de nouvelles formes. Ces Élémentosaures sont plus solides que leurs cousins ordinaires."
+      },
+      {
+        "text": "Un Élémentosaure qui habite dans les profondeurs océaniques. Pour des raisons d'adaptations sociale, certains Élémentosaures ont développé une forme en rapport avec l'élément Électro. Suite à la disparition du pouvoir des sept souverains, une nouvelle géneration de souverains est en train d'émerger. Les Élémentosaures abyssaux ont cependant évolué d'une manière qui leur a fait perdre leur pureté. C'est pourquoi ils ne donneront plus naissance au dragon des eaux. D'après la prophétie, un nouveau dragon des eaux fera son apparition sous les traits d'un humain… Bien que les dragons des eaux qui ont retrouvé leur forme complète se considèrent toujours comme faisant partie de la même espèce, ils sont en fait plus proches d'une autre race. Peut-être ont-ils pensé qu'il valait mieux se rapprocher des humains, puisqu'ils ont chois de travailler avec eux, ou peut-être ont-ils compris leur potentiel…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Fausse nageoire de l'héritier du dragon",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964222/Genshin/Materials/Boss/FausseNageoireDeLheritierDuDragon.webp",
@@ -1217,6 +1479,7 @@
   {
     "id": "B18",
     "name": "Champieffroi panaché",
+    "title": "Roi sylvestre des champignons",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964453/Genshin/Boss/ChampieffroiPanache.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964457/Genshin/Boss/ChampieffroiPanacheIcon.png",
     "region": {
@@ -1224,6 +1487,21 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Champs de Vissudha"
     },
+    "description": [
+      {
+        "text": "Un fongus de grande taille qui a acquis sa forme si spécifique au fil des années."
+      },
+      {
+        "text": "Son intelligence égale voire dépasse celle des animaux, et il chasse activement ses proies pour se nourrir. Sa queue a un beau plumage de jade qui semble très similaire à celui de l'ancienne bête sacrée que l'école du Spantamad vénère. Si l'on se fie à la théorie de l'évolution par mimétisme, il semble tout à fait probable que ces deux êtres aient existé au même moment sur terre."
+      }
+    ],
+    "element": [
+      {
+        "name": "Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
+      }
+    ],
+
     "uniqueRewards": {
       "name": "bec crochu majestueux",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964569/Genshin/Materials/Boss/BecCrochuMajestueux.webp",
@@ -1272,6 +1550,7 @@
   {
     "id": "B19",
     "name": "Arbre foudroyé",
+    "title": "Fleur statique mortelle",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043650/Genshin/Boss/ArbreFoudroye.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043659/Genshin/Boss/ArbreFoudroyeIcon.png",
     "region": {
@@ -1279,6 +1558,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Sumeru.webp",
       "location": "Forêt de Mawtiyima"
     },
+    "description": [
+      {
+        "text": "Une liane gigantesque transformée en monstre par les courants électriques qui parcourent les lignes énergétiques."
+      },
+      {
+        "text": "de l'énergie Électro se libère en permanence de sa houppe, comme s'il cherchait à libérer la colère de la terre elle-même."
+      },
+      {
+        "text": "Les chercheurs du Kshahrewar ont un jour suggéré qu'une matrice de circuit complexe pouvait être mise en place autour de cette créature pour transporter son énergie électrique vers la ville pour y être utilisée. cette hypothèse a été rejetée en bloc par les chercheurs du Spantamad, qui ont sacrifié 10 porpignons pour démontere les dangers de l'électricité…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Fruit du Tonnerre",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043672/Genshin/Materials/Boss/FruitDuTonnerre.webp",
@@ -1327,6 +1623,7 @@
   {
     "id": "B20",
     "name": "Dragon Cataclysmique",
+    "title": "Mouvement perpétuel Gl-Faf",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044187/Genshin/Boss/DragonCataclysmique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044186/Genshin/Boss/DragonCataclysmiqueIcon.png",
     "region": {
@@ -1334,6 +1631,45 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Vallée d'Ardravi"
     },
+    "description": [
+      {
+        "text": "Cette machine de combat en forme de dragon est un être qui inspire la terreur, tout comme le seigneur qui regnait autrefois sur ces vastes terres."
+      },
+      {
+        "text": "Il est dit que le royaume maintenant détruit cherchait autrefois des connaissances interdites et tentait de créer des machines à mouvement perpétuel qui pourraient égaler ou même surpasser les formes de vie primordiales. Cette monstruosité mécanique mystérieuse et infatigable semble être la preuve qu'ils avaient atteint des sommets que les mortels n'auraient jamis dû atteindre."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      },
+
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Calibre perpétuel",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044175/Genshin/Materials/Boss/CalibrePerpetuel.webp",
@@ -1411,6 +1747,7 @@
   {
     "id": "B21",
     "name": "Algorithme de semi-intransition matriciaire d'observation en néo-réseau",
+    "title": "Garde du tombeau du roi du désert",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045080/Genshin/Boss/Algorithme.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045081/Genshin/Boss/AlgorithmeIcon.webp",
     "region": {
@@ -1418,6 +1755,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Désert hypostyle"
     },
+    "description": [
+      {
+        "text": "Une machine à mouvement perpétuel qui domine les nombreux édifices éparpillés dans le désert."
+      },
+      {
+        "text": "Il semble que la volonté du souverain solitaire habite toujours ce dispositif. Peut-être était-ce parce qu'il avait reçu en rêve les instructions d'un ami ou parce qu'il désirait ardemment posséder l'autorité des dieux, mais le roi de cette nation perdue a crée ces machines mystérieuses qui n'auraient pas dû avoir leur place dans ce monde."
+      },
+      {
+        "text": "Au milieu des ruines de la cité aux mille pilier, les anciens cristaux reflètent encore la gloire du paradis doré, bien que personne ne se souvienne du roi."
+      }
+    ],
+    "element": [
+      {
+        "name": "",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/Icon.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Tétraèdre de lumière",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045039/Genshin/Materials/Boss/TetraedreDeLumiere.webp",
@@ -1495,7 +1849,7 @@
   {
     "id": "B22",
     "name": "Hypostase Dendro",
-    "name2": "Zayin",
+    "title": "Zayin",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045520/Genshin/Boss/HypostaseDendro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045521/Genshin/Boss/HypostaseDendroIcon.png",
     "region": {
@@ -1503,6 +1857,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Bas-Setekh"
     },
+    "description": [
+      {
+        "text": "Nom de code « Zayin », une entité Dendro de niveau supérieur. Selon les déductions de certains chercheurs, les Hypostases élémentaires sont suffisamment intelligentes pour « apprendre », comme en témoigne leur usage de « mimétisme » pour attaquer."
+      },
+      {
+        "text": "Cependant, leur capacité d'assimiler des informations pour se transformer les expose à un risque de contamination extérieure. Au fur et à mesure que cette créature apprend et évolue, l'objectif de sa naissance, qui reste encore un mystère dans les sphères académiques, peut être déformé au point de devenir insignifiant."
+      }
+    ],
+    "element": [
+      {
+        "name": "Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Liane d'oblitération",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045490/Genshin/Materials/Boss/LianeDobliteration.webp",
@@ -1556,6 +1924,7 @@
   {
     "id": "B23",
     "name": "Wenuth de Setekh",
+    "title": "Le dernier prince des sables",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046836/Genshin/Boss/WenutDeSeketh.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710160456/Genshin/Boss/WenutDeSekethIcon.png",
     "region": {
@@ -1563,6 +1932,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Tunnel des Wenuts"
     },
+    "description": [
+      {
+        "text": "Un prédateur sans yeux qui habite dans les profondeurs du désert et suit sa proie grâce aux sons et tremblements envoyés à travers la terre."
+      },
+      {
+        "text": "Les légendes racontent que dans le passé, avant même que le concept de temps ne soit créé, ces créatures prospéraient avec leur descendants dans une terre d'herbe verdoyantes et d'arbres colossaux, traversant un sol glissant comme des poissons plongeant dans l'eau."
+      },
+      {
+        "text": "Avec le passage des éons, les dons du ciel ont depuis longtemps réduit les sols en sable, provoquant l'extinction d'un grand nombre de créatures. Cette espèce a néanmoins pu survivre en s'adaptant davantage à la vie terrestre et est devenue connue sous le nom de Wenut. Certains habitants du désert croient encore à tort que les Wenuts sont la forme finale des anguilles des sables après pupaison et arrivée à maturité, probablement en raison de similitudes superficielles entre les comportements des espèces."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Pseudo-étamines",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046768/Genshin/Materials/Boss/PseudoEtamines.webp",
@@ -1611,6 +1997,7 @@
   {
     "id": "B24",
     "name": "Lustrateur inique",
+    "title": "Le guide du paradis obscur",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047152/Genshin/Boss/LustrateurInique.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
     "region": {
@@ -1618,6 +2005,32 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Sumeru.webp",
       "location": "Gavireh Lajavard"
     },
+    "description": [
+      {
+        "text": "Créature de l'Abîme, utilisant plusieurs types de pouvoir élémentaire et ayant gagné des appendices supplémentaires suite à son « évolution »."
+      },
+      {
+        "text": "« L'essence même de l'Abîme est inconciliable avec les éléments. cependant, même les éléments divins peuvent être contraints et déformés avant d'être habités par la volonté abyssale. D'après les résultats, le soi-disant Abîme semble n'avoir aucune différence signifivative par rapport à quelque chose d'aussi insignifiant que les réceptacles d'énergie élémentaire des pilleurs de trésors, ou d'aussi puissant que les yeux divins… » - Notes laissées dans l'Hangeh Afrasiyab"
+      }
+    ],
+    "element": [
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Anneau de sombreur éternelle",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047115/Genshin/Materials/Boss/AnneauDeSombreurEternelle.webp",
@@ -1745,6 +2158,27 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Region de la cour de Fontaine"
     },
+    "description": [
+      {
+        "text": "Des danseurs artificiés développés par l'institut de recherche de Fontaine."
+      },
+      {
+        "text": "Bossuet voulait à l'origine que les danseurs artificiés soient des oeuvres d'art qui transcendent l'ère de la reproduction mécanique. Mais après qu'il a été contraint de démissionner, le projet a été repris par Maillardet, qui avait ses propres opinions."
+      },
+      {
+        "text": "Ainsi, alors que leurs caractéristiques se sont perfectionnées au cours de leur développement, les danseurs artificiés se sont peu à peu éloignés de la vision originelle de Bossuet."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      }
+    ],
     "uniqueRewards": [
       {
         "name": "Engrenage artificiel de rechange : Coppelia",
@@ -1836,6 +2270,7 @@
   {
     "id": "B26",
     "name": "Empereur du feu ferreux",
+    "title": "Marée brûlante palpitant sous les montagnes",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048210/Genshin/Boss/EmpereurDuFeuFerreux.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048213/Genshin/Boss/EmpereurDuFeuFerreuxIcon.png",
     "region": {
@@ -1843,6 +2278,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Région belleau"
     },
+    "description": [
+      {
+        "text": "L'un des deux souverains qui se tenaient autrefois au sommet des espèces aberrantes de la Fontemer, et le sujet de nombreuses histoires parmi les marins"
+      },
+      {
+        "text": "Un Cuiracrabe qui évite la prédation et peut continuer à chasser et à manger continuera de grandir, recherchant continuellemnt des carapaces appropriées qui deviendront tant de nouvelles cuirasses. Mais certains deviennent finalement tout simplement trop garagntuesques… Avant la première période d'innondation, un énorme Cuiracrabe a attaqué un navire et finalement été repossé dans les profondeurs par Basil Elton, qui n'avait pas encore été nommée commandante navale."
+      },
+      {
+        "text": "Imaginez un monde où toute l'humanité a été purgée de Teyvat, alors que l'Empereur du feu ferreux, toujours grandissant, porte finalement le Palais mermonia sur son corps comme une luxueuse armure de pierre blanche… Bien sûr, dans un tel monde, il n'y aurait plus personne pour l'appeler, à moitié en plaisantant et à moitié avec admiration, l'empereur du feu ferreux."
+      }
+    ],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Résolution de l'empereur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048152/Genshin/Materials/Boss/ResolutionDeLempereur.webp",
@@ -1891,6 +2343,7 @@
   {
     "id": "B27",
     "name": "Hippocampe perlé millénaire",
+    "title": "Seigneur anonyme du grand lac",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048582/Genshin/Boss/HippocampePerleMillenaire.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048586/Genshin/Boss/HippocampePerleMillenaireIcon.png",
     "region": {
@@ -1898,6 +2351,23 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Région de Liffey"
     },
+    "description": [
+      {
+        "text": "L'un des deux souverains qui se tenaient autrefois au sommet des espèces aberrantes de la Fontemer."
+      },
+      {
+        "text": "Les poètes et les auteurs le proclament souvent fier et noble en raison de ses tendances solitaires, mais la véritable raison de ces descriptions adulatrices est son corps élégant et élancé. En tant que tel, il s'agit d'un « hippocampe » tandis que le suzerain des Cuiracrabes est un « empereur ». "
+      },
+      {
+        "text": "Dans les légendes et les rumeurs de Fontaine, une guerre brutale fut autrefois menée entre les Aberrants fontemarins, ne laissant que l'Hippocampe perlé millénaire et l'empereur du feu ferreux se divisnat le grand lac en deux fiefs, l'un régnant au nord, l'autre au sud. Dans le « Chant de Dobharcu », l'écrivain décrit l'issue de la guerre : dans son agonie, la grande Raie prédatrice connue sous le nom de reine des tempêtes agita d'énormes vagues, provoquant ce que les gens appellent maintenant la première période d'inondation… Bien sûr, tout cela n'est rien de plus que le résultat de l'imagination romantique de personnes qui ne veulent pas accepter les réalités fades du monde. car les aberrants fontemarins ne sont en fait que de simples animaux aquatiques, et ils ne possèdent pas de grands fiefs ou de royaumes déchus, pas plus qu'ils n'ont pas de paroles fougueuses ou perfides."
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Corne fontemarine",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048527/Genshin/Materials/Boss/CorneFontemarine.webp",
@@ -1946,7 +2416,8 @@
 
   {
     "id": "B28",
-    "name": "Générateur de champ expérimental",
+    "name": "Prototype Cal. Breguet",
+    "title": "Générateur de champ expérimental",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048916/Genshin/Boss/GenerateurDeChampExperimental.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048921/Genshin/Boss/GenerateurDeChampExperimentalIcon.png",
     "region": {
@@ -1954,6 +2425,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Hall d'assemblée académique"
     },
+    "description": [
+      {
+        "text": "Un grand appareil conçu par feu Edwin Eastinghouse, ayant la capacité de « contrecarrer » les effets de la gravité. Selon sa conception originale, il s'agissait de la première étape d'un plan visant à transformer Fontaine en une ville flottant dans le ciel, afin que les gens n'aient plus jamais à s'inquiéter des vagues qui balayaient la terre. Même si les sept Nations devaient être englouties par les abîmes, l'élégante Cour de Fontaine flotterait au-dessus de tout comme Celestia. Ainsi même les secrets de l'univers ne sembleraient plus si lointains."
+      },
+      {
+        "text": "L'arkhium dans le noyau de l'appareil possède les caractériqtiques de « séparation » ou de « sédimentation » et peut donc séparer la matière, ou certaines choses en dehors de la matière. Il est dit que ce processus peut être inversé, mais l'Institut de recherche de Fontaine ne s'intéressait qu'aux effets physiques qu'il pouvait produire."
+      }
+    ],
+    "element": [
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Appareil Tourbillon",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048852/Genshin/Materials/Boss/AppareilTourbillon.webp",
@@ -2002,6 +2487,7 @@
   {
     "id": "B29",
     "name": "Tulpa Hydro",
+    "title": "Égrégore éveillé",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049314/Genshin/Boss/TulpaHydro.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049320/Genshin/Boss/TulpaHydroIcon.png",
     "region": {
@@ -2009,6 +2495,20 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Région Béryl"
     },
+    "description": [
+      {
+        "text": "Un monstre de forme humaine formé par l'agglomération de l'eau."
+      },
+      {
+        "text": "D'innombrables volontés se sont dissoutes dans l'eau qui, comme l'univers, était à l'origine pleine d'âmes désireuses de naître. Les Tulpas Hydro nouvellement nés sont-ils issus de l'eau ou de l'univers ? De toute façon, la différence entre les deux n'est pas aussi grande qu'on pourrait le penser à première vue : le soleil ne paut pas les distinguer, pas plus que le temps, les marées montantes ou même l'obscurité qui imprègne tout."
+      }
+    ],
+    "element": [
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      }
+    ],
     "uniqueRewards": {
       "name": "Eau n'ayant pas transcendé",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049261/Genshin/Materials/Boss/EauNayantPasTranscende.webp",

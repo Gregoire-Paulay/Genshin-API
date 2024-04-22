@@ -1242,8 +1242,8 @@
   {
     "id": "WB8",
     "name": "Gardien de l'oasis d'Apep",
-    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep.webp",
-    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep2.webp",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep2.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApepIcon.png",
     "title": "Évolué d'un millénaire apocalyptique",
     "description": [
@@ -1368,7 +1368,7 @@
     "id": "WB9",
     "name": "Narval Stellavore",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval.webp",
-    "art2": "hhttps://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval2.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval2.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/NarvalIcon.png",
     "title": "Visiteur de l'autre côté de la mer des étoiles",
     "description": [
