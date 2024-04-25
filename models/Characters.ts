@@ -13,19 +13,25 @@ export const charactersListSchema = z.array(
 export const characterDetailsSchema = z.object({
   id: z.string(),
   name: z.string(),
-  title: z.string(),
+  release_date: z.string(),
   star: z.number(),
+  title: z.string(),
+  other_title: z.array(z.object({ name: z.string() })),
+  real_name: z.string().optional(),
+  description: z.string(),
   art: z.string().url(),
   icon: z.string().url(),
-  weapon: z.object({ type: z.string(), icon: z.string().url() }),
+  wish: z.string().url().optional(),
+  archon: z.string().url().optional(),
   element: z.object({ type: z.string(), icon: z.string().url() }),
-  region: z.object({ name: z.string(), icon: z.string().url().optional() }),
-  region2: z
-    .object({ name: z.string(), icon: z.string().url().optional() })
-    .optional(),
-  region3: z
-    .object({ name: z.string(), icon: z.string().url().optional() })
-    .optional(),
+  weapon: z.object({ type: z.string(), icon: z.string().url() }),
+  birthday: z.string(),
+  dish: z.object({ name: z.string(), icon: z.string() }).optional(),
+  namecard: z.object({ name: z.string(), icon: z.string() }).optional(),
+  affiliation: z.array(z.object({ name: z.string() })).optional(),
+  region: z.array(
+    z.object({ name: z.string(), icon: z.string().url().optional() })
+  ),
   ascension_materials: z.object({
     mora: z.object({
       name: z.string(),

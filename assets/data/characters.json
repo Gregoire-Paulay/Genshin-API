@@ -3,9 +3,19 @@
     "id": "P1",
     "name": "Voyageur Anémo",
     "title": "Chevalier honoraire",
+    "other_title": [
+      { "name": "Capitaine de l'Espadon II" },
+      { "name": "Premier sage de Buer" },
+      { "name": "Comète dorée" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Aether (Homme) - Lumine (Femme)",
+    "birthday": "Choix du joueur",
+    "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -14,7 +24,7 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -295,9 +305,18 @@
     "id": "P2",
     "name": "Voyageur Géo",
     "title": "Chevalier honoraire",
+    "other_title": [
+      { "name": "Capitaine de l'Espadon II" },
+      { "name": "Premier sage de Buer" },
+      { "name": "Comète dorée" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Aether (Homme) - Lumine (Femme)",
+    "birthday": "Choix du joueur",
+    "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -306,7 +325,7 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -668,9 +687,26 @@
     "id": "P3",
     "name": "Amber",
     "title": "Éclaireuse de l'Ordre de Favonius",
+    "other_title": [
+      { "name": "Championne de planage" },
+      { "name": "Chevalier Carmin" }
+    ],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617748/Genshin/Characters/Amber.png",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.png",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713965322/Genshin/Characters/AmberWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "10 Août",
+    "dish": {
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713966343/Genshin/Characters/AmberDish.webp",
+      "name": "Super steak de l'éclaireuse"
+    },
+    "namecard": {
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713966349/Genshin/Characters/AmberCard.webp",
+      "name": "Amber - Baron Lapinou"
+    },
+    "description": "une jeune fille pleine d'énergie. Elle est la seule et unique Éclaireuse de l'Ordre de Favonius.",
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -679,10 +715,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -955,10 +993,32 @@
   {
     "id": "P4",
     "name": "Kaeya",
-    "title": "Capitaine de Cavalerie de l'Ordre de Favonius",
+    "title": "Chevalier du froid",
+    "other_title": [
+      { "name": "Capitaine de Cavalerie de l'Ordre de Favonius" },
+      { "name": "Intendant de l'Ordre de favonius" }
+    ],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629245/Genshin/Characters/Kaeya.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.png",
+    "description": "Un épéiste accompli et un stratège de génie de l'Ordre de favonius. Il est originaire, selon les rumeurs, d'une terre bien au-delà des frontières de Mondstadt.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713965549/Genshin/Characters/KaeyaWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Kaeya Alberich",
+    "affiliation": [
+      { "name": "Ordre de Favonius" },
+      { "name": "Kahenri'ah" },
+      { "name": "Clan Alberich" }
+    ],
+    "birthday": "30 novembre",
+    "dish": {
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713966585/Genshin/Characters/KaeyaDish.webp",
+      "name": "Brochette fruitée"
+    },
+    "namecard": {
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713966594/Genshin/Characters/KaeyaCard.webp",
+      "name": "Kaeya - Pavo Ocellus"
+    },
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -967,10 +1027,15 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      },
+      {
+        "name": "Kahenri'ah"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -1236,10 +1301,28 @@
   {
     "id": "P5",
     "name": "Lisa",
-    "title": "Bibliothécaire de l'Ordre de Favonius",
+    "title": "Sorcière à la rose",
+    "other_title": [{ "name": "Bibliothécaire de l'Ordre de Favonius" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/Lisa.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.png",
+    "description": "une bibliothécaire érudite mais un peu nonchalente, le plus grand talent diplômé d l'Académie de Sumeru de ces deux derniers siècles.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967183/Genshin/Characters/LisaWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Lisa Minci",
+    "affiliation": [
+      { "name": "Ordre de Favonius" },
+      { "name": "Académie de Sumeru - Spantamad (Anciennement)" }
+    ],
+    "birthday": "9 Juin",
+    "dish": {
+      "name": "Pâtes à la bolognaise mystiques",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967155/Genshin/Characters/LisaDish.webp"
+    },
+    "namecard": {
+      "name": "Lisa - Tempus Fugit",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967167/Genshin/Characters/LisaCard.webp"
+    },
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -1248,10 +1331,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -1527,9 +1612,24 @@
     "id": "P6",
     "name": "Barbara",
     "title": "Idole de Mondstadt",
+    "other_title": [{ "name": "Diaconesse" }, { "name": "Star de la chanson" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/Barbara.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.png",
+    "description": "Barbar est adulée de tous à Mondstadt. Pourtant, c'est dans un magazine qu'elle a découvert le terme « idole ».",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967535/Genshin/Characters/BarbaraWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Barbara Pegg",
+    "affiliation": [{ "name": "Église de Favonius" }],
+    "birthday": "05 Juillet",
+    "dish": {
+      "name": "Ragoût épicé",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967500/Genshin/Characters/BarbaraDish.webp"
+    },
+    "namecard": {
+      "name": "Barbara - Thérapeutique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967516/Genshin/Characters/BarbaraCard.webp"
+    },
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -1538,10 +1638,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -1821,9 +1923,23 @@
     "id": "P7",
     "name": "Noëlle",
     "title": "Servante de l'Ordre de Favonius",
+    "other_title": [{ "name": "Fleur chevalresque" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699758/Genshin/Characters/Noelle.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.png",
+    "description": "Une jeune fille travaillant comme servante à l'Ordre de favonius. Elle a toujours rêvé de devenir un jour chevalier.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967883/Genshin/Characters/NoelleWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "21 Mars",
+    "dish": {
+      "name": "Pancakes moelleux",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967859/Genshin/Characters/NoelleDish.webp"
+    },
+    "namecard": {
+      "name": "Noëlle - Protection",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713967839/Genshin/Characters/NoelleCard.webp"
+    },
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -1832,10 +1948,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -2127,9 +2245,27 @@
     "id": "P8",
     "name": "Bennet",
     "title": "Prince de la Guigne",
+    "other_title": [{ "name": "Chef de la Bande à Benny" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699280/Genshin/Characters/Bennett.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.png",
+    "description": "Un jeune avanturier originaire de Mondstadt. Sa gentillesse n'a d'égale que sa guigne.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968457/Genshin/Characters/BennettWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [
+      { "name": "Guilde des aventuriers" },
+      { "name": "Bande à Benny" }
+    ],
+    "birthday": "29 Février",
+    "dish": {
+      "name": "Oeufs brûlé de Teyvat",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968432/Genshin/Characters/BennettDish.webp"
+    },
+    "namecard": {
+      "name": "Bennett - Gratitude",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968408/Genshin/Characters/BennettCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -2138,10 +2274,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -2434,9 +2572,24 @@
     "id": "P9",
     "name": "Razor",
     "title": "Enfant-loup",
+    "other_title": [{ "name": "Légende du Royaume des Loups[" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699750/Genshin/Characters/Razor.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.png",
+    "description": "un jeune garçon qui vit sur le Territoire des Loups situé aux environs de Mondstadt, loin de la ville et des foules. Il possède un instinct et une agilité surprenante.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968944/Genshin/Characters/RazorWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Territoire des loups" }],
+    "birthday": "09 Septembre",
+    "dish": {
+      "name": "galette papatte",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968914/Genshin/Characters/RazorDish.webp"
+    },
+    "namecard": {
+      "name": "Razor - Affaire de loups",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968887/Genshin/Characters/RazorCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -2445,10 +2598,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -2733,9 +2888,24 @@
     "id": "P10",
     "name": "Beidou",
     "title": "Reine des mers sans couronne",
+    "other_title": [{ "name": "Capitaine du Crux" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699283/Genshin/Characters/Beidou.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.png",
+    "description": "Capitaine de la Flotte du Crux, une femme de tête franche et directe.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969514/Genshin/Characters/BeidouWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Flotte du Crux" }],
+    "birthday": "14 Février",
+    "dish": {
+      "name": "tranches de viande sautées",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969480/Genshin/Characters/BeidouDish.webp"
+    },
+    "namecard": {
+      "name": "Beidou - Levée d'ancre",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969451/Genshin/Characters/BeidouCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -2744,10 +2914,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -3054,9 +3226,25 @@
     "id": "P11",
     "name": "Fischl",
     "title": "Princesse du châtiment !",
+    "other_title": [{ "name": "Maîtresse de l'Empire de la Nuit Éternelle" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699244/Genshin/Characters/Fischl.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.png",
+    "description": "Une fille mystérieuse qui se fait appeler « la Princesse du châtiment ». Elle est toujours accompagnée de son fidèle corbeau, Oz.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969804/Genshin/Characters/FischlWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Fischl Von Luftschloss Narfidort - Amy (vrai prénom)",
+    "affiliation": [{ "name": "Guilde des aventuriers" }],
+    "birthday": "27 Mai",
+    "dish": {
+      "name": "Sainte Symphonie",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969755/Genshin/Characters/FischlDish.webp"
+    },
+    "namecard": {
+      "name": "Fischl - Corbeau de la nuit",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969721/Genshin/Characters/FischlCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -3065,10 +3253,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -3343,9 +3533,28 @@
     "id": "P12",
     "name": "Xiangling",
     "title": "Cheffe",
+    "other_title": [{ "name": "Cheffe cuisinière du Restaurant Wanmin" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700031/Genshin/Characters/Xiangling.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.png",
+    "description": "Une jeune cheffe liyuéenne qui nourrit une passion extrême pour la cuisine. Elle est réputée pour ses plats épicés.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970069/Genshin/Characters/XianglingWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Mao Xiangling",
+    "affiliation": [
+      { "name": "Restaurant Wanmin" },
+      { "name": "Flotte du Crux" }
+    ],
+    "birthday": "02 Novembre",
+    "dish": {
+      "name": "Poisson bouilli du Restaurant Wanmin",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970032/Genshin/Characters/XianglingDish.webp"
+    },
+    "namecard": {
+      "name": "Xiangling - Gooba",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969997/Genshin/Characters/XianglingCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp"
@@ -3354,10 +3563,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -3617,9 +3828,28 @@
     "id": "P13",
     "name": "Xingqiu",
     "title": "Jeune Galant",
+    "other_title": [{ "name": "Guhua Feiyun" }, { "name": "M. Zhenyu" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/Xingqiu.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.png",
+    "description": "Un jeune homme intègre et serviable, que l'on voit souvent dans les librairies. Il porte une longue épée, et poursuit un idéal de justice.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970347/Genshin/Characters/XingqiuWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [
+      { "name": "Guilde des marchands de feiyun" },
+      { "name": "Clan Guhua" },
+      { "name": "Chambre Yae (en tant que Zhenyu)" }
+    ],
+    "birthday": "09 Octobre",
+    "dish": {
+      "name": "Délices des rivages",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970299/Genshin/Characters/XingqiuDish.webp"
+    },
+    "namecard": {
+      "name": "Xingqiu - Bruine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970261/Genshin/Characters/XingqiuCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -3628,10 +3858,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -3911,9 +4143,24 @@
     "id": "P14",
     "name": "Chongyun",
     "title": "Corps de glace et coeur de feu",
+    "other_title": [{ "name": "Conjurateur Instable" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/Chongyun.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.png",
+    "description": "Le jeune héritier d'une célèbre famille d'exorcistes, qui s'efforce de contrôler l'énergie qui l'habite.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970701/Genshin/Characters/ChongyunWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Exorcistes des Monts Tianheng" }],
+    "birthday": "07 Septembre",
+    "dish": {
+      "name": "Nouilles froides aux délices de la montagne",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970654/Genshin/Characters/ChongyunDish.webp"
+    },
+    "namecard": {
+      "name": "Chongyun - Lame de l'esprit",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970612/Genshin/Characters/ChongyunCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -3922,10 +4169,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -4188,9 +4437,24 @@
     "id": "P15",
     "name": "Ningguang",
     "title": "Megrez de l'éclipse",
+    "other_title": [{ "name": "Maîtresse de la Chambre de Jade" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/Ningguang.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.png",
+    "description": "La Megrez des Sept Étoiles de Liyue. Peu de personnes peuvent se vanter d'être aussi riches à travers Teyvat.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970913/Genshin/Characters/NingguangWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Sept Étoiles de Liyue" }],
+    "birthday": "26 Août",
+    "dish": {
+      "name": "Viande-mora façon Caesor",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970871/Genshin/Characters/NingguangDish.webp"
+    },
+    "namecard": {
+      "name": "Ningguang - Phénix",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970830/Genshin/Characters/NingguangCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -4199,10 +4463,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -4478,9 +4744,24 @@
     "id": "P16",
     "name": "Sucrose",
     "title": "Alchimiste 100% naturelle",
+    "other_title": [{ "name": "Alchimiste de l'Ordre de Favonius" }],
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/Sucrose.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699723/Genshin/Characters/SucroseIcon.png",
+    "description": "Une alchimiste très curieuse du monde qui l'entoure. Elle se spécialise dans la bio-alchimie.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972173/Genshin/Characters/SucroseWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "26 Novembre",
+    "dish": {
+      "name": "Repas N° 593",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972121/Genshin/Characters/SucroseDish.webp"
+    },
+    "namecard": {
+      "name": "Sucrose - Bio-Alchimie",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972075/Genshin/Characters/SucroseCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -4489,10 +4770,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -4756,9 +5039,33 @@
     "id": "P17",
     "name": "Venti",
     "title": "Barde itinérant",
+    "other_title": [
+      { "name": "Chanteur des Vents Célestes" },
+      { "name": "Archon Anémo" },
+      { "name": "Barde de pacotille (par Paimon)" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/Venti.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.png",
+    "description": "Un des nombreux barde de Mondstadt, qui aime à se promener dans tous les recoins de la cité.",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972294/Genshin/Characters/VentiWish.webp",
+    "archon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972562/Genshin/Characters/VentiArchon.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Barbatos",
+    "affiliation": [
+      { "name": "Cité de Mondstadt" },
+      { "name": "Sept Archons" }
+    ],
+    "birthday": "16 Juin",
+    "dish": {
+      "name": "Ragoût de l'Archon Anémo (véritable)",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972289/Genshin/Characters/VentiDish.webp"
+    },
+    "namecard": {
+      "name": "Venti - Ciel d'azur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972288/Genshin/Characters/VentiCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -4767,10 +5074,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -5045,9 +5354,24 @@
     "id": "P18",
     "name": "Klee",
     "title": "Soleil fuyant",
+    "other_title": [{ "name": "Chevalier de l'étincelle" }],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/Klee.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.png",
+    "description": "Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant ».",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972819/Genshin/Characters/KleeWish.webp",
+    "release_date": "20 Octobre 2020",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "27 Juillet",
+    "dish": {
+      "name": "Toast au poisson",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972816/Genshin/Characters/KleeDish.webp"
+    },
+    "namecard": {
+      "name": "Klee - Chaud devant !",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972815/Genshin/Characters/KleeCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -5056,10 +5380,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -5325,6 +5651,28 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699225/Genshin/Characters/Jean.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/JeanIcon.png",
+    "description": "Le Chevalier au Pissenlit, loyal et rigoureux, et la Grande Maîtresse suppléante de l'Ordre de Favonius.",
+    "other_title": [
+      { "name": "Grande Maîtresse intérimaire de l'Ordre de Favonius" },
+      { "name": "Chevalier du Croc de Lion" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974027/Genshin/Characters/JeanWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Jean Gunnhildr",
+    "affiliation": [
+      { "name": "Ordre de Favonius" },
+      { "name": "Clan Gunnhildr" }
+    ],
+    "birthday": "14 Mars",
+    "dish": {
+      "name": "Pizza revigorante",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974017/Genshin/Characters/JeanDish.webp"
+    },
+    "namecard": {
+      "name": "Jean - Course du vent",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974017/Genshin/Characters/JeanCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -5333,10 +5681,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -5616,6 +5966,29 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699256/Genshin/Characters/Diluc.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.png",
+    "description": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt. Nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+    "other_title": [
+      { "name": "Propriétaire du Domaine de l'Aurore" },
+      { "name": "Héros de la nuit" },
+      { "name": "Capitaine Pyro (par paimon)" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974320/Genshin/Characters/DilucWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Diluc Ragnvindr",
+    "affiliation": [
+      { "name": "Domaine de l'Aurore" },
+      { "name": "Ordre de Favonius (anciennement)" }
+    ],
+    "birthday": "30 Avril",
+    "dish": {
+      "name": "« Le passé de Mondstadt »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974312/Genshin/Characters/DilucDish.webp"
+    },
+    "namecard": {
+      "name": "Diluc - Flambée mortelle",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974310/Genshin/Characters/DilucCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -5624,10 +5997,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -5894,6 +6269,21 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/Keqing.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIcon.png",
+    "description": "L'Alioth, l'une des Sept Étoiles de Liyue. L'Alioth critique à mots couverts l'idée que Liyue suive à la lettre la parole du Seigneur de la Roche, mais ce dernier apprécie justement ce genre de personnes.",
+    "other_title": [{ "name": "Sept Étoiles de Liyue - L'Alioth" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974618/Genshin/Characters/KeqingWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "Sept Étoiles de Liyue" }],
+    "birthday": "30 Novembre",
+    "dish": {
+      "name": "Poisson grillé du survivant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974612/Genshin/Characters/KeqingDish.webp"
+    },
+    "namecard": {
+      "name": "Keqing - Lame de foudre",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974609/Genshin/Characters/KeqingCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -5902,10 +6292,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -6181,10 +6573,29 @@
   {
     "id": "P22",
     "name": "Mona",
-    "title": "Mystérieuse Astromancienne",
+    "title": "Réflexion astrale",
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/Mona.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
+    "description": "Jeune astromancienne mystérieuse, Mona se surnomme elle-même « la grande astromancienne Mona », et fait preuve d'une force singulière et d'une érudition hors-norme qui ne désavouent pas cette appellation.",
+    "other_title": [{ "name": "Mystérieuse Astromancienne" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974944/Genshin/Characters/MonaWish.webp",
+    "release_date": "28 Septembre 2020",
+    "real_name": "Mona Megistus",
+    "affiliation": [
+      { "name": "Cité de Mondstadt" },
+      { "name": "L'Oiseau de vapeur" }
+    ],
+    "birthday": "31 Août",
+    "dish": {
+      "name": "Sagesse suprême",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974936/Genshin/Characters/MonaDish.webp"
+    },
+    "namecard": {
+      "name": "Mona - Astromancie",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974933/Genshin/Characters/MonaCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -6193,10 +6604,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -6517,6 +6930,24 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/Qiqi.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699751/Genshin/Characters/QiqiIcon.png",
+    "description": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+    "other_title": [
+      { "name": "Cueilleuse du Cottage Bubu" },
+      { "name": "Envoyée de la Providence" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975219/Genshin/Characters/QiqiWish.webp",
+    "release_date": "28 Septembre 2020",
+    "affiliation": [{ "name": "" }],
+    "birthday": "03 Mars",
+    "dish": {
+      "name": "Sansespoir",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975212/Genshin/Characters/QiqiDish.webp"
+    },
+    "namecard": {
+      "name": "Qiqi - Conservation",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975208/Genshin/Characters/QiqiCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -6525,10 +6956,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -6811,6 +7244,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700051/Genshin/Characters/Tartaglia.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/TartagliaIcon.png",
+    "description": "Le 11e Exécuteur des Fatui, appelé « Tartaglia ». Il s'est fait connaître pour avoir gagné des milliers de combats.",
+    "other_title": [{ "name": "11ème Exécuteur des Fatui" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975526/Genshin/Characters/TartagliaWish.webp",
+    "release_date": "11 Novembre 2020",
+    "real_name": "Ajax",
+    "affiliation": [
+      { "name": "Fatui" },
+      { "name": "Onze Éxécuteurs des Fatui" }
+    ],
+    "birthday": "20 Juillet",
+    "dish": {
+      "name": "Prise suprême",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975519/Genshin/Characters/TartagliaDish.webp"
+    },
+    "namecard": {
+      "name": "Tartaglia - Posture du démon",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975515/Genshin/Characters/TartagliaCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -6819,7 +7271,7 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": { "name": "Snezhnaya", "icon": "" },
+    "region": [{ "name": "Snezhnaya" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -7123,6 +7575,22 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/Diona.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699251/Genshin/Characters/DionaIcon.png",
+    "description": "Une jeune fille au sang pas tout à fait humain. Elle travaille comme barmaid à La Queue de Chat où elle est très appréciée.",
+    "other_title": [{ "name": "Reine du cocktail à La Queue de Chat" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975787/Genshin/Characters/DionaWish.webp",
+    "release_date": "11 Novembre 2020",
+    "real_name": "Diona Kätzlein",
+    "affiliation": [{ "name": "La Queue de Chat" }],
+    "birthday": "18 Janvier",
+    "dish": {
+      "name": "Ceci n'est pas un apéritif",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975778/Genshin/Characters/DionaDish.webp"
+    },
+    "namecard": {
+      "name": "Diona - Miaou !",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975773/Genshin/Characters/DionaCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -7131,10 +7599,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -7428,6 +7898,31 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699981/Genshin/Characters/Zhongli.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
+    "description": "Une mystérieuse relation du Funérarium Wangsheng, aux connaissances aussi variées qu'étendues.",
+    "other_title": [
+      { "name": "Consultant du Funérarium Wangsheng" },
+      { "name": "Archon Géo" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976037/Genshin/Characters/ZhongliWish.webp",
+    "archon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976230/Genshin/Characters/ZhongliArchon.webp",
+    "release_date": "01 Décembre 2020",
+    "real_name": "Morax",
+    "affiliation": [
+      { "name": "Port de Liyue" },
+      { "name": "Funérarium Wangsheng" },
+      { "name": "Sept Archons" },
+      { "name": "Adeptes" }
+    ],
+    "birthday": "31 Décembre",
+    "dish": {
+      "name": "Soupe mijotée au bambou",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976027/Genshin/Characters/ZhongliDish.webp"
+    },
+    "namecard": {
+      "name": "Zhongli - Chute de météore",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976021/Genshin/Characters/ZhongliCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -7436,10 +7931,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -7751,6 +8248,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/Xinyan.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700008/Genshin/Characters/XinyanIcon.png",
+    "description": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+    "other_title": [{ "name": "La pionnière du rock 'n' roll à Liyue" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976400/Genshin/Characters/XinyanWish.webp",
+    "release_date": "11 Novembre 2020",
+    "affiliation": [{ "name": "Les fils rouges" }, { "name": "Port de Liyue" }],
+    "birthday": "16 Octobre",
+    "dish": {
+      "name": "Poulet rock 'n' roll",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976390/Genshin/Characters/XinyanDish.webp"
+    },
+    "namecard": {
+      "name": "Xinyan - Final",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976384/Genshin/Characters/XinyanCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -7759,10 +8271,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -8048,6 +8562,28 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699299/Genshin/Characters/Albedo.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699296/Genshin/Characters/AlbedoIcon.png",
+    "description": "Génie connu sous le surnom de « Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius.",
+    "other_title": [
+      { "name": "Alchimiste en chef de l'Ordre de Favonius" },
+      { "name": "Capitaine des enquêteurs" },
+      { "name": "M. Calx" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992484/Genshin/Characters/AlbedoWish.webp",
+    "release_date": "23 Décembre 2020",
+    "affiliation": [
+      { "name": "Ordre de Favonius" },
+      { "name": "Chambre Yae (en tant que Calx)" }
+    ],
+    "birthday": "13 Septembre",
+    "dish": {
+      "name": "Songe sylvestre",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992472/Genshin/Characters/AlbedoDish.webp"
+    },
+    "namecard": {
+      "name": "Albedo - radiance solaire",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992465/Genshin/Characters/AlbedoCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -8056,10 +8592,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -8353,6 +8891,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/Ganyu.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/GanyuIcon.png",
+    "description": "Secrétaire du Pavillon Yuehai, du sang de Qilin, la créature mythique, coule dans ses veines.",
+    "other_title": [{ "name": "Secrétaire du Pavillon Yuehai" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992748/Genshin/Characters/GanyuWish.webp",
+    "release_date": "12 Janvier 2021",
+    "affiliation": [
+      { "name": "Pavillon Yuehai" },
+      { "name": "Sept Étoiles de Liyue (employé)" },
+      { "name": "Adeptes" }
+    ],
+    "birthday": "02 Décembre",
+    "dish": {
+      "name": "Paix prospère",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992726/Genshin/Characters/GanyuDish.webp"
+    },
+    "namecard": {
+      "name": "Ganyu - Qilin",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992725/Genshin/Characters/GanyuCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -8361,10 +8918,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -8649,6 +9208,26 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700021/Genshin/Characters/Xiao.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158419/Genshin/Characters/XiaoIcon.png",
+    "description": "Un des Adeptes de Liyue, aussi connu sous le nom de « Dompteur de démons » et « Général des Yakshas ».",
+    "other_title": [
+      { "name": "Danse Nuo de la Conquête" },
+      { "name": "Fléau du mal" },
+      { "name": "Dompteur de démons" },
+      { "name": "Général Alatus" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713993091/Genshin/Characters/XiaoWish.webp",
+    "release_date": "03 Février 2021",
+    "affiliation": [{ "name": "Adeptes" }, { "name": "Yakshah" }],
+    "birthday": "17 Avril",
+    "dish": {
+      "name": "Beau songe",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713993079/Genshin/Characters/XiaoDish.webp"
+    },
+    "namecard": {
+      "name": "Xiao - Masque",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713993072/Genshin/Characters/XiaoCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -8657,10 +9236,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -8941,6 +9522,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/HuTao.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158430/Genshin/Characters/HuTaoIcon.png",
+    "description": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+    "other_title": [
+      { "name": "77e directrice du Funérarium Wangsheng" },
+      { "name": "Poétesse des ruelles sombres du Port de Liyue" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997420/Genshin/Characters/HuTaoWish.webp",
+    "release_date": "02 Mars 2021",
+    "affiliation": [
+      { "name": "Funérarium Wangsheng" },
+      { "name": "Famille Hu" }
+    ],
+    "birthday": "15 Juillet",
+    "dish": {
+      "name": "Parade des esprits",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997408/Genshin/Characters/HuTaoDish.webp"
+    },
+    "namecard": {
+      "name": "Hu Tao - Pacificatrice",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997400/Genshin/Characters/HuTaoCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -8949,10 +9551,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -9234,10 +9838,25 @@
   {
     "id": "P32",
     "name": "Rosalia",
-    "title": "Soeur",
+    "title": "Rogue bienfaisance",
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699747/Genshin/Characters/Rosalia.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158436/Genshin/Characters/RosariaIcon.png",
+    "description": "Une religieuse qui n'en a que l'apparence. Ses paroles sont acérées et son comportement froid. Elle agit toujours seule.",
+    "other_title": [{ "name": "Religieuse pas comme les autres" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997734/Genshin/Characters/RosaliaWish.webp",
+    "release_date": "06 Avril 2021",
+    "affiliation": [{ "name": "Église de Favonius" }],
+    "birthday": "24 Janvier",
+    "dish": {
+      "name": "Dîner probatoire",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997719/Genshin/Characters/RosaliaDish.webp"
+    },
+    "namecard": {
+      "name": "Rosalia - Éternel labeur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997709/Genshin/Characters/RosaliaCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -9246,10 +9865,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -9515,6 +10136,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/Eula.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158452/Genshin/Characters/EulaIcon.png",
+    "description": "Le « Chevalier aux Embruns », né de l'ancien clan Lawrence, capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius de Mondstadt. Que cette descendante de la noblesse d'antan ait rejoint les chevaliers de l'Ordre, l'ennemi jusqu'alors juré de la famille, demeure un mystère aux yeux de beaucoup.",
+    "other_title": [
+      { "name": "Vague déferlante" },
+      {
+        "name": "Capitaine de l'unité de reconnaissance de l'Ordre de Favonius"
+      }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998056/Genshin/Characters/EulaWish.webp",
+    "release_date": "18 Mai 2021",
+    "real_name": "Eula Lawrence",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "25 Octobre",
+    "dish": {
+      "name": "Tourte tempétueuse",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998042/Genshin/Characters/EulaDish.webp"
+    },
+    "namecard": {
+      "name": "Eula - Sceau de glace",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998034/Genshin/Characters/EulaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -9523,10 +10165,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -9805,6 +10449,25 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/Yanfei.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158444/Genshin/Characters/YanfeiIcon.png",
+    "description": "Une célèbre conseillère juridique du Port de Liyue. Du sang d'Adepte coule dans les veines de cette jeune femme ingénieuse.",
+    "other_title": [{ "name": "La célèbre conseillère juridique de Liyue" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998601/Genshin/Characters/YanfeiWish.webp",
+    "release_date": "28 Avril 2021",
+    "affiliation": [
+      { "name": "Cabinet Juridique de Yanfei" },
+      { "name": "Port de Liyue" },
+      { "name": "Adeptes" }
+    ],
+    "birthday": "28 Juillet",
+    "dish": {
+      "name": "« À ma façon »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998588/Genshin/Characters/YanfeiDish.webp"
+    },
+    "namecard": {
+      "name": "Yanfei - Impartialité",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998578/Genshin/Characters/YanfeiCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -9813,10 +10476,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -10096,6 +10761,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/KaedeharaKazuha.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158459/Genshin/Characters/KaedeharaKazuhaIcon.png",
+    "description": "Un samouraï errant d'Inazuma qui fait actuellement partie de la Flotte du Crux. Une âme douce et insouciante dont le cœur cache de nombreuses blessures enfouies.",
+    "other_title": [
+      { "name": "Un samouraï errant contraint de quitter son pays natal" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998962/Genshin/Characters/KaedeharaKazuhaWish.webp",
+    "release_date": "29 Juin 2021",
+    "affiliation": [
+      { "name": "Flotte du Crux" },
+      { "name": "Clan Kaedehara" },
+      { "name": "Armée de Watatsumi (anciennement)" }
+    ],
+    "birthday": "29 Octobre",
+    "dish": {
+      "name": "Beauté de tout temps",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998950/Genshin/Characters/KaedeharaKazuhaDish.webp"
+    },
+    "namecard": {
+      "name": "Kazuha - Chasse en montagne d'automne",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998940/Genshin/Characters/KaedeharaKazuhaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -10104,10 +10790,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -10408,6 +11096,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699826/Genshin/Characters/KamisatoAyaka.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158466/Genshin/Characters/KamisatoAyakaIcon.png",
+    "description": "Fille du clan Kamisato de la Commission culturelle. Digne et élégante, mais aussi sage et forte.",
+    "other_title": [
+      { "name": "Fille du clan Kamisato de la Commission culturelle" },
+      { "name": "Shirasagi Himegimi" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713999238/Genshin/Characters/KamisatoAyakaWish.webp",
+    "release_date": "21 Juillet 2021",
+    "affiliation": [
+      { "name": "Comission culturelle" },
+      { "name": "Clan Kamisato" }
+    ],
+    "birthday": "28 Septembre",
+    "dish": {
+      "name": "« Neige sur la fournaise »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713999220/Genshin/Characters/KamisatoAyakaDish.webp"
+    },
+    "namecard": {
+      "name": "Kamisato Ayaka - Éventail",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713999210/Genshin/Characters/KamisatoAyakaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -10416,10 +11125,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -10719,9 +11430,19 @@
     "id": "P37",
     "name": "Voyageur Électro",
     "title": "Chevalier honoraire",
+    "other_title": [
+      { "name": "Capitaine de l'Espadon II" },
+      { "name": "Premier sage de Buer" },
+      { "name": "Comète dorée" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+    "release_date": "21 Juillet 2021",
+    "real_name": "Aether (Homme) - Lumine (Femme)",
+    "birthday": "Choix du joueur",
+    "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -10730,7 +11451,7 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -11010,6 +11731,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/Yoimiya.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158482/Genshin/Characters/YoimiyaIcon.png",
+    "description": "Propriétaire des « Feux de Naganohara ». Connue sous le nom de « Reine du festival d'été », elle excelle dans son art de créer des feux d'artifice qui symbolisent les espoirs et les rêves des gens.",
+    "other_title": [
+      { "name": "Propriétaire des « Feux de Naganohara »" },
+      { "name": "Reine du festival d'été" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714042812/Genshin/Characters/YoimiyaWish.webp",
+    "release_date": "10 Août 2021",
+    "real_name": "Naganohara Yoimiya",
+    "affiliation": [{ "name": "Feux de Naganohara" }],
+    "birthday": "21 Juin",
+    "dish": {
+      "name": "Poissons du festival d'été",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714042802/Genshin/Characters/YoimiyaDish.webp"
+    },
+    "namecard": {
+      "name": "Yoimiya - Étincelle dorée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714042799/Genshin/Characters/YoimiyaCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -11018,10 +11758,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -11299,6 +12041,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/Sayu.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158475/Genshin/Characters/SayuIcon.png",
+    "description": "Une très petite ninja rattachée au Shuumatsuban, qui semble toujours manquer de sommeil.",
+    "other_title": [{ "name": "Ninja rattachée au Shuumatsuban" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043134/Genshin/Characters/SayuWish.webp",
+    "release_date": "10 Août 2021",
+    "affiliation": [{ "name": "Shuumatsuban" }],
+    "birthday": "19 Octobre",
+    "dish": {
+      "name": "Remède contre le tournis 2.0",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043131/Genshin/Characters/SayuDish.webp"
+    },
+    "namecard": {
+      "name": "Sayu - Daruma Muji-muji",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043130/Genshin/Characters/SayuCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -11307,10 +12064,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -11626,6 +12385,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699735/Genshin/Characters/ShogunRaiden.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157070/Genshin/Characters/ShogunRaidenIcon.png",
+    "description": "Son Excellence, la toute-puissante Narukami Ogosho, qui a promis au peuple d'Inazuma une éternité immuable.",
+    "other_title": [
+      { "name": "Éminence de l'éternité" },
+      { "name": "Archon Électro" },
+      { "name": "Son Excellence, la toute-puissante Narukami Ogosho" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043782/Genshin/Characters/ShogunRaidenWish.webp",
+    "archon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043823/Genshin/Characters/ShogunRaidenArchon.webp",
+    "release_date": "01 Septembre 2021",
+    "real_name": "Raiden Ei",
+    "affiliation": [
+      { "name": "Cité d'Inazuma" },
+      { "name": "Shogunat d'Inazuma" },
+      { "name": "Sept Archons" }
+    ],
+    "birthday": "26 Juin",
+    "namecard": {
+      "name": "Shogun Raiden - Révélation",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043779/Genshin/Characters/ShogunRaidenCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -11634,10 +12414,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -11931,6 +12713,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/SangonomiyaKokomi.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157077/Genshin/Characters/SangonomiyaKokomiIcon.png",
+    "description": "La Prêtresse divine de l'Île de Watatsumi, une jeune femme gérant toutes les affaires de l'île.",
+    "other_title": [{ "name": "Stratège réservée et casanière" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044051/Genshin/Characters/SangonomiyaKokomiWish.webp",
+    "release_date": "21 Septembre 2021",
+    "affiliation": [
+      { "name": "Île de Watatsumi" },
+      { "name": "Clan Sangonomiya" },
+      { "name": "Armée de Watatsumi" }
+    ],
+    "birthday": "22 Février",
+    "dish": {
+      "name": "Étonnant stratagème",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044044/Genshin/Characters/SangonomiyaKokomiDish.webp"
+    },
+    "namecard": {
+      "name": "Sangonomiya Kokomi - Profondeurs",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044041/Genshin/Characters/SangonomiyaKokomiCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -11939,10 +12740,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -12246,6 +13049,24 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KujouSara.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157065/Genshin/Characters/KujouSaraIcon.png",
+    "description": "Une générale de la Commission administrative. Audacieuse, décisive et habile au combat.",
+    "other_title": [
+      { "name": "Générale de la Commission administrative" },
+      { "name": "Dévote au divin" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044666/Genshin/Characters/KujouSaraWish.webp",
+    "release_date": "01 Septembre 2021",
+    "affiliation": [{ "name": "Comission administrative" }],
+    "birthday": "14 Juillet",
+    "dish": {
+      "name": "Foi en l'éternité",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044659/Genshin/Characters/KujouSaraDish.webp"
+    },
+    "namecard": {
+      "name": "Kujou Sara - Tengu",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044656/Genshin/Characters/KujouSaraCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -12254,10 +13075,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -12527,6 +13350,24 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699295/Genshin/Characters/Aloy.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157073/Genshin/Characters/AloyIcon.png",
+    "description": "Autrefois une paria, maintenant une chasseuse d'une acuité sans précédent. Toujours prête à utiliser son arc pour la bonne cause.",
+    "other_title": [{ "name": "Chasseuse nora" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047308/Genshin/Characters/AloyWish.webp",
+    "release_date": "01 Septembre 2021",
+    "affiliation": [
+      { "name": "Héroïne errante (Horizon Zero Dawn)" },
+      { "name": "Guilde des aventuriers" }
+    ],
+    "birthday": "04 Avril",
+    "dish": {
+      "name": "Gelée rassasiante",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047301/Genshin/Characters/AloyDish.webp"
+    },
+    "namecard": {
+      "name": "Aloy - Aurore",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047298/Genshin/Characters/AloyCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -12535,7 +13376,7 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -12772,6 +13613,24 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/Thomas.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157081/Genshin/Characters/ThomasIcon.png",
+    "description": "L'employé de maison du Clan Kamisato. Un « négociateur » bien connu à Inazuma.",
+    "other_title": [{ "name": "Employé de maison du Clan Kamisato" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047795/Genshin/Characters/ThomasWish.webp",
+    "release_date": "02 Novembre 2021",
+    "affiliation": [
+      { "name": "Clan Kamisato" },
+      { "name": "Comission culturelle" }
+    ],
+    "birthday": "09 Janvier",
+    "dish": {
+      "name": "« Chaleur »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047788/Genshin/Characters/ThomasDish.webp"
+    },
+    "namecard": {
+      "name": "Thomas - Brassards ardents",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047784/Genshin/Characters/ThomasCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -12780,10 +13639,16 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      },
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -13075,6 +13940,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699291/Genshin/Characters/AratakiItto.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157092/Genshin/Characters/AratakiIttoIcon.png",
+    "description": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma… Hein, quoi ? Jamais entendu parler d'eux ? Sérieux",
+    "other_title": [
+      { "name": "Premier et plus grand chef du gang Arataki" },
+      { "name": "Vacheron (pas Paimon)" },
+      { "name": "Authentique Roi oni des scarabées de combat" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048131/Genshin/Characters/AratakiIttoWish.webp",
+    "release_date": "14 Décembre 2021",
+    "affiliation": [{ "name": "Gang Arataki" }],
+    "birthday": "01 Juin",
+    "dish": {
+      "name": "Voie du puissant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048120/Genshin/Characters/AratakiIttoDish.webp"
+    },
+    "namecard": {
+      "name": "Itto - Visage d'Oni",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048117/Genshin/Characters/AratakiIttoCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -13083,10 +13967,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -13399,6 +14285,25 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/Gorou.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157086/Genshin/Characters/GorouIcon.png",
+    "description": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+    "other_title": [{ "name": "Général de l'armée de Watatsumi" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048463/Genshin/Characters/GorouWish.webp",
+    "release_date": "14 Décembre 2021",
+    "affiliation": [
+      { "name": "Armée de Watatsumi" },
+      { "name": "Île de Watatsumi" },
+      { "name": "Chambre Yae (en tant que Ms. Hina)" }
+    ],
+    "birthday": "18 Mai",
+    "dish": {
+      "name": "Légende victorieuse",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048455/Genshin/Characters/GorouDish.webp"
+    },
+    "namecard": {
+      "name": "Gorou - Chien serein",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048449/Genshin/Characters/GorouCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -13407,10 +14312,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -13729,6 +14636,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699739/Genshin/Characters/Shenhe.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157099/Genshin/Characters/ShenheIcon.png",
+    "description": "Une disciple Adepte avec un air des plus inhabituels. Après avoir passé beaucoup de temps à s'instruire en isolement dans les montagnes de Liyue, elle est devenue tout aussi froide et distante que les Adeptes eux-mêmes.",
+    "other_title": [{ "name": "Âme éthérée parmi les mortels" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048717/Genshin/Characters/ShenheWish.webp",
+    "release_date": "05 Janvier 2022",
+    "affiliation": [
+      { "name": "Demeure de Souffle-Nuages" },
+      { "name": "Adeptes (disciple)" },
+      { "name": "Restaurant Wanmin" }
+    ],
+    "birthday": "10 Mars",
+    "dish": {
+      "name": "Nouilles du cœur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048706/Genshin/Characters/ShenheDish.webp"
+    },
+    "namecard": {
+      "name": "Shenhe - Peigne",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048700/Genshin/Characters/ShenheCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -13737,10 +14663,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -14034,6 +14962,27 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699986/Genshin/Characters/YunJin.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157095/Genshin/Characters/YunJinIcon.png",
+    "description": "Une talentueuse chanteuse d'opéra et une dramaturge très célèbre à Liyue. Son style unique, doux et élégant, lui ressemble beaucoup.",
+    "other_title": [
+      { "name": "Imprésario actuel de la troupe d'opéra Yun-Han" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049247/Genshin/Characters/YunJinWish.webp",
+    "release_date": "05 Janvier 2022",
+    "affiliation": [
+      { "name": "Troupe d'opéra Yun-han" },
+      { "name": "Salon de thé Heyu" },
+      { "name": "Famille Yun" }
+    ],
+    "birthday": "21 Mai",
+    "dish": {
+      "name": "Jade de nuages",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049238/Genshin/Characters/YunJinDish.webp"
+    },
+    "namecard": {
+      "name": "Yun Jin - Rime",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049232/Genshin/Characters/YunJinCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -14042,10 +14991,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/IconGeo.png"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -14323,6 +15274,24 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700007/Genshin/Characters/YaeMiko.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157103/Genshin/Characters/YaeMikoIcon.png",
+    "description": "La Guuji Yae du Sanctuaire de Narukami est également responsable éditoriale de la Chambre Yae. Une intelligence et une ruse inimaginables sont cachées sous son apparence gracieuse.",
+    "other_title": [{ "name": "Guuji du Sanctuaire de Narukami " }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049626/Genshin/Characters/YaeMikoWish.webp",
+    "release_date": "16 Février 2022",
+    "affiliation": [
+      { "name": "Sanctuaire de Narukami" },
+      { "name": "Chambre Yae" }
+    ],
+    "birthday": "27 Juin",
+    "dish": {
+      "name": "Udon porte-bonheur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049614/Genshin/Characters/YaeMikoDish.webp"
+    },
+    "namecard": {
+      "name": "Yae Miko - Kitsune rêveuse",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049607/Genshin/Characters/YaeMikoCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -14331,10 +15300,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -14611,10 +15582,31 @@
   {
     "id": "P50",
     "name": "Kamisato Ayato",
-    "title": "Pilir de vaillance",
+    "title": "Pilier de vaillance",
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699823/Genshin/Characters/KamisatoAyato.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157108/Genshin/Characters/KamisatoAyatoIcon.png",
+    "description": "Le jeune, mais néanmoins très talentueux, chef du Clan Kamisato de la Commission culturelle. Cultivé et poli, c'est un homme aux multiples facettes.",
+    "other_title": [
+      { "name": "Chef du Clan Kamisato de la Commission culturelle" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049889/Genshin/Characters/KamisatoAyatoWish.webp",
+    "release_date": "30 Mars 2022",
+    "affiliation": [
+      { "name": "Comission culturelle" },
+      { "name": "Clan Kamisato" },
+      { "name": "Shuumatsuban" }
+    ],
+    "birthday": "26 Mars",
+    "dish": {
+      "name": "Élégance tranquille",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049877/Genshin/Characters/KamisatoAyatoDish.webp"
+    },
+    "namecard": {
+      "name": "Kamisato Ayato - Ondulation",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049871/Genshin/Characters/KamisatoAyatoCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -14623,10 +15615,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -14913,6 +15907,28 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/Yelan.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157113/Genshin/Characters/YelanIcon.png",
+    "description": "Une mystérieuse personne qui prétend travailler pour le Bureau des affaires civiles. Cependant, elle n'apparaît nulle part dans leur registre.",
+    "other_title": [
+      {
+        "name": "Une mystérieuse personne qui prétend travailler pour le Bureau des affaires civiles."
+      }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050179/Genshin/Characters/YelanWish.webp",
+    "release_date": "31 Mai 2022",
+    "affiliation": [
+      { "name": "Maison de thé Yanshang" },
+      { "name": "Bureau des affaires civiles" }
+    ],
+    "birthday": "20 Avril",
+    "dish": {
+      "name": "Crevettes à la rosée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050164/Genshin/Characters/YelanDish.webp"
+    },
+    "namecard": {
+      "name": "Yelan - Jet",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050156/Genshin/Characters/YelanCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -14921,10 +15937,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -15216,6 +16234,25 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KukiShinobu.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157117/Genshin/Characters/KukiShinobuIcon.png",
+    "description": "La fiable et talentueuse cheffe adjointe du gang Arataki... Veuillez noter que ces adjectifs ne s'appliquent pas au gang Arataki à son ensemble, mais seulement à sa cheffe adjointe.",
+    "other_title": [{ "name": "Cheffe adjointe du gang Arataki" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050458/Genshin/Characters/KukiShinobuWish.webp",
+    "release_date": "21 Juin 2022",
+    "affiliation": [
+      { "name": "Gang Arataki" },
+      { "name": "Clan Kuki" },
+      { "name": "Sanctuaire de Narukami (anciennement)" }
+    ],
+    "birthday": "27 Juillet",
+    "dish": {
+      "name": "Waltz d'omurice",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050443/Genshin/Characters/KukiShinobuDish.webp"
+    },
+    "namecard": {
+      "name": "Kuki Shinobu - Tissage",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050433/Genshin/Characters/KukiShinobuCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -15224,10 +16261,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -15502,6 +16541,24 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699735/Genshin/Characters/ShikanoinHeizou.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157121/Genshin/Characters/ShikanoinHeizouIcon.png",
+    "description": "Un jeune détective prodige de la Commission administrative, aux sens aiguisés et aux pensées claires.",
+    "other_title": [{ "name": "Détective de la Commission administrative" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050720/Genshin/Characters/ShikanoinHeizouWish.webp",
+    "release_date": "13 Juillet 2022",
+    "affiliation": [
+      { "name": "Comission administrative" },
+      { "name": "Agence de détective Bantan Sango (anciennement)" }
+    ],
+    "birthday": "24 Juillet",
+    "dish": {
+      "name": "Vérité unique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050708/Genshin/Characters/ShikanoinHeizouDish.webp"
+    },
+    "namecard": {
+      "name": "Shikanoin Heizou - Temari",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050699/Genshin/Characters/ShikanoinHeizouCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -15510,10 +16567,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -15786,9 +16845,19 @@
     "id": "P54",
     "name": "Voyageur Dendro",
     "title": "Chevalier honoraire",
+    "other_title": [
+      { "name": "Capitaine de l'Espadon II" },
+      { "name": "Premier sage de Buer" },
+      { "name": "Comète dorée" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710158214/Genshin/Characters/TravelerIcon.png",
+    "release_date": "23 Août 2022",
+    "real_name": "Aether (Homme) - Lumine (Femme)",
+    "birthday": "Choix du joueur",
+    "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -15797,7 +16866,7 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -16085,6 +17154,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/Tighnari.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157130/Genshin/Characters/TighnariIcon.png",
+    "description": "Un jeune chercheur doué en botanique qui sert actuellement de brigadier forestier dans la Forêt d'Avidya. Il est franc et chaleureux, et on le qualifie de main habile pouvant guider même les élèves les plus ternes.",
+    "other_title": [{ "name": "Brigadier forestier d'Avidya" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051198/Genshin/Characters/TighnariWish.webp",
+    "release_date": "24 Août 2022",
+    "affiliation": [
+      { "name": "Gandharva" },
+      { "name": "Brigadier forestier" },
+      { "name": "Académie de Sumeru - Amurta" }
+    ],
+    "birthday": "29 Décembre",
+    "dish": {
+      "name": "Recommandation de brigadier forestier",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051181/Genshin/Characters/TighnariDish.webp"
+    },
+    "namecard": {
+      "name": "Tighnari - Baigné de rosée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051171/Genshin/Characters/TighnariCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -16093,10 +17181,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -16368,6 +17458,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699267/Genshin/Characters/Collei.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157126/Genshin/Characters/ColleiIcon.png",
+    "description": "Une garde forestière en formation active dans la Forêt d'Avidya. Derrière ses paroles et ses actions enthousiastes se cache une personnalité légèrement introvertie.",
+    "other_title": [{ "name": "Garde forestière en formation d'Avidya" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051550/Genshin/Characters/ColleiWish.webp",
+    "release_date": "24 Août 2022",
+    "affiliation": [{ "name": "Gandharva" }, { "name": "Brigadier forestier" }],
+    "birthday": "08 Mai",
+    "dish": {
+      "name": "Aspiration",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051535/Genshin/Characters/ColleiDish.webp"
+    },
+    "namecard": {
+      "name": "Collei - Vertu",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051525/Genshin/Characters/ColleiCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -16376,10 +17481,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -16650,10 +17757,26 @@
   {
     "id": "P57",
     "name": "Dori",
-    "title": "trésor du jardin onirique",
+    "title": "Trésor du jardin onirique",
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699252/Genshin/Characters/Dori.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157135/Genshin/Characters/DoriIcon.png",
+    "description": "Une marchande ambulante avec un penchant pour les moras scintillants.",
+    "other_title": [{ "name": "Marchande ambulante de Sumeru" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051969/Genshin/Characters/DoriWish.webp",
+    "release_date": "09 Septembre 2022",
+    "real_name": "Dori Sangemah Bay",
+    "affiliation": [{ "name": "Palais d'Alcazarzaray" }],
+    "birthday": "21 Décembre",
+    "dish": {
+      "name": "Aboul'moras",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051955/Genshin/Characters/DoriDish.webp"
+    },
+    "namecard": {
+      "name": "Dori - lampe magique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051944/Genshin/Characters/DoriCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -16662,10 +17785,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -16957,6 +18082,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699266/Genshin/Characters/Cyno.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157144/Genshin/Characters/CynoIcon.png",
+    "description": "Le général mahamatra chargé de superviser les chercheurs de l'Académie. On dit que lorsqu'il se met au travail, il est encore plus efficace que le grand vayuvyastra fabriqué par le Kshahrewar.",
+    "other_title": [{ "name": "Général mahamatra" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052182/Genshin/Characters/CynoWish.webp",
+    "release_date": "28 Septembre 2022",
+    "affiliation": [
+      { "name": "Temple du silence" },
+      { "name": "Matra" },
+      { "name": "Académie de Sumeru - Spantamad" }
+    ],
+    "birthday": "23 Juin",
+    "dish": {
+      "name": "Âme duelliste",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052163/Genshin/Characters/CynoDish.webp"
+    },
+    "namecard": {
+      "name": "Cyno - Sérénité",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052152/Genshin/Characters/CynoCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -16965,10 +18109,12 @@
       "type": "Électro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -17263,6 +18409,21 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699768/Genshin/Characters/Nilou.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157149/Genshin/Characters/NilouIcon.png",
+    "description": "La star du théâtre Zubayr. Pleine de chaleur et d'innocence, ses danses sont vives et élégantes.",
+    "other_title": [{ "name": "Star du théâtre Zubayr" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052451/Genshin/Characters/NilouWish.webp",
+    "release_date": "14 Octobre 2022",
+    "affiliation": [{ "name": "Théâtre Zubayr" }],
+    "birthday": "03 Décembre",
+    "dish": {
+      "name": "Pas tourbillonnant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052431/Genshin/Characters/NilouDish.webp"
+    },
+    "namecard": {
+      "name": "Nilou - Danse du lotus",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052419/Genshin/Characters/NilouCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -17271,10 +18432,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -17567,6 +18730,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699277/Genshin/Characters/Candace.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157142/Genshin/Characters/CandaceIcon.png",
+    "description": "Descendante du roi Deshret avec un œil gauche de couleur ambre, c'est la protectrice du Village d'Aaru.",
+    "other_title": [{ "name": "Protectrice du Village d'Aaru" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052743/Genshin/Characters/CandaceWish.webp",
+    "release_date": "28 Septembre 2022",
+    "affiliation": [{ "name": "Village d'Aaru" }],
+    "birthday": "03 Mai",
+    "dish": {
+      "name": "Soin extrême",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052719/Genshin/Characters/CandaceDish.webp"
+    },
+    "namecard": {
+      "name": "Candace - Héronne Cendrée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052706/Genshin/Characters/CandaceCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -17575,10 +18753,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -17865,6 +19045,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/Nahida.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710157153/Genshin/Characters/NahidaIcon.png",
+    "description": "Une oiselle en cage isolée dans les profondeurs du Sanctuaire de Surasthana qui ne peut voir le monde que dans ses rêves.",
+    "other_title": [{ "name": "La Rani Kusanali" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053012/Genshin/Characters/NahidaWish.webp",
+    "archon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053118/Genshin/Characters/NahidaArchon.webp",
+    "release_date": "02 Novembre 2022",
+    "real_name": "Buer - Rani Kusanali",
+    "affiliation": [
+      { "name": "Ville de Sumeru" },
+      { "name": "Académie de Sumeru" },
+      { "name": "Sept Archons" }
+    ],
+    "birthday": "27 Octobre",
+    "dish": {
+      "name": "Halvamazd",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052994/Genshin/Characters/NahidaDish.webp"
+    },
+    "namecard": {
+      "name": "Nahida - Croissant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052982/Genshin/Characters/NahidaCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -17873,10 +19074,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -18179,6 +19382,25 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/Layla.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156538/Genshin/Characters/LaylaIcon.png",
+    "description": "Une étudiante du Rtawahist spécialisée en astrologie théorique. Parfois somnambule, parfois insomniaque, elle souffre de troubles du sommeil.",
+    "other_title": [
+      {
+        "name": "À moitié éveillée, à moitié endormie, complètement incrédule..."
+      }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053483/Genshin/Characters/LaylaWish.webp",
+    "release_date": "18 Novembre 2022",
+    "affiliation": [{ "name": "Académie de Sumeru - Rtawahist" }],
+    "birthday": "19 Décembre",
+    "dish": {
+      "name": "Sommeil extravagant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053461/Genshin/Characters/LaylaDish.webp"
+    },
+    "namecard": {
+      "name": "Layla - Rêverie",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053447/Genshin/Characters/LaylaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -18187,10 +19409,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -18470,6 +19694,27 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699762/Genshin/Characters/Nomade.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156540/Genshin/Characters/NomadeIcon.png",
+    "description": "Une silhouette itinérante dont l'identité est un mystère. S'habillant comme un ascète des montagnes, il n'en joue cependant pas le rôle.",
+    "other_title": [
+      { "name": "« Tribulations tues, épreuves inconnaissables »" },
+      { "name": "Type au chapeau" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055119/Genshin/Characters/NomadeWish.webp",
+    "release_date": "07 Décembre 2022",
+    "affiliation": [
+      { "name": "Aucune" },
+      { "name": "Académie de Sumeru - Vahumana (en tant que type au chapeau)" }
+    ],
+    "birthday": "03 Janvier",
+    "dish": {
+      "name": "Chazuke authentique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055101/Genshin/Characters/NomadeDish.webp"
+    },
+    "namecard": {
+      "name": "Nomade - Ballade d'errance",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055088/Genshin/Characters/NomadeCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -18478,10 +19723,19 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      },
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
+      },
+      {
+        "name": "Snezhnaya"
+      }
+    ],
     "region2": { "name": "Snezhnaya" },
     "region3": {
       "name": "Inazuma",
@@ -18791,6 +20045,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699246/Genshin/Characters/Faruzan.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156549/Genshin/Characters/FaruzanIcon.png",
+    "description": "Une chercheuse qui vient « du siècle dernier ». Elle aime être l'aînée de tous et possède de vastes connaissances sur les textes anciens et la mécanique classique.",
+    "other_title": [{ "name": "« Ténor de l'Haravatat »" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055475/Genshin/Characters/FaruzanWish.webp",
+    "release_date": "07 Décembre 2022",
+    "affiliation": [{ "name": "Académie de Sumeru - Haravatat" }],
+    "birthday": "20 Août",
+    "dish": {
+      "name": "Charbon d'ajilenakh traditionnel",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055457/Genshin/Characters/FaruzanDish.webp"
+    },
+    "namecard": {
+      "name": "Faruzan - Secret Scellé",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055443/Genshin/Characters/FaruzanCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -18799,10 +20068,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -19081,6 +20352,21 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699298/Genshin/Characters/Alhaitham.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156552/Genshin/Characters/AlhaithamIcon.png",
+    "description": "L'actuel scribe de Sumeru, doté d'une intelligence et d'un talent extraordinaires. Son goût pour une vie libre de contraintes est tel qu'il est difficile pour la plupart des gens de savoir où le trouver.",
+    "other_title": [{ "name": "Scribe de l'Académie de Sumeru" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055844/Genshin/Characters/AlhaithamWish.webp",
+    "release_date": "18 Janvier 2023",
+    "affiliation": [{ "name": "Académie de Sumeru - Haravatat" }],
+    "birthday": "11 Février",
+    "dish": {
+      "name": "Circonstance idéale",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055824/Genshin/Characters/AlhaithamDish.webp"
+    },
+    "namecard": {
+      "name": "Alhaitham - Érudition",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055810/Genshin/Characters/AlhaithamCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -19089,10 +20375,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -19395,10 +20683,28 @@
   {
     "id": "P66",
     "name": "Yaoyao",
-    "title": "Grâce dleurissante",
+    "title": "Grâce fleurissante",
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699998/Genshin/Characters/Yaoyao.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156541/Genshin/Characters/YaoyaoIcon.png",
+    "description": "La plus jeune disciple de Flâne-Sentier, une « petite adulte » douce et attentionnée.",
+    "other_title": [{ "name": "Disciple de Flâne-Sentier" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058029/Genshin/Characters/YaoyaoWish.webp",
+    "release_date": "18 Janvier 2023",
+    "affiliation": [
+      { "name": "Royaume de Flâne-Sentier" },
+      { "name": "Adeptes (disciple)" }
+    ],
+    "birthday": "06 Mars",
+    "dish": {
+      "name": "Plat maison de Qingce",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058001/Genshin/Characters/YaoyaoDish.webp"
+    },
+    "namecard": {
+      "name": "Yaoyao - Yuegui",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714057986/Genshin/Characters/YaoyaoCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -19407,10 +20713,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -19720,6 +21028,25 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/Dehya.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156558/Genshin/Characters/DehyaIcon.png",
+    "description": "Une membre des Érémites, une bande de mercenaires qui agit dans le désert de Sumeru. Guerrière courageuse et puissante, elle possède une excellente réputation parmi ses compagnons érémites.",
+    "other_title": [{ "name": "Mercenaire affranchie du désert" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058325/Genshin/Characters/DehyaWish.webp",
+    "release_date": "01 Mars 2023",
+    "affiliation": [
+      { "name": "Érémites" },
+      { "name": "Legion des trentes (anciennement)" },
+      { "name": "" }
+    ],
+    "birthday": "07 Avril",
+    "dish": {
+      "name": "Tajine de flamme dorée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058317/Genshin/Characters/DehyaDish.webp"
+    },
+    "namecard": {
+      "name": "Dehya - Feu purifiant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058317/Genshin/Characters/DehyaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -19728,10 +21055,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -20026,6 +21355,22 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/Mika.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156553/Genshin/Characters/MikaIcon.png",
+    "description": "Jeune chevalier né dans une famille ordinaire, il occupe le poste d'arpenteur dans son unité. C'est un personnage au caractère discret et prudent.",
+    "other_title": [{ "name": "Arpenteur de l'Ordre de Favonius" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058590/Genshin/Characters/MikaWish.webp",
+    "release_date": "21 Mars 2023",
+    "real_name": "Mika Schmidt",
+    "affiliation": [{ "name": "Ordre de Favonius" }],
+    "birthday": "11 Août",
+    "dish": {
+      "name": "Pain de l'arpenteur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058582/Genshin/Characters/MikaDish.webp"
+    },
+    "namecard": {
+      "name": "Mika - Index",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058578/Genshin/Characters/MikaCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -20034,10 +21379,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Mondstadt",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
-    },
+    "region": [
+      {
+        "name": "Mondstadt",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -20328,6 +21675,21 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/Baizhu.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156553/Genshin/Characters/BaizhuIcon.png",
+    "description": "Le propriétaire du Cottage Bubu, un serpent blanc appelé Changsheng l'accompagnant. Médecin extrêmement compétent, ses véritables intentions restent cependant un mystère.",
+    "other_title": [{ "name": "Propriétaire du Cottage Bubu" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058751/Genshin/Characters/BaizhuWish.webp",
+    "release_date": "02 Mai 2023",
+    "affiliation": [{ "name": "Cottage Bubu" }],
+    "birthday": "25 Avril",
+    "dish": {
+      "name": "Soupe apaisante",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058749/Genshin/Characters/BaizhuDish.webp"
+    },
+    "namecard": {
+      "name": "Baizhu - Soulagement",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058748/Genshin/Characters/BaizhuCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -20336,10 +21698,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -20623,6 +21987,27 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699819/Genshin/Characters/Kaveh.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156559/Genshin/Characters/KavehIcon.png",
+    "description": "Un célèbre architecte de Sumeru, excessivement préoccupé par bon nombre de choses. Prônant l'esthétisme, il est troublé par la réalité.",
+    "other_title": [
+      { "name": "Célèbre architecte sumérien" },
+      { "name": "Cadet du Kshahrewar" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058995/Genshin/Characters/KavehWish.webp",
+    "release_date": "02 Mai 2023",
+    "affiliation": [
+      { "name": "Studio de design indépendant" },
+      { "name": "Académie de Sumeru - Kshahrewar" }
+    ],
+    "birthday": "09 Juillet",
+    "dish": {
+      "name": "La détermination",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058983/Genshin/Characters/KavehDish.webp"
+    },
+    "namecard": {
+      "name": "Kaveh - Firmament",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058978/Genshin/Characters/KavehCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -20631,10 +22016,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Sumeru",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
-    },
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -20914,6 +22301,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/Kirara.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156557/Genshin/Characters/KiraraIcon.png",
+    "description": "La coursière de Komaniya Express, une entreprise de livraison située à Inazuma. C'est une nekomata qui aime son travail et la société humaine.",
+    "other_title": [{ "name": "Coursière de rang or à Komaniya Express" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059210/Genshin/Characters/KiraraWish.webp",
+    "release_date": "24 Mai 2023",
+    "affiliation": [{ "name": "Komaniya Express" }],
+    "birthday": "22 Janvier",
+    "dish": {
+      "name": "Bento énergisant",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059204/Genshin/Characters/KiraraDish.webp"
+    },
+    "namecard": {
+      "name": "Kirara - Neko-colis",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059204/Genshin/Characters/KiraraCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -20922,10 +22324,12 @@
       "type": "Dendro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -21212,9 +22616,18 @@
     "id": "P72",
     "name": "Voyageur Hydro",
     "title": "Chevalier honoraire",
+    "other_title": [
+      { "name": "Capitaine de l'Espadon II" },
+      { "name": "Premier sage de Buer" },
+      { "name": "Comète dorée" }
+    ],
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/Traveler.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+    "release_date": "16 Août 2023",
+    "real_name": "Aether (Homme) - Lumine (Femme)",
+    "birthday": "Choix du joueur",
+    "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -21223,7 +22636,7 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": { "name": "Autre monde" },
+    "region": [{ "name": "Autre monde" }],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -21512,6 +22925,24 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/Lyney.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156564/Genshin/Characters/LyneyIcon.png",
+    "description": "Un célèbre magicien fontainois qui a un esprit agile et un grand don pour le bagou. Le public est captivé par ses compétences exquises et s'accroche à chacun de ses mots intelligents.",
+    "other_title": [{ "name": "Magicien renommé de la Cour de Fontaine" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059586/Genshin/Characters/LyneyWish.webp",
+    "release_date": "16 Août 2023",
+    "affiliation": [
+      { "name": "Hôtel Bouffes d'été" },
+      { "name": "Foyer de l'âtre" }
+    ],
+    "birthday": "02 Février",
+    "dish": {
+      "name": "Passe-passe cubique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059582/Genshin/Characters/LyneyDish.webp"
+    },
+    "namecard": {
+      "name": "Lyney - Simulacre",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059581/Genshin/Characters/LyneyCard.webp"
+    },
+
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -21520,10 +22951,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -21836,6 +23269,24 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/Lynette.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156578/Genshin/Characters/LynetteIcon.png",
+    "description": "Une assistante magique au verbe laconique, dont les émotions sont aussi impénétrables que celles d'un chat.",
+    "other_title": [{ "name": "« Assistante magique multifonction »" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060119/Genshin/Characters/LynetteWish.webp",
+    "release_date": "16 Août 2023",
+    "affiliation": [
+      { "name": "Hôtel Bouffes d'été" },
+      { "name": "Foyer de l'âtre" }
+    ],
+    "birthday": "02 Février",
+    "dish": {
+      "name": "Sirotage tranquille",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060110/Genshin/Characters/LynetteDish.webp"
+    },
+    "namecard": {
+      "name": "Lynette - Intégrité",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060108/Genshin/Characters/LynetteCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -21844,10 +23295,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -22136,6 +23589,24 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699241/Genshin/Characters/Freminet.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156573/Genshin/Characters/FreminetIcon.png",
+    "description": "Un jeune homme réservé qui connaît bien la plongée. Sous son air lointain et glacial se cache un cœur pur dépourvu de tout défaut.",
+    "other_title": [{ "name": "Célèbre plongeur de la Cour de Fontaine" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060433/Genshin/Characters/FreminetWish.webp",
+    "release_date": "05 Septembre 2023",
+    "affiliation": [
+      { "name": "Hôtel Bouffes d'été" },
+      { "name": "Foyer de l'âtre" }
+    ],
+    "birthday": "24 Septembre",
+    "dish": {
+      "name": "Pause de l'oiseau de mer",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060421/Genshin/Characters/FreminetDish.webp"
+    },
+    "namecard": {
+      "name": "Fréminet - Progrès",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060414/Genshin/Characters/FreminetCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -22144,10 +23615,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -22444,6 +23917,21 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/Wriothesley.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156578/Genshin/Characters/WriothesleyIcon.png",
+    "description": "Le duc de la Forteresse de Méropide est dans l'ombre le seigneur des profondeurs troubles.",
+    "other_title": [{ "name": "Directeur de la Forteresse de Méropide" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060906/Genshin/Characters/WriothesleyWish.webp",
+    "release_date": "17 Octobre 2023",
+    "affiliation": [{ "name": "Forteresse de Méropide" }],
+    "birthday": "23 Novembre",
+    "dish": {
+      "name": "Côtes spéciales au barbecue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060888/Genshin/Characters/WriothesleyDish.webp"
+    },
+    "namecard": {
+      "name": "Wriothesley - Détention",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060876/Genshin/Characters/WriothesleyCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -22452,10 +23940,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -22753,10 +24243,30 @@
   {
     "id": "P77",
     "name": "Neuvillette",
-    "title": "Ordonnateur de jugement inexorable",
+    "title": "Ordonnateur du jugement inexorable",
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/Neuvillette.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156580/Genshin/Characters/NeuvilletteIcon.png",
+    "description": "Le juge suprême de Fontaine, également connu comme l'iudex, est réputé pour son impartialité sans faille.",
+    "other_title": [{ "name": "Iudex de Fontaine" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061158/Genshin/Characters/NeuvilletteWish.webp",
+    "release_date": "27 Septembre 2023",
+    "affiliation": [
+      { "name": "Cour de Fontaine" },
+      { "name": "Maréchaussée fantôme" },
+      { "name": "Palais Mermonia" },
+      { "name": "Sept Souverains" }
+    ],
+    "birthday": "18 Décembre",
+    "dish": {
+      "name": "« Pureté de consommé »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061153/Genshin/Characters/NeuvilletteDish.webp"
+    },
+    "namecard": {
+      "name": "Neuvillette - Afflux",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061153/Genshin/Characters/NeuvilletteCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -22765,10 +24275,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -23048,6 +24560,28 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699239/Genshin/Characters/Furina.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156580/Genshin/Characters/FurinaIcon.png",
+    "description": "Le point central absolu de la scène du jugement, jusqu'aux applaudissements finaux.",
+    "other_title": [
+      { "name": "Reine des eaux, des gens, des peuples et des lois" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061541/Genshin/Characters/FurinaWish.webp",
+    "release_date": "08 Novembre 2023",
+    "real_name": "Furina de Fontaine",
+    "affiliation": [
+      { "name": "Cour de Fontaine" },
+      { "name": "Opéra Epiclèse (anciennement)" },
+      { "name": "Sept Archons (en tant que représentante, anciennement)" }
+    ],
+    "birthday": "13 Octobre",
+    "dish": {
+      "name": "« Pour la justice »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061531/Genshin/Characters/FurinaDish.webp"
+    },
+    "namecard": {
+      "name": "Furina - Banquet",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061527/Genshin/Characters/FurinaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -23056,10 +24590,12 @@
       "type": "Hydro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -23355,6 +24891,21 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/Charlotte.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156567/Genshin/Characters/CharlotteIcon.png",
+    "description": "Une infatigable journaliste de L'Oiseau de vapeur, en constante recherche de la « vérité ».",
+    "other_title": [{ "name": "Journaliste de L'Oiseau de vapeur" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061949/Genshin/Characters/CharlotteWish.webp",
+    "release_date": "08 Novembre 2023",
+    "affiliation": [{ "name": "L'Oiseau de vapeur" }],
+    "birthday": "10 Avril",
+    "dish": {
+      "name": "Scoop exclusif : Rubrique gourmande",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061944/Genshin/Characters/CharlotteDish.webp"
+    },
+    "namecard": {
+      "name": "Charlotte - Scoop",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061943/Genshin/Characters/CharlotteCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -23363,10 +24914,12 @@
       "type": "Cryo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -23653,6 +25206,26 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699776/Genshin/Characters/Navia.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156575/Genshin/Characters/NaviaIcon.png",
+    "description": "L'actuelle présidente de la Spina di Rosula, qui est une patronne adorable, dévouée et formidable.",
+    "other_title": [
+      {
+        "name": "Présidente, dirigeante, commandante en chef et patronne de la Spina di Rosula"
+      }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062194/Genshin/Characters/NaviaWish.webp",
+    "release_date": "20 Décembre 2023",
+    "real_name": "Navia Caspar",
+    "affiliation": [{ "name": "Spina di Rosula" }],
+    "birthday": "16 Août",
+    "dish": {
+      "name": "« À vous de choisir ! »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062187/Genshin/Characters/NavaiDish.webp"
+    },
+    "namecard": {
+      "name": "Navia - Rosula",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062183/Genshin/Characters/NaviaCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -23661,10 +25234,12 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -23939,6 +25514,23 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699272/Genshin/Characters/Chevreuse.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156581/Genshin/Characters/ChevreuseIcon.png",
+    "description": "La capitaine de la patrouille de surveillance spéciale, qui porte la justice comme un sceau omniprésent sur son cœur. Son mousquet ne doit pointer que vers les coupables.",
+    "other_title": [
+      { "name": "Capitaine de la patrouille de surveillance spéciale" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062473/Genshin/Characters/ChevreuseWish.webp",
+    "release_date": "09 Janvier 2024",
+    "affiliation": [{ "name": "Maison Gardiennage" }],
+    "birthday": "10 Janvier",
+    "dish": {
+      "name": "Péché : Dont il est inutile de s'occuper",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062468/Genshin/Characters/ChevreuseDish.webp"
+    },
+    "namecard": {
+      "name": "Chevreuse - Type II",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062468/Genshin/Characters/ChevreuseCard.webp"
+    },
+
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -23947,10 +25539,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -24227,6 +25821,22 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700027/Genshin/Characters/Xianyun.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156585/Genshin/Characters/XianyunIcon.png",
+    "description": "Faisant partie des Adeptes puissants et éclairés de Jueyun, elle est connue sous le nom de Souffle-Nuages. Experte en ingénierie mécanique de toutes sortes, son cœur se tourne désormais vers les affaires du monde des mortels, dans lequel elle évolue sous le nom de Xianyun.",
+    "other_title": [{ "name": "Nouvelle venue du Port de Liyue" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714063887/Genshin/Characters/XianyunWish.webp",
+    "release_date": "31 Janvier 2024",
+    "real_name": "Souffle-Nuages",
+    "affiliation": [{ "name": "Adeptes" }, { "name": "Mont Aozang" }],
+    "birthday": "11 Avril",
+    "dish": {
+      "name": "Allégresse englobante",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714063876/Genshin/Characters/XianyunDish.webp"
+    },
+    "namecard": {
+      "name": "Xianyun - Nuage blanc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714063874/Genshin/Characters/XianyunCard.webp"
+    },
+
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -24235,10 +25845,12 @@
       "type": "Anémo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -24531,6 +26143,27 @@
     "star": 4,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/Gaming.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710156581/Genshin/Characters/GamingIcon.png",
+    "description": "Un mercenaire des Transporteurs des coffres-lames et le meneur de la troupe de wushou « Mythiques bêtes mystiques».",
+    "other_title": [
+      { "name": "Mercenaire des Transporteurs des coffres-lames" }
+    ],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064116/Genshin/Characters/GamingWish.webp",
+    "release_date": "31 Janvier 2024",
+    "real_name": "Yip Gaming",
+    "affiliation": [
+      { "name": "Transporteurs des coffres-lames" },
+      { "name": "Mythiques bêtes mystiques" }
+    ],
+    "birthday": "22 Décembre",
+    "dish": {
+      "name": "P'tit yum cha",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064101/Genshin/Characters/GamingDish.webp"
+    },
+    "namecard": {
+      "name": "Gaming - Man Chai",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064101/Genshin/Characters/GamingCard.webp"
+    },
+
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -24539,10 +26172,12 @@
       "type": "Pyro",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
     },
-    "region": {
-      "name": "Liyue",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
-    },
+    "region": [
+      {
+        "name": "Liyue",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -24809,6 +26444,24 @@
     "star": 5,
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709652218/Genshin/Characters/Chiori.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711632520/Genshin/Characters/ChioriIcon.png",
+    "description": "La propriétaire de la Boutique Chioriya et une tailleuse réputée dans tout Fontaine.",
+    "other_title": [{ "name": "Patronne de la Boutique Chioriya" }],
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064358/Genshin/Characters/ChioriWish.webp",
+    "release_date": "13 Mars 2024",
+    "affiliation": [
+      { "name": "Cour de Fontaine" },
+      { "name": "Boutique Chioriya" }
+    ],
+    "birthday": "17 Août",
+    "dish": {
+      "name": "« Fashion show »",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064351/Genshin/Characters/ChioriDish.webp"
+    },
+    "namecard": {
+      "name": "Chiori - Manches spectaculaires",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064347/Genshin/Characters/ChioriCard.webp"
+    },
+
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -24817,14 +26470,16 @@
       "type": "Géo",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconGeo.webp"
     },
-    "region": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
-    },
-    "region2": {
-      "name": "Fontaine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
-    },
+    "region": [
+      {
+        "name": "Inazuma",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
+      },
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -25123,6 +26778,296 @@
           "note": "De plus, les DGT infligés par les attaques normales de Chiori augmentent d'une valeur équivalant à 235 % de sa DÉF."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712676356/Genshin/Constellation/UnPrecepte.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P85",
+    "name": "Arlecchino",
+    "release_date": "24 Avril 2024",
+    "star": 5,
+    "title": "Lune sinistre",
+    "other_title": [
+      { "name": "Cheffe du Foyer de l'âtre" },
+      { "name": "Quatrième Éxécutrice des Fatui" }
+    ],
+    "real_name": "Peruere",
+    "description": "Quatrième Exécutrice des Fatui, Arlecchino est une diplomate posée et impitoyable. Pour les enfants du Foyer de l'âtre, elle est leur « Père » redoutée mais fiable.",
+    "element": {
+      "type": "Pyro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp"
+    },
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713964391/Genshin/Characters/Arlecchino.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/ArlecchinoIcon.webp",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714067961/Genshin/Characters/ArlecchinoWish.webp",
+    "affiliation": [
+      { "name": "Fatui" },
+      { "name": "Onze Éxécuteurs des Fatui" },
+      { "name": "Foyer de l'âtre" }
+    ],
+    "birthday": "22 Août",
+    "dish": {
+      "name": "Traces du fourneau",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714067958/Genshin/Characters/ArlecchinoDish.webp"
+    },
+    "namecard": {
+      "name": "Arlecchino - Édit",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714067958/Genshin/Characters/ArlecchinoCard.webp"
+    },
+    "weapon": {
+      "type": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "region": [
+      { "name": "Snezhnaya" },
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+          "number": 1,
+          "id": "AM8"
+        },
+        {
+          "name": "Fragment d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Morceau d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+          "number": 9,
+          "id": "AM8"
+        },
+        {
+          "name": "Pierre d'agate agnidus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+          "number": 6,
+          "id": "AM8"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fragment of golden melody",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068653/Genshin/Materials/Boss/FragmentDeMelodieDore.webp",
+        "number": 46,
+        "id": "B30"
+      },
+      "material": {
+        "name": "Rose arc-en-ciel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712322659/Genshin/Materials/RoseArcEnCiel.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "",
+        "icon": "",
+        "type": "Attaque normale",
+        "description": [
+          { "name": "Attaque normale", "text": "" },
+          { "name": "Attaque chargée", "text": "" },
+          { "name": "Attaque plongeante", "text": "" }
+        ]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          },
+          {
+            "name": "",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [{ "text": "", "effect": [{ "text": "" }] }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [{ "text": "", "effect": [{ "text": "" }] }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Passif utilitaire",
+        "description": [{ "text": "" }]
+      },
+      {
+        "name": "",
+        "icon": "",
+        "type": "Sprint",
+        "description": [
+          {
+            "name": "Remplace le sprint",
+            "text": "",
+            "effect": [{ "text": "" }]
+          }
+        ],
+        "note": ""
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        { "name": "", "picture": "", "number": 3, "id": "" },
+        { "name": "", "picture": "", "number": 21, "id": "" },
+        { "name": "", "picture": "", "number": 38, "id": "" }
+      ],
+      "bossLoot": { "name": "", "picture": "", "number": 6, "id": "" },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": { "name": "", "icon": "" },
+    "constellation_upgrade": [
+      {
+        "name": "",
+        "level": 1,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 2,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 3,
+        "description": {
+          "text": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 4,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 5,
+        "description": {
+          "text": ""
+        },
+        "icon": ""
+      },
+      {
+        "name": "",
+        "level": 6,
+        "description": {
+          "text": "",
+          "effect": [{ "text": "" }, { "text": "" }],
+          "note": ""
+        },
+        "icon": ""
       }
     ]
   }
