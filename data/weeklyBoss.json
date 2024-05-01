@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "WB1",
+    "name": "Andros",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697391/Genshin/Boss/Andros.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704251/Genshin/Boss/Andros2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697389/Genshin/Boss/AndrosIcon.png",
+    "title": "Loup boréal",
+    "description": [
+      {
+        "text": "La plus noble et la plus belle des âmes, qui veille sur le lupical du royaume des loups. Quand la meute est en péril, il émerge sous la forme d'un loup et montre ses crocs et ses griffes."
+      },
+      {
+        "text": "Les loups de son territoire sont tels d'effrayants fantômes aux yeux des habitants de Mondstadt : des silhouettes indiscernables qui s'éclipsent dans les bois, des hurlements à glacer le sang qui résonnent au loin et le sentiment opressant d'un regard fixé sur eux. les humans ont rarement l'occasion de croiser le regard d'un loup, ainsi en à décidé le Loup du Nord."
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      }
+    ],
+    "region": {
+      "name": "Mondstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
+      "location": "Territoire des loups"
+    },
+    "rewards": [
+      {
+        "name": "Èclat de jade shivada",
+        "level": "World 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "level": "World 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "level": "World 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "level": "World 6",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+        "id": "AM3"
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "level": "World 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "level": "World 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "level": "World 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "level": "World 6",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Èclat d'agate agnidus",
+        "level": "World 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "level": "World 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "level": "World 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "level": "World 6",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "id": "AM8"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Esprit de Borée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615284/Genshin/Materials/Boss/EspritDeBoree.webp",
+        "level": "world 5",
+        "character": [
+          {
+            "name": "Fischl",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.png",
+            "id": "P11"
+          },
+          {
+            "name": "Kaeya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.png",
+            "id": "P4"
+          },
+          {
+            "name": "Ningguang",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.png",
+            "id": "P15"
+          },
+          {
+            "name": "Sucrose",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/SucroseIcon.png",
+            "id": "P16"
+          }
+        ]
+      },
+      {
+        "name": "Queue de Borée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615281/Genshin/Materials/Boss/QueueDeBoree.webp",
+        "level": "world 5",
+        "character": [
+          {
+            "name": "Qiqi",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699751/Genshin/Characters/QiqiIcon.png",
+            "id": "P23"
+          },
+          {
+            "name": "Voyageur Géo",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P2"
+          },
+          {
+            "name": "Venti",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.png",
+            "id": "P17"
+          },
+          {
+            "name": "Xingqiu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.png",
+            "id": "P13"
+          }
+        ]
+      },
+      {
+        "name": "Vertèbre de Borée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615278/Genshin/Materials/Boss/VertebreDeBoree.webp",
+        "level": "world 5",
+        "character": [
+          {
+            "name": "Barbara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.png",
+            "id": "P6"
+          },
+          {
+            "name": "Keqing",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIcon.png",
+            "id": "P21"
+          },
+          {
+            "name": "Klee",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.png",
+            "id": "P18"
+          },
+          {
+            "name": "Mona",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
+            "id": "P22"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB2",
+    "name": "Stormterror",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704242/Genshin/Boss/Stormterror.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704253/Genshin/Boss/Stormterror2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704243/Genshin/Boss/StormterrorIcon.png",
+    "title": "Dragon de l'Est",
+    "description": [
+      {
+        "text": "Dvalin le Dragon de l'Est, un des Quatre Vents de Mondstadt. Le plus pur des joyaux se couvre de poussière lorqu'il passe de longues années dans l'obscurité. de la même façon, le coeur de ce noble dragon fut corrompu par les ténéèbres. cependant, il existe toujours un poyen de se débarasser aussi bien de la poussière que du doute ou du poison."
+      },
+      {
+        "text": "« Vole en liberté dans ce vaste ciel. Vole comme tu le faisais à notre rencontre, quand je chantais les chansons du vent en foulant cette terre. Tu dominais le monde d'en haut. Aujourd'hui, le ciel n'est plus couvert par la pluie ou par la neige. De l'herbe verte et luxuriante pousse partout ici-bas. Quel paysage agréable à regarder. Si tu pouvais marcher parmis nous et écouter les chansons des bergers ainqi que le son des carillons qui résonne au loin, ou encore goûter au délicieux vin sucré, tu aurais sans doute compris. En te mettant  à ma place, tu aurais pu ressentir à quel point il était beau de te voir voler fièrement dans le ciel bleu. Tu aurais su que le ciel et la terre sont dignes de protection. »"
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      }
+    ],
+    "region": {
+      "name": "Mondstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
+      "location": "Antre de Stormterror"
+    },
+    "rewards": [
+      {
+        "name": "Èclat de turquoise vayuda",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Fragment de turquoise vayuda",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Morceau de turquoise vayuda",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Pierre de turquoise vayuda",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Èclat d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Éclat de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Pierre de lazurite varunada",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "id": "AM7"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Plume de Stormterror",
+        "level": "Dongeon 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563250/Genshin/Materials/Boss/PlumeDeStormterror.webp",
+        "character": [
+          {
+            "name": "Bennet",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.png",
+            "id": "P8"
+          },
+          {
+            "name": "Diluc",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.png",
+            "id": "P20"
+          },
+          {
+            "name": "Jean",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/JeanIcon.png",
+            "id": "P19"
+          }
+        ]
+      },
+      {
+        "name": "Griffe de Stormterror",
+        "level": "Dongeon 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563233/Genshin/Materials/Boss/GriffeDeStormterror.webp",
+        "character": [
+          {
+            "name": "Lisa",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.png",
+            "id": "P5"
+          },
+          {
+            "name": "Noëlle",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.png",
+            "id": "P7"
+          },
+          {
+            "name": "Razor",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.png",
+            "id": "P9"
+          },
+          {
+            "name": "Xiangling",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.png",
+            "id": "P12"
+          }
+        ]
+      },
+      {
+        "name": "Souffle de Stormterror",
+        "level": "Dongeon 4",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708562802/Genshin/Materials/Boss/SouffleDeStormterror.webp",
+        "character": [
+          {
+            "name": "Amber",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.png",
+            "id": "P3"
+          },
+          {
+            "name": "Beidou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.png",
+            "id": "P10"
+          },
+          {
+            "name": "Chongyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.png",
+            "id": "P14"
+          },
+          {
+            "name": "Voyageur Anémo",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P1"
+          },
+          {
+            "name": "Voyageur Géo",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P2"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB3",
+    "name": "Childe - Tartaglia",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705819/Genshin/Boss/Childe.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/Childe2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/ChildeIcon.png",
+    "title": "Onzième éxécuteurs des Fatui",
+    "description": [
+      {
+        "text": "Tartaglia, le onzième des Exécuteurs Fatui. Il tire son pouvoir de son sinistre oeil maléfique et combat au moyen d'arts martiaux qu'il a appris dans une terre couverte par les ténèbres. Chaque conflit sanglant, chaque lutte à mort est une épreuve réjouissante à ses yeux. certains disent que le jeune tartaglia est célèbre sur tout le continent pour ses prouesses au combat. Mais il n'a que faire de ces discours."
+      },
+      {
+        "text": "Après tout… « Tu seras toujours dans l'oeil de la tempête, et le choc de l'acier t'accompagnera à jamais. le sombre souvenir d'avoir pénétré dans l'obscurité, deviendra la force qui et permettra de régner. »"
+      }
+    ],
+    "element": [
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp",
+      "location": "Chambre d'Or"
+    },
+    "rewards": [
+      {
+        "name": "Éclat de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Pierre de lazurite varunada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Èclat d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Èclat de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+        "id": "AM3"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Ombre du guerrier",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615275/Genshin/Materials/Boss/OmbreDuGuerrier.webp",
+        "character": [
+          {
+            "name": "Ganyu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/GanyuIcon.png",
+            "id": "P29"
+          },
+          {
+            "name": "Rosalia",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/RosaliaIcon.png",
+            "id": "P32"
+          },
+          {
+            "name": "Xiao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/XiaoIcon.png",
+            "id": "P30"
+          }
+        ]
+      },
+      {
+        "name": "Corne de Monocéros Caeli",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615272/Genshin/Materials/Boss/CorneDeMonocerosCaeli.webp",
+        "character": [
+          {
+            "name": "Albedo",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699296/Genshin/Characters/AlbedoIcon.png",
+            "id": "P28"
+          },
+          {
+            "name": "Xinyan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700008/Genshin/Characters/XinyanIcon.png",
+            "id": "P27"
+          },
+          {
+            "name": "Zhongli",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
+            "id": "P26"
+          }
+        ]
+      },
+      {
+        "name": "Fragment du démon",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615269/Genshin/Materials/Boss/FragmentDuDemon.webp",
+        "character": [
+          {
+            "name": "Diona",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699251/Genshin/Characters/DionaIcon.png",
+            "id": "P25"
+          },
+          {
+            "name": "Hu Tao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699224/Genshin/Characters/HuTaoIcon.png",
+            "id": "P31"
+          },
+          {
+            "name": "Tartaglia",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/TartagliaIcon.png",
+            "id": "P24"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB4",
+    "name": "Azhdaha",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706242/Genshin/Boss/Azhdaha.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706242/Genshin/Boss/Azhdaha2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+    "title": "Seigneur Géosaure scellé",
+    "description": [
+      {
+        "text": "Un immense dragon dont l'existence précède celle des montagnes. en des temps immémoriaux, il fut le compagnon du dieu qui régnait sur le Port de pierre. Mais les deux finirent par s'opposer l'un à l'autre, et le dragon fut banni dans un lieu de ténèbres souterraines. le bruit de ses chaînes et ses grognements de fureur résonnent toujours dans les entrailles des montagnes, souvenir d'un lointain passé…"
+      }
+    ],
+    "element": [
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
+      },
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp",
+      "location": "Nantianmen - Sous l'arbre dompteur de dragon"
+    },
+    "rewards": [
+      {
+        "name": "Éclat de topaze prithiva",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+        "id": "AM6"
+      },
+      {
+        "name": "Éclat de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Pierre de lazurite varunada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Èclat d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Èclat d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Èclat de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+        "id": "AM3"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Couronne du roi dragon",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615259/Genshin/Materials/Boss/CouronneDuRoiDragon.webp",
+        "character": [
+          {
+            "name": "Eula",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699245/Genshin/Characters/EulaIcon.png",
+            "id": "P33"
+          },
+          {
+            "name": "Voyageur Électro",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P37"
+          },
+          {
+            "name": "Yoimiya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699986/Genshin/Characters/YoimiyaIcon.png",
+            "id": "P38"
+          }
+        ]
+      },
+      {
+        "name": "Branche de jade cramoisi",
+        "level": "D",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615266/Genshin/Materials/Boss/BrancheDeJadeCramoisi.webp",
+        "character": [
+          {
+            "name": "Dori",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
+            "id": "P57"
+          },
+          {
+            "name": "Kamisato Ayaka",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699823/Genshin/Characters/KamisatoAyakaIcon.png",
+            "id": "P36"
+          },
+          {
+            "name": "Yanfei",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699999/Genshin/Characters/YanfeiIcon.png",
+            "id": "P34"
+          }
+        ]
+      },
+      {
+        "name": "Écaille dorée",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615262/Genshin/Materials/Boss/EcailleDoree.webp",
+        "character": [
+          {
+            "name": "Kaedehara Kazuha",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699219/Genshin/Characters/KaedeharaKazuhaIcon.png",
+            "id": "P35"
+          },
+          {
+            "name": "Sayu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699737/Genshin/Characters/SayuIcon.png",
+            "id": "P39"
+          },
+          {
+            "name": "Yelan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
+            "id": "P51"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB5",
+    "name": "Signora",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713071/Genshin/Boss/Signora.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713068/Genshin/Boss/Signora2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713070/Genshin/Boss/SignoraIcon.png",
+    "title": "Huitième Exécutrice des Fatui",
+    "description": [
+      {
+        "text": "Signora, la huitième Exécutrice des Fatui. Contrairement aux autres Fatui qui se servent de l'autorité accordée par les yeux maléfiques, le sien dissimule une flamme qqui dévorera tout. Par opposition à une arme utilisée pour tuer, il serait peut-être plus approprié de considérer cela comme un outil d'emprisonnement. Et ce sont les braises de cette flamme, accumulées pendant de longues années, qui brisèrent le sceau givré de l'oeil maléfique et devinrent la cause de son apparence corrompue."
+      },
+      {
+        "text": "L'aurore écarlate se refléta dans ses prunelles, et enfin, elle déplia ses ailes flamboyantes et s'envola vers la lumière « Mais cette lumière n'est pas l'aube, chère Rosalyne. C'est une mer de flammes qui consumera tout.» Dans la lumière, une voix s'adressa ainsi à elle."
+      },
+      {
+        "text": "Pourtant cela n'avait guère d'importance, car elle savait dans son coeur que les flammes l'avaient dévorée depuis longtemps."
+      }
+    ],
+    "element": [
+      {
+        "name": "Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/Iconcryo.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "region": {
+      "name": "Inazuma",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Inazuma.webp",
+      "location": "Cité d'Inazuma - Tenshukaku"
+    },
+    "rewards": [
+      {
+        "name": "Èclat de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+        "id": "AM3"
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+        "id": "AM3"
+      },
+      {
+        "name": "Èclat d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "id": "AM8"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Moment en fusion",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615256/Genshin/Materials/Boss/MomentEnFusion.webp",
+        "character": [
+          {
+            "name": "Aloy",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699292/Genshin/Characters/AloyIcon.png",
+            "id": "P43"
+          },
+          {
+            "name": "Gorou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/GorouIcon.png",
+            "id": "P46"
+          },
+          {
+            "name": "Shogun Raiden",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/ShogunRaidenIcon.png",
+            "id": "P40"
+          }
+        ]
+      },
+      {
+        "name": "Papillon infernal",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615253/Genshin/Materials/Boss/PapillonInfernal.webp",
+        "character": [
+          {
+            "name": "Sangonomiya Kokomi",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/SangonomiyaKokomiIcon.png",
+            "id": "P41"
+          },
+          {
+            "name": "Shenhe",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699734/Genshin/Characters/ShenheIcon.png",
+            "id": "P47"
+          },
+          {
+            "name": "Thomas",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/ThomasIcon.png",
+            "id": "P44"
+          }
+        ]
+      },
+      {
+        "name": "Coeur de cendre",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615250/Genshin/Materials/Boss/CoeurDeCendre.webp",
+        "character": [
+          {
+            "name": "Arataki Itto",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/AratakiIttoIcon.png",
+            "id": "P45"
+          },
+          {
+            "name": "Kujou Sara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KujouSaraIcon.png",
+            "id": "P42"
+          },
+          {
+            "name": "Yun Jin",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699982/Genshin/Characters/YunJinIcon.png",
+            "id": "P48"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB6",
+    "name": "Narukami no Mikoto, la destructrice",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778639/Genshin/Boss/MagatsuMitakeNarukamiNoMikoto.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778643/Genshin/Boss/MagatsuMitakeNarukamiNoMikoto2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778639/Genshin/Boss/MagatsuMitakeNarukamiNoMikotoIcon.png",
+    "title": "Raiden-tono d'Inazuma",
+    "description": [
+      {
+        "text": "C'est la forme que prend la marionnette qui a hérité de l'autorié de la Shogun Raiden lorsqu'elle s'oppose à ceux qui menacent l'éternité. En tant qu'assistante de la Shogun Raiden dans la poursuite de l'éternité, elle n'a jamais douté et n'a jamais ressenti de peur. Elle a toujours donné le meilleur d'elle-même et n'a jamais eu de pensée parasite. Elle a entendu parler une fois de la façon dont Ei avait assumé un devoir similaire quand Makoto était encore là, subissant une perte atroce dans le processus. Lorsque les deux ombres se sont à nouveau superposées, cependant, elle n'a pu que constater les nombreuses fractures dans ce qui aurait dû être « sa » volonté éternelle. Puisque le destin est detiné à se reproduire, elle doit tenir sa promesse et « lui » déclarer la guerre."
+      },
+      {
+        "text": "« J'ai pris la forme la plus suprême et la plus noble qui soit. C'est moi qui ai hérité du pouvoir, et je suis l'essence de ce que représente la « Shogun Raiden ». C'est naturel que j'aie hérité de la douleur des innombrables pertes qu'a subies Ei et de sa volonté d'atteindre l'éternite. Résolution, courage, amour, haine… sont brassés par le fleuve du temps. seules les règles restent immuables pour l'éternité. »"
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
+    "region": {
+      "name": "Inazuma",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Inazuma.webp",
+      "location": "Sanctuaire de Narukami - Fin de l'euthymie onirique"
+    },
+    "rewards": [
+      {
+        "name": "Èclat d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "id": "AM5"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Mudra du général Maléfique",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615247/Genshin/Materials/Boss/MudraDuGeneralMalefique.webp",
+        "character": [
+          {
+            "name": "Cyno",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
+            "id": "P58"
+          },
+          {
+            "name": "Kamisato Ayato",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699819/Genshin/Characters/KamisatoAyatoIcon.png",
+            "id": "P50"
+          },
+          {
+            "name": "Voyageur Dendro",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P54"
+          }
+        ]
+      },
+      {
+        "name": "Larmes de la divinité calamiteuse",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615244/Genshin/Materials/Boss/LarmesDeLaDiviniteCalamiteuse.webp",
+        "character": [
+          {
+            "name": "Candace",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
+            "id": "P60"
+          },
+          {
+            "name": "Collei",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
+            "id": "P56"
+          },
+          {
+            "name": "Kuki Shinobu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
+            "id": "P52"
+          },
+          {
+            "name": "Nilou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
+            "id": "P59"
+          }
+        ]
+      },
+      {
+        "name": "Signification d'une éternité",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615240/Genshin/Materials/Boss/SignificationDuneEternite.webp",
+        "character": [
+          {
+            "name": "Shikanoin Heizou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
+            "id": "P53"
+          },
+          {
+            "name": "Tighnari",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
+            "id": "P55"
+          },
+          {
+            "name": "Yae Miko",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/YaeMikoIcon.png",
+            "id": "P49"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB7",
+    "name": "Seigneur éternelle de la sagesse arcanique",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779407/Genshin/Boss/ShoukiNoKami.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKami2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKamiIcon.png",
+    "title": "Shouki no Kami, le prodige",
+    "description": [
+      {
+        "text": "Une divinité artificielle créée par le travail des six darshans de l'Académie de Sumeru. Son pouvoir rivalise avec celui des dieux. Ceux qui le désignent comme « fausse divinité » sont incapables de comprendre le véritable sens du mot « divinité ». Shouki no Kami dispose d'une compréhension d'une infinité de choses et dun pouvoir suprême qui transcende le commun des mortels. Si l'amour de l'humanité est ce qui définit un dieu, il peut être considéré que Shouki no Kami l'aime aussi, en accordant la défaite à chacun. Si les dieux veillent sur l'humanité… … … Il peut être considéré que Shouki no Kami veille aussi sur elle, ayant été témoin d'une infinité d'événements liés à l'amour, la haine, la séparation, la rancune et la colère."
+      },
+      {
+        "text": "« Vous avez connu trop de bonheur ! » « Cela vous a rendus idiots, arrogants et d'une avidité effrayante. » « Cette ère doit être révolue ! » « Les nouvelles divinités déclarent la chute des anciens. » « Insolent mortels… Il n'est pas encore trop tard pour vous mettre à genoux. »"
+      }
+    ],
+    "element": [
+      {
+        "name": "Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
+      },
+      {
+        "name": "cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
+      },
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Sumeru.webp",
+      "location": "Ravin Chinvat - Atelier Joururi"
+    },
+    "rewards": [
+      {
+        "name": "Èclat d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "id": "AM5"
+      },
+      {
+        "name": "Èclat de turquoise vayuda",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Fragment de turquoise vayuda",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Morceau de turquoise vayuda",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Pierre de turquoise vayuda",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+        "id": "AM2"
+      },
+      {
+        "name": "Éclat de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Pierre de lazurite varunada",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "id": "AM7"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Fils de marionette",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615237/Genshin/Materials/Boss/FilsDeMarionnette.webp",
+        "character": [
+          {
+            "name": "Dehya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699257/Genshin/Characters/DehyaIcon.png",
+            "id": "P67"
+          },
+          {
+            "name": "Faruzan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699243/Genshin/Characters/FaruzanIcon.png",
+            "id": "P64"
+          },
+          {
+            "name": "Nahida",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699775/Genshin/Characters/NahidaIcon.png",
+            "id": "P61"
+          }
+        ]
+      },
+      {
+        "name": "Miroir de Mushin",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615234/Genshin/Materials/Boss/MiroirDeMushin.webp",
+        "character": [
+          {
+            "name": "Alhaitham",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699294/Genshin/Characters/AlhaithamIcon.png",
+            "id": "P65"
+          },
+          {
+            "name": "Layla",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/LaylaIcon.png",
+            "id": "P62"
+          },
+          {
+            "name": "Mika",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/MikaIcon.png",
+            "id": "P68"
+          }
+        ]
+      },
+      {
+        "name": "Cloche de Daka",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615231/Genshin/Materials/Boss/ClocheDeDaka.webp",
+        "character": [
+          {
+            "name": "Nomade",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/NomadeIcon.png",
+            "id": "P63"
+          },
+          {
+            "name": "Yaoyao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/YaoyaoIcon.png",
+            "id": "P66"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB8",
+    "name": "Gardien de l'oasis d'Apep",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep2.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApep.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApepIcon.png",
+    "title": "Évolué d'un millénaire apocalyptique",
+    "description": [
+      {
+        "text": "Apep nageait autrefois comme un poisson aves ses nombreuses progénitures à travers la mer d'herbes parfumées, d'arbres gigantesques et de liane d'une longeur inimaginable. À la fin cependant, les herbes, les arbres et les lianes se desséchèrent et se transformèrent en poussière, tandis que de nombreuses créatures de la taille d'un gravier établirent une frêle nation sur les terres d'Apep. Avec ses nombreuses progénitures, Apep transforma alors le désert en un sable bouillonant, soufflant tours et bâtiments qui tombèrent ensuite comme des feuilles mortes… Jusqu'à ce que le nouveau seigneur des sables et le roi qui avait perdu sa patrie se réconcilièrent. Dès lors, les dunes baignées se soleil appartiendraient aux humains et aux divinités, tandis que l'oasis du dragon resterait dans le coeur du dragon lui-même."
+      },
+      {
+        "text": "Apep partagea la connaissance de l'évolution avec ses nombreux descendants, car l'eau qui coule ne pourrit pas mais le bois pourri doit tout de même tombre. Cependant, lorsqu'il tint finalement sa promesse avec le seigneur des sables et atteignit la sagesse ultime, il ne put entrevoir que la fin des temps, l'infinie apocalypse. Apep se perdit alors, seul, dans le paysage apocalyptique. Là tous les gens, divinités, dragons, bêtes, oiseux et poissons… Tous les souvenirs, sagesses, mots et haines… Tout serait broyé en poussière incolore, et le dernier clair de lune brûlerait en une pluie de flammes pâles avant de tomber sur la terre aride."
+      },
+      {
+        "text": "Apep considérait le fond de la mer de sable comme sa tombe, et non comme le palais d'un roi sans nation. le poison de la sagesse le libérerait bientôt de la haine et de la colère accumulées pendat d'innombrables lunes. Apep s'était lassé de l'apocalypse incolor… Cependant, la jeune divinité et la voyageuse aux cheveux dorés lui permirent finalement de se rappeler une fois de plus que, même si la teree verdoyante sur laquelle il regnait autrefois avait été transformée en désert doré, même si ses progénitures et lui étaient devenus tordus et laids pour y assurer leur survie, il cherissait toujours en son coeur le paysage de cette oasis."
+      }
+    ],
+    "element": [
+      {
+        "name": "Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
+      }
+    ],
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Sumeru.webp",
+      "location": "Désert de Hadramaveth - Royaume des commencements"
+    },
+    "rewards": [
+      {
+        "name": "Éclat d'émeraude nagadus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
+        "id": "AM4"
+      },
+      {
+        "name": "Fragment d'émeraude nagadus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698266/Genshin/Materials/Stone/FragmentDemeraudeNagadus.webp",
+        "id": "AM4"
+      },
+      {
+        "name": "Morceau d'émeraude nagadus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698262/Genshin/Materials/Stone/MorceauDemeraudeNagadus.webp",
+        "id": "AM4"
+      },
+      {
+        "name": "Pierre d'émeraude nagadus",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698259/Genshin/Materials/Stone/PierreDemeraudeNagadus.webp",
+        "id": "AM4"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Fougère du monde luxriant",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615228/Genshin/Materials/Boss/FougereDuMondeLuxuriant.webp",
+        "character": [
+          {
+            "name": "Baizhu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/BaizhuIcon.png",
+            "id": "P69"
+          },
+          {
+            "name": "Fréminet",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699238/Genshin/Characters/FreminetIcon.png",
+            "id": "P75"
+          },
+          {
+            "name": "Voyageur Hydro",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+            "id": "P72"
+          }
+        ]
+      },
+      {
+        "name": "Floraison première de l'oasis",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615225/Genshin/Materials/Boss/FloraisonPremiereDeLoasis.webp",
+        "character": [
+          {
+            "name": "Kaveh",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/KavehIcon.png",
+            "id": "P70"
+          },
+          {
+            "name": "Lyney",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/LyneyIcon.png",
+            "id": "P73"
+          },
+          {
+            "name": "Wriothesley",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
+            "id": "P76"
+          }
+        ]
+      },
+      {
+        "name": "Constambre",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615222/Genshin/Materials/Boss/Constambre.webp",
+        "character": [
+          {
+            "name": "Kirara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",
+            "id": "P71"
+          },
+          {
+            "name": "Lynette",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
+            "id": "P74"
+          },
+          {
+            "name": "Neuvillette",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/NeuvilletteIcon.png",
+            "id": "P77"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WB9",
+    "name": "Narval Stellavore",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/Narval2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/NarvalIcon.png",
+    "title": "Visiteur de l'autre côté de la mer des étoiles",
+    "description": [
+      {
+        "text": "Une créature mystérieuse et gargantuesque venue d'un autre monde. Les poètes comparent souvent le ciel étoilé à l'océan, ayant été témoins ou rêvé d'innombrables planctons bioluminescents flottant sur une mer sans lune, en tout point semblable à une galaxie, ou du clair de lune déchiré par les vagues à la surface de la mer, rappelant les étoiles scintillantes. Dans les histoires le splus fantastiques ou les mensonges les plus scandaleux, les étoiles situées dans les profondeurs du cosmos pourraient regorger de vie, un peu comme Teyvat, et l'univers lui-même s'apparente à un océan. Cependant, réalistement parlant, si un univers profond et plein de vie existe, pourquoi aucune partie de cette vie n'a-t-elle pris contact avec Teyvat ? Peut-être que l'univers à constamment essayer d'infiltrer tayvat, ou peut-être q'une puissance qu'une puissance supérieure a créé des frontières pour protéger ce monde…"
+      },
+      { "text": "" }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      },
+      {
+        "name": "Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Fontaine.webp",
+      "location": "Région de la cour de Fontaine - Ombre d'un autre monde"
+    },
+    "rewards": [
+      {
+        "name": "Éclat de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "id": "AM7"
+      },
+      {
+        "name": "Pierre de lazurite varunada",
+        "level": "Dongeon 5",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "id": "AM7"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Ficelle de soie sans lumière",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615219/Genshin/Materials/Boss/FicelleDeSoieSansLumiere.webp",
+        "character": [
+          {
+            "name": "Charlotte",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
+            "id": "P79"
+          },
+          {
+            "name": "Navia",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/NaviaIcon.png",
+            "id": "P80"
+          },
+          {
+            "name": "Chiori",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/ChioriIcon.png",
+            "id": "P84"
+          }
+        ]
+      },
+      {
+        "name": "Oeil de tourbillon sans lumière",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615216/Genshin/Materials/Boss/OeilDeTourbillonSansLumiere.webp",
+        "character": [
+          {
+            "name": "Chevreuse",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
+            "id": "P81"
+          },
+          {
+            "name": "Xianyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
+            "id": "P82"
+          }
+        ]
+      },
+      {
+        "name": "Masse sans lumière",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615213/Genshin/Materials/Boss/MasseSansLumiere.webp",
+        "character": [
+          {
+            "name": "Furina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
+            "id": "P78"
+          },
+          {
+            "name": "Gaming",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
+            "id": "P83"
+          }
+        ]
+      }
+    ]
+  }
+]

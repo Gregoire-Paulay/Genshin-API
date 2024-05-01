@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "AM1",
+    "name": "Diamant Scintillant",
+    "stone": [
+      {
+        "name": "Éclat de diamant scintillant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556881/Genshin/Materials/Stone/EclatDeDiamantScintillant.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment de diamant scintillant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556879/Genshin/Materials/Stone/FragmentDeDiamantScintillant.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau de diamant scintillant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556876/Genshin/Materials/Stone/MorceauDeDiamantScintillant.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre de diamant scintillant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556873/Genshin/Materials/Stone/PierreDeDiamantScintillant.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Voyageur Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P1"
+      },
+      {
+        "name": "Voyageur Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P2"
+      },
+      {
+        "name": "Voyageur Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P37"
+      },
+      {
+        "name": "Voyageur Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P54"
+      },
+      {
+        "name": "Voyageur Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
+        "id": "P72"
+      }
+    ],
+    "obtainment": [{ "text": "Récompense de niveau d'aventure" }],
+    "description": [{ "text": "« Bienvenue au monde. »" }]
+  },
+
+  {
+    "id": "AM2",
+    "name": "Turquoise vayuda",
+    "element": "Anémo",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp",
+    "stone": [
+      {
+        "name": "Éclat de turquoise vayuda",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698327/Genshin/Materials/Stone/EclatDeTurquoiseVayuda.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment de turquoise vayuda",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698278/Genshin/Materials/Stone/FragmentDeTurquoiseVayuda.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau de turquoise vayuda",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698275/Genshin/Materials/Stone/MorceauDeTurquoiseVayuda.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre de turquoise vayuda",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698272/Genshin/Materials/Stone/PierreDeTurquoiseVayuda.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Faruzan",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699243/Genshin/Characters/FaruzanIcon.png",
+        "id": "P64"
+      },
+      {
+        "name": "Jean",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699221/Genshin/Characters/JeanIcon.png",
+        "id": "P19"
+      },
+      {
+        "name": "Kaedehara Kazuha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699219/Genshin/Characters/KaedeharaKazuhaIcon.png",
+        "id": "P35"
+      },
+      {
+        "name": "Lynette",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
+        "id": "P74"
+      },
+      {
+        "name": "Nomade",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/NomadeIcon.png",
+        "id": "P63"
+      },
+      {
+        "name": "Sayu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699737/Genshin/Characters/SayuIcon.png",
+        "id": "P39"
+      },
+      {
+        "name": "Shikanoin Heizou",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
+        "id": "P53"
+      },
+      {
+        "name": "Sucrose",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699723/Genshin/Characters/SucroseIcon.png",
+        "id": "P16"
+      },
+      {
+        "name": "Venti",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.png",
+        "id": "P17"
+      },
+      {
+        "name": "Xiao",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/XiaoIcon.png",
+        "id": "P30"
+      },
+      {
+        "name": "Xyanyun",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
+        "id": "P82"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Stormterror",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704243/Genshin/Boss/StormterrorIcon.png",
+        "id": "WB2"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Hypostase Anémo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955601/Genshin/Boss/HypostaseAnemoIcon.png",
+        "id": "B1"
+      },
+      {
+        "name": "Suanni Solitaire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960063/Genshin/Boss/SuanniSolitaireIcon.png",
+        "id": "B10"
+      },
+      {
+        "name": "Lame Oni",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960415/Genshin/Boss/LameOniIcon.png",
+        "id": "B11"
+      },
+      {
+        "name": "Algorithme de semi-intransition matriciaire d'observation en néo-réseau",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045081/Genshin/Boss/AlgorithmeIcon.png",
+        "id": "B21"
+      },
+      {
+        "name": "Wenut de Seketh",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046838/Genshin/Boss/WenutDeSetekhIcon.png",
+        "id": "B23"
+      },
+      {
+        "name": "Suite cryolienne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047674/Genshin/Boss/SuiteCryolienneIcon.png",
+        "id": "B25"
+      }
+    ],
+    "description": [
+      { "text": "« Le vent change toujours de direction. »" },
+      { "text": "« Un jour, il soufflera vers un meilleur avenir. »" },
+      { "text": "« À partir de cet instant, je te donne ma bénédiction. »" }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM3",
+    "name": "Jade shivada",
+    "element": "Cryo",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp",
+    "stone": [
+      {
+        "name": "Éclat de jade shivada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639508/Genshin/Materials/Stone/FragmentDeJadeShivada.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639499/Genshin/Materials/Stone/MorceauDeJadeShivada.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639489/Genshin/Materials/Stone/PierreDeJadeShivada.png",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Aloy",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699292/Genshin/Characters/AloyIcon.png",
+        "id": "P43"
+      },
+      {
+        "name": "Charlotte",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
+        "id": "P79"
+      },
+      {
+        "name": "Chongyun",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.png",
+        "id": "P14"
+      },
+      {
+        "name": "Diona",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699251/Genshin/Characters/DionaIcon.png",
+        "id": "P25"
+      },
+      {
+        "name": "Eula",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699245/Genshin/Characters/EulaIcon.png",
+        "id": "P33"
+      },
+      {
+        "name": "Fréminet",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699238/Genshin/Characters/FreminetIcon.png",
+        "id": "P75"
+      },
+      {
+        "name": "Ganyu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/GanyuIcon.png",
+        "id": "P29"
+      },
+      {
+        "name": "Kaeya",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.png",
+        "id": "P4"
+      },
+      {
+        "name": "Kamisato Ayaka",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699823/Genshin/Characters/KamisatoAyakaIcon.png",
+        "id": "P36"
+      },
+      {
+        "name": "Layla",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/LaylaIcon.png",
+        "id": "P62"
+      },
+      {
+        "name": "Mika",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/MikaIcon.png",
+        "id": "P68"
+      },
+      {
+        "name": "Qiqi",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699751/Genshin/Characters/QiqiIcon.png",
+        "id": "P23"
+      },
+      {
+        "name": "Rosalia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/RosaliaIcon.png",
+        "id": "P32"
+      },
+      {
+        "name": "Shenhe",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699734/Genshin/Characters/ShenheIcon.png",
+        "id": "P47"
+      },
+      {
+        "name": "Wriothesley",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
+        "id": "P76"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Andros",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697389/Genshin/Boss/AndrosIcon.png",
+        "id": "WB1"
+      },
+      {
+        "name": "Childe - Tartaglia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/ChildeIcon.png",
+        "id": "WB3"
+      },
+      {
+        "name": "Azhdaha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+        "id": "WB4"
+      },
+      {
+        "name": "Signora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713070/Genshin/Boss/SignoraIcon.png",
+        "id": "WB5"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Arbre congelé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956842/Genshin/Boss/ArbreCongeleIcon.png",
+        "id": "B3"
+      },
+      {
+        "name": "Hypostase Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957502/Genshin/Boss/HypostaseCryoIcon.png",
+        "id": "B4"
+      },
+      {
+        "name": "Géosaure antique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
+        "id": "B8"
+      },
+      {
+        "name": "Lame Oni",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960415/Genshin/Boss/LameOniIcon.png",
+        "id": "B11"
+      },
+      {
+        "name": "Matrice mécanique perpétuelle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961881/Genshin/Boss/MatriceMecaniquePerpetuelleIcon.png",
+        "id": "B12"
+      },
+      {
+        "name": "Harde d'élémentosaure abyssaux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964160/Genshin/Boss/HardeDelementosaureAbyssauxIcon.png",
+        "id": "B17"
+      },
+      {
+        "name": "Dragon Cataclysmique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044186/Genshin/Boss/DragonCataclysmiqueIcon.png",
+        "id": "B20"
+      },
+      {
+        "name": "Lustrateur Inique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
+        "id": "B24"
+      },
+      {
+        "name": "Suite cryolienne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047674/Genshin/Boss/SuiteCryolienneIcon.png",
+        "id": "B25"
+      }
+    ],
+    "description": [
+      { "text": "« Pardon… »" },
+      {
+        "text": "« Je vous laisse partager la tristesse du monde entier avec moi. »"
+      },
+      {
+        "text": "« Puisque vous pourriez supporter mon frois glacial, vous devez avoir un fort désir au fond du coeur. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM4",
+    "name": "Émeraude nagadus",
+    "element": "Dendro",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp",
+    "stone": [
+      {
+        "name": "Éclat d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698266/Genshin/Materials/Stone/FragmentDemeraudeNagadus.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698262/Genshin/Materials/Stone/MorceauDemeraudeNagadus.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698259/Genshin/Materials/Stone/PierreDemeraudeNagadus.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Alhaitham",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699294/Genshin/Characters/AlhaithamIcon.png",
+        "id": "P65"
+      },
+      {
+        "name": "Baizhu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/BaizhuIcon.png",
+        "id": "P69"
+      },
+      {
+        "name": "Collei",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
+        "id": "P56"
+      },
+      {
+        "name": "Kaveh",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/KavehIcon.png",
+        "id": "P70"
+      },
+      {
+        "name": "Kirara",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",
+        "id": "P71"
+      },
+      {
+        "name": "Nahida",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699775/Genshin/Characters/NahidaIcon.png",
+        "id": "P61"
+      },
+      {
+        "name": "Tighnari",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
+        "id": "P55"
+      },
+      {
+        "name": "Yaoyao",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/YaoyaoIcon.png",
+        "id": "P66"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Gardien de l'oasis d'Apep",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779886/Genshin/Boss/GardienApepIcon.png",
+        "id": "WB8"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Champieffroi panaché",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964457/Genshin/Boss/ChampieffroiPanacheIcon.png",
+        "id": "B18"
+      },
+      {
+        "name": "Hypostase Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045521/Genshin/Boss/HypostaseDendroIcon.png",
+        "id": "B22"
+      }
+    ],
+    "description": [
+      { "text": "« J'ai fait un très long rêve… »" },
+      {
+        "text": "« Il y avait des gens qui se tenaient la main et dansaient en cercle : des sgaes et des simples d'esprit, des danseuses et des guerriers, des marionettes et des statues de divinités… »"
+      },
+      {
+        "text": "« Ces gens qui dansaient ensemble étaient une représentation de l'univers. Vivre a toujours été une fin, et la sagesse, le moyen d'y parvenir. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM5",
+    "name": "Améthyste vajra",
+    "element": "Électro",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp",
+    "stone": [
+      {
+        "name": "Éclat d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Beidou",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.png",
+        "id": "P10"
+      },
+      {
+        "name": "Cyno",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
+        "id": "P58"
+      },
+      {
+        "name": "Dori",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
+        "id": "P57"
+      },
+      {
+        "name": "Fischl",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.png",
+        "id": "P11"
+      },
+      {
+        "name": "Keqing",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIcon.webp",
+        "id": "P21"
+      },
+      {
+        "name": "Kujou Sara",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KujouSaraIcon.png",
+        "id": "P42"
+      },
+      {
+        "name": "Kuki Shinobu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
+        "id": "P52"
+      },
+      {
+        "name": "Lisa",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.png",
+        "id": "P5"
+      },
+      {
+        "name": "Razor",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.png",
+        "id": "P9"
+      },
+      {
+        "name": "Shogun Raiden",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/ShogunRaidenIcon.png",
+        "id": "P40"
+      },
+      {
+        "name": "Yae Miko",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/YaeMikoIcon.png",
+        "id": "P49"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Stormterror",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704243/Genshin/Boss/StormterrorIcon.png",
+        "id": "WB2"
+      },
+      {
+        "name": "Childe - Tartaglia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/ChildeIcon.png",
+        "id": "WB3"
+      },
+      {
+        "name": "Azhdaha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+        "id": "WB4"
+      },
+      {
+        "name": "Narukami no mikoto, la destructrice",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708778639/Genshin/Boss/MagatsuMitakeNarukamiNoMikotoIcon.png",
+        "id": "WB6"
+      },
+      {
+        "name": "Shouki no kami, le prodige",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKamiIcon.png",
+        "id": "WB7"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Hypostase électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956288/Genshin/Boss/HypostaseElectroIcon.png",
+        "id": "B2"
+      },
+      {
+        "name": "Géosaure antique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
+        "id": "B8"
+      },
+      {
+        "name": "Manifestation du tonerre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963654/Genshin/Boss/ManifestationDuTonnerreIcon.png",
+        "id": "B15"
+      },
+      {
+        "name": "Harde d'élémentosaure abyssaux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964160/Genshin/Boss/HardeDelementosaureAbyssauxIcon.png",
+        "id": "B17"
+      },
+      {
+        "name": "Arbre Foudroyé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043659/Genshin/Boss/ArbreFoudroyeIcon.png",
+        "id": "B19"
+      },
+      {
+        "name": "Lustrateur Inique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
+        "id": "B24"
+      },
+      {
+        "name": "Hippocampe perlé millénaire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048586/Genshin/Boss/HippocampePerleMillenaireIcon.png",
+        "id": "B27"
+      }
+    ],
+    "description": [
+      { "text": "« Ce corps est le plus noble et le plus éminent du monde. »" },
+      { "text": "« Il devrait gouverner le monde. »" },
+      {
+        "text": "« Il a promis une fois un beau rêve à son peuple : une terre d'éternité, immuable à jamais. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM6",
+    "name": "Topaze prithiva",
+    "element": "Géo",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618381/Genshin/IconGeo.webp",
+    "stone": [
+      {
+        "name": "Éclat de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Albedo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699296/Genshin/Characters/AlbedoIcon.png",
+        "id": "P28"
+      },
+      {
+        "name": "Arataki itto",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/AratakiIttoIcon.png",
+        "id": "P45"
+      },
+      {
+        "name": "Chiori",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711632520/Genshin/Characters/ChioriIcon.png",
+        "id": "P84"
+      },
+      {
+        "name": "Gorou",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/GorouIcon.png",
+        "id": "P46"
+      },
+      {
+        "name": "Navia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/NaviaIcon.png",
+        "id": "P80"
+      },
+      {
+        "name": "Ningguang",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.png",
+        "id": "P15"
+      },
+      {
+        "name": "Noëlle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.png",
+        "id": "P7"
+      },
+      {
+        "name": "Yun Jin",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699982/Genshin/Characters/YunJinIcon.png",
+        "id": "P48"
+      },
+      {
+        "name": "Zhongli",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
+        "id": "P26"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Andros",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697389/Genshin/Boss/AndrosIcon.png",
+        "id": "WB1"
+      },
+      {
+        "name": "Azhdaha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+        "id": "WB4"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Hypostase Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957663/Genshin/Boss/HypostaseGeo.png",
+        "id": "B5"
+      },
+      {
+        "name": "Géosaure antique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
+        "id": "B8"
+      },
+      {
+        "name": "Serpent des ruines",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959156/Genshin/Boss/SerpentDesRuinesIcon.png",
+        "id": "B9"
+      },
+      {
+        "name": "Matrice mécanique perpétuelle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961881/Genshin/Boss/MatriceMecaniquePerpetuelleIcon.png",
+        "id": "B12"
+      },
+      {
+        "name": "Loup alpha dorée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963892/Genshin/Boss/LoupAlphaDoreIcon.png",
+        "id": "B16"
+      },
+      {
+        "name": "Générateur de champ expérimental",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048921/Genshin/Boss/GenerateurDeChampExperimentalIcon.png",
+        "id": "B28"
+      }
+    ],
+    "description": [
+      {
+        "text": "« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »"
+      },
+      {
+        "text": "« Je garantis la sueur, la sagesse et l'avenir des humains de cette manière. »"
+      },
+      {
+        "text": "« C'est la confiance que je place en vous. Si vous la trahissez, vous tacherez mon sang. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM7",
+    "name": "Lazurite varunada",
+    "element": "Hydro",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp",
+    "stone": [
+      {
+        "name": "Éclat de lazurite varunada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698092/Genshin/Materials/Stone/EclatDeLazuriteVarunada.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment de lazurite varunada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698089/Genshin/Materials/Stone/FragmentDeLazuriteVarunada.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau de lazurite varunada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698087/Genshin/Materials/Stone/MorceauDeLazuriteVarunada.webp",
+        "quality": 4
+      },
+      {
+        "name": "pierre de lazurite varunada",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697838/Genshin/Materials/Stone/PierreDeLazuriteVarunada.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Barbara",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.png",
+        "id": "P6"
+      },
+      {
+        "name": "Candace",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
+        "id": "P60"
+      },
+      {
+        "name": "Furina",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
+        "id": "P78"
+      },
+      {
+        "name": "Kamisato Ayato",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699819/Genshin/Characters/KamisatoAyatoIcon.png",
+        "id": "P50"
+      },
+      {
+        "name": "Mona",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
+        "id": "P22"
+      },
+      {
+        "name": "Neuvillette",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/NeuvilletteIcon.png",
+        "id": "P77"
+      },
+      {
+        "name": "Nilou",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
+        "id": "P59"
+      },
+      {
+        "name": "Sangonomiya Kokomi",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/SangonomiyaKokomiIcon.png",
+        "id": "P41"
+      },
+      {
+        "name": "Tartaglia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/TartagliaIcon.png",
+        "id": "P24"
+      },
+      {
+        "name": "Xingqiu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.png",
+        "id": "P13"
+      },
+      {
+        "name": "Yelan",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
+        "id": "P51"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Stormterror",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708704243/Genshin/Boss/StormterrorIcon.png",
+        "id": "WB2"
+      },
+      {
+        "name": "Childe - Tartaglia",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708705820/Genshin/Boss/ChildeIcon.png",
+        "id": "WB3"
+      },
+      {
+        "name": "Azhdaha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+        "id": "WB4"
+      },
+      {
+        "name": "Shouki no kami, le prodige",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708779406/Genshin/Boss/ShoukiNoKamiIcon.png",
+        "id": "WB7"
+      },
+      {
+        "name": "Narval stellavore",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708780530/Genshin/Boss/NarvalIcon.png",
+        "id": "WB9"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Océanide",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958366/Genshin/Boss/OceanideIcon.png",
+        "id": "B7"
+      },
+      {
+        "name": "Géosaure antique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
+        "id": "B8"
+      },
+      {
+        "name": "Suanni solitaire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960063/Genshin/Boss/SuanniSolitaireIcon.png",
+        "id": "B10"
+      },
+      {
+        "name": "Hypostase Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963416/Genshin/Boss/HypostaseHydroIcon.png",
+        "id": "B14"
+      },
+      {
+        "name": "Dragon Cataclysmique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044186/Genshin/Boss/DragonCataclysmiqueIcon.png",
+        "id": "B20"
+      },
+      {
+        "name": "Lustrateur Inique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
+        "id": "B24"
+      },
+      {
+        "name": "Tulpa Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049320/Genshin/Boss/TulpaHydroIcon.png",
+        "id": "B29"
+      }
+    ],
+    "description": [
+      { "text": "« Mes idéaux sont purs. »" },
+      {
+        "text": "« Je me dois de corriger : personne ici n'est impur aux yeux des dieux, et seuls les lois et le tribunal peuvent déclarer un jugement. »"
+      },
+      {
+        "text": "« Ils peuvent même me juger. Louez donc ma grandeur et me pureté. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  },
+
+  {
+    "id": "AM8",
+    "name": "Agate agnidus",
+    "element": "Pyro",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618493/Genshin/IconPyro.webp",
+    "stone": [
+      {
+        "name": "Éclat d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "quality": 2
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "quality": 3
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "quality": 4
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "quality": 5
+      }
+    ],
+    "character": [
+      {
+        "name": "Amber",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.png",
+        "id": "P3"
+      },
+      {
+        "name": "Bennett",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.png",
+        "id": "P8"
+      },
+      {
+        "name": "Chevreuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
+        "id": "P81"
+      },
+      {
+        "name": "Dehya",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699257/Genshin/Characters/DehyaIcon.png",
+        "id": "P67"
+      },
+      {
+        "name": "Diluc",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.png",
+        "id": "P20"
+      },
+      {
+        "name": "Gaming",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
+        "id": "P83"
+      },
+      {
+        "name": "Hu Tao",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699224/Genshin/Characters/HuTaoIcon.png",
+        "id": "P31"
+      },
+      {
+        "name": "Klee",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.png",
+        "id": "P18"
+      },
+      {
+        "name": "Lyney",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/LyneyIcon.png",
+        "id": "P73"
+      },
+      {
+        "name": "Thomas",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/ThomasIcon.png",
+        "id": "P44"
+      },
+      {
+        "name": "Xiangling",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.png",
+        "id": "P12"
+      },
+      {
+        "name": "Xinyan",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700008/Genshin/Characters/XinyanIcon.png",
+        "id": "P27"
+      },
+      {
+        "name": "Yanfei",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699999/Genshin/Characters/YanfeiIcon.png",
+        "id": "P34"
+      },
+      {
+        "name": "Yoimiya",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699986/Genshin/Characters/YoimiyaIcon.png",
+        "id": "P38"
+      }
+    ],
+    "weeklyBoss": [
+      {
+        "name": "Andros",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708697389/Genshin/Boss/AndrosIcon.png",
+        "id": "WB1"
+      },
+      {
+        "name": "Azhdaha",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708706241/Genshin/Boss/AzhdahaIcon.png",
+        "id": "WB4"
+      },
+      {
+        "name": "Signora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713070/Genshin/Boss/SignoraIcon.png",
+        "id": "WB5"
+      }
+    ],
+    "normalBoss": [
+      {
+        "name": "Arbre enflammé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958025/Genshin/Boss/ArbreEnflammeIcon.png",
+        "id": "B6"
+      },
+      {
+        "name": "Géosaure antique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958646/Genshin/Boss/GeosaureAntiqueIcon.png",
+        "id": "B8"
+      },
+      {
+        "name": "Hypostase Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963416/Genshin/Boss/HypostaseHydroIcon.png",
+        "id": "B14"
+      },
+      {
+        "name": "Algorithme de semi-intransition matriciaire d'observation en néo-réseau",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045081/Genshin/Boss/AlgorithmeIcon.png",
+        "id": "B21"
+      },
+      {
+        "name": "Lustrateur Inique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047155/Genshin/Boss/LustrateurIniqueIcon.png",
+        "id": "B24"
+      },
+      {
+        "name": "Empereur du feu ferreux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048213/Genshin/Boss/EmpereurDuFeuFerreuxIcon.png",
+        "id": "B26"
+      }
+    ],
+    "description": [
+      {
+        "text": "« Aller en pèlerinage pour le désir, et se battre pour la réputation… »"
+      },
+      {
+        "text": "« Si son vrai coeur original peut être laissé dans les cendre, il a réussi à atteindre la vérité de ⏹⏹⏹ »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
+    ]
+  }
+]

@@ -3,7 +3,7 @@ import { ZodError, z } from "zod";
 export const weeklyBossRouter = express.Router();
 
 // Data
-const weeklyBoss = require("../dist/data/weeklyBoss.json");
+const weeklyBoss = require("../data/weeklyBoss.json");
 
 //Type
 import { weeklyBossSchema, weeklyBossListSchema } from "../models/WeeklyBoss";
