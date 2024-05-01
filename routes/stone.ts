@@ -3,7 +3,7 @@ import { ZodError, z } from "zod";
 export const stoneRouter = express.Router();
 
 // Data
-const stone = require("../data/stone.json");
+const stone = require("../dist/data/stone.json");
 
 // Type
 import { stoneListSchema, stoneDetailsSchema } from "../models/Stone";

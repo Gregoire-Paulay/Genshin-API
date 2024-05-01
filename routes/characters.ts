@@ -3,7 +3,7 @@ import { ZodError, z } from "zod";
 export const charactersRouter = express.Router();
 
 // Data
-const characters = require("../data/characters.json");
+const characters = require("../dist/data/characters.json");
 
 //Type
 import {

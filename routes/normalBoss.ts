@@ -3,7 +3,7 @@ import { ZodError } from "zod";
 export const normalBossRouter = express.Router();
 
 // Data
-const normalBoss = require("../data/normalBoss.json");
+const normalBoss = require("../dist/data/normalBoss.json");
 
 // Type
 import { normalBossListSchema, normalBossSchema } from "../models/NormalBoss";
