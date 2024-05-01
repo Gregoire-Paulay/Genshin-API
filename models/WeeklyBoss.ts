@@ -9,9 +9,15 @@ export const weeklyBossListSchema = z.array(
       z.object({
         name: z.string(),
         icon: z.string().url(),
-        character: z.array(
-          z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
-        ),
+        character: z
+          .array(
+            z.object({
+              name: z.string(),
+              icon: z.string().url(),
+              id: z.string(),
+            })
+          )
+          .optional(),
       })
     ),
   })
@@ -43,9 +49,15 @@ export const weeklyBossSchema = z.object({
     z.object({
       name: z.string(),
       icon: z.string().url(),
-      character: z.array(
-        z.object({ name: z.string(), icon: z.string().url(), id: z.string() })
-      ),
+      character: z
+        .array(
+          z.object({
+            name: z.string(),
+            icon: z.string(),
+            id: z.string(),
+          })
+        )
+        .optional(),
     })
   ),
 });

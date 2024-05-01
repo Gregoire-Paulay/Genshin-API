@@ -2603,5 +2603,93 @@
         "id": "AM7"
       }
     ]
+  },
+
+  {
+    "id": "B30",
+    "name": "Statue de marbre et laiton",
+    "title": "",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574714/Genshin/Boss/StatueDeMarbreEtLaiton.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574721/Genshin/Boss/StatueDeMarbreeEtLaitonIcon.webp",
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
+      "location": "Région Nostoi - Château fané"
+    },
+    "description": [{ "text": "" }, { "text": "" }],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      },
+      {
+        "name": "Géo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGéo.webp"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Fragment d'une mélodie dorée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068653/Genshin/Materials/Boss/FragmentDuneMelodieDoree.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Arlecchino",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/ArlecchinoIcon.webp",
+            "id": "P85"
+          }
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Èclat de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
+        "worldLevel": 0,
+        "id": "AM6"
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
+        "worldLevel": 2,
+        "id": "AM6"
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
+        "worldLevel": 4,
+        "id": "AM6"
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
+        "worldLevel": 6,
+        "id": "AM6"
+      },
+      {
+        "name": "Èclat d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "worldLevel": 0,
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "worldLevel": 2,
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "worldLevel": 4,
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "worldLevel": 6,
+        "id": "AM8"
+      }
+    ]
   }
 ]

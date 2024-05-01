@@ -26860,8 +26860,8 @@
         }
       ],
       "bossLoot": {
-        "name": "Fragment of golden melody",
-        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068653/Genshin/Materials/Boss/FragmentDeMelodieDore.webp",
+        "name": "Fragment d'une mélodie dorée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068653/Genshin/Materials/Boss/FragmentDuneMelodieDoree.webp",
         "number": 46,
         "id": "B30"
       },
@@ -26894,81 +26894,104 @@
     },
     "talents": [
       {
-        "name": "",
-        "icon": "",
+        "name": "Invitation au supplice",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572699/Genshin/Talents/InvitationAuSupplice.webp",
         "type": "Attaque normale",
         "description": [
-          { "name": "Attaque normale", "text": "" },
-          { "name": "Attaque chargée", "text": "" },
-          { "name": "Attaque plongeante", "text": "" }
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 6 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour charger vers un ennemi proche et le trancher une fois. En maintenant le bouton, Arlecchino consomme de l'endurance pour se déplacer rapidement pendant un maximum de 5 s."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          },
+          {
+            "name": "Masque de la mort rouge",
+            "text": "Lorsque Arlecchino est sous l'effet d'un engagement vital dont la valeur est supérieure ou égale à 30 % de ses PV max, elle entre dans l'état Masque de la mort rouge et ses attaques normales, chargées et plongeantes sont imprégnées de DGT Pyro ne pouvant pas être enchantés. Sous l'effet du masque de la mort rouge, toucher un ennemi avec une attaque normale augmente les DGT de l'attaque d'une valeur équivalant à un pourcentage de l'ATQ d'Arlecchino multipliée par le pourcentage de son engagement vital actuel et consomme 7,5 % de l'engagement vital actuel. Un engagement vital peut être consommé de cette manière une fois toutes les 0,03 s. Lorsqu'un engagement vital est consommé de cette manière, le TdR de la compétence élémentaire « Pulvérisation totale » diminue de 0,8 s."
+          }
         ]
       },
       {
-        "name": "",
-        "icon": "",
+        "name": "Pulvérisation totale",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572673/Genshin/Talents/PulverisationTotale.webp",
         "type": "Compétence élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "",
-            "effect": [{ "text": "" }]
+            "text": "Invoque le feu lunatique, infligeant des DGT Pyro à plusieurs ennemis proches, et charge vers un ennemi pour le trancher, infligeant des DGT Pyro de zone. Les ennemis touchés par cette attaque subissent une dette sanguinaire."
           },
           {
-            "name": "",
-            "text": "",
-            "effect": [{ "text": "" }]
+            "name": "Dette sanguinaire",
+            "effect": [
+              {
+                "text": "Une dette sanguinaire dure 30 s. Toutes les 5 s, elle inflige 1 instance de DGT Pyro à l'ennemi, pour un maximum de 2 instances de DGT. Ces DGT sont considérés comme des DGT de compétence élémentaire."
+              },
+              {
+                "text": "Quand Arlecchino utilise une attaque chargée ou le déchaînement élémentaire « Ascension lunatique », elle absorbe et annule les dettes sanguinaires à proximité, chaque dette sanguinaire lui accordant un engagement vital d'une valeur équivalant à 65 % de ses PV max."
+              },
+              {
+                "text": "Pendant 35 s après avoir utilisé une compétence élémentaire, Arlecchino peut obtenir grâce aux dettes sanguinaires un engagement vital atteignant au maximum 145 % de ses PV max. Utiliser à nouveau une compétence élémentaire pendant cette durée réinitialise la durée et la limite d'engagement vital pouvant être obtenu grâce aux dettes sanguinaires."
+              }
+            ]
           }
         ],
-        "note": ""
+        "note": "Selon elle, tous les grains de blé qui tombent sur la terre ne se transforment pas en épi, tandis que ceux qui la dérangent, une fois réduits en cendres, peuvent certainement être utilisés pour nourrir les fleurs."
       },
       {
-        "name": "",
-        "icon": "",
+        "name": "Ascension lunatique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572649/Genshin/Talents/AscensionLunatique.webp",
         "type": "Déchainement élémentaire",
         "description": [
           {
-            "name": "",
-            "text": "",
-            "effect": [{ "text": "" }]
-          },
-          {
-            "name": "",
-            "text": "",
-            "effect": [{ "text": "" }]
+            "text": "Arlecchino déploie les grandes ailes du feu lunatique, absorbant et annulant les dettes sanguinaires à portée et infligeant des DGT Pyro de zone, avant d'annuler le TdR de la compétence élémentaire « Pulvérisation totale » et de restaurer ses PV d'une valeur dépendant de son engagement vital et de son ATQ."
           }
         ],
-        "note": ""
+        "note": "Il est communément admis dans tout Teyvat que les phases de la lune autres que la pleine lune ne sont que de simples métaphores de mauvais augure, utilisées uniquement par ceux qui pratiquent l'alchimie et l'astrologie. Elle a vu cette lune écarlate dans ses rêves à plusieurs reprises. Étaient-ce des présages de désastre ? En effet, c'était le cas, mais les catastrophes prévues appartenaient à ceux qui la mettaient en colère."
       },
       {
-        "name": "",
-        "icon": "",
+        "name": "Seule la douleur peut rembourser",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572624/Genshin/Talents/SeuleLaDouleurPeutRembourser.webp",
         "type": "Passif de la 1ère phase d'élévation",
-        "description": [{ "text": "", "effect": [{ "text": "" }] }]
-      },
-      {
-        "name": "",
-        "icon": "",
-        "type": "Passif de la 4ème phase d'élévation",
-        "description": [{ "text": "", "effect": [{ "text": "" }] }]
-      },
-      {
-        "name": "",
-        "icon": "",
-        "type": "Passif utilitaire",
-        "description": [{ "text": "" }]
-      },
-      {
-        "name": "",
-        "icon": "",
-        "type": "Sprint",
         "description": [
           {
-            "name": "Remplace le sprint",
-            "text": "",
-            "effect": [{ "text": "" }]
+            "text": "Les dettes sanguinaires possèdent les caractéristiques suivantes :",
+            "effect": [
+              {
+                "text": "Lorsqu'un ennemi affligé d'une dette sanguinaire infligée par Arlecchino elle-même est éliminé, elle obtient immédiatement un engagement vital d'une valeur équivalant à 130 % de ses PV max."
+              },
+              {
+                "text": "5 s après son application, une dette sanguinaire est améliorée en dette sanguinaire à échéance qui, lorsqu'elle est absorbée, accorde à la place un engagement vital de 130 % à Arlecchino."
+              }
+            ]
+          },
+          {
+            "text": "La valeur des engagements vitaux obtenus de ces manières ne peut pas dépasser la limite d'origine de Pulvérisation totale."
           }
-        ],
-        "note": ""
+        ]
+      },
+      {
+        "name": "Seule la force peut protéger",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572600/Genshin/Talents/SeuleLaForcePeutProteger.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Les RÉS élémentaires et physique d'Arlecchino augmentent de 1 % pour chaque tranche de 100 pts d'ATQ qu'elle possède au-dessus de 1 000 pts. Les RÉS peuvent être augmentées d'un maximum de 20 % de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Seule la lune peut savoir",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714572576/Genshin/Talents/SeuleLaLunePeutSavoir.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Au combat, Arlecchino bénéficie d'un bonus de DGT Pyro de 40 % et peut uniquement récupérer des PV grâce à Ascension lunatique."
+          }
+        ]
       }
     ],
     "talent_upgrade": {
@@ -26980,30 +27003,50 @@
       },
       "mobLoot": [
         {
-          "name": "",
-          "picture": "",
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
           "number": 6,
           "id": ""
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
           "number": 22,
           "id": ""
         },
         {
-          "name": "",
-          "picture": "",
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
           "number": 31,
           "id": ""
         }
       ],
       "books": [
-        { "name": "", "picture": "", "number": 3, "id": "" },
-        { "name": "", "picture": "", "number": 21, "id": "" },
-        { "name": "", "picture": "", "number": 38, "id": "" }
+        {
+          "name": "Enseignement de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615863/Genshin/Materials/Aptitude/EnseignementDeLordre.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615856/Genshin/Materials/Aptitude/GuideDeLordre.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615849/Genshin/Materials/Aptitude/PhilosophieDeLordre.webp",
+          "number": 38,
+          "id": "TM5"
+        }
       ],
-      "bossLoot": { "name": "", "picture": "", "number": 6, "id": "" },
+      "bossLoot": {
+        "name": "Bougie vacillante",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571675/Genshin/Materials/Boss/BougieVacillante.webp",
+        "number": 6,
+        "id": "WB10"
+      },
       "crown": {
         "name": "Couronne de la Sagesse",
         "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
@@ -27011,61 +27054,59 @@
         "id": ""
       }
     },
-    "constellation": { "name": "", "icon": "" },
+    "constellation": {
+      "name": "Ignis Purgatorius",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573480/Genshin/Constellation/IgnisPurgatorius.webp"
+    },
     "constellation_upgrade": [
       {
-        "name": "",
+        "name": "« À moi de supporter toute haine et toute dette... »",
         "level": 1,
         "description": {
-          "text": "",
-          "effect": [{ "text": "" }, { "text": "" }],
-          "note": ""
+          "text": "L'augmentation du masque de la mort rouge s'améliore davantage de 100 %. De plus, la RÉS à l'interruption d'Arlecchino augmente lorsqu'elle utilise une attaque normale ou chargée sous l'effet du masque de la mort rouge."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573473/Genshin/Constellation/AMoiDeSupporterTouteHaineEtTouteDette.webp"
       },
       {
-        "name": "",
+        "name": "« À moi d'accorder toute récompense et toute punition... »",
         "level": 2,
         "description": {
-          "text": "",
-          "effect": [{ "text": "" }, { "text": "" }],
-          "note": ""
+          "text": "Les dettes sanguinaires commencent désormais comme des dettes sanguinaires à échéance. Lorsque Arlecchino absorbe une dette à échéance, elle envoie un feu lunatique vers l'avant, infligeant des DGT Pyro de zone d'une valeur équivalant à 900 % de son ATQ et augmentant ses RÉS élémentaires et physique de 20 % pendant 15 s.",
+          "note": "Cet effet peut être déclenché une fois toutes les 10 s. L'aptitude passive « Seule la douleur peut rembourser » doit être déjà débloquée."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573467/Genshin/Constellation/AMoiDaccorderTouteRecompenseEtToutePunition.webp"
       },
       {
-        "name": "",
+        "name": "« Vous deviendrez notre nouvelle famille... »",
         "level": 3,
         "description": {
-          "text": ""
+          "text": "Niveau d'aptitude Attaque normale : Invitation au supplice +3."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573460/Genshin/Constellation/VousDeviendrezNotreNouvelleFamille.webp"
       },
       {
-        "name": "",
+        "name": "« Désormais, vous devez vous aimer et vous protéger... »",
         "level": 4,
         "description": {
-          "text": "",
-          "effect": [{ "text": "" }, { "text": "" }],
-          "note": ""
+          "text": "Lorsque Arlecchino absorbe une dette sanguinaire, le TdR d'Ascension lunatique diminue de 2 s et elle récupère 15 pts d'énergie élémentaire. ",
+          "note": "Cet effet peut être déclenché une fois toutes les 10 s."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573453/Genshin/Constellation/DesormaisVousDevezVousAimerEtVousProteger.webp"
       },
       {
-        "name": "",
+        "name": "« Car seuls, c'est la mort qui nous attend... »",
         "level": 5,
         "description": {
-          "text": ""
+          "text": "Niveau d'aptitude Ascension lunatique +3."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573446/Genshin/Constellation/CarSeulsCestLaMortQuiNousAttend.webp"
       },
       {
-        "name": "",
+        "name": "« Désormais, nous vivrons ensemble une nouvelle vie. »",
         "level": 6,
         "description": {
-          "text": "",
-          "effect": [{ "text": "" }, { "text": "" }],
-          "note": ""
+          "text": "Les DGT infligés par Ascension lunatique augmentent d'une valeur équivalant à l'ATQ d'Arlecchino multipliée par 700 % du pourcentage de son engagement vital actuel.",
+          "note": "Pendant 20 s après avoir utilisé Pulvérisation totale, le taux CRIT des attaques normales et des déchaînements élémentaires d'Arlecchino augmente de 10 % et leurs DGT CRIT de 70 %. Cet effet peut être déclenché une fois toutes les 15 s."
         },
         "icon": ""
       }

@@ -1480,5 +1480,90 @@
         ]
       }
     ]
+  },
+
+  {
+    "id": "WB10",
+    "name": "Arlecchino",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714570733/Genshin/Boss/Arlecchino.webp",
+    "art2": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714570732/Genshin/Boss/Arlecchino2.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714570724/Genshin/Boss/ArlecchinoIcon.webp",
+    "title": "4ème Éxécutrice des Fatui",
+    "description": [
+      { "text": "Arlecchino, la 4ème Éxécutrice des Fatui." },
+      {
+        "text": "le sang ancien de la lune funeste coule dans son destin, lui accordant tout ce que sa dynastie avait autrefois : le désir, le pouvoir et les malédictions. Au cours de sa courte vie, elle a soupé d'innombrables angoisses et bu profondément la coupe de la souffrance, tout comme ses ancêtres le faisaient autrefois lorsqu'ils s'imbibaient de poison au lever du soleil noir."
+      },
+      {
+        "text": "Pourtant, ni la souffrance ni le destin ne se sont révélés fatals. Au lieu de cela, ils lui ont servi de bois de chauffage dans son âtre qui brûle doucement, apportant de la chaleur à ses enfants."
+      },
+      {
+        "text": "Un jour, le faible crépitement du feu brûlera le vieux monde et incinérera le dernier rejeton de la lune funeste. Un jour, ces enfants encore immatures se libéreront du destin d'antan et ouvriront la voie à l'avenir sans larmes dont elle rêve. Mais en attendant, jusqu'à ce que l'aube se lève, celle qui s'appelle Peruere veillera sur leurs fragiles et doux rêves."
+      },
+      {
+        "text": "« Si le destin devait nous ouvrir un chemin pâle, teintons-le du cramoisi sanglant de la sinistre lune. Même un feu vacillant et affamé peut consumer toutes les souffrances avant l'aube. »"
+      }
+    ],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Fontaine.webp",
+      "location": "Région de Liffey - Est du Mont Esus - Ruines éparses"
+    },
+    "rewards": [
+      {
+        "name": "Èclat d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "level": "Dongeon 1",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "level": "Dongeon 3",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "id": "AM8"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Bougie vacillante",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571675/Genshin/Materials/Boss/BougieVacillante.webp",
+        "character": [
+          {
+            "name": "Arlecchino",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/ArlecchinoIcon.webp",
+            "id": "P85"
+          }
+        ]
+      },
+      {
+        "name": "Plume soyeuse",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571662/Genshin/Materials/Boss/PlumeSoyeuse.webp"
+      },
+      {
+        "name": "Verdict négatif",
+        "level": "Dongeon 2",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571651/Genshin/Materials/Boss/VerdictNegatif.webp"
+      }
+    ]
   }
 ]
