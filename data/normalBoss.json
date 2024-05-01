@@ -24,28 +24,30 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Graine d'ouragan",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Jean",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/JeanIcon.png",
-          "id": "P19"
-        },
-        {
-          "name": "Sucrose",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/SucroseIcon.png",
-          "id": "P16"
-        },
-        {
-          "name": "Venti",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.png",
-          "id": "P17"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Graine d'ouragan",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708955753/Genshin/Materials/Boss/GraineDouragan.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Jean",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/JeanIcon.png",
+            "id": "P19"
+          },
+          {
+            "name": "Sucrose",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/SucroseIcon.png",
+            "id": "P16"
+          },
+          {
+            "name": "Venti",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700035/Genshin/Characters/VentiIcon.png",
+            "id": "P17"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de turquoise vayuda",
@@ -99,38 +101,40 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Prisme d'éclair",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Beidou",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.png",
-          "id": "P10"
-        },
-        {
-          "name": "Fischl",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.png",
-          "id": "P11"
-        },
-        {
-          "name": "Keqing",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIconpngp",
-          "id": "P21"
-        },
-        {
-          "name": "Lisa",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.png",
-          "id": "P5"
-        },
-        {
-          "name": "Razor",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.png",
-          "id": "P9"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Prisme d'éclair",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708956228/Genshin/Materials/Boss/PrismeDeclair.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Beidou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699279/Genshin/Characters/BeidouIcon.png",
+            "id": "P10"
+          },
+          {
+            "name": "Fischl",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699240/Genshin/Characters/FischlIcon.png",
+            "id": "P11"
+          },
+          {
+            "name": "Keqing",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699812/Genshin/Characters/KeqingIconpngp",
+            "id": "P21"
+          },
+          {
+            "name": "Lisa",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699791/Genshin/Characters/LisaIcon.png",
+            "id": "P5"
+          },
+          {
+            "name": "Razor",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699746/Genshin/Characters/RazorIcon.png",
+            "id": "P9"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -187,47 +191,49 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Duramen de glace",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Chongyun",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.png",
-          "id": "P14"
-        },
-        {
-          "name": "Diona",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699251/Genshin/Characters/DionaIcon.png",
-          "id": "P25"
-        },
-        {
-          "name": "Ganyu",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/GanyuIcon.png",
-          "id": "P29"
-        },
-        {
-          "name": "Kaeya",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.png",
-          "id": "P4"
-        },
-        {
-          "name": "Qiqi",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699751/Genshin/Characters/QiqiIcon.png",
-          "id": "P23"
-        },
-        {
-          "name": "Rosalia",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/RosaliaIcon.png",
-          "id": "P32"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Duramen de glace",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643109/Genshin/Materials/Boss/DuramenDeGlace.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Chongyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699265/Genshin/Characters/ChongyunIcon.png",
+            "id": "P14"
+          },
+          {
+            "name": "Diona",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699251/Genshin/Characters/DionaIcon.png",
+            "id": "P25"
+          },
+          {
+            "name": "Ganyu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699230/Genshin/Characters/GanyuIcon.png",
+            "id": "P29"
+          },
+          {
+            "name": "Kaeya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708629253/Genshin/Characters/KaeyaIcon.png",
+            "id": "P4"
+          },
+          {
+            "name": "Qiqi",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699751/Genshin/Characters/QiqiIcon.png",
+            "id": "P23"
+          },
+          {
+            "name": "Rosalia",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699743/Genshin/Characters/RosaliaIcon.png",
+            "id": "P32"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -274,27 +280,29 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Fleur cristalline",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957357/Genshin/Materials/Boss/FleurCristalline.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Aloy",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699292/Genshin/Characters/AloyIcon.png",
-          "id": "P43"
-        },
-        {
-          "name": "Eula",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699245/Genshin/Characters/EulaIcon.png",
-          "id": "P33"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Fleur cristalline",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957357/Genshin/Materials/Boss/FleurCristalline.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Aloy",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699292/Genshin/Characters/AloyIcon.png",
+            "id": "P43"
+          },
+          {
+            "name": "Eula",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699245/Genshin/Characters/EulaIcon.png",
+            "id": "P33"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -344,33 +352,35 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Pilier de basalte",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957738/Genshin/Materials/Boss/PilierDeBasalte.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Albedo",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699296/Genshin/Characters/AlbedoIcon.png",
-          "id": "P28"
-        },
-        {
-          "name": "Ningguang",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.png",
-          "id": "P15"
-        },
-        {
-          "name": "Noëlle",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.png",
-          "id": "P7"
-        },
-        {
-          "name": "Zhongli",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
-          "id": "P26"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Pilier de basalte",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708957738/Genshin/Materials/Boss/PilierDeBasalte.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Albedo",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699296/Genshin/Characters/AlbedoIcon.png",
+            "id": "P28"
+          },
+          {
+            "name": "Ningguang",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699761/Genshin/Characters/NingguangIcon.png",
+            "id": "P15"
+          },
+          {
+            "name": "Noëlle",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699754/Genshin/Characters/NoelleIcon.png",
+            "id": "P7"
+          },
+          {
+            "name": "Zhongli",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
+            "id": "P26"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat de topaze prithiva",
@@ -420,43 +430,45 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Graine de feu",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Amber",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.png",
-          "id": "P3"
-        },
-        {
-          "name": "Bennett",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.png",
-          "id": "P8"
-        },
-        {
-          "name": "Diluc",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.png",
-          "id": "P20"
-        },
-        {
-          "name": "Klee",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.png",
-          "id": "P18"
-        },
-        {
-          "name": "Xiangling",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.png",
-          "id": "P12"
-        },
-        {
-          "name": "Xinyan",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700008/Genshin/Characters/XinyanIcon.png",
-          "id": "P27"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Graine de feu",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625627/Genshin/Materials/Boss/GraineDeFeu.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Amber",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617740/Genshin/Characters/AmberIcon.png",
+            "id": "P3"
+          },
+          {
+            "name": "Bennett",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699276/Genshin/Characters/BennettIcon.png",
+            "id": "P8"
+          },
+          {
+            "name": "Diluc",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699254/Genshin/Characters/DilucIcon.png",
+            "id": "P20"
+          },
+          {
+            "name": "Klee",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699805/Genshin/Characters/KleeIcon.png",
+            "id": "P18"
+          },
+          {
+            "name": "Xiangling",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.png",
+            "id": "P12"
+          },
+          {
+            "name": "Xinyan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700008/Genshin/Characters/XinyanIcon.png",
+            "id": "P27"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat d'agate agnidus",
@@ -510,33 +522,35 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Coeur d'eau pure",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958310/Genshin/Materials/Boss/CoeurDeauPure.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Barbara",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.png",
-          "id": "P6"
-        },
-        {
-          "name": "Mona",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
-          "id": "P22"
-        },
-        {
-          "name": "Tartaglia",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/TartagliaIcon.png",
-          "id": "P24"
-        },
-        {
-          "name": "Xingqiu",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.png",
-          "id": "P13"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Coeur d'eau pure",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958310/Genshin/Materials/Boss/CoeurDeauPure.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Barbara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699282/Genshin/Characters/BarbaraIcon.png",
+            "id": "P6"
+          },
+          {
+            "name": "Mona",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
+            "id": "P22"
+          },
+          {
+            "name": "Tartaglia",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700047/Genshin/Characters/TartagliaIcon.png",
+            "id": "P24"
+          },
+          {
+            "name": "Xingqiu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700013/Genshin/Characters/XingqiuIcon.png",
+            "id": "P13"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de lazurite varunada",
@@ -606,28 +620,30 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Jade juvénile",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958759/Genshin/Materials/Boss/JadeJuvenile.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Hu Tao",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699224/Genshin/Characters/HuTaoIcon.png",
-          "id": "P31"
-        },
-        {
-          "name": "Xiao",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/XiaoIcon.png",
-          "id": "P30"
-        },
-        {
-          "name": "Yanfei",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699999/Genshin/Characters/YanfeiIcon.png",
-          "id": "P34"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Jade juvénile",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708958759/Genshin/Materials/Boss/JadeJuvenile.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Hu Tao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699224/Genshin/Characters/HuTaoIcon.png",
+            "id": "P31"
+          },
+          {
+            "name": "Xiao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700018/Genshin/Characters/XiaoIcon.png",
+            "id": "P30"
+          },
+          {
+            "name": "Yanfei",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699999/Genshin/Characters/YanfeiIcon.png",
+            "id": "P34"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat de topaze prithiva",
@@ -679,7 +695,7 @@
       },
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -771,28 +787,30 @@
         "text": "Les légendes disent que ce serait un engin de chantier d'un royaume déchu. Les engrenages situés sur sa « tête » lui permettent de se frayer un chemin même à travers la roche la plus dure. Compte tenu de cela, il a certainement pu creuser des tunnels suffisamment grands pour permettre le passage d'une armée entière à travers les continents."
       }
     ],
-    "uniqueRewards": {
-      "name": "Croc Runique",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959263/Genshin/Materials/Boss/CrocRunique.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Kuki Shinobu",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
-          "id": "P52"
-        },
-        {
-          "name": "Shikanoin Heizou",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
-          "id": "P53"
-        },
-        {
-          "name": "Yelan",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
-          "id": "P51"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Croc Runique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708959263/Genshin/Materials/Boss/CrocRunique.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kuki Shinobu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699798/Genshin/Characters/KukiShinobuIcon.png",
+            "id": "P52"
+          },
+          {
+            "name": "Shikanoin Heizou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699729/Genshin/Characters/ShikanoinHeizouIcon.png",
+            "id": "P53"
+          },
+          {
+            "name": "Yelan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699990/Genshin/Characters/YelanIcon.png",
+            "id": "P51"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat de topaze prithiva",
@@ -853,18 +871,20 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Écaille nuageuse",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960180/Genshin/Materials/Boss/EcailleNuageuse.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Xyanyun",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
-          "id": "P82"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Écaille nuageuse",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960180/Genshin/Materials/Boss/EcailleNuageuse.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Xyanyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
+            "id": "P82"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de lazurite varunada",
@@ -947,23 +967,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconCryo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Mécanisme Oni",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960425/Genshin/Materials/Boss/MecanismeOni.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Kaedehara Kazuha",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699219/Genshin/Characters/KaedeharaKazuhaIcon.png",
-          "id": "P35"
-        },
-        {
-          "name": "Sayu",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699737/Genshin/Characters/SayuIcon.png",
-          "id": "P39"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Mécanisme Oni",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960425/Genshin/Materials/Boss/MecanismeOni.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kaedehara Kazuha",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699219/Genshin/Characters/KaedeharaKazuhaIcon.png",
+            "id": "P35"
+          },
+          {
+            "name": "Sayu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699737/Genshin/Characters/SayuIcon.png",
+            "id": "P39"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de turquoise vayuda",
@@ -991,7 +1013,7 @@
       },
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -1035,23 +1057,25 @@
         "text": "Sa forme cubique n'est pas sans rappeler les Hypostases élémentaires."
       }
     ],
-    "uniqueRewards": {
-      "name": "Coeur perpétuel",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961970/Genshin/Materials/Boss/CoeurPerpetuel.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Gorou",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/GorouIcon.png",
-          "id": "P46"
-        },
-        {
-          "name": "Kamisato Ayaka",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699823/Genshin/Characters/KamisatoAyakaIcon.png",
-          "id": "P36"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Coeur perpétuel",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708961970/Genshin/Materials/Boss/CoeurPerpetuel.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Gorou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699227/Genshin/Characters/GorouIcon.png",
+            "id": "P46"
+          },
+          {
+            "name": "Kamisato Ayaka",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699823/Genshin/Characters/KamisatoAyakaIcon.png",
+            "id": "P36"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat de topaze prithiva",
@@ -1079,7 +1103,7 @@
       },
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -1126,23 +1150,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Perle brûlante",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708962152/Genshin/Materials/Boss/PerleBrulante.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Thomas",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/ThomasIcon.png",
-          "id": "P44"
-        },
-        {
-          "name": "Yoimiya",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699986/Genshin/Characters/YoimiyaIcon.png",
-          "id": "P38"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Perle brûlante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708962152/Genshin/Materials/Boss/PerleBrulante.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Thomas",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700043/Genshin/Characters/ThomasIcon.png",
+            "id": "P44"
+          },
+          {
+            "name": "Yoimiya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699986/Genshin/Characters/YoimiyaIcon.png",
+            "id": "P38"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat d'agate agnidus",
@@ -1193,23 +1219,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Rosée du rejet",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963492/Genshin/Materials/Boss/RoseeDuRejet.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Kamisato Ayato",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699819/Genshin/Characters/KamisatoAyatoIcon.png",
-          "id": "P50"
-        },
-        {
-          "name": "Sangonomiya kokomi",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/SangonomiyaKokomiIcon.png",
-          "id": "P41"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Rosée du rejet",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963492/Genshin/Materials/Boss/RoseeDuRejet.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kamisato Ayato",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699819/Genshin/Characters/KamisatoAyatoIcon.png",
+            "id": "P50"
+          },
+          {
+            "name": "Sangonomiya kokomi",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699740/Genshin/Characters/SangonomiyaKokomiIcon.png",
+            "id": "P41"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de lazurite varunada",
@@ -1263,23 +1291,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Perles tempestives",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963722/Genshin/Materials/Boss/PerlesTempestives.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Kujou Sara",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KujouSaraIcon.png",
-          "id": "P42"
-        },
-        {
-          "name": "Shogun Raiden",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/ShogunRaidenIcon.png",
-          "id": "P40"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Perles tempestives",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963722/Genshin/Materials/Boss/PerlesTempestives.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kujou Sara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699802/Genshin/Characters/KujouSaraIcon.png",
+            "id": "P42"
+          },
+          {
+            "name": "Shogun Raiden",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699726/Genshin/Characters/ShogunRaidenIcon.png",
+            "id": "P40"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -1333,23 +1363,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Régalia de faille",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963973/Genshin/Materials/Boss/RegaliaDeFaille.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Arataki Itto",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/AratakiIttoIcon.png",
-          "id": "P45"
-        },
-        {
-          "name": "Yun Jin",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699982/Genshin/Characters/YunJinIcon.png",
-          "id": "P48"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Régalia de faille",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708963973/Genshin/Materials/Boss/RegaliaDeFaille.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Arataki Itto",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699288/Genshin/Characters/AratakiIttoIcon.png",
+            "id": "P45"
+          },
+          {
+            "name": "Yun Jin",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699982/Genshin/Characters/YunJinIcon.png",
+            "id": "P48"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Èclat de topaze prithiva",
@@ -1407,23 +1439,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Fausse nageoire de l'héritier du dragon",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964222/Genshin/Materials/Boss/FausseNageoireDeLheritierDuDragon.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Shenhe",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699734/Genshin/Characters/ShenheIcon.png",
-          "id": "P47"
-        },
-        {
-          "name": "Yae Miko",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/YaeMikoIcon.png",
-          "id": "P49"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Fausse nageoire de l'héritier du dragon",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964222/Genshin/Materials/Boss/FausseNageoireDeLheritierDuDragon.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Shenhe",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699734/Genshin/Characters/ShenheIcon.png",
+            "id": "P47"
+          },
+          {
+            "name": "Yae Miko",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700003/Genshin/Characters/YaeMikoIcon.png",
+            "id": "P49"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -1451,7 +1485,7 @@
       },
       {
         "name": "Éclat de jade shivada",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJaceShivada.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708639518/Genshin/Materials/Stone/EclatDeJadeShivada.webp",
         "worldLevel": 0,
         "id": "AM3"
       },
@@ -1502,23 +1536,25 @@
       }
     ],
 
-    "uniqueRewards": {
-      "name": "bec crochu majestueux",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964569/Genshin/Materials/Boss/BecCrochuMajestueux.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Collei",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
-          "id": "P56"
-        },
-        {
-          "name": "Tighnari",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
-          "id": "P55"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "bec crochu majestueux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708964569/Genshin/Materials/Boss/BecCrochuMajestueux.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Collei",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699263/Genshin/Characters/ColleiIcon.png",
+            "id": "P56"
+          },
+          {
+            "name": "Tighnari",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700039/Genshin/Characters/TighnariIcon.png",
+            "id": "P55"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'émeraude nagadus",
@@ -1575,23 +1611,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Fruit du Tonnerre",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043672/Genshin/Materials/Boss/FruitDuTonnerre.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Cyno",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
-          "id": "P58"
-        },
-        {
-          "name": "Dori",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
-          "id": "P57"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Fruit du Tonnerre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709043672/Genshin/Materials/Boss/FruitDuTonnerre.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Cyno",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699260/Genshin/Characters/CynoIcon.png",
+            "id": "P58"
+          },
+          {
+            "name": "Dori",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699249/Genshin/Characters/DoriIcon.png",
+            "id": "P57"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -1670,28 +1708,30 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Calibre perpétuel",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044175/Genshin/Materials/Boss/CalibrePerpetuel.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Layla",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/LaylaIcon.png",
-          "id": "P62"
-        },
-        {
-          "name": "Nilou",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
-          "id": "P59"
-        },
-        {
-          "name": "Nomade",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/NomadeIcon.png",
-          "id": "P63"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Calibre perpétuel",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709044175/Genshin/Materials/Boss/CalibrePerpetuel.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Layla",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699795/Genshin/Characters/LaylaIcon.png",
+            "id": "P62"
+          },
+          {
+            "name": "Nilou",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699763/Genshin/Characters/NilouIcon.png",
+            "id": "P59"
+          },
+          {
+            "name": "Nomade",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/NomadeIcon.png",
+            "id": "P63"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de jade shivada",
@@ -1772,28 +1812,30 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/Icon.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Tétraèdre de lumière",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045039/Genshin/Materials/Boss/TetraedreDeLumiere.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Candace",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
-          "id": "P60"
-        },
-        {
-          "name": "Dehya",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699257/Genshin/Characters/DehyaIcon.png",
-          "id": "P67"
-        },
-        {
-          "name": "Faruzan",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699243/Genshin/Characters/FaruzanIcon.png",
-          "id": "P64"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Tétraèdre de lumière",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045039/Genshin/Materials/Boss/TetraedreDeLumiere.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Candace",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699275/Genshin/Characters/CandaceIcon.png",
+            "id": "P60"
+          },
+          {
+            "name": "Dehya",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699257/Genshin/Characters/DehyaIcon.png",
+            "id": "P67"
+          },
+          {
+            "name": "Faruzan",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699243/Genshin/Characters/FaruzanIcon.png",
+            "id": "P64"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de turquoise vayuda",
@@ -1871,28 +1913,30 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Liane d'oblitération",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045490/Genshin/Materials/Boss/LianeDobliteration.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Kaveh",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/KavehIcon.png",
-          "id": "P70"
-        },
-        {
-          "name": "Nahida",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699775/Genshin/Characters/NahidaIcon.png",
-          "id": "P61"
-        },
-        {
-          "name": "Yaoyao",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/YaoyaoIcon.png",
-          "id": "P66"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Liane d'oblitération",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045490/Genshin/Materials/Boss/LianeDobliteration.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kaveh",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699816/Genshin/Characters/KavehIcon.png",
+            "id": "P70"
+          },
+          {
+            "name": "Nahida",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699775/Genshin/Characters/NahidaIcon.png",
+            "id": "P61"
+          },
+          {
+            "name": "Yaoyao",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/YaoyaoIcon.png",
+            "id": "P66"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'émeraude nagadus",
@@ -1949,23 +1993,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Pseudo-étamines",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046768/Genshin/Materials/Boss/PseudoEtamines.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Alhaitham",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699294/Genshin/Characters/AlhaithamIcon.png",
-          "id": "P65"
-        },
-        {
-          "name": "Mika",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/MikaIcon.png",
-          "id": "P68"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Pseudo-étamines",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709046768/Genshin/Materials/Boss/PseudoEtamines.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Alhaitham",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699294/Genshin/Characters/AlhaithamIcon.png",
+            "id": "P65"
+          },
+          {
+            "name": "Mika",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/MikaIcon.png",
+            "id": "P68"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de turquoise vayuda",
@@ -2031,23 +2077,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Anneau de sombreur éternelle",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047115/Genshin/Materials/Boss/AnneauDeSombreurEternelle.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Baizhu",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/BaizhuIcon.png",
-          "id": "P69"
-        },
-        {
-          "name": "Kirara",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",
-          "id": "P71"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Anneau de sombreur éternelle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047115/Genshin/Materials/Boss/AnneauDeSombreurEternelle.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Baizhu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699285/Genshin/Characters/BaizhuIcon.png",
+            "id": "P69"
+          },
+          {
+            "name": "Kirara",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",
+            "id": "P71"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -2295,23 +2343,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Résolution de l'empereur",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048152/Genshin/Materials/Boss/ResolutionDeLempereur.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Gaming",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
-          "id": "P83"
-        },
-        {
-          "name": "Lyney",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/LyneyIcon.png",
-          "id": "P73"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Résolution de l'empereur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048152/Genshin/Materials/Boss/ResolutionDeLempereur.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Gaming",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
+            "id": "P83"
+          },
+          {
+            "name": "Lyney",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699784/Genshin/Characters/LyneyIcon.png",
+            "id": "P73"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'agate agnidus",
@@ -2368,23 +2418,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Corne fontemarine",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048527/Genshin/Materials/Boss/CorneFontemarine.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Chevreuse",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
-          "id": "P81"
-        },
-        {
-          "name": "Neuvillette",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/NeuvilletteIcon.png",
-          "id": "P77"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Corne fontemarine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048527/Genshin/Materials/Boss/CorneFontemarine.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Chevreuse",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
+            "id": "P81"
+          },
+          {
+            "name": "Neuvillette",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/NeuvilletteIcon.png",
+            "id": "P77"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat d'améthyste vajra",
@@ -2439,23 +2491,25 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Appareil Tourbillon",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048852/Genshin/Materials/Boss/AppareilTourbillon.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Charlotte",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
-          "id": "P79"
-        },
-        {
-          "name": "Wriothesley",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
-          "id": "P76"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Appareil Tourbillon",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048852/Genshin/Materials/Boss/AppareilTourbillon.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Charlotte",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
+            "id": "P79"
+          },
+          {
+            "name": "Wriothesley",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
+            "id": "P76"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de topaze prithiva",
@@ -2509,18 +2563,20 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconHydro.webp"
       }
     ],
-    "uniqueRewards": {
-      "name": "Eau n'ayant pas transcendé",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049261/Genshin/Materials/Boss/EauNayantPasTranscende.webp",
-      "worldLevel": 0,
-      "character": [
-        {
-          "name": "Furina",
-          "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
-          "id": "P78"
-        }
-      ]
-    },
+    "uniqueRewards": [
+      {
+        "name": "Eau n'ayant pas transcendé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049261/Genshin/Materials/Boss/EauNayantPasTranscende.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Furina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
+            "id": "P78"
+          }
+        ]
+      }
+    ],
     "rewards": [
       {
         "name": "Éclat de lazurite varunada",

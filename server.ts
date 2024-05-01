@@ -18,10 +18,10 @@ app.get("/", (req: Request, res: Response) => {
 
 // Mes routes
 import { weeklyBossRouter } from "./routes/weeklyBoss";
-import { charactersRoute } from "./routes/characters";
+import { charactersRouter } from "./routes/characters";
 import { normalBossRouter } from "./routes/normalBoss";
 import { stoneRouter } from "./routes/stone";
-app.use(weeklyBossRouter, charactersRoute, normalBossRouter, stoneRouter);
+app.use(weeklyBossRouter, charactersRouter, normalBossRouter, stoneRouter);
 
 // Toute les routes sauf celles crées au dessus arriveront ici
 app.all("*", (req, res) => {

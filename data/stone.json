@@ -51,7 +51,8 @@
         "id": "P72"
       }
     ],
-    "description": "Récompense de niveau d'aventure"
+    "obtainment": [{ "text": "Récompense de niveau d'aventure" }],
+    "description": [{ "text": "« Bienvenue au monde. »" }]
   },
 
   {
@@ -176,6 +177,15 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047674/Genshin/Boss/SuiteCryolienneIcon.png",
         "id": "B25"
       }
+    ],
+    "description": [
+      { "text": "« Le vent change toujours de direction. »" },
+      { "text": "« Un jour, il soufflera vers un meilleur avenir. »" },
+      { "text": "« À partir de cet instant, je te donne ma bénédiction. »" }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -351,6 +361,19 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709047674/Genshin/Boss/SuiteCryolienneIcon.png",
         "id": "B25"
       }
+    ],
+    "description": [
+      { "text": "« Pardon… »" },
+      {
+        "text": "« Je vous laisse partager la tristesse du monde entier avec moi. »"
+      },
+      {
+        "text": "« Puisque vous pourriez supporter mon frois glacial, vous devez avoir un fort désir au fond du coeur. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -441,6 +464,19 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045521/Genshin/Boss/HypostaseDendroIcon.png",
         "id": "B22"
       }
+    ],
+    "description": [
+      { "text": "« J'ai fait un très long rêve… »" },
+      {
+        "text": "« Il y avait des gens qui se tenaient la main et dansaient en cercle : des sgaes et des simples d'esprit, des danseuses et des guerriers, des marionettes et des statues de divinités… »"
+      },
+      {
+        "text": "« Ces gens qui dansaient ensemble étaient une représentation de l'univers. Vivre a toujours été une fin, et la sagesse, le moyen d'y parvenir. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -591,6 +627,17 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048586/Genshin/Boss/HippocampePerleMillenaireIcon.png",
         "id": "B27"
       }
+    ],
+    "description": [
+      { "text": "« Ce corps est le plus noble et le plus éminent du monde. »" },
+      { "text": "« Il devrait gouverner le monde. »" },
+      {
+        "text": "« Il a promis une fois un beau rêve à son peuple : une terre d'éternité, immuable à jamais. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -711,6 +758,21 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048921/Genshin/Boss/GenerateurDeChampExperimentalIcon.png",
         "id": "B28"
       }
+    ],
+    "description": [
+      {
+        "text": "« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »"
+      },
+      {
+        "text": "« Je garantis la sueur, la sagesse et l'avenir des humains de cette manière. »"
+      },
+      {
+        "text": "« C'est la confiance que je place en vous. Si vous la trahissez, vous tacherez mon sang. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -861,6 +923,19 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709049320/Genshin/Boss/TulpaHydroIcon.png",
         "id": "B29"
       }
+    ],
+    "description": [
+      { "text": "« Mes idéaux sont purs. »" },
+      {
+        "text": "« Je me dois de corriger : personne ici n'est impur aux yeux des dieux, et seuls les lois et le tribunal peuvent déclarer un jugement. »"
+      },
+      {
+        "text": "« Ils peuvent même me juger. Louez donc ma grandeur et me pureté. »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   },
 
@@ -1011,6 +1086,18 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048213/Genshin/Boss/EmpereurDuFeuFerreuxIcon.png",
         "id": "B26"
       }
+    ],
+    "description": [
+      {
+        "text": "« Aller en pèlerinage pour le désir, et se battre pour la réputation… »"
+      },
+      {
+        "text": "« Si son vrai coeur original peut être laissé dans les cendre, il a réussi à atteindre la vérité de ⏹⏹⏹ »"
+      }
+    ],
+    "obtainment": [
+      { "text": "Butin de certains boss de monde et boss hebdomadaires " },
+      { "text": "Alchimie" }
     ]
   }
 ]

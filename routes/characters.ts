@@ -1,9 +1,9 @@
 import express, { Request, Response } from "express";
 import { ZodError, z } from "zod";
-export const charactersRoute = express.Router();
+export const charactersRouter = express.Router();
 
 // Data
-const characters = require("../assets/data/characters.json");
+const characters = require("../data/characters.json");
 
 //Type
 import {
@@ -12,7 +12,7 @@ import {
 } from "../models/Characters";
 
 // 1 - Route pour récupérer la liste des personnages de Genshin
-charactersRoute.get("/characters", (req: Request, res: Response) => {
+charactersRouter.get("/characters", (req: Request, res: Response) => {
   try {
     const charactersListParse = charactersListSchema.parse(characters);
     return res.status(200).json(charactersListParse);
@@ -26,7 +26,7 @@ charactersRoute.get("/characters", (req: Request, res: Response) => {
 });
 
 // 2 - Route pour récupérer les détails d'un personnage
-charactersRoute.get("/characters/details", (req: Request, res: Response) => {
+charactersRouter.get("/characters/details", (req: Request, res: Response) => {
   try {
     const { id } = req.query;
     for (let i = 0; i < characters.length; i++) {
