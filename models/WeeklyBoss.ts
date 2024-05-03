@@ -5,6 +5,24 @@ export const weeklyBossListSchema = z.array(
     id: z.string(),
     name: z.string(),
     icon: z.string().url(),
+    art: z.string().url(),
+    art2: z.string(),
+    title: z.string(),
+    element: z.array(z.object({ name: z.string(), icon: z.string().url() })),
+    description: z.array(z.object({ text: z.string() })),
+    region: z.object({
+      name: z.string(),
+      icon: z.string().url(),
+      location: z.string(),
+    }),
+    rewards: z.array(
+      z.object({
+        name: z.string(),
+        level: z.string(),
+        icon: z.string().url(),
+        id: z.string(),
+      })
+    ),
     uniqueRewards: z.array(
       z.object({
         name: z.string(),
@@ -13,7 +31,7 @@ export const weeklyBossListSchema = z.array(
           .array(
             z.object({
               name: z.string(),
-              icon: z.string().url(),
+              icon: z.string(),
               id: z.string(),
             })
           )

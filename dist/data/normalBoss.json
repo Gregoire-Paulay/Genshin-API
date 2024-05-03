@@ -385,22 +385,26 @@
       {
         "name": "Èclat de topaze prithiva",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698244/Genshin/Materials/Stone/EclatDeTopazePrithiva.webp",
-        "worldLevel": 0
+        "worldLevel": 0,
+        "id": "AM6"
       },
       {
         "name": "Fragment de topaze prithiva",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698240/Genshin/Materials/Stone/FragmentDeTopazePrithiva.webp",
-        "worldLevel": 2
+        "worldLevel": 2,
+        "id": "AM6"
       },
       {
         "name": "Morceau de topaze prithiva",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698237/Genshin/Materials/Stone/MorceauDeTopazePrithiva.webp",
-        "worldLevel": 4
+        "worldLevel": 4,
+        "id": "AM6"
       },
       {
         "name": "Pierre de topaze prithiva",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698235/Genshin/Materials/Stone/PierreDeTopazePrithiva.webp",
-        "worldLevel": 6
+        "worldLevel": 6,
+        "id": "AM6"
       }
     ]
   },
@@ -2608,7 +2612,7 @@
   {
     "id": "B30",
     "name": "Statue de marbre et laiton",
-    "title": "",
+    "title": "Légat de la Légion athanoi",
     "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574714/Genshin/Boss/StatueDeMarbreEtLaiton.webp",
     "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574721/Genshin/Boss/StatueDeMarbreeEtLaitonIcon.webp",
     "region": {
@@ -2616,7 +2620,17 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Fontaine.webp",
       "location": "Région Nostoi - Château fané"
     },
-    "description": [{ "text": "" }, { "text": "" }],
+    "description": [
+      {
+        "text": "Ce golem en forme de centaure a été forgé en marbre et en laiton, mais sous cet extérieur de pierre dure coule un sang d'ichor. Aussi imposant que celui sui commande une légion, il est prêt à piétiner tout ennemi qui pourrait transgrésser son honneur."
+      },
+      {
+        "text": "La civilisation aujourd'hui engloutie croyait que la guerre était comme une musique : un art des rhytmes à suivre. Par conséquent, celui qui rassemble une légion doit être comme un chef d'orchestre, dont le bouclier et l'épée sont comme les cordes et l'archet d'un violon."
+      },
+      {
+        "text": "« La guerre est un mal nécéssaire sur le chemin d'une paix universelle », déclara un accordeur qui mena autrefois des légions de golems à la conquête de toute la haute mer."
+      }
+    ],
     "element": [
       {
         "name": "Pyro",

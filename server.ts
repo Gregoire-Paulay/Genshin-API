@@ -21,7 +21,14 @@ import { weeklyBossRouter } from "./routes/weeklyBoss";
 import { charactersRouter } from "./routes/characters";
 import { normalBossRouter } from "./routes/normalBoss";
 import { stoneRouter } from "./routes/stone";
-app.use(weeklyBossRouter, charactersRouter, normalBossRouter, stoneRouter);
+import { booksRouter } from "./routes/books";
+app.use(
+  weeklyBossRouter,
+  charactersRouter,
+  normalBossRouter,
+  stoneRouter,
+  booksRouter
+);
 
 // Toute les routes sauf celles crées au dessus arriveront ici
 app.all("*", (req, res) => {

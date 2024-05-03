@@ -24,7 +24,8 @@ const weeklyBoss_1 = require("./routes/weeklyBoss");
 const characters_1 = require("./routes/characters");
 const normalBoss_1 = require("./routes/normalBoss");
 const stone_1 = require("./routes/stone");
-app.use(weeklyBoss_1.weeklyBossRouter, characters_1.charactersRouter, normalBoss_1.normalBossRouter, stone_1.stoneRouter);
+const books_1 = require("./routes/books");
+app.use(weeklyBoss_1.weeklyBossRouter, characters_1.charactersRouter, normalBoss_1.normalBossRouter, stone_1.stoneRouter, books_1.booksRouter);
 // Toute les routes sauf celles crées au dessus arriveront ici
 app.all("*", (req, res) => {
     return res.status(404).json("Not found");
