@@ -23,6 +23,17 @@ export const charactersListSchema = z.array(
     region: z.array(
       z.object({ name: z.string(), icon: z.string().url().optional() })
     ),
+    stats: z.array(
+      z.object({
+        level: z.number(),
+        HP: z.number(),
+        ATK: z.number(),
+        DEF: z.number(),
+        CRIT_Rate: z.number(),
+        CRIT_DMG: z.number(),
+        special: z.object({ name: z.string(), data: z.string() }).optional(),
+      })
+    ),
     ascension_materials: z.object({
       mora: z.object({
         name: z.string(),
@@ -230,6 +241,17 @@ export const characterDetailsSchema = z.object({
   affiliation: z.array(z.object({ name: z.string() })).optional(),
   region: z.array(
     z.object({ name: z.string(), icon: z.string().url().optional() })
+  ),
+  stats: z.array(
+    z.object({
+      level: z.number(),
+      HP: z.number(),
+      ATK: z.number(),
+      DEF: z.number(),
+      CRIT_Rate: z.number(),
+      CRIT_DMG: z.number(),
+      special: z.object({ name: z.string(), data: z.string() }).optional(),
+    })
   ),
   ascension_materials: z.object({
     mora: z.object({

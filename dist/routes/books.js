@@ -11,7 +11,7 @@ exports.booksRouter = express_1.default.Router();
 const books = require("../data/books.json");
 //Type
 const Books_1 = require("../models/Books");
-// 1 - Route qui renvoie tout les matériaux d'ascension de personnages (livres)
+// 1 - Route qui renvoie tout les matériaux d'aptitude de personnages (livres)
 exports.booksRouter.get("/books", (req, res) => {
     try {
         const allBooksParse = Books_1.allBooksSchema.parse(books);
@@ -26,7 +26,7 @@ exports.booksRouter.get("/books", (req, res) => {
         }
     }
 });
-// 2 - Route qui renvoie les détails des matériaux d'ascension de personnages (livres) par domaine
+// 2 - Route qui renvoie les détails des matériaux d'aptitude de personnages (livres) par domaine
 exports.booksRouter.get("/books/details", (req, res) => {
     try {
         const { id } = req.query;

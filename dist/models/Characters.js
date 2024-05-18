@@ -22,6 +22,15 @@ exports.charactersListSchema = zod_1.z.array(zod_1.z.object({
     namecard: zod_1.z.object({ name: zod_1.z.string(), icon: zod_1.z.string() }).optional(),
     affiliation: zod_1.z.array(zod_1.z.object({ name: zod_1.z.string() })).optional(),
     region: zod_1.z.array(zod_1.z.object({ name: zod_1.z.string(), icon: zod_1.z.string().url().optional() })),
+    stats: zod_1.z.array(zod_1.z.object({
+        level: zod_1.z.number(),
+        HP: zod_1.z.number(),
+        ATK: zod_1.z.number(),
+        DEF: zod_1.z.number(),
+        CRIT_Rate: zod_1.z.number(),
+        CRIT_DMG: zod_1.z.number(),
+        special: zod_1.z.object({ name: zod_1.z.string(), data: zod_1.z.string() }).optional(),
+    })),
     ascension_materials: zod_1.z.object({
         mora: zod_1.z.object({
             name: zod_1.z.string(),
@@ -202,6 +211,15 @@ exports.characterDetailsSchema = zod_1.z.object({
     namecard: zod_1.z.object({ name: zod_1.z.string(), icon: zod_1.z.string() }).optional(),
     affiliation: zod_1.z.array(zod_1.z.object({ name: zod_1.z.string() })).optional(),
     region: zod_1.z.array(zod_1.z.object({ name: zod_1.z.string(), icon: zod_1.z.string().url().optional() })),
+    stats: zod_1.z.array(zod_1.z.object({
+        level: zod_1.z.number(),
+        HP: zod_1.z.number(),
+        ATK: zod_1.z.number(),
+        DEF: zod_1.z.number(),
+        CRIT_Rate: zod_1.z.number(),
+        CRIT_DMG: zod_1.z.number(),
+        special: zod_1.z.object({ name: zod_1.z.string(), data: zod_1.z.string() }).optional(),
+    })),
     ascension_materials: zod_1.z.object({
         mora: zod_1.z.object({
             name: zod_1.z.string(),

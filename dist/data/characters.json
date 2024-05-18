@@ -15,7 +15,6 @@
     "real_name": "Aether (Homme) - Lumine (Femme)",
     "birthday": "Choix du joueur",
     "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -25,6 +24,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconAnemo.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -326,6 +345,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconGeo.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -721,6 +760,26 @@
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
       }
     ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 793,
+        "ATK": 19,
+        "DEF": 50,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9461,
+        "ATK": 223,
+        "DEF": 601,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -1036,6 +1095,26 @@
         "name": "Kahenri'ah"
       }
     ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 976,
+        "ATK": 19,
+        "DEF": 66,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11636,
+        "ATK": 223,
+        "DEF": 792,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "26,7 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -1335,6 +1414,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 802,
+        "ATK": 19,
+        "DEF": 48,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 9570,
+        "ATK": 232,
+        "DEF": 573,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -1642,6 +1741,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 821,
+        "ATK": 13,
+        "DEF": 56,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9787,
+        "ATK": 159,
+        "DEF": 669,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -1952,6 +2071,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1012,
+        "ATK": 16,
+        "DEF": 67,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "DEF %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12071,
+        "ATK": 191,
+        "DEF": 799,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "DEF %", "data": "30 %" }
       }
     ],
     "ascension_materials": {
@@ -2265,7 +2404,6 @@
       "name": "Bennett - Gratitude",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968408/Genshin/Characters/BennettCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -2278,6 +2416,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 16,
+        "DEF": 65,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12397,
+        "ATK": 191,
+        "DEF": 771,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "26,7 %" }
       }
     ],
     "ascension_materials": {
@@ -2589,7 +2747,6 @@
       "name": "Razor - Affaire de loups",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713968887/Genshin/Characters/RazorCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -2602,6 +2759,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1003,
+        "ATK": 20,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Physical DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11962,
+        "ATK": 234,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Physical DMG Bonus", "data": "30 %" }
       }
     ],
     "ascension_materials": {
@@ -2905,7 +3082,6 @@
       "name": "Beidou - Levée d'ancre",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969451/Genshin/Characters/BeidouCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -2918,6 +3094,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1094,
+        "ATK": 19,
+        "DEF": 54,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Electro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13050,
+        "ATK": 225,
+        "DEF": 648,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Electro DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -3244,7 +3440,6 @@
       "name": "Fischl - Corbeau de la nuit",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969721/Genshin/Characters/FischlCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -3257,6 +3452,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 770,
+        "ATK": 20,
+        "DEF": 50,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9189,
+        "ATK": 244,
+        "DEF": 594,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -3554,7 +3769,6 @@
       "name": "Xiangling - Gooba",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713969997/Genshin/Characters/XianglingCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700026/Genshin/Characters/XianglingIcon.webp"
@@ -3567,6 +3781,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 19,
+        "DEF": 56,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 225,
+        "DEF": 669,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -3849,7 +4083,6 @@
       "name": "Xingqiu - Bruine",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970261/Genshin/Characters/XingqiuCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -3862,6 +4095,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 857,
+        "ATK": 17,
+        "DEF": 64,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10222,
+        "ATK": 202,
+        "DEF": 758,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -4160,7 +4413,6 @@
       "name": "Chongyun - Lame de l'esprit",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970612/Genshin/Characters/ChongyunCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -4173,6 +4425,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 921,
+        "ATK": 19,
+        "DEF": 54,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10984,
+        "ATK": 223,
+        "DEF": 648,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -4454,7 +4726,6 @@
       "name": "Ningguang - Phénix",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713970830/Genshin/Characters/NingguangCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -4467,6 +4738,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 821,
+        "ATK": 18,
+        "DEF": 48,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9787,
+        "ATK": 212,
+        "DEF": 573,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -4761,7 +5052,6 @@
       "name": "Sucrose - Bio-Alchimie",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972075/Genshin/Characters/SucroseCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -4774,6 +5064,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 775,
+        "ATK": 14,
+        "DEF": 59,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9244,
+        "ATK": 170,
+        "DEF": 703,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -5065,7 +5375,6 @@
       "name": "Venti - Ciel d'azur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972288/Genshin/Characters/VentiCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -5078,6 +5387,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 820,
+        "ATK": 20,
+        "DEF": 52,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10531,
+        "ATK": 263,
+        "DEF": 669,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -5371,7 +5700,6 @@
       "name": "Klee - Chaud devant !",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713972815/Genshin/Characters/KleeCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -5384,6 +5712,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 801,
+        "ATK": 24,
+        "DEF": 48,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Pyro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10287,
+        "ATK": 311,
+        "DEF": 615,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Pyro DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -5672,7 +6020,6 @@
       "name": "Jean - Course du vent",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974017/Genshin/Characters/JeanCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -5685,6 +6032,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1144,
+        "ATK": 19,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Healing Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 14695,
+        "ATK": 239,
+        "DEF": 769,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Healing Bonus", "data": "22,1 %" }
       }
     ],
     "ascension_materials": {
@@ -5988,7 +6355,6 @@
       "name": "Diluc - Flambée mortelle",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974310/Genshin/Characters/DilucCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -6001,6 +6367,24 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1011,
+        "ATK": 26,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12981,
+        "ATK": 335,
+        "DEF": 784,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -6283,7 +6667,6 @@
       "name": "Keqing - Lame de foudre",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974609/Genshin/Characters/KeqingCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -6296,6 +6679,24 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1020,
+        "ATK": 25,
+        "DEF": 62,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13103,
+        "ATK": 323,
+        "DEF": 799,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -6595,7 +6996,6 @@
       "name": "Mona - Astromancie",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713974933/Genshin/Characters/MonaCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -6608,6 +7008,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 810,
+        "ATK": 22,
+        "DEF": 51,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10409,
+        "ATK": 287,
+        "DEF": 653,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -6947,7 +7367,6 @@
       "name": "Qiqi - Conservation",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975208/Genshin/Characters/QiqiCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -6960,6 +7379,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 963,
+        "ATK": 22,
+        "DEF": 72,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Healing Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12368,
+        "ATK": 287,
+        "DEF": 922,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Healing Bonus", "data": "22,1 %" }
       }
     ],
     "ascension_materials": {
@@ -7262,7 +7701,6 @@
       "name": "Tartaglia - Posture du démon",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975515/Genshin/Characters/TartagliaCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -7272,6 +7710,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
     "region": [{ "name": "Snezhnaya" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1020,
+        "ATK": 23,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Hydro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13103,
+        "ATK": 301,
+        "DEF": 815,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Hydro DMG Bonus", "data": "28,8 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -7590,7 +8048,6 @@
       "name": "Diona - Miaou !",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713975773/Genshin/Characters/DionaCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -7603,6 +8060,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 802,
+        "ATK": 18,
+        "DEF": 50,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Cryo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9570,
+        "ATK": 212,
+        "DEF": 601,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Cryo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -7922,7 +8399,6 @@
       "name": "Zhongli - Chute de météore",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976021/Genshin/Characters/ZhongliCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -7935,6 +8411,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1144,
+        "ATK": 20,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 14695,
+        "ATK": 251,
+        "DEF": 738,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -8262,7 +8758,6 @@
       "name": "Xinyan - Final",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713976384/Genshin/Characters/XinyanCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -8275,6 +8770,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 939,
+        "ATK": 21,
+        "DEF": 67,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11201,
+        "ATK": 248,
+        "DEF": 799,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -8583,7 +9098,6 @@
       "name": "Albedo - radiance solaire",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992465/Genshin/Characters/AlbedoCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -8596,6 +9110,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1030,
+        "ATK": 20,
+        "DEF": 68,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13226,
+        "ATK": 251,
+        "DEF": 876,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -8909,7 +9443,6 @@
       "name": "Ganyu - Qilin",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713992725/Genshin/Characters/GanyuCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -8922,6 +9455,24 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 763,
+        "ATK": 26,
+        "DEF": 49,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 9797,
+        "ATK": 335,
+        "DEF": 630,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -9227,7 +9778,6 @@
       "name": "Xiao - Masque",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713993072/Genshin/Characters/XiaoCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -9240,6 +9790,24 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 991,
+        "ATK": 27,
+        "DEF": 62,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12736,
+        "ATK": 349,
+        "DEF": 799,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -9542,7 +10110,6 @@
       "name": "Hu Tao - Pacificatrice",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997400/Genshin/Characters/HuTaoCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -9555,6 +10122,24 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1211,
+        "ATK": 8,
+        "DEF": 68,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 15552,
+        "ATK": 106,
+        "DEF": 876,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -9856,7 +10441,6 @@
       "name": "Rosalia - Éternel labeur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713997709/Genshin/Characters/RosaliaCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -9869,6 +10453,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1030,
+        "ATK": 20,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12289,
+        "ATK": 240,
+        "DEF": 710,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -10156,7 +10760,6 @@
       "name": "Eula - Sceau de glace",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998034/Genshin/Characters/EulaCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -10169,6 +10772,24 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1030,
+        "ATK": 27,
+        "DEF": 58,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13226,
+        "ATK": 342,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -10467,7 +11088,6 @@
       "name": "Yanfei - Impartialité",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998578/Genshin/Characters/YanfeiCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -10480,6 +11100,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 784,
+        "ATK": 20,
+        "DEF": 49,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Pyro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9352,
+        "ATK": 240,
+        "DEF": 587,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Pyro DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -10781,7 +11421,6 @@
       "name": "Kazuha - Chasse en montagne d'automne",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713998940/Genshin/Characters/KaedeharaKazuhaCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -10794,6 +11433,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 23,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 13348,
+        "ATK": 297,
+        "DEF": 807,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "115" }
       }
     ],
     "ascension_materials": {
@@ -11116,7 +11775,6 @@
       "name": "Kamisato Ayaka - Éventail",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1713999210/Genshin/Characters/KamisatoAyakaCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -11129,6 +11787,24 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1001,
+        "ATK": 27,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12858,
+        "ATK": 342,
+        "DEF": 784,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -11442,7 +12118,6 @@
     "real_name": "Aether (Homme) - Lumine (Femme)",
     "birthday": "Choix du joueur",
     "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -11452,6 +12127,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -11749,7 +12444,6 @@
       "name": "Yoimiya - Étincelle dorée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714042799/Genshin/Characters/YoimiyaCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -11762,6 +12456,24 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 791,
+        "ATK": 25,
+        "DEF": 48,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 10164,
+        "ATK": 323,
+        "DEF": 615,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -12055,7 +12767,6 @@
       "name": "Sayu - Daruma Muji-muji",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043130/Genshin/Characters/SayuCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -12068,6 +12779,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 994,
+        "ATK": 20,
+        "DEF": 62,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 11854,
+        "ATK": 244,
+        "DEF": 745,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -12405,7 +13136,6 @@
       "name": "Shogun Raiden - Révélation",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714043779/Genshin/Characters/ShogunRaidenCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -12418,6 +13148,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1005,
+        "ATK": 26,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12907,
+        "ATK": 337,
+        "DEF": 789,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -12731,7 +13481,6 @@
       "name": "Sangonomiya Kokomi - Profondeurs",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044041/Genshin/Characters/SangonomiyaKokomiCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -12744,6 +13493,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1049,
+        "ATK": 18,
+        "DEF": 51,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Hydro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13471,
+        "ATK": 234,
+        "DEF": 657,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Hydro DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -13066,7 +13835,6 @@
       "name": "Kujou Sara - Tengu",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714044656/Genshin/Characters/KujouSaraCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -13079,6 +13847,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 802,
+        "ATK": 16,
+        "DEF": 53,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9570,
+        "ATK": 195,
+        "DEF": 628,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -13367,7 +14155,6 @@
       "name": "Aloy - Aurore",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047298/Genshin/Characters/AloyCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -13377,6 +14164,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618399/Genshin/IconCryo.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 848,
+        "ATK": 18,
+        "DEF": 53,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Cryo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10899,
+        "ATK": 234,
+        "DEF": 676,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Cryo DMG Bonus", "data": "28,8 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -13630,7 +14437,6 @@
       "name": "Thomas - Brassards ardents",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714047784/Genshin/Characters/ThomasCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -13647,6 +14453,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 866,
+        "ATK": 17,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10331,
+        "ATK": 202,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -13958,7 +14784,6 @@
       "name": "Itto - Visage d'Oni",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048117/Genshin/Characters/AratakiIttoCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -13971,6 +14796,24 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1001,
+        "ATK": 18,
+        "DEF": 75,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12858,
+        "ATK": 227,
+        "DEF": 959,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -14303,7 +15146,6 @@
       "name": "Gorou - Chien serein",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048449/Genshin/Characters/GorouCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -14316,6 +15158,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 802,
+        "ATK": 15,
+        "DEF": 54,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9570,
+        "ATK": 183,
+        "DEF": 648,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Geo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -14654,7 +15516,6 @@
       "name": "Shenhe - Peigne",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714048700/Genshin/Characters/ShenheCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -14667,6 +15528,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1011,
+        "ATK": 24,
+        "DEF": 65,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12993,
+        "ATK": 304,
+        "DEF": 830,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -14982,7 +15863,6 @@
       "name": "Yun Jin - Rime",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049232/Genshin/Characters/YunJinCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -14995,6 +15875,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 894,
+        "ATK": 16,
+        "DEF": 62,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10657,
+        "ATK": 191,
+        "DEF": 734,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Energy Recharge", "data": "26,7 %" }
       }
     ],
     "ascension_materials": {
@@ -15291,7 +16191,6 @@
       "name": "Yae Miko - Kitsune rêveuse",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049607/Genshin/Characters/YaeMikoCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -15304,6 +16203,24 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 807,
+        "ATK": 26,
+        "DEF": 44,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 10372,
+        "ATK": 340,
+        "DEF": 569,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -15606,7 +16523,6 @@
       "name": "Kamisato Ayato - Ondulation",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714049871/Genshin/Characters/KamisatoAyatoCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -15619,6 +16535,24 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1068,
+        "ATK": 23,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13715,
+        "ATK": 299,
+        "DEF": 769,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -15928,7 +16862,6 @@
       "name": "Yelan - Jet",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050156/Genshin/Characters/YelanCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -15941,6 +16874,24 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1125,
+        "ATK": 19,
+        "DEF": 43,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 14450,
+        "ATK": 244,
+        "DEF": 548,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -16252,7 +17203,6 @@
       "name": "Kuki Shinobu - Tissage",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050433/Genshin/Characters/KukiShinobuCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -16265,6 +17215,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1030,
+        "ATK": 18,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12289,
+        "ATK": 212,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -16558,7 +17528,6 @@
       "name": "Shikanoin Heizou - Temari",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714050699/Genshin/Characters/ShikanoinHeizouCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -16571,6 +17540,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 894,
+        "ATK": 19,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10657,
+        "ATK": 225,
+        "DEF": 684,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -16857,7 +17846,6 @@
     "real_name": "Aether (Homme) - Lumine (Femme)",
     "birthday": "Choix du joueur",
     "description": "Une voyageuse venant d'un autre monde qui a été séparée de son frère. Elle débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de le retrouver.",
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -16867,6 +17855,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -17172,7 +18180,6 @@
       "name": "Tighnari - Baigné de rosée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051171/Genshin/Characters/TighnariCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -17185,6 +18192,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 845,
+        "ATK": 21,
+        "DEF": 49,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Dendro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10850,
+        "ATK": 268,
+        "DEF": 630,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Dendro DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -17472,7 +18499,6 @@
       "name": "Collei - Vertu",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051525/Genshin/Characters/ColleiCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -17485,6 +18511,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 821,
+        "ATK": 17,
+        "DEF": 50,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9787,
+        "ATK": 200,
+        "DEF": 601,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -17776,7 +18822,6 @@
       "name": "Dori - lampe magique",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714051944/Genshin/Characters/DoriCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -17789,6 +18834,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 19,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12397,
+        "ATK": 223,
+        "DEF": 723,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -18100,7 +19165,6 @@
       "name": "Cyno - Sérénité",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052152/Genshin/Characters/CynoCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -18113,6 +19177,24 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 972,
+        "ATK": 25,
+        "DEF": 67,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12491,
+        "ATK": 318,
+        "DEF": 859,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -18423,7 +19505,6 @@
       "name": "Nilou - Danse du lotus",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052419/Genshin/Characters/NilouCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -18436,6 +19517,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1182,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 15185,
+        "ATK": 230,
+        "DEF": 729,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -18744,7 +19845,6 @@
       "name": "Candace - Héronne Cendrée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052706/Genshin/Characters/CandaceCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -18757,6 +19857,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -19065,7 +20185,6 @@
       "name": "Nahida - Croissant",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714052982/Genshin/Characters/NahidaCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -19078,6 +20197,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 807,
+        "ATK": 23,
+        "DEF": 49,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 10360,
+        "ATK": 299,
+        "DEF": 630,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "115" }
       }
     ],
     "ascension_materials": {
@@ -19400,7 +20539,6 @@
       "name": "Layla - Rêverie",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714053447/Genshin/Characters/LaylaCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -19413,6 +20551,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 930,
+        "ATK": 18,
+        "DEF": 55,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11092,
+        "ATK": 217,
+        "DEF": 655,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -19714,7 +20872,6 @@
       "name": "Nomade - Ballade d'errance",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055088/Genshin/Characters/NomadeCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -19736,11 +20893,24 @@
         "name": "Snezhnaya"
       }
     ],
-    "region2": { "name": "Snezhnaya" },
-    "region3": {
-      "name": "Inazuma",
-      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
-    },
+    "stats": [
+      {
+        "level": 1,
+        "HP": 791,
+        "ATK": 26,
+        "DEF": 47,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 10164,
+        "ATK": 328,
+        "DEF": 607,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -20059,7 +21229,6 @@
       "name": "Faruzan - Secret Scellé",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055443/Genshin/Characters/FaruzanCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -20072,6 +21241,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 802,
+        "ATK": 16,
+        "DEF": 53,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 9570,
+        "ATK": 196,
+        "DEF": 628,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -20366,7 +21555,6 @@
       "name": "Alhaitham - Érudition",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714055810/Genshin/Characters/AlhaithamCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -20379,6 +21567,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 24,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Dendro DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13348,
+        "ATK": 313,
+        "DEF": 782,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Dendro DMG Bonus", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -20704,7 +21912,6 @@
       "name": "Yaoyao - Yuegui",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714057986/Genshin/Characters/YaoyaoCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -20717,6 +21924,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1030,
+        "ATK": 18,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12289,
+        "ATK": 212,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -21046,7 +22273,6 @@
       "name": "Dehya - Feu purifiant",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058317/Genshin/Characters/DehyaCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -21059,6 +22285,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1220,
+        "ATK": 21,
+        "DEF": 49,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 15675,
+        "ATK": 265,
+        "DEF": 628,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -21370,7 +22616,6 @@
       "name": "Mika - Index",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058578/Genshin/Characters/MikaCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -21383,6 +22628,26 @@
       {
         "name": "Mondstadt",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1049,
+        "ATK": 19,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12506,
+        "ATK": 223,
+        "DEF": 713,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -21689,7 +22954,6 @@
       "name": "Baizhu - Soulagement",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058748/Genshin/Characters/BaizhuCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -21702,6 +22966,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 15,
+        "DEF": 39,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 13348,
+        "ATK": 193,
+        "DEF": 500,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -22007,7 +23291,6 @@
       "name": "Kaveh - Firmament",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714058978/Genshin/Characters/KavehCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -22020,6 +23303,26 @@
       {
         "name": "Sumeru",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1003,
+        "ATK": 20,
+        "DEF": 63,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 11962,
+        "ATK": 234,
+        "DEF": 751,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -22315,7 +23618,6 @@
       "name": "Kirara - Neko-colis",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059204/Genshin/Characters/KiraraCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -22328,6 +23630,26 @@
       {
         "name": "Inazuma",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Inazuma.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1021,
+        "ATK": 19,
+        "DEF": 46,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12180,
+        "ATK": 223,
+        "DEF": 546,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -22637,6 +23959,26 @@
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618474/Genshin/IconHydro.webp"
     },
     "region": [{ "name": "Autre monde" }],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 912,
+        "ATK": 18,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10875,
+        "ATK": 212,
+        "DEF": 683,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
+      }
+    ],
     "ascension_materials": {
       "mora": {
         "name": "Mora",
@@ -22942,7 +24284,6 @@
       "name": "Lyney - Simulacre",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714059581/Genshin/Characters/LyneyCard.webp"
     },
-
     "weapon": {
       "type": "Arc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
@@ -22955,6 +24296,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 858,
+        "ATK": 25,
+        "DEF": 42,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 11021,
+        "ATK": 318,
+        "DEF": 538,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -23286,7 +24645,6 @@
       "name": "Lynette - Intégrité",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060108/Genshin/Characters/LynetteCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -23299,6 +24657,26 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1039,
+        "ATK": 19,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12397,
+        "ATK": 232,
+        "DEF": 712,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -23606,7 +24984,6 @@
       "name": "Fréminet - Progrès",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060414/Genshin/Characters/FreminetCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -23619,6 +24996,26 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1012,
+        "ATK": 21,
+        "DEF": 59,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 12071,
+        "ATK": 255,
+        "DEF": 708,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -23931,7 +25328,6 @@
       "name": "Wriothesley - Détention",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714060876/Genshin/Characters/WriothesleyCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -23944,6 +25340,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1058,
+        "ATK": 24,
+        "DEF": 59,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13593,
+        "ATK": 311,
+        "DEF": 763,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -24266,7 +25680,6 @@
       "name": "Neuvillette - Afflux",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061153/Genshin/Characters/NeuvilletteCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -24279,6 +25692,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1144,
+        "ATK": 16,
+        "DEF": 45,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 14695,
+        "ATK": 208,
+        "DEF": 576,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -24581,7 +26012,6 @@
       "name": "Furina - Banquet",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061527/Genshin/Characters/FurinaCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -24594,6 +26024,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1192,
+        "ATK": 19,
+        "DEF": 54,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 15307,
+        "ATK": 244,
+        "DEF": 696,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -24905,7 +26353,6 @@
       "name": "Charlotte - Scoop",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714061943/Genshin/Characters/CharlotteCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -24918,6 +26365,26 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 903,
+        "ATK": 15,
+        "DEF": 46,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10766,
+        "ATK": 173,
+        "DEF": 546,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -25225,7 +26692,6 @@
       "name": "Navia - Rosula",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062183/Genshin/Characters/NaviaCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -25238,6 +26704,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 985,
+        "ATK": 27,
+        "DEF": 62,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12650,
+        "ATK": 352,
+        "DEF": 793,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {
@@ -25530,7 +27014,6 @@
       "name": "Chevreuse - Type II",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714062468/Genshin/Characters/ChevreuseCard.webp"
     },
-
     "weapon": {
       "type": "Arme d'hast",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
@@ -25543,6 +27026,26 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1003,
+        "ATK": 16,
+        "DEF": 51,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11962,
+        "ATK": 193,
+        "DEF": 605,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "HP %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -25836,7 +27339,6 @@
       "name": "Xianyun - Nuage blanc",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714063874/Genshin/Characters/XianyunCard.webp"
     },
-
     "weapon": {
       "type": "Catalyseur",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
@@ -25849,6 +27351,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 810,
+        "ATK": 26,
+        "DEF": 45,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 10409,
+        "ATK": 335,
+        "DEF": 573,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -26163,7 +27685,6 @@
       "name": "Gaming - Man Chai",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064101/Genshin/Characters/GamingCard.webp"
     },
-
     "weapon": {
       "type": "Épée à 2 mains",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
@@ -26176,6 +27697,26 @@
       {
         "name": "Liyue",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 957,
+        "ATK": 25,
+        "DEF": 59,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "0 %" }
+      },
+      {
+        "level": 90,
+        "HP": 11419,
+        "ATK": 302,
+        "DEF": 703,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "ATK %", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -26461,7 +28002,6 @@
       "name": "Chiori - Manches spectaculaires",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714064347/Genshin/Characters/ChioriCard.webp"
     },
-
     "weapon": {
       "type": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -26478,6 +28018,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 890,
+        "ATK": 25,
+        "DEF": 74,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 11438,
+        "ATK": 323,
+        "DEF": 953,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
       }
     ],
     "ascension_materials": {
@@ -26824,6 +28382,24 @@
       {
         "name": "Fontaine",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1020,
+        "ATK": 27,
+        "DEF": 60,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13103,
+        "ATK": 342,
+        "DEF": 765,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
       }
     ],
     "ascension_materials": {

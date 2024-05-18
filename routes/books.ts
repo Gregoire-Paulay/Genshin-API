@@ -8,7 +8,7 @@ const books = require("../data/books.json");
 //Type
 import { allBooksSchema, allBooksDetailsSchema } from "../models/Books";
 
-// 1 - Route qui renvoie tout les matériaux d'ascension de personnages (livres)
+// 1 - Route qui renvoie tout les matériaux d'aptitude de personnages (livres)
 booksRouter.get("/books", (req: Request, res: Response) => {
   try {
     const allBooksParse = allBooksSchema.parse(books);
@@ -22,7 +22,7 @@ booksRouter.get("/books", (req: Request, res: Response) => {
   }
 });
 
-// 2 - Route qui renvoie les détails des matériaux d'ascension de personnages (livres) par domaine
+// 2 - Route qui renvoie les détails des matériaux d'aptitude de personnages (livres) par domaine
 booksRouter.get("/books/details", (req: Request, res: Response) => {
   try {
     const { id } = req.query;
