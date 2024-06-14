@@ -1230,6 +1230,11 @@
             "id": "P63"
           },
           {
+            "name": "Sethos",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/SethosIcon.png",
+            "id": "P87"
+          },
+          {
             "name": "Yaoyao",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699994/Genshin/Characters/YaoyaoIcon.png",
             "id": "P66"
@@ -1344,6 +1349,11 @@
         "level": "Dongeon 2",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615222/Genshin/Materials/Boss/Constambre.webp",
         "character": [
+          {
+            "name": "Clorinde",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/ClorindeIcon.png",
+            "id": "P86"
+          },
           {
             "name": "Kirara",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",

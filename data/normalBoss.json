@@ -882,6 +882,11 @@
         "worldLevel": 0,
         "character": [
           {
+            "name": "Sethos",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/SethosIcon.png",
+            "id": "P87"
+          },
+          {
             "name": "Xyanyun",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700022/Genshin/Characters/XianyunIcon.png",
             "id": "P82"
@@ -2426,6 +2431,11 @@
             "name": "Chevreuse",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ChevreuseIcon.png",
             "id": "P81"
+          },
+          {
+            "name": "Clorinde",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/ClorindeIcon.png",
+            "id": "P86"
           },
           {
             "name": "Neuvillette",

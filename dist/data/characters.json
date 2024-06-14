@@ -28684,7 +28684,710 @@
           "text": "Les DGT infligés par Ascension lunatique augmentent d'une valeur équivalant à l'ATQ d'Arlecchino multipliée par 700 % du pourcentage de son engagement vital actuel.",
           "note": "Pendant 20 s après avoir utilisé Pulvérisation totale, le taux CRIT des attaques normales et des déchaînements élémentaires d'Arlecchino augmente de 10 % et leurs DGT CRIT de 70 %. Cet effet peut être déclenché une fois toutes les 15 s."
         },
-        "icon": ""
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714573441/Genshin/Constellation/DesormaisNousVivronsEnsembleUneNouvelleVie.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P86",
+    "name": "Clorinde",
+    "release_date": "05 Juin 2024",
+    "star": 5,
+    "title": "Porteuse de bougie et chasseuse d'ombres",
+    "other_title": [{ "name": "Duelliste mandatée" }],
+    "description": "Une duelliste mandatée invaincue. Épée à la main, elle défend la justice dans la Cour de Fontaine.",
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "weapon": {
+      "type": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718360744/Genshin/Characters/Clorinde.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718360735/Genshin/Characters/ClorindeIcon.webp",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718360739/Genshin/Characters/ClorindeWish.webp",
+    "birthday": "20 Septembre",
+    "dish": {
+      "name": "Gibier en sac",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718360734/Genshin/Characters/ClorindeDish.webp"
+    },
+    "namecard": {
+      "name": "Clorinde - Jeu de rôle",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718360734/Genshin/Characters/ClorindeCard.webp"
+    },
+    "affiliation": [{ "name": "Tribunal" }],
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1009,
+        "ATK": 26,
+        "DEF": 61,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 12956,
+        "ATK": 337,
+        "DEF": 784,
+        "CRIT_Rate": 24.2,
+        "CRIT_DMG": 50
+      }
+    ],
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Corne fontemarine",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048527/Genshin/Materials/Boss/CorneFontemarine.webp",
+        "number": 46,
+        "id": "B27"
+      },
+      "material": {
+        "name": "Sombrétoile",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712401100/Genshin/Materials/Sombretoile.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Crédo des ombres chasseuses",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361872/Genshin/Talents/CredoDesOmbresChasseuses.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 5 coups d'épée."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour tirer avec son mousquet des tirs de suppression en éventail."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Ronde de la nuitée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361870/Genshin/Talents/RondeDeLaNuitee.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Préparant son mousquet, Clorinde entre dans l'état Vigile nocturne qui combine l'acier et le plomb. Dans cet état, l'attaque normale de Clorinde est convertie en tir de mousquet « Chasse leste », les DGT infligés en DGT Électro ne pouvant pas être enchantés et elle ne peut pas effectuer d'attaques chargées, tandis qu'utiliser sa compétence élémentaire déclenche un empalement nocturne : effectue une attaque brusque qui inflige des DGT Électro. Les DGT infligés des manières susmentionnées sont considérés comme des DGT d'attaque normale."
+          },
+          {
+            "name": "Chasse leste",
+            "effect": [
+              {
+                "text": "Lorsque son engagement vital est supérieur ou égal à 100 % de ses PV max, Clorinde effectue un tir de mousquet."
+              },
+              {
+                "text": "Lorsque son engagement vital est inférieur à 100 % de ses PV max, Clorinde effectue un tir de mousquet qui lui accorde de l'engagement vital selon ses PV max et qui transperce les ennemis pour infliger des DGT encore plus importants aux ennemis en chemin."
+              }
+            ]
+          },
+          {
+            "name": "Empalement nocturne",
+            "text": "L'effet de l'empalement nocturne dépend du pourcentage de l'engagement vital actuel de Clorinde :",
+            "effect": [
+              {
+                "text": "Avec un engagement vital de 0 %, Clorinde effectue une attaque brusque."
+              },
+              {
+                "text": "Avec un engagement vital inférieur à 100 % de ses PV max, Clorinde récupère des PV selon la valeur de son engagement vital et la zone d'effet et les DGT infligés par cette instance d'empalement nocturne augmentent."
+              },
+              {
+                "text": "Avec un engagement vital supérieur ou égal à 100 % de ses PV max, Clorinde effectue un empalement nocturne de pacte, ce qui restaure encore plus ses PV et augmente davantage la zone d'effet et les DGT infligés par cette attaque d'empalement nocturne."
+              }
+            ]
+          },
+          {
+            "text": "De plus, lorsque Clorinde est en vigile nocturne, les soins autres que ceux des empalements nocturnes n'ont pas d'effet sur elle et lui accordent à la place de l'engagement vital selon un pourcentage des soins qui auraient dû être reçus L'état Vigile nocturne cesse lorsque Clorinde quitte le champ de bataille."
+          },
+          {
+            "name": "Arkhe : Ousia",
+            "text": "Régulièrement, une lame fluide descend à l'emplacement touché par une chasse leste de Clorinde pour infliger des DGT Électro chargés d'énergie ousia."
+          }
+        ],
+        "note": "Bien que le mal qui se cachait dans les ombres de la nuit ait été purgé sur des milliers d'années, une ombre que la lumière ne pouvait atteindre assombrit les cœurs humains. Aujourd'hui encore, l'avertissement laissé par le Chasseur d'or est gravé dans la mémoire de Clorinde : ceux brandissant des bougies pour patrouiller dans la nuit ont encore plus besoin de rester vigilants et de ne pas se faire corrompre par l'obscurité froide."
+      },
+      {
+        "name": "Fin de la clarté",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361869/Genshin/Talents/FinDeLaClarte.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Clorinde s'accorde un engagement vital selon ses PV max avant de zigzaguer rapidement et de frapper avec sa lame et son mousquet en même temps, infligeant des DGT Électro de zone."
+          }
+        ],
+        "note": "Il est dit que l'art ancien de résister aux êtres non humains avec un corps mortel remonte aux chevaliers de source qui résistaient à l'empire rémurien. Quoi qu'il en soit, tant que l'on peut contrôler le niveau de sa force, ce n'est pas comme si elle ne pouvait pas être utilisée dans des duels contre des adversaires ordinaires."
+      },
+      {
+        "name": "Flamme brisant la nuit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361867/Genshin/Talents/FlammeBrisantLaNuit.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Lorsqu'un personnage de l'équipe à proximité a déclenché une réaction liée à l'élément Électro sur un ennemi, les DGT Électro infligés par les attaques normales de Clorinde et par Fin de la clarté augmentent d'une valeur équivalant à 20 % de l'ATQ de Clorinde pendant 15 s. "
+          },
+          {
+            "text": "Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. Les DGT infligés par les attaques susmentionnées de Clorinde peuvent augmenter d'un maximum de 1 800 pts de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Rémunération honorant le pacte",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361867/Genshin/Talents/RemunerationHonorantLePacte.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Si l'engagement vital de Clorinde est supérieur ou égal à 100 % de ses PV max, son taux CRIT augmente de 10 % pendant 15 s lorsque la valeur de son engagement vital augmente ou diminue."
+          },
+          {
+            "text": "Cet effet peut être cumulé 2 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. De plus, la vigile nocturne de Ronde de la nuitée est renforcée : pendant sa durée, le pourcentage des soins qui est converti en engagement vital augmente à 100 %."
+          }
+        ]
+      },
+      {
+        "name": "Gain de vigile nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718361866/Genshin/Talents/GainDeVigileNocturne.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Affiche l'emplacement des produits de Fontaine sur la mini-carte."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Perle transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/PerleTransoceanique.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Morceau transocéanique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320962/Genshin/Materials/Mobs/MorceauTransoceanique.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Cristal xénochromatique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712320957/Genshin/Materials/Mobs/CristalXenochromatique.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615885/Genshin/Materials/Aptitude/EnseignementDeLaJustice.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615878/Genshin/Materials/Aptitude/GuideDeLaJustice.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de la justice",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615871/Genshin/Materials/Aptitude/PhilosophieDeLaJustice.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Constambre",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615222/Genshin/Materials/Boss/Constambre.webp",
+        "number": 6,
+        "id": "WB8"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Rapperia",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363035/Genshin/Constellation/Rapperia.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "« Dès lors, je traverserai le voile de l'ombre de la bougie »",
+        "level": 1,
+        "description": {
+          "text": "Pendant la vigile nocturne de Ronde de la nuitée, toucher un ennemi avec des DGT Électro infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l'ennemi afin d'effectuer 2 attaques coordonnées, chacune infligeant des DGT Électro d'une valeur équivalant à 30 % de l'ATQ de Clorinde.",
+          "note": "Cet effet peut être déclenché une fois toutes 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d'attaque normale."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363034/Genshin/Constellation/DesLorsJeTraverseraiLeVoileDeLombreDeLaBougie.webp"
+      },
+      {
+        "name": "« Dorénavant, j'affronterai les périls de la longue nuit »",
+        "level": 2,
+        "description": {
+          "text": "L'aptitude passive « Flamme brisant la nuit » est renforcée : lorsqu'un personnage de l'équipe à proximité a déclenché une réaction liée à l'élément Électro sur un ennemi, les DGT Électro infligés par les attaques normales de Clorinde et par Fin de la clarté augmentent d'une valeur équivalant à 30 % de son ATQ pendant 15 s. ",
+          "note": "Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, la RÉS à l'interruption de Clorinde augmente. Les DGT infligés par les attaques susmentionnées de Clorinde peuvent augmenter d'un maximum de 2 700 pts de cette manière. L'aptitude passive « Flamme brisant la nuit » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363032/Genshin/Constellation/DorenavantJaffronteraiLesPerilsDeLaLongueNuit.webp"
+      },
+      {
+        "name": "« À jamais, je me souviendrai du serment de la lumière du jour »",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Ronde de la nuitée +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363031/Genshin/Constellation/AJamaisJeMeSouviendraiDuSermentDeLaLumiereDuJour.webp"
+      },
+      {
+        "name": "« Pour toujours, j'honorerai les larmes, la vie et l'amour »",
+        "level": 4,
+        "description": {
+          "text": "Lorsque Fin de la clarté inflige des DGT à un ennemi, les DGT augmentent selon le pourcentage d'engagement vital actuel de Clorinde : chaque tranche de 1 % d'engagement vital augmente les DGT infligés par cette instance de Fin de la clarté de 2 %. ",
+          "note": "Les DGT infligés par Fin de la clarté peuvent augmenter d'un maximum de 200 % de cette manière."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363029/Genshin/Constellation/PourToujoursJhonoreraiLesLarmesLaVieEtLamour.webp"
+      },
+      {
+        "name": "« Assidûment, je verrai l'aube comme mon salut »",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Fin de la clarté +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363028/Genshin/Constellation/AssidumentjeVerraiLaubeCommeMonSalut.webp"
+      },
+      {
+        "name": "« Ainsi, je ne désespérerai jamais plus »",
+        "level": 6,
+        "description": {
+          "text": "Pendant 12 s après avoir utilisé Ronde de la nuitée, le taux CRIT de Clorinde augmente de 10 % et ses DGT CRIT de 70 %. De plus, des ombres bougières peuvent apparaître dans certaines circonstances lors des vigiles nocturnes, afin d'attaquer les ennemis en infligeant des DGT Électro d'une valeur équivalant à 200 % de l'ATQ de Clorinde. Les DGT infligés de cette manière sont considérés comme des DGT d'attaque normale. Les ombres bougières apparaissent dans les circonstances suivantes :",
+          "effect": [
+            {
+              "text": "Lorsque Clorinde est sur le point de subir une attaque."
+            },
+            {
+              "text": "Lorsque Clorinde effectue un empalement nocturne de pacte."
+            }
+          ],
+          "note": "Une ombre bougière peut être invoquée une fois toutes les secondes des manières susmentionnées, et un maximum de 6 ombres bougières peut être invoqué pendant une vigile nocturne. Additionnellement, les DGT subis par Clorinde diminuent de 80 % et sa RÉS à l'interruption augmente lors des vigiles nocturnes. Cet effet cesse en même temps que la vigile nocturne ou 1 s après avoir invoqué 6 ombres bougières."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363028/Genshin/Constellation/AinsiJeNeDesespereraiJamaisPlus.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P87",
+    "name": "Sethos",
+    "release_date": "05 Juin 2024",
+    "star": 4,
+    "title": "Mesure de la sagesse",
+    "other_title": [{ "name": "Envoyé du désert" }],
+    "description": "L'héritier du Temple du silence. Originaire du désert, il est porteur de secrets.",
+    "element": {
+      "type": "Électro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618437/Genshin/IconElectro.webp"
+    },
+    "weapon": {
+      "type": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363852/Genshin/Characters/Sethos.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363844/Genshin/Characters/SethosIcon.webp",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363852/Genshin/Characters/SethosWish.webp",
+    "birthday": "31 Mai",
+    "dish": {
+      "name": "Shawarma hyper-aromatique",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363841/Genshin/Characters/SethosDish.webp"
+    },
+    "namecard": {
+      "name": "Sethos - Fragment de Ba",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718363841/Genshin/Characters/SethosCard.webp"
+    },
+    "affiliation": [{ "name": "Temple du silence" }],
+    "region": [
+      {
+        "name": "Sumeru",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 821,
+        "ATK": 19,
+        "DEF": 47,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "0" }
+      },
+      {
+        "level": 90,
+        "HP": 9787,
+        "ATK": 227,
+        "DEF": 560,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50,
+        "special": { "name": "Elemental Mastery", "data": "96" }
+      }
+    ],
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+          "number": 1,
+          "id": "AM5"
+        },
+        {
+          "name": "Fragment d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Morceau d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+          "number": 9,
+          "id": "AM5"
+        },
+        {
+          "name": "Pierre d'améthyste vajra",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+          "number": 6,
+          "id": "AM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Écaille nuageuse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708960180/Genshin/Materials/Boss/EcailleNuageuse.webp",
+        "number": 46,
+        "id": "B10"
+      },
+      "material": {
+        "name": "Trishiraite",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364671/Genshin/Materials/Trishiraite.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Satin rouge délavé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634221/Genshin/Materials/Mobs/SatinRougeDelave.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Soie rouge brodée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634209/Genshin/Materials/Mobs/SoieRougeBrodee.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Brocart rouge luxueux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634198/Genshin/Materials/Mobs/BrocartRougeLuxueux.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Archerie royale des roseaux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364923/Genshin/Talents/ArcherieRoyaleDesRoseaux.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 3 tirs consécutifs."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Effectue un tir visé plus précis et infligeant davantage de DGT. Lors du tir visé, la puissance du tonnerre vient se concentrer sur la pointe de la flèche. Les effets varient selon le nombre de charges :",
+            "effect": [
+              {
+                "text": "1 charge : Tire une flèche tonitruante qui inflige des DGT Électro."
+              },
+              {
+                "text": "2 charges : Tire une flèche de perce-ombre pouvant transpercer les ennemis qui inflige des DGT Électro aux ennemis en chemin. Sethos ne peut pas se déplacer lorsque sa flèche de perce-ombre est complètement chargée."
+              }
+            ]
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Tire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Rituel ancien : Clameur tonitruante des sables",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364920/Genshin/Talents/RituelAncienClameurTonitruanteDesSables.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Condense la puissance du tonnerre pour infliger des DGT Électro de zone et reculer rapidement. Lorsque l'attaque déclenche une réaction d'Électrocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro sur un ennemi, Sethos récupère une certaine quantité d'énergie élémentaire."
+          }
+        ],
+        "note": "« Les prêtres divinement habités et les magiciens transformant les fosses en sources... Les chanteurs des sables répandent encore leurs histoires... Mais je sais que ce ne sont pas des légendes, car ce sont nos ancêtres. »"
+      },
+      {
+        "name": "Rituel secret : Percée crépusculaire des ombres",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364918/Genshin/Talents/RituelSecretPerceeCrepusculaireDesOmbres.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Sethos déclenche un rituel secret pour entrer dans l'état Méditation crépusculaire, ce qui convertit ses attaques normales pour lui permettre de tirer des carreaux crépusculaires pouvant transpercer les ennemis : inflige des DGT Électro, qui augmentent selon la maîtrise élémentaire de Sethos, aux ennemis en chemin."
+          },
+          {
+            "text": "Sethos ne peut pas utiliser de tirs visés pendant cette durée. Les DGT infligés par les carreaux crépusculaires sont considérés comme des DGT d'attaque chargée. Cet effet cesse lorsque Sethos quitte le champ de bataille."
+          }
+        ],
+        "note": "Les archives du Temple du silence conservent de nombreux tomes laissés par Akhtamun, de l'époque du roi Deshret. De nombreux rituels secrets de grande puissance y sont consignés, mais même au sein du Temple du silence, très peu pourraient les maîtriser."
+      },
+      {
+        "name": "Énigme du milan noir",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364915/Genshin/Talents/EnigmeDuMilanNoir.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "endant les tirs visés, le temps de charge diminue de 0,285 s pour chaque point d'énergie élémentaire que Sethos possède. Le temps de charge peut être diminué jusqu'à un minimum de 0,3 s de cette manière, et un maximum de 20 pts d'énergie élémentaire peut être comptabilisé. Tirer une flèche de perce-ombre consomme la quantité comptabilisée d'énergie élémentaire, et tirer une flèche de 1e charge consomme 50 % de la quantité comptabilisée d'énergie élémentaire."
+          }
+        ]
+      },
+      {
+        "name": "Bénédiction du roi des sables",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364912/Genshin/Talents/BenedictionDuRoiDesSables.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Sethos obtient l'effet Ombre sableuse : augmente les DGT infligés par les flèches de perce-ombre d'une valeur équivalant à 700 % de sa maîtrise élémentaire. L'effet Ombre sableuse prendra fin :",
+            "effect": [
+              {
+                "text": "5 s après qu'une flèche de perce-ombre touche pour la première fois un ennemi."
+              },
+              {
+                "text": "Après que 4 flèches de perce-ombre touchent un ennemi."
+              }
+            ]
+          },
+          {
+            "text": "Sethos obtient un nouvel effet Ombre sableuse 15 s après qu'une flèche de perce-ombre affectée par l'effet touche pour la première fois un ennemi."
+          }
+        ]
+      },
+      {
+        "name": "Révélation de Thoth",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718364911/Genshin/Talents/RevelationDeThoth.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Affiche l'emplacement des produits de Sumeru sur la mini-carte."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Satin rouge délavé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634221/Genshin/Materials/Mobs/SatinRougeDelave.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Soie rouge brodée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634209/Genshin/Materials/Mobs/SoieRougeBrodee.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Brocart rouge luxueux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634198/Genshin/Materials/Mobs/BrocartRougeLuxueux.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615930/Genshin/Materials/Aptitude/EnseignementDeLusage.webp",
+          "number": 3,
+          "id": "TM4"
+        },
+        {
+          "name": "Guide de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615922/Genshin/Materials/Aptitude/GuideDeLusage.webp",
+          "number": 21,
+          "id": "TM4"
+        },
+        {
+          "name": "Philosophie de l'usage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615915/Genshin/Materials/Aptitude/PhilosophieDeLusage.webp",
+          "number": 38,
+          "id": "TM4"
+        }
+      ],
+      "bossLoot": {
+        "name": "Cloche de Daka",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615231/Genshin/Materials/Boss/ClocheDeDaka.webp",
+        "number": 6,
+        "id": "WB7"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Basileos Delta",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365754/Genshin/Constellation/BasileosDelta.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Chant du sanctuaire scellé",
+        "level": 1,
+        "description": {
+          "text": "Augmente le taux CRIT des flèches de perce-ombre de 15 %."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365752/Genshin/Constellation/ChantDuSanctuaireScelle.webp"
+      },
+      {
+        "name": "Papyrus du secret silencieux",
+        "level": 2,
+        "description": {
+          "text": "Le bonus de DGT Électro de Sethos augmente de 15 % pendant 10 s en remplissant une des conditions suivantes (Cet effet peut être cumulé 2 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.) :",
+          "effect": [
+            {
+              "text": "En consommant de l'énergie élémentaire pendant un tir visé, l'aptitude passive « Énigme du milan noir » devant être déjà débloquée."
+            },
+            {
+              "text": "En restaurant de l'énergie élémentaire après avoir déclenché une réaction élémentaire avec Rituel ancien : Clameur tonitruante des sables."
+            },
+            {
+              "text": "En utilisant Rituel secret : Percée crépusculaire des ombres."
+            }
+          ]
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365748/Genshin/Constellation/PapyrusDuSecretSilencieux.webp"
+      },
+      {
+        "name": "Ode de la lune ascendante",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Attaque normale : Archerie royale des roseaux +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365746/Genshin/Constellation/OdeDeLaLuneAscendante.webp"
+      },
+      {
+        "name": "Collection de la plume bienveillante",
+        "level": 4,
+        "description": {
+          "text": "Lorsqu'une flèche de perce-ombre ou un carreau crépusculaire touchent 2 ennemis ou plus, la maîtrise élémentaire de tous les personnages de l'équipe à proximité augmente de 80 pts pendant 10 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365743/Genshin/Constellation/CollectionDeLaPlumeBienveillante.webp"
+      },
+      {
+        "name": "Chronique du sable divin",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Rituel secret : Percée crépusculaire des ombres +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365739/Genshin/Constellation/ChroniqueDuSableDivin.webp"
+      },
+      {
+        "name": "Manuscrit du soleil vagabond",
+        "level": 6,
+        "description": {
+          "text": "Toucher un ennemi avec une flèche de perce-ombre restaure l'énergie élémentaire consommée par l'aptitude passive « Énigme du milan noir ». ",
+          "note": "Cet effet peut être déclenché une fois toutes les 15 s. L'aptitude passive « Énigme du milan noir » doit être déjà débloquée."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1718365738/Genshin/Constellation/ManuscritDuSoleilVagabond.webp"
       }
     ]
   }

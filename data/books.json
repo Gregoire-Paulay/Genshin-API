@@ -738,6 +738,11 @@
             "id": "P63"
           },
           {
+            "name": "Sethos",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699757/Genshin/Characters/SethosIcon.png",
+            "id": "P87"
+          },
+          {
             "name": "Voyageur Dendro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P54"
@@ -825,6 +830,11 @@
             "name": "Charlotte",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/CharlotteIcon.png",
             "id": "P79"
+          },
+          {
+            "name": "Clorinde",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699271/Genshin/Characters/ClorindeIcon.png",
+            "id": "P86"
           },
           {
             "name": "Freminet",
