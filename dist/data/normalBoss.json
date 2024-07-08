@@ -2581,6 +2581,11 @@
             "name": "Furina",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/FurinaIcon.png",
             "id": "P78"
+          },
+          {
+            "name": "Sigewinne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699235/Genshin/Characters/SigewinneIcon.png",
+            "id": "P88"
           }
         ]
       }
