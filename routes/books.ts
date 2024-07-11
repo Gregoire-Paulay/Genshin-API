@@ -27,7 +27,7 @@ booksRouter.get("/books/details", (req: Request, res: Response) => {
   try {
     const { id } = req.query;
     for (let i = 0; i < books.length; i++) {
-      console.log(i);
+      // console.log(i);
       if (id === books[i].id) {
         const booksDetailsParse = allBooksDetailsSchema.parse(books[i]);
         return res.status(200).json(booksDetailsParse);

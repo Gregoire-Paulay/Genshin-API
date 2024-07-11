@@ -1,114 +1,2086 @@
 [
   {
     "id": "Art1",
-    "star": "1,2 et 3 étoiles",
+    "star": 3,
+    "set_name": "Aventurier",
+    "source": [
+      { "name": "Dans la nature" },
+      { "name": "coffre" },
+      { "name": "Ennemis" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur de l'aventurier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446082/Genshin/Artifacts/FleurDeLaventurier.webp",
+        "main_stats": [{ "name": "PV", "number": "1 893" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Une fleur qui a su survivre à l'environnement hostile d'une cité antique. Elle est désormais portée avec fierté, comme une médaille."
+      },
+      {
+        "name": "Plume de queue de l'Aventurier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446081/Genshin/Artifacts/PlumeDeQueueDeLaventurier.webp",
+        "main_stats": [{ "name": "ATQ", "number": "123" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Une plume d'un oiseau exotique rarement vu sur le continent."
+      },
+      {
+        "name": "Montre de poche de l'Aventurier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446079/Genshin/Artifacts/MontreDePocheDeLaventurier.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Recharge d'energie", "number": "25,6 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Les aventuriers oublient souvent la notion du temps lorsqu'ils s'aventurent dans des profondeurs obscures ou des ruines oubliées."
+      },
+      {
+        "name": "Coupe en or de l'aventurier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446078/Genshin/Artifacts/CoupeEnOrDeLaventurier.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Bonus de DGT élémentaires", "number": "23,1 %" },
+          { "name": "Bonus de DGT physiques", "number": "28,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Il s'agit certainement du trophée obtenu à l'issue d'une aventure. Un bel objet, bien que légèrement endommagé."
+      },
+      {
+        "name": "Bandeau de l'aventurier",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446078/Genshin/Artifacts/BandeauDeLaventurier.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Taux CRIT", "number": "15,4 %" },
+          { "name": "DGT CRIT", "number": "30,8 %" },
+          { "name": "Bonus de soins", "number": "17,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un bout de tissu qu'on enroule autour du front. Bien qu'il soit plein de poussière et de sueur, il continue d'être la fierté de l'aventurier."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente les PV max de 1 000 pts."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Restaure 30 % des PV pendant 5 s après l'ouverture d'un coffre."
+      }
+    ]
+  },
+
+  {
+    "id": "Art2",
+    "star": 3,
+    "set_name": "Chanceux",
+    "source": [
+      { "name": "Dans la nature" },
+      { "name": "coffre" },
+      { "name": "Ennemis" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Trèfle du Chanceux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446757/Genshin/Artifacts/TrefleDuChanceux.webp",
+        "main_stats": [{ "name": "PV", "number": "1 893" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un trèfle à quatre feuilles qui a poussé dans la nature. Il a été cueilli, car il paraît que cela porte chance."
+      },
+      {
+        "name": "Plume d'aigle du Chanceux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446755/Genshin/Artifacts/PlumeDaigleDuChanceux.webp",
+        "main_stats": [{ "name": "ATQ", "number": "123" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un monstre ayant attaqué un aventurier fut enlevé par un aigle qui chassait ; voilà le type de chance que peut amener cette plume d'aigle."
+      },
+      {
+        "name": "Sablier du Chanceux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446754/Genshin/Artifacts/SablierDuChanceux.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Recharge d'energie", "number": "25,6 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Ce sablier cassé ne contient plus de sable. La fugacité du temps n'a pas d'importance aux yeux des insouciants."
+      },
+      {
+        "name": "Coupe du chanceux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446752/Genshin/Artifacts/CoupeDuChanceux.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Bonus de DGT élémentaires", "number": "23,1 %" },
+          { "name": "Bonus de DGT physiques", "number": "28,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Une coupe en métal exquis qui a servi autrefois à assommer un certain voleur."
+      },
+      {
+        "name": "Diadème d'argent du chanceux",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720446752/Genshin/Artifacts/DiademeDargentDuChanceux.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Taux CRIT", "number": "15,4 %" },
+          { "name": "DGT CRIT", "number": "30,8 %" },
+          { "name": "Bonus de soins", "number": "17,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Son ancien propriétaire a découvert le trésor d'une ancienne famille noble en tombant dans une fosse. Cet objet est un souvenir de cet heureux événement."
+      }
+    ],
+    "bonus": [
+      { "name": "2 pièces", "description": "Augmente la DÉF de 100 pts." },
+      {
+        "name": "4 pièces",
+        "description": "Collecter des moras restaure 300 PV."
+      }
+    ]
+  },
+
+  {
+    "id": "Art3",
+    "star": 3,
+    "set_name": "Médecin itinérant",
+    "source": [
+      { "name": "Dans la nature" },
+      { "name": "coffre" },
+      { "name": "Ennemis" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Anémone du médecin itiniérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720447165/Genshin/Artifacts/AnemoneDuMedecinItinerant.webp",
+        "main_stats": [{ "name": "PV", "number": "1 893" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un ingrédient rare qui a perdu toute vertu médicinale après des années de stockage."
+      },
+      {
+        "name": "Plume de hibou du Médecin itinérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720447163/Genshin/Artifacts/PlumeDeHibouDuMedecinItinerant.webp",
+        "main_stats": [{ "name": "ATQ", "number": "123" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Une plume rigide de hibou. Elle procure encouragement et motivation au docteur devant visiter ses patients la nuit."
+      },
+      {
+        "name": "Montre de poche du Médecin itinérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720447161/Genshin/Artifacts/MontreDePocheDuMedecinItinerant.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Recharge d'energie", "number": "25,6 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Une montre très précise. Pour les médecins, chaque seconde compte."
+      },
+      {
+        "name": "Pot à remèdes du Médecin itinérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720447158/Genshin/Artifacts/PotARemedesDuMedecinItinerant.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Bonus de DGT élémentaires", "number": "23,1 %" },
+          { "name": "Bonus de DGT physiques", "number": "28,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un pot autrefois rempli d'un remède très concentré, dont il ne reste aujourd'hui plus que l'odeur."
+      },
+      {
+        "name": "Mouchoir du Médecin itinérant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720447157/Genshin/Artifacts/MouchoirDuMedecinItinerant.webp",
+        "main_stats": [
+          { "name": "PV", "number": "23,1 %" },
+          { "name": "ATQ", "number": "23,1 %" },
+          { "name": "DEF", "number": "28,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "92" },
+          { "name": "Taux CRIT", "number": "15,4 %" },
+          { "name": "DGT CRIT", "number": "30,8 %" },
+          { "name": "Bonus de soins", "number": "17,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "100 - 143" },
+          { "name": "PV", "number": "2,5 % - 3,5 %" },
+          { "name": "ATQ", "number": "7 - 9" },
+          { "name": "ATQ", "number": "2,5 % - 3,5 %" },
+          { "name": "DEF", "number": "8 - 11" },
+          { "name": "DEF", "number": "3,1 % - 4,4 %" },
+          { "name": "Recharge d'energie", "number": "2,7 % - 3,9% " },
+          { "name": "Maîtrise élémentaire", "number": "10 - 14" },
+          { "name": "Taux CRIT", "number": "1,6 % - 2,3 %" },
+          { "name": "DGT CRIT", "number": "3,3 % - 4,7 %" }
+        ],
+        "description": "Un mouchoir utilisé lors des opérations pour s'attacher les cheveux, qui peut aussi servir de bandage pour une entorse ou un bras cassé en cas d'urgence."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente les soins reçus par le personnage de 20 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Le déchaînement élémentaire restaure 20 % des PV."
+      }
+    ]
+  },
+
+  {
+    "id": "Art4",
+    "star": 4,
+    "set_name": "Coeur du Voyageur",
+    "source": [
+      {
+        "name": "Jardin Estival",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531102/Genshin/Artifacts/Domaine/JardinEstival.webp"
+      },
+      {
+        "name": "Cour Momiji",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531098/Genshin/Artifacts/Domaine/CourMomiji.webp"
+      },
+      {
+        "name": "Cité d'or",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531093/Genshin/Artifacts/Domaine/CiteDor.webp"
+      },
+      {
+        "name": "Dénouement des péchés",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur du Voyageur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720529896/Genshin/Artifacts/FleurDuVoyageur.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une petite fleur bleue avec un ruban attaché à sa tige."
+      },
+      {
+        "name": "Plume du Voyageur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720529893/Genshin/Artifacts/PlumeDuVoyageur.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume de flèche bleue qui symbolise la nostalgie d'un voyageur."
+      },
+      {
+        "name": "Montre du Voyageur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720529891/Genshin/Artifacts/MontreDuVoyageur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un cadran solaire qui a connu des temps instables, tout en enregistrant silencieusement les cycles dictés par le soleil et de la lune."
+      },
+      {
+        "name": "Calice du Voyageur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720529888/Genshin/Artifacts/CaliceDuVoyageur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un verre en porcelaine blanche qui a contenu de nombreuses boissons alcoolisées."
+      },
+      {
+        "name": "Couronne du Voyageur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720529888/Genshin/Artifacts/CouronneDuVoyageur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une couronne en bois de saule qui émet une petite brise printanière."
+      }
+    ],
+    "bonus": [
+      { "name": "2 pièces", "description": "Augmente l'ATQ de 18 %." },
+      {
+        "name": "4 pièces",
+        "description": "Augmente le taux CRIT des attaques chargées de 30 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art5",
+    "star": 4,
+    "set_name": "Miracle",
+    "source": [
+      {
+        "name": "Vallée de la reminiscence",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531422/Genshin/Artifacts/Domaine/Vall%C3%A9eDeLaReminiscence.webp"
+      },
+      {
+        "name": "Cour Momiji",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531098/Genshin/Artifacts/Domaine/CourMomiji.webp"
+      },
+      {
+        "name": "Tour de l'illumination",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531421/Genshin/Artifacts/Domaine/TourDeLillumination.webp"
+      },
+      {
+        "name": "Ville des Cascades",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur du Miracle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531706/Genshin/Artifacts/FleurDuMiracle.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une fleur née dans le cœur d'un rocher, qu'elle a réussi à briser dans sa quête de la lumière du jour."
+      },
+      {
+        "name": "Plume du Miracle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531704/Genshin/Artifacts/PlumeDuMiracle.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "La plume d'un rapace qui vole si rapidement qu'il en est presque invisible."
+      },
+      {
+        "name": "Sablier du Miracle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531702/Genshin/Artifacts/SablierDuMiracle.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un sablier à l'apparence assez ordinaire. Le sable sec coule comme de l'eau dès qu'on le retourne."
+      },
+      {
+        "name": "Coupe du Miracle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531699/Genshin/Artifacts/CoupeDuMiracle.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une coupe utilisée dans des rituels de divination. On peut aussi s'en servir pour boire de l'eau."
+      },
+      {
+        "name": "Boucle d'oreilles du Miracle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531697/Genshin/Artifacts/BouclesDoreillesDuMiracle.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Des boucles d'oreilles bon marché, fabriquées à partir de minerai de météore."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente toutes les RÉS élémentaires de 20 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Les DGT élémentaires subis augmentent la RÉS à l'élément correspondant de 30 % pendant 10 s. Cet effet peut être déclenché une fois toutes les 10 s."
+      }
+    ]
+  },
+
+  {
+    "id": "Art6",
+    "star": 4,
+    "set_name": "Berserker",
+    "source": [
+      { "name": "Ennemis d'élite" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Rose du Berserker",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532050/Genshin/Artifacts/RoseDuBerserker.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une délicate rose teintée en rouge qui représente l'essence même d'un Berserker."
+      },
+      {
+        "name": "Plume du Berserker",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532048/Genshin/Artifacts/PlumeDuBerserker.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume noire appartenant à un légendaire oiseau messager de la mort qui a été teintée en rouge."
+      },
+      {
+        "name": "Sablier du Berserker",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532045/Genshin/Artifacts/SablierDuBerserker.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Le liquide à l'intérieur s'écoule sans merci. Il indique le temps qu'il nous reste sur le champ de bataille et au sein de ce monde."
+      },
+      {
+        "name": "Coupe du Berserker",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532042/Genshin/Artifacts/CoupeDuBerserker.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une coupe taillée dans l'os d'un animal inconnu dont la chasse a été rude."
+      },
+      {
+        "name": "Masque du Berserker",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532041/Genshin/Artifacts/MasqueDuBerserker.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un masque en fer endommagé lors des combats entre son porteur et ses ennemis."
+      }
+    ],
+    "bonus": [
+      { "name": "2 pièces", "description": "Augmente le taux CRIT de 12 %." },
+      {
+        "name": "4 pièces",
+        "description": "Augmente le taux CRIT de 24 % lorsque les PV sont inférieurs à 70 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art7",
+    "star": 4,
+    "set_name": "Instructeur",
+    "source": [
+      { "name": "Ennemis d'élite" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Broche de l'Instructeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532432/Genshin/Artifacts/BrocheDeLinstructeur.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Lorsque cette broche est portée par l'instructeur, alors tous savent qu'il n'y aura pas d'entraînement de la journée."
+      },
+      {
+        "name": "Plume de l'Instructeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532431/Genshin/Artifacts/PlumeDeLinstructeur.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Tout instructeur qui maîtrise l'art de l'esquive ne laisse jamais cet accessoire lui échapper des mains."
+      },
+      {
+        "name": "Montre de poche de l'Instructeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532428/Genshin/Artifacts/MontreDePocheDeLinstructeur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Cette montre n'affiche pas l'heure. Elle sert seulement à mesurer la durée des séances d'entraînement."
+      },
+      {
+        "name": "Tasse à thé de l'Instructeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532427/Genshin/Artifacts/TasseAThedeLinstructeur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une banale tasse de thé au premier abord. Mais pour certains élèves, elle représente l'autorité de l'instructeur."
+      },
+      {
+        "name": "Chapeau de l'Instructeur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532427/Genshin/Artifacts/ChapeauDeLinstructeur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un chapeau standard d'instructeur. Il est offert lorsque le destinataire d'une promotion la refuse."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente la maîtrise élémentaire de 80 pts."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Augmente la maîtrise élémentaire de tous les personnages de l'équipe de 120 pts pendant 8 s après avoir déclenché une réaction élémentaire."
+      }
+    ]
+  },
+
+  {
+    "id": "Art8",
+    "star": 4,
+    "set_name": "Exilé",
+    "source": [
+      { "name": "Ennemis d'élite" },
+      { "name": "Boss de monde" },
+      { "name": "Boss hebdomadaires" }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur de l'Exilé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532781/Genshin/Artifacts/FleurDeLexile.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une fleur mate portée sur la poitrine. Son ancien propriétaire insistait pour la porter pendant l'exil ; elle doit avoir une signification particulière."
+      },
+      {
+        "name": "Plume de l'Exilé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532780/Genshin/Artifacts/PlumeDeLexile.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume qui n'a pas été conçue pour être un accessoire. Elle s'est juste accrochée aux vêtements de son nouveau propriétaire."
+      },
+      {
+        "name": "montre de poche de l'Exilé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532777/Genshin/Artifacts/MontreDePocheDeLexile.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Son cadran en cristal a été brisé et ses aiguilles ont disparu. Même dans cet état, son propriétaire l'a gardée jusqu'à la fin."
+      },
+      {
+        "name": "Coupe de l4exilé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532774/Genshin/Artifacts/CoupeDeLexile.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un calice en métal lourd dans lequel des pierres précieuses étaient incrustées. Celles-ci ont été retirées."
+      },
+      {
+        "name": "Diadème de l'Exilé",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720532773/Genshin/Artifacts/DiademeDeLexile.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un diadème prestigieux dont l'insigne a été rayé, son propriétaire étant tombé en disgrâce."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente la recharge d'énergie de 20 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Le déchaînement élémentaire restaure 2 pts d'énergie élémentaire à tous les personnages de l'équipe (à l'exception du porteur) toutes les 2 s pendant 6 s. Cet effet est non cumulable."
+      }
+    ]
+  },
+
+  {
+    "id": "Art9",
+    "star": 4,
+    "set_name": "Coeur du Gardien",
+    "source": [
+      {
+        "name": "Palais secret de la Formule Zhou",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533377/Genshin/Artifacts/Domaine/PalaisSecretDeLaFormuleZhou.webp"
+      },
+      {
+        "name": "Pic de Vindagnyr",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533376/Genshin/Artifacts/Domaine/PicDeVindagnyr.webp"
+      },
+      {
+        "name": "Cour d'hibernation",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531098/Genshin/Artifacts/Domaine/CourMomiji.webp"
+      },
+      {
+        "name": "Dénouement des péchés",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur du Gardien",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533462/Genshin/Artifacts/FleurDuGardien.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un iris chéri par le Protecteur. Il n'a pas eu l'occasion de l'offrir à la personne qu'il aimait."
+      },
+      {
+        "name": "Plume du Gardien",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533456/Genshin/Artifacts/PlumeDuGardien.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une broche en forme de plume qui symbolise l'envie de protéger."
+      },
+      {
+        "name": "Horloge du Gardien",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533448/Genshin/Artifacts/HorlogeDuGardien.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un petit appareil qui affiche l'heure. C'est la seule façon de voir le temps passer lors des nuits sans lune."
+      },
+      {
+        "name": "Coupe du Gardien",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533441/Genshin/Artifacts/CoupeDuGardien.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un récipient en métal qui contient souvent une boisson pour aider le Protecteur à se sentir moins seul pendant qu'il monte la garde."
+      },
+      {
+        "name": "Bandeau du Gardien",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533436/Genshin/Artifacts/BandeauDuGardien.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un objet en tissu de couleur indigo qui peut aussi servir de bandage en cas d'urgence."
+      }
+    ],
+    "bonus": [
+      { "name": "2 pièces", "description": "Augmente la DÉF de 30 %." },
+      {
+        "name": "4 pièces",
+        "description": "Pour chaque personnage de l'équipe ayant un élément de type différent du personnage équipé, la RÉS élémentaire correspondante est augmentée de 30 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art10",
+    "star": 4,
+    "set_name": "Coeur du Brave",
+    "source": [
+      {
+        "name": "Au-dessus des nuages",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534820/Genshin/Artifacts/Domaine/AuDessusDesNuages.webp"
+      },
+      {
+        "name": "Garde de la montagne",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534819/Genshin/Artifacts/Domaine/GardeDeLaMontagne.webp"
+      },
+      {
+        "name": "Cour d'hibernation",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531098/Genshin/Artifacts/Domaine/CourMomiji.webp"
+      },
+      {
+        "name": "Cité d'or",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531093/Genshin/Artifacts/Domaine/CiteDor.webp"
+      },
+      {
+        "name": "Théatre fané",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Emblème du Brave",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534950/Genshin/Artifacts/EmblemeDuBrave.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une simple broche qui symbolise le souvenir d'une aventure passée."
+      },
+      {
+        "name": "Espoir du Brave",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534948/Genshin/Artifacts/EspoirDuBrave.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume d'oiseau brillante qui donne un peu de courage."
+      },
+      {
+        "name": "Perséverance du Brave",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534946/Genshin/Artifacts/PerseveranceDuBrave.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un sablier ancien qui n'a pas grande utilité. Peut-être symbolise-t-il le caractère insaisissable du temps ?"
+      },
+      {
+        "name": "Dignité du Brave",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534945/Genshin/Artifacts/DigniteDuBrave.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une coupe rudimentaire en bois. Elle est remplie de souvenirs."
+      },
+      {
+        "name": "Couronne du Brave",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534945/Genshin/Artifacts/CouronneDuBrave.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Couronne rudimentaire en paille fragile. Pour certaines personnes, elle vaut autant qu'une couronne en or digne des plus grands souverains."
+      }
+    ],
+    "bonus": [
+      { "name": "2 pièces", "description": "Augmente l'ATQ de 18 %." },
+      {
+        "name": "4 pièces",
+        "description": "Augmente les DGT infligés aux ennemis dont les PV sont supérieurs à 50 % de 30 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art11",
+    "star": 4,
+    "set_name": "Artiste Martial",
+    "source": [
+      {
+        "name": "Palais secret de la Formule Zhou",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533377/Genshin/Artifacts/Domaine/PalaisSecretDeLaFormuleZhou.webp"
+      },
+      {
+        "name": "Garde de la montagne",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534819/Genshin/Artifacts/Domaine/GardeDeLaMontagne.webp"
+      },
+      {
+        "name": "Vallée recluse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704051/Genshin/Artifacts/Domaine/ValleeRecluse.webp"
+      },
+      {
+        "name": "Forteresse de fer en fusion",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531093/Genshin/Artifacts/Domaine/CiteDor.webp"
+      },
+      {
+        "name": "Ville des Cascades",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Fleur écarlate de l'Artiste martial",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720703951/Genshin/Artifacts/FleurEcarlateDeLartisteMartial.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Seul ce type de fleur peut temporairement faire oublier la douleur au combattant."
+      },
+      {
+        "name": "Plume de l'Artiste martial",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720703948/Genshin/Artifacts/PlumeDeLartisteMartial.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume d'oiseau commun. Les experts pratiquent la maîtrise de leur puissance avec ces objets, tandis que les néophytes les utilisent pour fabriquer des éventails."
+      },
+      {
+        "name": "Sablier d'eau de l'Artiste martial",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720703946/Genshin/Artifacts/SablierDeauDeLartisteMartial.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Un outil pour mesurer le temps pendant les exercices d'endurance. Il est plus précis qu'un sablier normal."
+      },
+      {
+        "name": "Coupe de l'Artiste martial",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720703942/Genshin/Artifacts/CoupeDeLartisteMartial.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une coupe assez sophistiquée, utilisée lors des rituels effectués par les artistes martiaux avant chaque combat."
+      },
+      {
+        "name": "Bandeau de l'Artiste martial",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720703941/Genshin/Artifacts/BandeauDeLartisteMartial.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "La pratique des arts martiaux se résume en trois mots : concentration, force et volonté. Ils sont inscrits sur ce bandeau pour n'être jamais oubliés."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente les DGT infligés par les attaques normales et chargées de 15 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Augmente les DGT infligés par les attaques normales et chargées de 25 % pendant 8 s après l'utilisation d'une compétence élémentaire."
+      }
+    ]
+  },
+
+  {
+    "id": "Art12",
+    "star": 4,
+    "set_name": "Parieur",
+    "source": [
+      {
+        "name": "Lagunes et montagnes",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534819/Genshin/Artifacts/Domaine/GardeDeLaMontagne.webp"
+      },
+      {
+        "name": "Pic de Vindagnyr",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720533376/Genshin/Artifacts/Domaine/PicDeVindagnyr.webp"
+      },
+      {
+        "name": "Vallée recluse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704051/Genshin/Artifacts/Domaine/ValleeRecluse.webp"
+      },
+      {
+        "name": "Tour de l'illumination",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531421/Genshin/Artifacts/Domaine/TourDeLillumination.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Broche du Parieur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704554/Genshin/Artifacts/BrocheDuParieur.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une grande fleur luxueuse qui peut cacher un dé préparé à l'avance."
+      },
+      {
+        "name": "Plume du Parieur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704554/Genshin/Artifacts/PlumeDuParieur.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume de la queue d'un grand oiseau, pratique pour dissimuler un as dans sa manche."
+      },
+      {
+        "name": "Montre de poche du Parieur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704554/Genshin/Artifacts/MontreDePocheDuParieur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une montre de poche brisée qui a protégé son ancien propriétaire d'une attaque mortelle."
+      },
+      {
+        "name": "Coupe à dés du Parieur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704553/Genshin/Artifacts/CoupeADesDuParieur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Cette coupe a été spécialement conçue pour une seule utilisation. On vous assure qu'il n'y a pas de compartiment caché..."
+      },
+      {
+        "name": "Boucles d'oreilles du Parieur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704553/Genshin/Artifacts/BoucleDoreillesDuParieur.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Des boucles d'oreilles turquoise qui calment l'esprit et permettent d'évaluer la situation de façon rationnelle et d'éviter de prendre des risques inconsidérés."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente les DGT infligés par la compétence élémentaire de 20 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Après la défaite d'un ennemi, le TdR de compétence élémentaire a 100 % de chances d'être réinitialisé. Cet effet peut être déclenché une fois toutes les 15 s."
+      }
+    ]
+  },
+
+  {
+    "id": "Art13",
+    "star": 4,
+    "set_name": "Erudit",
+    "source": [
+      {
+        "name": "Lagunes et montagnes",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720534819/Genshin/Artifacts/Domaine/GardeDeLaMontagne.webp"
+      },
+      {
+        "name": "Forteresse de fer en fusion",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531093/Genshin/Artifacts/Domaine/CiteDor.webp"
+      },
+      {
+        "name": "Théatre fané",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720531088/Genshin/Artifacts/Domaine/DenouementDesPeches.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Marque-page de l'Érudit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704860/Genshin/Artifacts/MarquePageDeLerudit.webp",
+        "main_stats": [{ "name": "PV", "number": "3 571" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une fleur séchée qui sert désormais de marque-page. Elle a pris l'odeur des pages au fil du temps."
+      },
+      {
+        "name": "Plume de l'Érudit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704860/Genshin/Artifacts/PlumeDeLerudit.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "167 - 239" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une plume de la queue d'un oiseau, utilisée comme instrument d'écriture. L'encre à son bout ne part plus au lavage."
+      },
+      {
+        "name": "Horloge de l'Érudit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704859/Genshin/Artifacts/HorlogeDeLerudit.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Recharge d'energie", "number": "38,7 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une petite horloge qui a sa place sur un bureau. Elle permet aux chercheurs qui ne sortent jamais de distinguer le jour de la nuit."
+      },
+      {
+        "name": "Coupe de l'Érudit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704859/Genshin/Artifacts/CoupeDeLerudit.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Bonus de DGT élémentaires", "number": "34,8 %" },
+          { "name": "Bonus de DGT physiques", "number": "43,5 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Autrefois utilisée pour boire, cette coupe est désormais noircie par les lavages de pinceaux répétitifs."
+      },
+      {
+        "name": "Lunettes de l'Érudit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720704859/Genshin/Artifacts/LunettesDeLerudit.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Trop de lecture endommage la vue. Cet objet est conçu pour réduire la fatigue visuelle."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Augmente la recharge d'énergie de 20 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Les personnages armés d'un arc ou d'un catalyseur récupèrent 3 pts d'énergie supplémentaire à chaque fois qu'une particule ou un orbe élémentaires sont récupérés. Cet effet peut être déclenché une fois toutes les 3 s."
+      }
+    ]
+  },
+
+  {
+    "id": "Art14",
+    "star": 4,
+    "set_name": "Sacrifieur Electro",
+    "source": [{ "name": "Boss de monde" }],
+    "set_details": [
+      {
+        "name": "Couronne rituelle Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720705188/Genshin/Artifacts/CouronneRituelleElectro.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Entendre le bruit du tonnerre tout au long de l'année lui a conféré une merveilleuse résistance."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "1 pièce",
+        "description": "Diminue la durée des effets Électro subis de 40 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art15",
+    "star": 4,
+    "set_name": "Sacrifieur Hydro",
+    "source": [{ "name": "Boss de monde" }],
+    "set_details": [
+      {
+        "name": "Couronne rituelle Hydro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720705185/Genshin/Artifacts/CouronneRituelleHydro.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son immersion dans l'eau tout au long de l'année lui a conféré une merveilleuse résistance."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "1 pièce",
+        "description": "Diminue la durée des effets Hydro subis de 40 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art16",
+    "star": 4,
+    "set_name": "Sacrifieur Pyro",
+    "source": [{ "name": "Boss de monde" }],
+    "set_details": [
+      {
+        "name": "Couronne rituelle Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720705183/Genshin/Artifacts/CouronneRituellePyro.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son immersion dans le feu tout au long de l'année lui a conféré une merveilleuse résistance."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "1 pièce",
+        "description": "Diminue la durée des effets Pyro subis de 40 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art17",
+    "star": 4,
     "set_name": "Artifact",
-    "domain": { "name": "", "picture": "" },
-    "flower": {
-      "name": "Fleur de l'aventurier",
-      "icon": "",
-      "main_stats": [{ "name": "PV", "number": "4780" }],
-      "secondary_stats": [
-        { "name": "PV", "number": "4,1 % - 5,8 %" },
-        { "name": "ATQ", "number": "14 - 19" },
-        { "name": "ATQ", "number": "4,1 % - 5,8 %" },
-        { "name": "DEF", "number": "16 - 23" },
-        { "name": "DEF", "number": "5,1 % - 7,3 %" },
-        { "name": "Recharge d'energie", "number": "4,5 % - 6,5% " },
-        { "name": "Maîtrise élémentaire", "number": "16 - 23" },
-        { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
-        { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
-      ]
-    },
-    "plume": {
-      "name": "",
-      "icon": "",
-      "main_stats": [{ "name": "ATQ", "number": "311" }],
-      "secondary_stats": [
-        { "name": "PV", "number": "209 - 299" },
-        { "name": "PV", "number": "4,1 % - 5,8 %" },
-        { "name": "ATQ", "number": "4,1 % - 5,8 %" },
-        { "name": "DEF", "number": "16 - 23" },
-        { "name": "DEF", "number": "5,1 % - 7,3 %" },
-        { "name": "Recharge d'energie", "number": "4,5 % - 6,5% " },
-        { "name": "Maîtrise élémentaire", "number": "16 - 23" },
-        { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
-        { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
-      ]
-    },
-    "sands": {
-      "name": "",
-      "icon": "",
-      "main_stats": [
-        { "name": "PV", "number": "46,6 %" },
-        { "name": "ATQ", "number": "46,6 %" },
-        { "name": "DEF", "number": "58,3 %" },
-        { "name": "Recharge d'energie", "number": "51,8 %" },
-        { "name": "Maîtrise élémentaire", "number": "187" }
-      ],
-      "secondary_stats": [
-        { "name": "PV", "number": "209 - 299" },
-        { "name": "PV", "number": "4,1 % - 5,8 %" },
-        { "name": "ATQ", "number": "14 - 19" },
-        { "name": "ATQ", "number": "4,1 % - 5,8 %" },
-        { "name": "DEF", "number": "16 - 23" },
-        { "name": "DEF", "number": "5,1 % - 7,3 %" },
-        { "name": "Recharge d'energie", "number": "4,5 % - 6,5% " },
-        { "name": "Maîtrise élémentaire", "number": "16 - 23" },
-        { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
-        { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
-      ]
-    },
-    "goblet": {
-      "name": "",
-      "icon": "",
-      "main_stats": [
-        { "name": "PV", "number": "46,6 %" },
-        { "name": "ATQ", "number": "46,6 %" },
-        { "name": "DEF", "number": "58,3 %" },
-        { "name": "Maîtrise élémentaire", "number": "187" },
-        { "name": "Bonus de DGT élémentaires", "number": "46,6 %" },
-        { "name": "Bonus de DGT physiques", "number": "58,3 %" }
-      ],
-      "secondary_stats": [
-        { "name": "PV", "number": "209 - 299" },
-        { "name": "PV", "number": "4,1 % - 5,8 %" },
-        { "name": "ATQ", "number": "14 - 19" },
-        { "name": "ATQ", "number": "4,1 % - 5,8 %" },
-        { "name": "DEF", "number": "16 - 23" },
-        { "name": "DEF", "number": "5,1 % - 7,3 %" },
-        { "name": "Recharge d'energie", "number": "4,5 % - 6,5% " },
-        { "name": "Maîtrise élémentaire", "number": "16 - 23" },
-        { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
-        { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
-      ]
-    },
-    "circlet": {
-      "name": "",
-      "icon": "",
-      "main_stats": [
-        { "name": "PV", "number": "46,6 %" },
-        { "name": "ATQ", "number": "46,6 %" },
-        { "name": "DEF", "number": "58,3 %" },
-        { "name": "Maîtrise élémentaire", "number": "187" },
-        { "name": "Taux CRIT", "number": "31,1 %" },
-        { "name": "DGT CRIT", "number": "62,2 %" },
-        { "name": "Bonus de soins", "number": "35,9 %" }
-      ],
-      "secondary_stats": [
-        { "name": "PV", "number": "209 - 299" },
-        { "name": "PV", "number": "4,1 % - 5,8 %" },
-        { "name": "ATQ", "number": "14 - 19" },
-        { "name": "ATQ", "number": "4,1 % - 5,8 %" },
-        { "name": "DEF", "number": "16 - 23" },
-        { "name": "DEF", "number": "5,1 % - 7,3 %" },
-        { "name": "Recharge d'energie", "number": "4,5 % - 6,5% " },
-        { "name": "Maîtrise élémentaire", "number": "16 - 23" },
-        { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
-        { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
-      ]
-    },
-    "description": "",
+    "source": [{ "name": "Boss de monde" }],
+    "set_details": [
+      {
+        "name": "Couronne rituelle Cryo",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720705184/Genshin/Artifacts/CouronneRituelleCryo.webp",
+        "main_stats": [
+          { "name": "PV", "number": "34,8 %" },
+          { "name": "ATQ", "number": "34,8 %" },
+          { "name": "DEF", "number": "43,5 %" },
+          { "name": "Maîtrise élémentaire", "number": "139" },
+          { "name": "Taux CRIT", "number": "23,2 %" },
+          { "name": "DGT CRIT", "number": "46,4 %" },
+          { "name": "Bonus de soins", "number": "26,8 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "3,3 % - 4,7 %" },
+          { "name": "ATQ", "number": "11 - 16" },
+          { "name": "ATQ", "number": "3,3 % - 4,7 %" },
+          { "name": "DEF", "number": "13 - 19" },
+          { "name": "DEF", "number": "4,1 % - 5,8 %" },
+          { "name": "Recharge d'energie", "number": "3,6 % - 5,2 % " },
+          { "name": "Maîtrise élémentaire", "number": "13 - 19" },
+          { "name": "Taux CRIT", "number": "2,2 % - 3,1 %" },
+          { "name": "DGT CRIT", "number": "4,4 % - 6,2 %" }
+        ],
+        "description": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son exposition prolongée au gel et au froid lui a conféré une merveilleuse résistance."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "1 pièce",
+        "description": "Diminue la durée des effets Cryo subis de 40 %."
+      }
+    ]
+  },
+
+  {
+    "id": "Art18",
+    "star": 5,
+    "set_name": "Artifact",
+    "source": [{ "name": "", "picture": "" }],
+    "set_details": [
+      {
+        "name": "",
+        "icon": "",
+        "main_stats": [{ "name": "PV", "number": "4 780" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Recharge d'energie", "number": "51,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Bonus de DGT élémentaires", "number": "46,6 %" },
+          { "name": "Bonus de DGT physiques", "number": "58,3 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": ""
+      },
+      {
+        "name": "",
+        "icon": "",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Taux CRIT", "number": "31,1 %" },
+          { "name": "DGT CRIT", "number": "62,2 %" },
+          { "name": "Bonus de soins", "number": "35,9 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": ""
+      }
+    ],
     "bonus": [
       { "name": "2 pièces", "description": "" },
       { "name": "4 pièces", "description": "" }

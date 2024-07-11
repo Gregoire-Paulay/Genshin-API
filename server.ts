@@ -23,13 +23,15 @@ import { normalBossRouter } from "./routes/normalBoss";
 import { stoneRouter } from "./routes/stone";
 import { booksRouter } from "./routes/books";
 import { dailyRouter } from "./routes/daily";
+import { artifactsRouter } from "./routes/artifacts";
 app.use(
   weeklyBossRouter,
   charactersRouter,
   normalBossRouter,
   stoneRouter,
   booksRouter,
-  dailyRouter
+  dailyRouter,
+  artifactsRouter
 );
 
 // Toute les routes sauf celles crées au dessus arriveront ici
