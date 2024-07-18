@@ -4,7 +4,7 @@ export const allDailySchema = z.array(
   z.object({
     id: z.string(),
     date: z.string(),
-    materials: z.array(
+    books: z.array(
       z.object({
         name: z.string(),
         icon: z.string().url(),

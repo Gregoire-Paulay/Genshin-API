@@ -24,6 +24,7 @@ import { stoneRouter } from "./routes/stone";
 import { booksRouter } from "./routes/books";
 import { dailyRouter } from "./routes/daily";
 import { artifactsRouter } from "./routes/artifacts";
+import { weaponRouter } from "./routes/weapons";
 app.use(
   weeklyBossRouter,
   charactersRouter,
@@ -31,7 +32,8 @@ app.use(
   stoneRouter,
   booksRouter,
   dailyRouter,
-  artifactsRouter
+  artifactsRouter,
+  weaponRouter
 );
 
 // Toute les routes sauf celles crées au dessus arriveront ici

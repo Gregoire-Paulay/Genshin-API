@@ -1,0 +1,621 @@
+[
+  {
+    "id": "WeaMat1",
+    "domain": "Pépinière de cécilias",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308531/Genshin/Weapons/Materials/PepiniereDeCecilia.webp",
+    "region": {
+      "name": "Mondstadt",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619213/Genshin/Region/Mondstadt.webp",
+      "location": "Hauts du Mornevent - Territoire des Loups"
+    },
+    "materials": [
+      {
+        "name": "Decabarian",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Tuile cassée de Décabarian",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+            "quality": 2
+          },
+          {
+            "name": "Mur abattu de Décabarian",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308516/Genshin/Weapons/Materials/MurAbattuDeDecabarian.webp",
+            "quality": 3
+          },
+          {
+            "name": "Fragment dispersé de Décabarian",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308513/Genshin/Weapons/Materials/FragmentDisperseDeDecabarian.webp",
+            "quality": 4
+          },
+          {
+            "name": "Rêve brisé de Décabarian",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Loup Boréal",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Dent de lait du Loup boréal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+            "quality": 2
+          },
+          {
+            "name": "Croc brisé du Loup boréal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+            "quality": 3
+          },
+          {
+            "name": "Croc fendu du Loup boréal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+            "quality": 4
+          },
+          {
+            "name": "Nostalgie du Loup boréal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308501/Genshin/Weapons/Materials/NostalgieDuLoupBoreal.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Chevalier du Croc de Lion",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Entraves du Chevalier du Croc de Lion",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+            "quality": 2
+          },
+          {
+            "name": "Chaînes du Chevalier du Croc de Lion",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+            "quality": 3
+          },
+          {
+            "name": "Menottes du Chevalier du Croc de Lion",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+            "quality": 4
+          },
+          {
+            "name": "Idéaux du Chevalier du Croc de Lion",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WeaMat2",
+    "domain": "Palais secret de Lianshan",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311157/Genshin/Weapons/Materials/PalaisSecretDeLianshan.webp",
+    "region": {
+      "name": "Liyue",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619193/Genshin/Region/Liyue.webp",
+      "location": "Estuaire Qiongji - Village Mingyun"
+    },
+    "materials": [
+      {
+        "name": "Guyun",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Sable lumineux de Guyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+            "quality": 2
+          },
+          {
+            "name": "Roche lustrée de Guyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311153/Genshin/Weapons/Materials/RocheLustreeDeGuyun.webp",
+            "quality": 3
+          },
+          {
+            "name": "Squelette sacré de Guyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311151/Genshin/Weapons/Materials/SqueletteSacreDeGuyun.webp",
+            "quality": 4
+          },
+          {
+            "name": "Corps divin de Guyun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311149/Genshin/Weapons/Materials/CorpsDivinDeGuyun.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Karstique",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Plomb karstique",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+            "quality": 2
+          },
+          {
+            "name": "Mercure karstique",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311146/Genshin/Weapons/Materials/MercureKarstique.webp",
+            "quality": 3
+          },
+          {
+            "name": "Argent karstique",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311145/Genshin/Weapons/Materials/ArgentKarstique.webp",
+            "quality": 4
+          },
+          {
+            "name": "Or karstique",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/OrKarstique.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Aérosidérite noire",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Grain d'aérosidérite noire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+            "quality": 2
+          },
+          {
+            "name": "Éclat d'aérosidérite noire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/EclatDaerosideriteNoire.webp",
+            "quality": 3
+          },
+          {
+            "name": "Fragment d'aérosidérite noire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/FragmentDaerosideriteNoire.webp",
+            "quality": 4
+          },
+          {
+            "name": "Morceau d'aérosidérite noire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/MorceauDaerosideriteNoire.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WeaMat3",
+    "domain": "Cour des sables mouvants",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312014/Genshin/Weapons/Materials/CourdesSablesMouvants.webp",
+    "region": {
+      "name": "Inazuma",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619173/Genshin/Region/Inazuma.webp",
+      "location": "Ile de Narukami - Mont Yougou"
+    },
+    "materials": [
+      {
+        "name": "Branche marine",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Branche marine de corail",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312012/Genshin/Weapons/Materials/brancheMarinedeCorail.webp",
+            "quality": 2
+          },
+          {
+            "name": "Branche marine de gemme",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312009/Genshin/Weapons/Materials/BrancheMarineDeGemme.webp",
+            "quality": 3
+          },
+          {
+            "name": "Branche marine de jade",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312006/Genshin/Weapons/Materials/BrancheMarineDeJade.webp",
+            "quality": 4
+          },
+          {
+            "name": "Branche marine d'or",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312005/Genshin/Weapons/Materials/BrancheMarineDor.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Narukami",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Sagesse de Narukami",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+            "quality": 2
+          },
+          {
+            "name": "Joie de Narukami",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312001/Genshin/Weapons/Materials/JoieDeNarukami.webp",
+            "quality": 3
+          },
+          {
+            "name": "Affection de Narukami",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311998/Genshin/Weapons/Materials/AffectionDeNarukami.webp",
+            "quality": 4
+          },
+          {
+            "name": "Vaillance de Narukami",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311995/Genshin/Weapons/Materials/VaillanceDeNarukami.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Masque",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Masque du lieutenant pernicieux",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311994/Genshin/Weapons/Materials/MasqueDuLieutenantPernicieux.webp",
+            "quality": 2
+          },
+          {
+            "name": "Masque de la morsure du tigre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311992/Genshin/Weapons/Materials/MasqueDeLaMorsureDuTigre.webp",
+            "quality": 3
+          },
+          {
+            "name": "Masque du cornu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311989/Genshin/Weapons/Materials/MasqueDuCornu.webp",
+            "quality": 4
+          },
+          {
+            "name": "Masque du kijin",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311989/Genshin/Weapons/Materials/MasqueDuKijin.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WeaMat4",
+    "domain": "Tour de la fierté",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314666/Genshin/Weapons/Materials/TourDeLaFierte.webp",
+    "region": {
+      "name": "Sumeru",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Sumeru.webp",
+      "location": "Royaume d'Ashavan - Bois d'Apam"
+    },
+    "materials": [
+      {
+        "name": "Talisman de la rosée",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Talisman en cuivre de la rosée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalisamanEnCuivreDeLaRosee.webp",
+            "quality": 2
+          },
+          {
+            "name": "Talisman en fer de la rosée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnFerDeLaRosee.webp",
+            "quality": 3
+          },
+          {
+            "name": "Talisman en argent de la rosée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnArgentDeLaRosee.webp",
+            "quality": 4
+          },
+          {
+            "name": "Talisman en or de la rosée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnOrDeLaRosee.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Jardin d'oasis",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Souvenir du jardin d'oasis",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/SouvenirDuJardinDoasis.webp",
+            "quality": 2
+          },
+          {
+            "name": "Gentillesse du jardin d'oasis",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/GentillesseDuJardinDoasis.webp",
+            "quality": 3
+          },
+          {
+            "name": "Deuil du jardin d'oasis",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DeuilDuJardinDoasis.webp",
+            "quality": 4
+          },
+          {
+            "name": "Vérité du jardin d'oasis",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/VeriteDuJardinDoasis.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Pouvoir brûlant",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Dernier écho du pouvoir brûlant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+            "quality": 2
+          },
+          {
+            "name": "Éclat subsistant du pouvoir brûlant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/EclatSubsistantDuPouvoirBrulant.webp",
+            "quality": 3
+          },
+          {
+            "name": "Rêve dominant du pouvoir brûlant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/ReveDominantDuPouvoirBrulant.webp",
+            "quality": 4
+          },
+          {
+            "name": "Passé glorieux du pouvoir brûlant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/PasseGlorieuxDuPouvoirBrulant.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "WeaMat5",
+    "domain": "Echos des marées profondes",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315655/Genshin/Weapons/Materials/EchosDesMareesProfondes.webp",
+    "region": {
+      "name": "Fontaine",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619131/Genshin/Region/Fontaine.webp",
+      "location": "region de la Cour de Fontaine"
+    },
+    "materials": [
+      {
+        "name": "Accord ancien",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Fragment d'un accord ancien",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315654/Genshin/Weapons/Materials/FragmentDunAccordAncien.webp",
+            "quality": 2
+          },
+          {
+            "name": "Chapitre d'un accord ancien",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315651/Genshin/Weapons/Materials/ChapitreDunAccordAncien.webp",
+            "quality": 3
+          },
+          {
+            "name": "Mouvement d'un accord ancien",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315651/Genshin/Weapons/Materials/MouvementDunAccordAncien.webp",
+            "quality": 4
+          },
+          {
+            "name": "Écho d'un accord ancien",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/EchoDunAccordAncien.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Rosée sacré pure",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Résidu de rosée sacrée pure",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+            "quality": 2
+          },
+          {
+            "name": "Sublimation de rosée sacrée pure",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315647/Genshin/Weapons/Materials/SublimationDeRoseeSacrePure.webp",
+            "quality": 3
+          },
+          {
+            "name": "Source de rosée sacrée pure",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/SourceDeRoseeSacreePure.webp",
+            "quality": 4
+          },
+          {
+            "name": "Essence de rosée sacrée pure",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/EssenceDeRoseeSacreePure.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      },
+      {
+        "name": "Gobelet de la mer immaculee",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Gobelet brisé de la mer immaculée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+            "quality": 2
+          },
+          {
+            "name": "Gobelet à vin de la mer immaculée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletAVinDeLaMerImmaculee.webp",
+            "quality": 3
+          },
+          {
+            "name": "Gobelet d'argent de la mer immaculée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletDargentDeLaMerImmaculee.webp",
+            "quality": 4
+          },
+          {
+            "name": "Gobelet d'or de la mer immaculée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletDorDeLaMerImmaculee.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" },
+          { "name": "", "icon": "", "id": "" }
+        ]
+      }
+    ]
+  }
+]

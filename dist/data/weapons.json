@@ -1,0 +1,201 @@
+[
+  {
+    "id": "Weapon1",
+    "star": 5,
+    "name": "Weapon",
+    "icon": "",
+    "icon_ascended": "",
+    "type": { "icon": "", "name": "" },
+    "release_date": "",
+    "atk": "",
+    "stat_secondaire": { "type": "", "stat": "" },
+    "description": [
+      {
+        "text": "",
+        "level": [
+          { "1": "" },
+          { "2": "" },
+          { "3": "" },
+          { "4": "" },
+          { "5": "" }
+        ]
+      },
+      { "text": "" },
+      { "text": "" },
+      { "text": "" },
+      { "text": "" }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 5,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 14,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 14,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "",
+    "star": 5,
+    "name": "Weapon",
+    "icon": "",
+    "icon_ascended": "",
+    "type": { "icon": "", "name": "" },
+    "release_date": "",
+    "atk": "",
+    "stat_secondaire": { "type": "", "stat": "" },
+    "description": [
+      {
+        "text": "",
+        "level": [
+          { "1": "" },
+          { "2": "" },
+          { "3": "" },
+          { "4": "" },
+          { "5": "" }
+        ]
+      },
+      { "text": "" },
+      { "text": "" },
+      { "text": "" },
+      { "text": "" }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "",
+          "picture": "",
+          "number": 5,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 14,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 14,
+          "id": ""
+        },
+        {
+          "name": "",
+          "picture": "",
+          "number": 6,
+          "id": ""
+        }
+      ]
+    }
+  }
+]

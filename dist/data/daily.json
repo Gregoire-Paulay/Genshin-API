@@ -2,7 +2,7 @@
   {
     "id": "Daily1",
     "date": "Monday",
-    "materials": [
+    "books": [
       {
         "name": "Liberté",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
@@ -187,11 +187,43 @@
             "id": "P77"
           },
           {
+            "name": "Sigewinne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/SigewinneIcon.png",
+            "id": "P88"
+          },
+          {
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
           }
         ]
+      }
+    ],
+    "weapon_material": [
+      {
+        "name": "Decabarian",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Guyun",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Branche marine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312012/Genshin/Weapons/Materials/brancheMarinedeCorail.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Talisman de la rosee",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalisamanEnCuivreDeLaRosee.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Accord ancien",
+        "icon": "Mouvement d'un accord ancien",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
   },
@@ -199,7 +231,7 @@
   {
     "id": "Daily2",
     "date": "Tuesday",
-    "materials": [
+    "books": [
       {
         "name": "Résistance",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
@@ -399,6 +431,33 @@
             "id": "P72"
           }
         ]
+      }
+    ],
+    "weapon_material": [
+      {
+        "name": "Loup Boréal",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Karstique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Narukami",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Jardin d'oasis",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/SouvenirDuJardinDoasis.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Rosée sacré pure",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
   },
@@ -406,7 +465,7 @@
   {
     "id": "Daily3",
     "date": "Wednesday",
-    "materials": [
+    "books": [
       {
         "name": "Poésie",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
@@ -596,6 +655,33 @@
             "id": "P76"
           }
         ]
+      }
+    ],
+    "weapon_material": [
+      {
+        "name": "Chevalier du Croc de Lion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Aérosidérite noire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Masque",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311994/Genshin/Weapons/Materials/MasqueDuLieutenantPernicieux.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Pouvoir brûlant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Gobelet de la mer immaculée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
   },
@@ -603,7 +689,7 @@
   {
     "id": "Daily4",
     "date": "Thursday",
-    "materials": [
+    "books": [
       {
         "name": "Liberté",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
@@ -788,11 +874,43 @@
             "id": "P77"
           },
           {
+            "name": "Sigewinne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/SigewinneIcon.png",
+            "id": "P88"
+          },
+          {
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
           }
         ]
+      }
+    ],
+    "weapon_material": [
+      {
+        "name": "Decabarian",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Guyun",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Branche marine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312012/Genshin/Weapons/Materials/brancheMarinedeCorail.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Talisman de la rosee",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalisamanEnCuivreDeLaRosee.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Accord ancien",
+        "icon": "Mouvement d'un accord ancien",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
   },
@@ -800,7 +918,7 @@
   {
     "id": "Daily5",
     "date": "Friday",
-    "materials": [
+    "books": [
       {
         "name": "Résistance",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708564009/Genshin/Materials/Aptitude/EnseignementDeLaResistance.webp",
@@ -1001,13 +1119,40 @@
           }
         ]
       }
+    ],
+    "weapon_material": [
+      {
+        "name": "Loup Boréal",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Karstique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Narukami",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Jardin d'oasis",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/SouvenirDuJardinDoasis.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Rosée sacré pure",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      }
     ]
   },
 
   {
     "id": "Daily6",
     "date": "Saturday",
-    "materials": [
+    "books": [
       {
         "name": "Poésie",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708563991/Genshin/Materials/Aptitude/EnseignementDeLaPoesie.webp",
@@ -1198,13 +1343,40 @@
           }
         ]
       }
+    ],
+    "weapon_material": [
+      {
+        "name": "Chevalier du Croc de Lion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Aérosidérite noire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Masque",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311994/Genshin/Weapons/Materials/MasqueDuLieutenantPernicieux.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Pouvoir brûlant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Gobelet de la mer immaculée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      }
     ]
   },
 
   {
     "id": "Daily7",
     "date": "Sunday",
-    "materials": [
+    "books": [
       {
         "name": "Liberté",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708559435/Genshin/Materials/Aptitude/EnseignementDeLaLiberte.webp",
@@ -1722,6 +1894,11 @@
             "id": "P77"
           },
           {
+            "name": "Sigewinne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699767/Genshin/Characters/SigewinneIcon.png",
+            "id": "P88"
+          },
+          {
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
@@ -1784,6 +1961,83 @@
             "id": "P76"
           }
         ]
+      }
+    ],
+    "weapon_material": [
+      {
+        "name": "Decabarian",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Loup Boréal",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Chevalier du Croc de Lion",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Guyun",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Karstique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Aérosidérite noire",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Branche marine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312012/Genshin/Weapons/Materials/brancheMarinedeCorail.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Narukami",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Masque",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311994/Genshin/Weapons/Materials/MasqueDuLieutenantPernicieux.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Talisman de la rosee",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalisamanEnCuivreDeLaRosee.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Jardin d'oasis",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/SouvenirDuJardinDoasis.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Pouvoir brûlant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Accord ancien",
+        "icon": "Mouvement d'un accord ancien",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Rosée sacré pure",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
+      },
+      {
+        "name": "Gobelet de la mer immaculée",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+        "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
   }
