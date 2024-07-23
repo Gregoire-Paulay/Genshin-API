@@ -436,7 +436,7 @@
     "weapon_material": [
       {
         "name": "Loup Boréal",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       },
       {
@@ -456,7 +456,7 @@
       },
       {
         "name": "Rosée sacré pure",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/ResiduDeRoseeSacrePure.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
@@ -1123,7 +1123,7 @@
     "weapon_material": [
       {
         "name": "Loup Boréal",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       },
       {
@@ -1143,7 +1143,7 @@
       },
       {
         "name": "Rosée sacré pure",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/ResiduDeRoseeSacrePure.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       }
     ]
@@ -1971,7 +1971,7 @@
       },
       {
         "name": "Loup Boréal",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       },
       {
@@ -2031,7 +2031,7 @@
       },
       {
         "name": "Rosée sacré pure",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/ResiduDeRoseeSacrePure.webp",
         "weapons": [{ "name": "", "icon": "", "id": "" }]
       },
       {

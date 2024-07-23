@@ -3,19 +3,19 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.booksRouter = void 0;
+exports.artifactsRouter = void 0;
 const express_1 = __importDefault(require("express"));
 const zod_1 = require("zod");
-exports.booksRouter = express_1.default.Router();
+exports.artifactsRouter = express_1.default.Router();
 // Data
-const books = require("../data/books.json");
+const artifacts = require("../data/artifacts.json");
 //Type
-const Books_1 = require("../models/Books");
-// 1 - Route qui renvoie tout les matériaux d'aptitude de personnages (livres)
-exports.booksRouter.get("/books", (req, res) => {
+const Artifacts_1 = require("../models/Artifacts");
+// 1 - Route qui renvoie touts les artéfacts
+exports.artifactsRouter.get("/artifacts", (req, res) => {
     try {
-        const allBooksParse = Books_1.allBooksSchema.parse(books);
-        return res.status(200).json(allBooksParse);
+        const allArtifactsParsed = Artifacts_1.allArtifactsSchema.parse(artifacts);
+        return res.status(200).json(allArtifactsParsed);
     }
     catch (error) {
         if (error instanceof zod_1.ZodError) {
@@ -26,15 +26,15 @@ exports.booksRouter.get("/books", (req, res) => {
         }
     }
 });
-// 2 - Route qui renvoie les détails des matériaux d'aptitude de personnages (livres) par domaine
-exports.booksRouter.get("/books/details", (req, res) => {
+// 2 - Route qui renvoi un artefacts via son id
+exports.artifactsRouter.get("/artifacts/details", (req, res) => {
     try {
         const { id } = req.query;
-        for (let i = 0; i < books.length; i++) {
+        for (let i = 0; i < artifacts.length; i++) {
             // console.log(i);
-            if (id === books[i].id) {
-                const booksDetailsParse = Books_1.allBooksDetailsSchema.parse(books[i]);
-                return res.status(200).json(booksDetailsParse);
+            if (id === artifacts[i].id) {
+                const artifactsParsed = Artifacts_1.artifactsSchemas.parse(artifacts[i]);
+                return res.status(200).json(artifactsParsed);
             }
         }
         return res.status(404).json("no match found for this id");

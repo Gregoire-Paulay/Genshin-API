@@ -10,7 +10,7 @@
     },
     "materials": [
       {
-        "name": "Decabarian",
+        "name": "Décabarian",
         "day": "Lundi / Jeudi / Dimanche",
         "details": [
           {
@@ -35,9 +35,51 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Épée émoussée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343635/Genshin/Weapons/EpeeEmoussee.webp",
+            "id": "Weapon1"
+          },
+          {
+            "name": "Épée en argent",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721344409/Genshin/Weapons/EpeeEnArgent.webp",
+            "id": "Weapon2"
+          },
+          {
+            "name": "Lame froide",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721386083/Genshin/Weapons/LameFroide.webp",
+            "id": "Weapon4"
+          },
+          {
+            "name": "Croc de loup",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721394576/Genshin/Weapons/CrocDeLoup.webp",
+            "id": "Weapon10"
+          },
+          {
+            "name": "fuseau de cinabre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721398707/Genshin/Weapons/FuseauDeCinabre.webp",
+            "id": "Weapon14"
+          },
+          {
+            "name": "Éclair des impasses",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721661335/Genshin/Weapons/EclairDesImpasses.web",
+            "id": "Weapon25"
+          },
+          {
+            "name": "Épée de Favonius",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721663895/Genshin/Weapons/EpeeDeFavonius.webp",
+            "id": "Weapon26"
+          },
+          {
+            "name": "Épée longue royale",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721690094/Genshin/Weapons/EpeeLongueRoyale.webp",
+            "id": "Weapon29"
+          },
+          {
+            "name": "épée du faucon",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721744784/Genshin/Weapons/EpeeDuFaucon.webp",
+            "id": "Weapon43"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -52,7 +94,7 @@
         "details": [
           {
             "name": "Dent de lait du Loup boréal",
-            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308508/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
             "quality": 2
           },
           {
@@ -72,11 +114,31 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Messager de l'aube",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387449/Genshin/Weapons/MessagerDeLaube.webp",
+            "id": "Weapon5"
+          },
+          {
+            "name": "Flûte",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721398364/Genshin/Weapons/Flute.webp",
+            "id": "Weapon13"
+          },
+          {
+            "name": "Épée de la descente",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721688724/Genshin/Weapons/EpeeDeLaDescente.webp",
+            "id": "Weapon27"
+          },
+          {
+            "name": "Épée noire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721690504/Genshin/Weapons/EpeeNoire.webp",
+            "id": "Weapon30"
+          },
+          {
+            "name": "Clé de la Voûte d'Azur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721739311/Genshin/Weapons/LameDeLaVouteDazur.webp",
+            "id": "Weapon35"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -109,10 +171,26 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Épée du voyageur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389852/Genshin/Weapons/EpeeDuVoyageur.webp",
+            "id": "Weapon7"
+          },
+          {
+            "name": "Croc suppurant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721396083/Genshin/Weapons/CrocSuppurant.webp",
+            "id": "Weapon11"
+          },
+          {
+            "name": "Épée rituelle",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721690929/Genshin/Weapons/EpeeRituelle.webp",
+            "id": "Weapon31"
+          },
+          {
+            "name": "Serment de la liberté",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721741634/Genshin/Weapons/SermentDeLaLiberte.webp",
+            "id": "Weapon39"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -159,11 +237,26 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Épée en fer noir",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390332/Genshin/Weapons/EpeeEnFerNoir.webp",
+            "id": "Weapon8"
+          },
+          {
+            "name": "Rugissement du Lion",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721573664/Genshin/Weapons/RugissementDuLion.webp",
+            "id": "Weapon23"
+          },
+          {
+            "name": "Épée longue de Rochenoire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689408/Genshin/Weapons/EpeeLongueDeRochenoire.webp",
+            "id": "Weapon28"
+          },
+          {
+            "name": "Tranche-sommets",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721743830/Genshin/Weapons/TrancheSommets.webp",
+            "id": "Weapon41"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -196,8 +289,21 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Couteau à filets",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721344752/Genshin/Weapons/CouteauAFilets.webp",
+            "id": "Weapon3"
+          },
+          {
+            "name": "Tailleur de pierre (prototype)",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721660977/Genshin/Weapons/TailleurDePierrePrototype.webp",
+            "id": "Weapon24"
+          },
+          {
+            "name": "Coupeur de jade primordial",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721738751/Genshin/Weapons/CoupeurDeJadePrimordial.webp",
+            "id": "Weapon34"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -233,8 +339,16 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Épée céleste",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389006/Genshin/Weapons/EpeeCeleste.webp",
+            "id": "Weapon6"
+          },
+          {
+            "name": "Piqûre de fer",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721572791/Genshin/Weapons/PiqureDeFer.webp",
+            "id": "Weapon21"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -283,9 +397,21 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Lame kageuchi d'Amenoma",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571654/Genshin/Weapons/LameKageuchiDamenoma.webp",
+            "id": "Weapon19"
+          },
+          {
+            "name": "Reflet de tranche-brume",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740870/Genshin/Weapons/RefletDeTrancheBrume.webp",
+            "id": "Weapon38"
+          },
+          {
+            "name": "Uraku Misugiri",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721744313/Genshin/Weapons/UrakuMisugiri.webp",
+            "id": "Weapon42"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -320,8 +446,16 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Pluie florale",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721573198/Genshin/Weapons/PluieFlorale.webp",
+            "id": "Weapon22"
+          },
+          {
+            "name": "Lune ondulante de Futsu",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740362/Genshin/Weapons/LuneOndulanteDeFutsu.webp",
+            "id": "Weapon37"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -357,7 +491,11 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Kagotsurobe Isshin",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721567257/Genshin/Weapons/KagotsurubeIsshin.webp",
+            "id": "Weapon15"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -407,10 +545,26 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Clair de lune de Xiphos",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721393344/Genshin/Weapons/ClairDeLuneDeXiphos.webp",
+            "id": "Weapon9"
+          },
+          {
+            "name": "Lame d'aubier",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721569751/Genshin/Weapons/LameDaubier.webp",
+            "id": "Weapon17"
+          },
+          {
+            "name": "Clé de Khaj-Nisut",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721692169/Genshin/Weapons/CleDeKhajNisut.webp",
+            "id": "Weapon33"
+          },
+          {
+            "name": "Lumière d'incision foliaire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721739816/Genshin/Weapons/LumiereDincisionFoliaire.webp",
+            "id": "Weapon36"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -531,9 +685,21 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Lame du Narzissenkreuz",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571160/Genshin/Weapons/LameDuNarzissenkreuzPneuma.webp",
+            "id": "Weapon18"
+          },
+          {
+            "name": "Passeur du Fleuve cendré",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721572136/Genshin/Weapons/PasseurDuFleuveCendre.webp",
+            "id": "Weapon20"
+          },
+          {
+            "name": "Absolution",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721691686/Genshin/Weapons/Absolution.webp",
+            "id": "Weapon32"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
@@ -548,7 +714,7 @@
         "details": [
           {
             "name": "Résidu de rosée sacrée pure",
-            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/residuDeRoseeSacrePure.webp",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/ResiduDeRoseeSacrePure.webp",
             "quality": 2
           },
           {
@@ -568,9 +734,21 @@
           }
         ],
         "weapons": [
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
+          {
+            "name": "Final des profondeurs",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721397092/Genshin/Weapons/FinalDesProfondeurs.webp",
+            "id": "Weapon12"
+          },
+          {
+            "name": "L'assistant du docker",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721567891/Genshin/Weapons/LassistantDuDocker.webp",
+            "id": "Weapon16"
+          },
+          {
+            "name": "Splendeur des eaux calmes",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721743222/Genshin/Weapons/SplendeurDesEauxCalmes.webp",
+            "id": "Weapon40"
+          },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },
           { "name": "", "icon": "", "id": "" },

@@ -32,7 +32,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -41,7 +41,7 @@
         "DEF": 683,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -353,7 +353,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -362,7 +362,7 @@
         "DEF": 683,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -768,7 +768,7 @@
         "DEF": 50,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -777,7 +777,7 @@
         "DEF": 601,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -1103,7 +1103,7 @@
         "DEF": 66,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -1112,7 +1112,7 @@
         "DEF": 792,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "26,7 %" }
+        "special": { "name": "Recharge d'énergie", "data": "26,7 %" }
       }
     ],
     "ascension_materials": {
@@ -1424,7 +1424,7 @@
         "DEF": 48,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -1433,7 +1433,7 @@
         "DEF": 573,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "96" }
+        "special": { "name": "Maîtrise élémentaire", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -2081,7 +2081,7 @@
         "DEF": 67,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "DEF %", "data": "0 %" }
+        "special": { "name": "DEF", "data": "0 %" }
       },
       {
         "level": 90,
@@ -2090,7 +2090,7 @@
         "DEF": 799,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "DEF %", "data": "30 %" }
+        "special": { "name": "DEF", "data": "30 %" }
       }
     ],
     "ascension_materials": {
@@ -2426,7 +2426,7 @@
         "DEF": 65,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -2435,7 +2435,7 @@
         "DEF": 771,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "26,7 %" }
+        "special": { "name": "Recharge d'énergie", "data": "26,7 %" }
       }
     ],
     "ascension_materials": {
@@ -2769,7 +2769,7 @@
         "DEF": 63,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Physical DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT physique", "data": "0 %" }
       },
       {
         "level": 90,
@@ -2778,7 +2778,7 @@
         "DEF": 751,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Physical DMG Bonus", "data": "30 %" }
+        "special": { "name": "Bonus DGT physique", "data": "30 %" }
       }
     ],
     "ascension_materials": {
@@ -3104,7 +3104,7 @@
         "DEF": 54,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Electro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Électro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -3113,7 +3113,7 @@
         "DEF": 648,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Electro DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Électro", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -3462,7 +3462,7 @@
         "DEF": 50,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -3471,7 +3471,7 @@
         "DEF": 594,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -3791,7 +3791,7 @@
         "DEF": 56,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -3800,7 +3800,7 @@
         "DEF": 669,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "96" }
+        "special": { "name": "Maîtrise élémentaire", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -4105,7 +4105,7 @@
         "DEF": 64,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -4114,7 +4114,7 @@
         "DEF": 758,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -4435,7 +4435,7 @@
         "DEF": 54,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -4444,7 +4444,7 @@
         "DEF": 648,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -4748,7 +4748,7 @@
         "DEF": 48,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -4757,7 +4757,7 @@
         "DEF": 573,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -5074,7 +5074,7 @@
         "DEF": 59,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -5083,7 +5083,7 @@
         "DEF": 703,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -5397,7 +5397,7 @@
         "DEF": 52,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -5406,7 +5406,7 @@
         "DEF": 669,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "32 %" }
+        "special": { "name": "Recharge d'énergie", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -5722,7 +5722,7 @@
         "DEF": 48,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Pyro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Pyro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -5731,7 +5731,7 @@
         "DEF": 615,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Pyro DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Pyro", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -7018,7 +7018,7 @@
         "DEF": 51,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -7027,7 +7027,7 @@
         "DEF": 653,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "32 %" }
+        "special": { "name": "Recharge d'énergie", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -7718,7 +7718,7 @@
         "DEF": 63,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Hydro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Hydro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -7727,7 +7727,7 @@
         "DEF": 815,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Hydro DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Hydro", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -8070,7 +8070,7 @@
         "DEF": 50,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Cryo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Cryo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -8079,7 +8079,7 @@
         "DEF": 601,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Cryo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Cryo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -8421,7 +8421,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -8430,7 +8430,7 @@
         "DEF": 738,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -8780,7 +8780,7 @@
         "DEF": 67,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -8789,7 +8789,7 @@
         "DEF": 799,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -9120,7 +9120,7 @@
         "DEF": 68,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -9129,7 +9129,7 @@
         "DEF": 876,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -10463,7 +10463,7 @@
         "DEF": 60,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -10472,7 +10472,7 @@
         "DEF": 710,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -11110,7 +11110,7 @@
         "DEF": 49,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Pyro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Pyro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -11119,7 +11119,7 @@
         "DEF": 587,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Pyro DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Pyro", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -11443,7 +11443,7 @@
         "DEF": 63,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -11452,7 +11452,7 @@
         "DEF": 807,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "115" }
+        "special": { "name": "Maîtrise élémentaire", "data": "115" }
       }
     ],
     "ascension_materials": {
@@ -12135,7 +12135,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -12144,7 +12144,7 @@
         "DEF": 683,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -12789,7 +12789,7 @@
         "DEF": 62,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -12798,7 +12798,7 @@
         "DEF": 745,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "96" }
+        "special": { "name": "Maîtrise élémentaire", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -13158,7 +13158,7 @@
         "DEF": 61,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -13167,7 +13167,7 @@
         "DEF": 789,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "32 %" }
+        "special": { "name": "Recharge d'énergie", "data": "32 %" }
       }
     ],
     "ascension_materials": {
@@ -13503,7 +13503,7 @@
         "DEF": 51,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Hydro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Hydro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -13512,7 +13512,7 @@
         "DEF": 657,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Hydro DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Hydro", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -13857,7 +13857,7 @@
         "DEF": 53,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -13866,7 +13866,7 @@
         "DEF": 628,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -14172,7 +14172,7 @@
         "DEF": 53,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Cryo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Cryo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -14181,7 +14181,7 @@
         "DEF": 676,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Cryo DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Cryo", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -14463,7 +14463,7 @@
         "DEF": 63,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -14472,7 +14472,7 @@
         "DEF": 751,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -15168,7 +15168,7 @@
         "DEF": 54,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -15177,7 +15177,7 @@
         "DEF": 648,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Geo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Géo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -15538,7 +15538,7 @@
         "DEF": 65,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -15547,7 +15547,7 @@
         "DEF": 830,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "28,8 %" }
+        "special": { "name": "ATQ", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -15885,7 +15885,7 @@
         "DEF": 62,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "0 %" }
+        "special": { "name": "Recharge d'énergie", "data": "0 %" }
       },
       {
         "level": 90,
@@ -15894,7 +15894,7 @@
         "DEF": 734,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Energy Recharge", "data": "26,7 %" }
+        "special": { "name": "Recharge d'énergie", "data": "26,7 %" }
       }
     ],
     "ascension_materials": {
@@ -17550,7 +17550,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -17559,7 +17559,7 @@
         "DEF": 684,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -17863,7 +17863,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -17872,7 +17872,7 @@
         "DEF": 683,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -18202,7 +18202,7 @@
         "DEF": 49,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Dendro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Dendro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -18211,7 +18211,7 @@
         "DEF": 630,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Dendro DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Dendro", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -18521,7 +18521,7 @@
         "DEF": 50,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -18530,7 +18530,7 @@
         "DEF": 601,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -20207,7 +20207,7 @@
         "DEF": 49,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -20216,7 +20216,7 @@
         "DEF": 630,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "115" }
+        "special": { "name": "Maîtrise élémentaire", "data": "115" }
       }
     ],
     "ascension_materials": {
@@ -21251,7 +21251,7 @@
         "DEF": 53,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -21260,7 +21260,7 @@
         "DEF": 628,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -21577,7 +21577,7 @@
         "DEF": 61,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Dendro DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Dendro", "data": "0 %" }
       },
       {
         "level": 90,
@@ -21586,7 +21586,7 @@
         "DEF": 782,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Dendro DMG Bonus", "data": "28,8 %" }
+        "special": { "name": "Bonus DGT Dendro", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -23313,7 +23313,7 @@
         "DEF": 63,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -23322,7 +23322,7 @@
         "DEF": 751,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "96" }
+        "special": { "name": "Maîtrise élémentaire", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -23967,7 +23967,7 @@
         "DEF": 57,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -23976,7 +23976,7 @@
         "DEF": 683,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -24667,7 +24667,7 @@
         "DEF": 60,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "0 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "0 %" }
       },
       {
         "level": 90,
@@ -24676,7 +24676,7 @@
         "DEF": 712,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Anemo DMG Bonus", "data": "24 %" }
+        "special": { "name": "Bonus DGT Anémo", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -25006,7 +25006,7 @@
         "DEF": 59,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -25015,7 +25015,7 @@
         "DEF": 708,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -26375,7 +26375,7 @@
         "DEF": 46,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -26384,7 +26384,7 @@
         "DEF": 546,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -27361,7 +27361,7 @@
         "DEF": 45,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -27370,7 +27370,7 @@
         "DEF": 573,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "28,8 %" }
+        "special": { "name": "ATQ", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
@@ -27707,7 +27707,7 @@
         "DEF": 59,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "0 %" }
+        "special": { "name": "ATQ", "data": "0 %" }
       },
       {
         "level": 90,
@@ -27716,7 +27716,7 @@
         "DEF": 703,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "ATK %", "data": "24 %" }
+        "special": { "name": "ATQ", "data": "24 %" }
       }
     ],
     "ascension_materials": {
@@ -29091,7 +29091,7 @@
         "DEF": 47,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "0" }
+        "special": { "name": "Maîtrise élémentaire", "data": "0" }
       },
       {
         "level": 90,
@@ -29100,7 +29100,7 @@
         "DEF": 560,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "Elemental Mastery", "data": "96" }
+        "special": { "name": "Maîtrise élémentaire", "data": "96" }
       }
     ],
     "ascension_materials": {
@@ -29435,7 +29435,7 @@
         "DEF": 39,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "PV %", "data": "0 %" }
+        "special": { "name": "PV", "data": "0 %" }
       },
       {
         "level": 90,
@@ -29444,7 +29444,7 @@
         "DEF": 500,
         "CRIT_Rate": 5,
         "CRIT_DMG": 50,
-        "special": { "name": "PV %", "data": "28,8 %" }
+        "special": { "name": "PV", "data": "28,8 %" }
       }
     ],
     "ascension_materials": {
