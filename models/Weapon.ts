@@ -74,15 +74,7 @@ export const allWeaponsSchema = z.array(
         z.object({
           title: z.string().optional(),
           text: z.string(),
-          level: z
-            .object({
-              1: z.number(),
-              2: z.number(),
-              3: z.number(),
-              4: z.number(),
-              5: z.number(),
-            })
-            .optional(),
+          level: z.array(z.string()).optional(),
         })
       )
       .optional(),
@@ -133,15 +125,7 @@ export const weaponSchema = z.object({
       z.object({
         title: z.string().optional(),
         text: z.string(),
-        level: z
-          .object({
-            1: z.number(),
-            2: z.number(),
-            3: z.number(),
-            4: z.number(),
-            5: z.number(),
-          })
-          .optional(),
+        level: z.array(z.string()).optional(),
       })
     )
     .optional(),

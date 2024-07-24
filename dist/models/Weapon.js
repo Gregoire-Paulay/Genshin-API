@@ -57,15 +57,7 @@ exports.allWeaponsSchema = zod_1.z.array(zod_1.z.object({
         .array(zod_1.z.object({
         title: zod_1.z.string().optional(),
         text: zod_1.z.string(),
-        level: zod_1.z
-            .object({
-            1: zod_1.z.number(),
-            2: zod_1.z.number(),
-            3: zod_1.z.number(),
-            4: zod_1.z.number(),
-            5: zod_1.z.number(),
-        })
-            .optional(),
+        level: zod_1.z.array(zod_1.z.string()).optional(),
     }))
         .optional(),
     ascension: zod_1.z.object({
@@ -108,15 +100,7 @@ exports.weaponSchema = zod_1.z.object({
         .array(zod_1.z.object({
         title: zod_1.z.string().optional(),
         text: zod_1.z.string(),
-        level: zod_1.z
-            .object({
-            1: zod_1.z.number(),
-            2: zod_1.z.number(),
-            3: zod_1.z.number(),
-            4: zod_1.z.number(),
-            5: zod_1.z.number(),
-        })
-            .optional(),
+        level: zod_1.z.array(zod_1.z.string()).optional(),
     }))
         .optional(),
     ascension: zod_1.z.object({

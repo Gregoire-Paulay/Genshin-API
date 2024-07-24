@@ -158,23 +158,11 @@
       {
         "title": "Détermination",
         "text": "Les attaques ont 50 % de chances d'infliger",
-        "level": [
-          { "1": "240 %" },
-          { "2": "280 %" },
-          { "3": "320 %" },
-          { "4": "360 %" },
-          { "5": "400 %" }
-        ]
+        "level": ["240 %", "280 %", "320 %", "360 %", "400 %"]
       },
       {
         "text": "de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les",
-        "level": [
-          { "1": "15 s" },
-          { "2": "14 s" },
-          { "3": "13 s" },
-          { "4": "12 s" },
-          { "5": "11 s" }
-        ]
+        "level": ["15 s", "14 s", "13 s", "12 s", "11 s"]
       }
     ],
     "ascension": {
@@ -270,13 +258,7 @@
       {
         "title": "Fléau d'eau et de glace",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Cryo de",
-        "level": [
-          { "1": "12 %" },
-          { "2": "15 %" },
-          { "3": "18 %" },
-          { "4": "21 %" },
-          { "5": "24 %" }
-        ]
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
       }
     ],
     "ascension": {
@@ -372,13 +354,7 @@
       {
         "title": "Vigeur",
         "text": "Augmente le taux CRIT de",
-        "level": [
-          { "1": "14 %" },
-          { "2": "17,5 %" },
-          { "3": "21 %" },
-          { "4": "24,5 %" },
-          { "5": "28 %" }
-        ]
+        "level": ["14 %", "17,5 %", "21 %", "24,5 %", "28 %"]
       },
       { "text": "quand les PV sont supérieurs à 90 %." }
     ],
@@ -475,13 +451,7 @@
       {
         "title": "Détermination",
         "text": "Augmente l'ATQ et la VIT de déplacement de",
-        "level": [
-          { "1": "12 %" },
-          { "2": "15 %" },
-          { "3": "18 %" },
-          { "4": "21 %" },
-          { "5": "24 %" }
-        ]
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
       },
       { "text": "pendant 15 s après un déchaînement élémentaire." }
     ],
@@ -578,13 +548,7 @@
       {
         "title": "Voyage",
         "text": "Chaque particule ou orbe élémentaires obtenus restaurent",
-        "level": [
-          { "1": "1 %" },
-          { "2": "1,25 %" },
-          { "3": "1,5 %" },
-          { "4": "1,75 %" },
-          { "5": "2 %" }
-        ]
+        "level": ["1 %", "1,25 %", "1,5 %", "1,75 %", "2 %"]
       },
       { "text": "des PV." }
     ],
@@ -681,13 +645,7 @@
       {
         "title": "Surcapacité",
         "text": "Augmente l'ATQ de",
-        "level": [
-          { "1": "20 %" },
-          { "2": "25 %" },
-          { "3": "30 %" },
-          { "4": "35 %" },
-          { "5": "40 %" }
-        ]
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
       },
       {
         "text": "pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro."
@@ -786,13 +744,7 @@
       {
         "title": "Murmure du djinn",
         "text": "L'effet suivant se déclenche toutes les 10 s : le personnage équipé de l'arme obtient",
-        "level": {
-          "1": "0,036 %",
-          "2": "0,045 %",
-          "3": "O,O54 %",
-          "4": "0,063 %",
-          "5": "0,072 %"
-        }
+        "level": ["0,036 %", "0,045 %", "O,O54 %", "0,063 %", "0,072 %"]
       },
       {
         "text": "de recharge d'énergie pour chaque point de maîtrise élémentaire qu'il possède pendant 12 s, alors que les autres personnages de l'équipe à proximité obtiennent 30 % de ce bonus. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -891,33 +843,15 @@
       {
         "title": "Loup boréal",
         "text": "Les DGT infligés par les compétences et déchaînements élémentaires augmentent de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, son taux CRIT augmente de ",
-        "level": [
-          { "1": "2 %." },
-          { "2": "2,5 %." },
-          { "3": "3 %." },
-          { "4": "3,5 %." },
-          { "5": "4 %." }
-        ]
+        "level": ["2 %.", "2,5 %.", "3 %.", "3,5 %.", "4 %."]
       },
       {
         "text": "Lorsqu'un déchaînement élémentaire touche un ennemi, son taux CRIT augmente de",
-        "level": [
-          { "1": "2 %." },
-          { "2": "2,5 %." },
-          { "3": "3 %." },
-          { "4": "3,5 %." },
-          { "5": "4 %." }
-        ]
+        "level": ["2 %.", "2,5 %.", "3 %.", "3,5 %.", "4 %."]
       },
       {
         "text": "Chacun de ces deux effets dure 10 s, et peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,1 s."
@@ -1016,27 +950,12 @@
       {
         "title": "Soif insatiable",
         "text": "Augmente les DGT de la compétence élémentaire de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       {
         "text": "et son taux CRIT de ",
-        "level": [
-          { "1": "6 %." },
-          { "2": "7,5 %." },
-          { "3": "9 %." },
-          { "4": "10,5 %." },
-          { "5": "12 %." }
-        ]
-      },
-      { "text": "" },
-      { "text": "" },
-      { "text": "" }
+        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %.", "12 %."]
+      }
     ],
     "ascension": {
       "mora": {
@@ -1131,33 +1050,15 @@
       {
         "title": "Un ultime sublime",
         "text": "Libérer une compétence élémentaire augmente l'ATQ de",
-        "level": [
-          { "1": "12 %" },
-          { "2": "15 %" },
-          { "3": "18 %" },
-          { "4": "21 %" },
-          { "5": "24 %" }
-        ]
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
       },
       {
         "text": "pendant 15 s et accorde un engagement vital d'une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l'engagement vital disparaît, l'ATQ augmente pendant 15 s d'une valeur équivalant à",
-        "level": [
-          { "1": "2,4 %" },
-          { "2": "3 %" },
-          { "3": "3,6 %" },
-          { "4": "4,2 %" },
-          { "5": "4,8 %" }
-        ]
+        "level": ["2,4 %", "3 %", "3,6 %", "4,2 %", "4,8 %"]
       },
       {
         "text": "de la valeur de l'engagement dissipé, l'ATQ pouvant être augmentée d'un maximum de",
-        "level": [
-          { "1": "150" },
-          { "2": "187,5" },
-          { "3": "225" },
-          { "4": "262,5" },
-          { "5": "300" }
-        ]
+        "level": ["150", "187,5", "225", "262,5", "300"]
       },
       { "text": "pts de cette manière." }
     ],
@@ -1254,13 +1155,7 @@
       {
         "title": "Accord",
         "text": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige",
-        "level": [
-          { "1": "100 %" },
-          { "2": "125 %" },
-          { "3": "150 %" },
-          { "4": "175 %" },
-          { "5": "200 %" }
-        ]
+        "level": ["100 %", "125 %", "150 %", "175 %", "200 %"]
       },
       {
         "text": "de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s."
@@ -1359,13 +1254,7 @@
       {
         "title": "Cœur immaculé",
         "text": "Augmente les DGT infligés par les compétences élémentaires d'une valeur équivalant à",
-        "level": [
-          { "1": "40 %" },
-          { "2": "50 %" },
-          { "3": "60 %" },
-          { "4": "70 %" },
-          { "5": "80 %" }
-        ]
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
       },
       {
         "text": "de la DÉF. Cet effet peut être déclenché une fois toutes les 1,5 s, et est annulé 0,1 s après que la compétence élémentaire inflige des DGT."
@@ -1559,23 +1448,11 @@
       {
         "title": "Chant de marins",
         "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque stoïque pendant 30 s, un maximum de 3 marques stoïques pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques stoïques et accorde un effet de surrection pendant 10 s : chaque marque stoïque consommée augmente la maîtrise élémentaire de",
-        "level": [
-          { "1": "40" },
-          { "2": "50" },
-          { "3": "60" },
-          { "4": "70" },
-          { "5": "80" }
-        ]
+        "level": ["40", "50", "60", "70", "80"]
       },
       {
         "text": "pts puis, 2 s après le début de l'effet, restaure l'énergie élémentaire du personnage équipé de l'arme de",
-        "level": [
-          { "1": "2" },
-          { "2": "2,5" },
-          { "3": "3" },
-          { "4": "3,5" },
-          { "5": "4" }
-        ]
+        "level": ["2", "2,5", "3", "3,5", "4"]
       },
       {
         "text": "pts. Un effet de surrection peut être déclenché une fois toutes les 15 s, et des marques stoïques peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -1674,13 +1551,7 @@
       {
         "title": "Sanctuaire sylvestre",
         "text": "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de ",
-        "level": [
-          { "1": "60" },
-          { "2": "75" },
-          { "3": "90" },
-          { "4": "105" },
-          { "5": "120" }
-        ]
+        "level": ["60", "75", "90", "105", "120"]
       },
       {
         "text": "pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. L'effet de la feuille de conscience ne se cumule pas."
@@ -1779,13 +1650,7 @@
       {
         "title": "Lame de héros",
         "text": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à",
-        "level": [
-          { "1": "160 %" },
-          { "2": "200 %" },
-          { "3": "240 %" },
-          { "4": "280 %" },
-          { "5": "320 %" }
-        ]
+        "level": ["160 %", "200 %", "240 %", "280 %", "320 %"]
       },
       {
         "text": "de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz."
@@ -1884,13 +1749,7 @@
       {
         "title": "Héritage d'Iwakura",
         "text": "L'utilisation d'une compétence élémentaire accorde 1 graine d'héritage. Cet effet peut être déclenché une fois toutes les 5 s. Chaque graine d'héritage dure 30 s, et un maximum de 3 graines d'héritage peut être cumulé simultanément. Après avoir utilisé un déchaînement élémentaire, toutes les graines d'héritage sont consommées et après 2 s, le personnage récupère",
-        "level": [
-          { "1": "6" },
-          { "2": "7,5" },
-          { "3": "9" },
-          { "4": "10,5" },
-          { "5": "12" }
-        ]
+        "level": ["6", "7,5", "9", "10,5", "12"]
       },
       { "text": "pts d'énergie élémentaire pour chaque graine consommée." }
     ],
@@ -1987,23 +1846,11 @@
       {
         "title": "Os de fer",
         "text": "Le taux CRIT des compétences élémentaires augmente de ",
-        "level": [
-          { "1": "8 %" },
-          { "2": "10 %" },
-          { "3": "12 %" },
-          { "4": "14 %" },
-          { "5": "16 %" }
-        ]
+        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
       },
       {
         "text": " De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       { "text": "pendant 5 s." }
     ],
@@ -2100,13 +1947,7 @@
       {
         "title": "Dard énergisant",
         "text": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de",
-        "level": [
-          { "1": "6 %" },
-          { "2": "7,5 %" },
-          { "3": "9 %" },
-          { "4": "10,5 %" },
-          { "5": "12 %" }
-        ]
+        "level": ["6 %", "7,5 %", "9 %", "10,5 %", "12 %"]
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes."
@@ -2205,13 +2046,7 @@
       {
         "title": "Kaidan : Liant de terre pluviométrique",
         "text": "Lorsqu'une attaque a touché, elle inflige l'état Ombrelle maudite à un des ennemis touchés pendant 10 s. Cet effet peut être déclenché une fois toutes les 15 s. Si l'ennemi affecté est éliminé pendant la durée de l'effet Ombrelle maudite, son TdR est immédiatement réinitialisé. Les DGT infligés par le personnage équipé de l'arme aux ennemis affectés par l'état Ombrelle maudite augmentent de ",
-        "level": [
-          { "1": "16 %." },
-          { "2": "20 %." },
-          { "3": "24 %." },
-          { "4": "28 %." },
-          { "5": "32 %." }
-        ]
+        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
       }
     ],
     "ascension": {
@@ -2307,13 +2142,7 @@
       {
         "title": "Fléau de feu et de foudre",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Pyro ou Électro de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "24 %." },
-          { "3": "28 %." },
-          { "4": "32 %." },
-          { "5": "36 %." }
-        ]
+        "level": ["20 %.", "24 %.", "28 %.", "32 %.", "36 %."]
       }
     ],
     "ascension": {
@@ -2409,13 +2238,7 @@
       {
         "title": "Pierre cassée",
         "text": "Les attaques normales et chargées augmentent l'ATQ et la DÉF de ",
-        "level": [
-          { "1": "4 %" },
-          { "2": "5 %" },
-          { "3": "6 %" },
-          { "4": "7 %" },
-          { "5": "8 %" }
-        ]
+        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,3 s."
@@ -2514,13 +2337,7 @@
       {
         "title": "Justicier vagabond",
         "text": "Augmente les DGT infligés par le personnage de ",
-        "level": [
-          { "1": "12 %." },
-          { "2": "15 %." },
-          { "3": "18 %." },
-          { "4": "21 %." },
-          { "5": "24 %." }
-        ]
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
       },
       {
         "text": "Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT."
@@ -2619,23 +2436,11 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont ",
-        "level": [
-          { "1": "60 %" },
-          { "2": "70 %" },
-          { "3": "80 %" },
-          { "4": "90 %" },
-          { "5": "100 %" }
-        ]
+        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les ",
-        "level": [
-          { "1": "12 s." },
-          { "2": "10,5 s." },
-          { "3": "9 s." },
-          { "4": "7,5 s." },
-          { "5": "6 s." }
-        ]
+        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
       }
     ],
     "ascension": {
@@ -2826,13 +2631,7 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de ",
-        "level": [
-          { "1": "12 %" },
-          { "2": "15 %" },
-          { "3": "18 %" },
-          { "4": "21 %" },
-          { "5": "24 %" }
-        ]
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -2931,13 +2730,7 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de",
-        "level": [
-          { "1": "8 %" },
-          { "2": "10 %" },
-          { "3": "12 %" },
-          { "4": "14 %" },
-          { "5": "16 %" }
-        ]
+        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -3036,23 +2829,11 @@
       {
         "title": "Justice",
         "text": "Augmente les DGT infligés par les attaques normales et chargées de ",
-        "level": [
-          { "1": "20 %" },
-          { "2": "25 %" },
-          { "3": "30 %" },
-          { "4": "35 %" },
-          { "5": "40 %" }
-        ]
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
       },
       {
         "text": "et restaure",
-        "level": [
-          { "1": "60 %" },
-          { "2": "70 %" },
-          { "3": "80 %" },
-          { "4": "90 %" },
-          { "5": "100 %" }
-        ]
+        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
       },
       {
         "text": "de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s."
@@ -3151,23 +2932,11 @@
       {
         "title": "Sang-froid",
         "text": "Les compétences élémentaires ont",
-        "level": [
-          { "1": "40 %" },
-          { "2": "50 %" },
-          { "3": "60 %" },
-          { "4": "70 %" },
-          { "5": "80 %" }
-        ]
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
       },
       {
         "text": " de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les ",
-        "level": [
-          { "1": "30 s." },
-          { "2": "26 s." },
-          { "3": "22 s." },
-          { "4": "19 s." },
-          { "5": "16 s." }
-        ]
+        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
       }
     ],
     "ascension": {
@@ -3263,23 +3032,11 @@
       {
         "title": "Pacte funeste",
         "text": "Augmente les DGT CRIT de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Lorsque la valeur d'un engagement vital augmente, les DGT infligés par le personnage équipé de l'arme augmentent de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       { "text": "pendant 6 s, cet effet pouvant être cumulé 3 fois maximum." }
     ],
@@ -3323,7 +3080,7 @@
         },
         {
           "name": "Engrenage dynamique artificié",
-          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificiere.webp",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
           "number": 27,
           "id": ""
         }
@@ -3376,33 +3133,15 @@
       {
         "title": "Chant englouti des sables",
         "text": "Les PV sont augmentés de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rhapsodie est généré pendant 20 s : augmente la maîtrise élémentaire d'une valeur équivalant à ",
-        "level": [
-          { "1": "0,12 %" },
-          { "2": "0,15 %" },
-          { "3": "0,18 %" },
-          { "4": "0,21 %" },
-          { "5": "0,24 %" }
-        ]
+        "level": ["0,12 %", "0,15 %", "0,18 %", "0,21 %", "0,24 %"]
       },
       {
         "text": "des PV max du personnage équipé de l'arme. Cet effet peut être déclenché une fois toutes les 0,3 s et cumulé 3 fois maximum. Lorsque cet effet obtient 3 cumuls ou que la durée du 3e cumul est actualisée, la maîtrise élémentaire de tous les personnages de l'équipe à proximité augmente d'une valeur équivalant à",
-        "level": [
-          { "1": "0,2 %" },
-          { "2": "0,25 %" },
-          { "3": "0,3 %" },
-          { "4": "0,35 %" },
-          { "5": "0,4 %" }
-        ]
+        "level": ["0,2 %", "0,25 %", "0,3 %", "0,35 %", "0,4 %"]
       },
       { "text": "des PV max du personnage équipé de l'arme pendant 20 s." }
     ],
@@ -3499,23 +3238,11 @@
       {
         "title": "Vertu du protecteur",
         "text": "Les PV sont augmentés de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à",
-        "level": [
-          { "1": "1,2 %" },
-          { "2": "1,5 %" },
-          { "3": "1,8 %" },
-          { "4": "2,1 %" },
-          { "5": "2,4 %" }
-        ]
+        "level": ["1,2 %", "1,5 %", "1,8 %", "2,1 %", "2,4 %"]
       },
       { "text": "de ses PV max." }
     ],
@@ -3612,23 +3339,11 @@
       {
         "title": "Croc du Perceur de ciel",
         "text": "Augmente le taux CRIT de ",
-        "level": [
-          { "1": "4 %." },
-          { "2": "5 %." },
-          { "3": "6 %." },
-          { "4": "7 %." },
-          { "5": "8 %." }
-        ]
+        "level": ["4 %.", "5 %.", "6 %.", "7 %.", "8 %."]
       },
       {
         "text": "Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10%, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent",
-        "level": [
-          { "1": "20 %" },
-          { "2": "25 %" },
-          { "3": "30 %" },
-          { "4": "35 %" },
-          { "5": "40 %" }
-        ]
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
       },
       { "text": "de DGT d'ATQ supplémentaires lorsqu'elles touchent." }
     ],
@@ -3725,23 +3440,11 @@
       {
         "title": "Soie de blanchelune",
         "text": "Augmente le taux CRIT de ",
-        "level": [
-          { "1": "4 %." },
-          { "2": "5 %." },
-          { "3": "6 %." },
-          { "4": "7 %." },
-          { "5": "8 %." }
-        ]
+        "level": ["4 %.", "5 %.", "6 %.", "7 %.", "8 %."]
       },
       {
         "text": "Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à",
-        "level": [
-          { "1": "120 %" },
-          { "2": "150 %" },
-          { "3": "180 %" },
-          { "4": "210 %" },
-          { "5": "240 %" }
-        ]
+        "level": ["120 %", "150 %", "180 %", "210 %", "240 %"]
       },
       {
         "text": "de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s."
@@ -3840,23 +3543,11 @@
       {
         "title": "Flux aiguisé",
         "text": "Accorde un bonus de DGT élémentaires de",
-        "level": [
-          { "1": "12 %." },
-          { "2": "15 %." },
-          { "3": "18 %." },
-          { "4": "21 %." },
-          { "5": "24 %." }
-        ]
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
       },
       {
         "text": "Lorsqu'un autre personnage de l'équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l'arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l'effet Tumulte, augmentant les DGT d'attaque normale de",
-        "level": [
-          { "1": "20 %" },
-          { "2": "25 %" },
-          { "3": "30 %" },
-          { "4": "35 %" },
-          { "5": "40 %" }
-        ]
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
       },
       { "text": "pour chaque cumul de pic de vague consommé, pendant 8 s." }
     ],
@@ -3953,22 +3644,16 @@
       {
         "title": "Fourreau de tranche-brume",
         "text": "Confère un bonus de DGT élémentaires de",
-        "level": [
-          { "1": "12 %," },
-          { "2": "15 %," },
-          { "3": "18 %," },
-          { "4": "21 %," },
-          { "5": "24 %," }
-        ]
+        "level": ["12 %,", "15 %,", "18 %,", "21 %,", "24 %,"]
       },
       {
         "text": "et confère la puissance du sceau de tranche-brume. 1/2/3 cumuls de sceau de tranche-brume accordent au personnage respectivement",
         "level": [
-          { "1": "8/16/28 %" },
-          { "2": "10/20/35 %" },
-          { "3": "12/24/42 %" },
-          { "4": "14/28/49 %" },
-          { "5": "16/32/56 %" }
+          "8/16/28 %",
+          "10/20/35 %",
+          "12/24/42 %",
+          "14/28/49 %",
+          "16/32/56 %"
         ]
       },
       {
@@ -4068,33 +3753,15 @@
       {
         "title": "Ode de l'appel à la révolte",
         "text": "Partie du « Concert du millénaire ». Augmente les dégâts infligés de",
-        "level": [
-          { "1": "10 %." },
-          { "2": "12,5 %." },
-          { "3": "15 %." },
-          { "4": "17,5 %." },
-          { "5": "20 %" }
-        ]
+        "level": ["10 %.", "12,5 %.", "15 %.", "17,5 %.", "20 %"]
       },
       {
         "text": "Si le personnage déclenche une réaction élémentaire, il obtient un talisman de résistance, à raison d'un talisman toutes les 0,5 s max, même s'il n'est plus déployé. Une fois 2 talismans cumulés, ils sont consommés et font bénéficier pendant 12 s tous les membres de l'équipe à proximité de l'effet « Concert du millénaire - Ode à la révolte », ce qui augmente les dégâts infligés par les attaques normales, les attaques chargées et les attaques plongeantes de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       {
         "text": "et l'ATQ de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Il n'est plus possible de gagner de talismans de résistance pendant 20 s après l'activation de cet effet. Les différents effets du « Concert du millénaire » ne peuvent pas être cumulés."
@@ -4193,23 +3860,11 @@
       {
         "title": "Aube et crépuscule au lac",
         "text": "Lorsque les PV actuels du personnage équipé de l'arme augmentent ou diminuent, les DGT infligés par ses compétences élémentaires augmentent de",
-        "level": [
-          { "1": "8 %" },
-          { "2": "10 %" },
-          { "3": "12 %" },
-          { "4": "14 %" },
-          { "5": "16 %" }
-        ]
+        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
       },
       {
         "text": "pendant 6 s, cet effet pouvant être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s. Lorsque les PV actuels d'un autre personnage de l'équipe augmentent ou diminuent, les PV max du personnage équipé de l'arme augmentent de ",
-        "level": [
-          { "1": "14 %" },
-          { "2": "17,5 %" },
-          { "3": "21 %" },
-          { "4": "24,5 %" },
-          { "5": "28 %" }
-        ]
+        "level": ["14 %", "17,5 %", "21 %", "24,5 %", "28 %"]
       },
       {
         "text": "pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,2 s. Ces effets peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
@@ -4308,23 +3963,11 @@
       {
         "title": "Majesté dorée",
         "text": "Augmente la force du bouclier de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Toucher un ennemi augmente l'ATQ de",
-        "level": [
-          { "1": "4 %" },
-          { "2": "5 %" },
-          { "3": "6 %" },
-          { "4": "7 %" },
-          { "5": "8 %" }
-        ]
+        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
       },
       {
         "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
@@ -4423,33 +4066,15 @@
       {
         "title": "Fleur brodée et épée consacrée",
         "text": "Les DGT infligés par les attaques normales augmentent de",
-        "level": [
-          { "1": "16 %" },
-          { "2": "20 %" },
-          { "3": "24 %" },
-          { "4": "28 %" },
-          { "5": "32 %" }
-        ]
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
       },
       {
         "text": "et ceux infligés par les compétences élémentaires augmentent de",
-        "level": [
-          { "1": "24 %." },
-          { "2": "30 %." },
-          { "3": "36 %." },
-          { "4": "42 %." },
-          { "5": "48 %." }
-        ]
+        "level": ["24 %.", "30 %.", "36 %.", "42 %.", "48 %."]
       },
       {
         "text": "Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       }
     ],
     "ascension": {
@@ -4545,33 +4170,15 @@
       {
         "title": "Résistance du Faucon de l'Ouest",
         "text": "Augmente l'ATQ de",
-        "level": [
-          { "1": "20 %." },
-          { "2": "25 %." },
-          { "3": "30 %." },
-          { "4": "35 %." },
-          { "5": "40 %." }
-        ]
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
       },
       {
         "text": "Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure",
-        "level": [
-          { "1": "100 %" },
-          { "2": "115 %" },
-          { "3": "130 %" },
-          { "4": "145 %" },
-          { "5": "160 %" }
-        ]
+        "level": ["100 %", "115 %", "130 %", "145 %", "160 %"]
       },
       {
         "text": "de l'ATQ sous forme de PV, et inflige des DGT équivalant à",
-        "level": [
-          { "1": "200 %" },
-          { "2": "230 %" },
-          { "3": "260 %" },
-          { "4": "290 %" },
-          { "5": "320 %" }
-        ]
+        "level": ["200 %", "230 %", "260 %", "290 %", "320 %"]
       },
       {
         "text": "de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s."
@@ -4645,6 +4252,3549 @@
           "name": "Rêve brisé de Décabarian",
           "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
           "number": 6,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon44",
+    "star": 1,
+    "name": "Épée d'entraînement",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721745604/Genshin/Weapons/EpeeDentrainement.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721745604/Genshin/Weapons/EpeeDentrainementAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Coffres",
+    "atk": "185",
+    "description": "Une épée façonnée à partir d'une lame de fer épaisse et solide. Capable de briser des montagnes si son propriétaire est suffisamment motivé.",
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "20 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Branche morte des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/BrancheMorteDesLignesEnergetiques.webp",
+          "number": 5,
+          "id": ""
+        },
+        {
+          "name": "Feuilles mortes des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/FeuillesMortesDesLignesEnergetiques.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 5,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dent de lait du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+          "number": 1,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc brisé du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc fendu du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+          "number": 1,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon45",
+    "star": 2,
+    "name": "Lame du mercenaire",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721746588/Genshin/Weapons/LameDuMercenaire.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721746588/Genshin/Weapons/LameDuMercenaireAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Coffres",
+    "atk": "243",
+    "description": "Un espadon qui a fait des ravages sur bien des champs de bataille. Il a vu des jours meilleurs, mais aussi bien pires.",
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "35 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Branche morte des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/BrancheMorteDesLignesEnergetiques.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Feuilles mortes des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/FeuillesMortesDesLignesEnergetiques.webp",
+          "number": 8,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 5,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 7,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dent de lait du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+          "number": 1,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc brisé du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc fendu du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+          "number": 1,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon46",
+    "star": 3,
+    "name": "Grande épée céleste",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721746974/Genshin/Weapons/GrandeEpeeCeleste.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721746974/Genshin/Weapons/GrandeEpeeCelesteAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Coffres",
+    "atk": "401",
+    "stat_secondaire": { "type": "Bonus de DGT physiques", "stat": "43,9 %" },
+    "description": "Une grande épée fiable. On raconte que quelqu'un a essayé de s'en servir comme moyen de transport en montant dessus... pour la deuxième fois.",
+    "effect": [
+      {
+        "title": "Courage",
+        "text": "Les attaques normales et chargées augmentent l'ATQ de",
+        "level": ["6 %", "7 %", "8 %", "9 %", "10 %"]
+      },
+      {
+        "text": "pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "105 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment d'os fragile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389277/Genshin/Materials/Mobs/FragmentDosFragile.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os solide",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosSolide.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os fossilisé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosFossilise.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Insigne des pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 12,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Grain d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+          "number": 2,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Éclat d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/EclatDaerosideriteNoire.webp",
+          "number": 6,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Fragment d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/FragmentDaerosideriteNoire.webp",
+          "number": 6,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Morceau d'aérosidérite noire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/MorceauDaerosideriteNoire.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon47",
+    "star": 3,
+    "name": "Grande épée en fer blanc",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721747325/Genshin/Weapons/GrandeEpeeEnfFerBlanc.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721747324/Genshin/Weapons/GrandeEpeeEnfFerBlancAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Coffres",
+    "atk": "401",
+    "stat_secondaire": { "type": "DEF", "stat": "43,9 %" },
+    "description": "Une épée à deux mains fabriquée dans du fer blanc, ce qui ajoute à la puissance de l'arme tout en réduisant son poids. Elle peut être maniée par tous, mais sa force reflète celle de la personne qui l'utilise.",
+    "effect": [
+      {
+        "title": "Moissonneur",
+        "text": "Restaure",
+        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+      },
+      { "text": "des PV après la défaite d'un ennemi." }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "105 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dispositif du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/DispositifDuChaos.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Circuit du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/CircuitDuChaos.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Noyau du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390045/Genshin/Materials/Mobs/NoyauDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 12,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 2,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Idéaux du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon48",
+    "star": 3,
+    "name": "Ombre ferreuse",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721747635/Genshin/Weapons/OmbreFerreuse.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721747634/Genshin/Weapons/OmbreFerreuseAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "401",
+    "stat_secondaire": { "type": "PV", "stat": "35,2 %" },
+    "description": "Une imitation de la célèbre épée d'Arundolyn, le Lion de la Lumière. Libérez le héros légendaire qui sommeille en vous ! Remarque : Ne rêvassez pas trop.",
+    "effect": [
+      {
+        "title": "Tenace",
+        "text": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à ",
+        "level": ["70 %,", "75 %,", "80 %,", "85 %,", "90 %,"]
+      },
+      {
+        "text": "et les DGT infligés par les attaques chargées augmentent de",
+        "level": ["30 %.", "35 %.", "40 %.", "45 %.", "50 %."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "105 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Corne lourde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343904/Genshin/Materials/Mobs/CorneLourde.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Corne en bronze noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343902/Genshin/Materials/Mobs/CorneEnBronzeNoir.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Corne à cristal noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721386566/Genshin/Materials/Mobs/CorneACristalNoir.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Nectar de Fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 12,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Tuile cassée de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+          "number": 2,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Mur abattu de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308516/Genshin/Weapons/Materials/MurAbattuDeDecabarian.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308513/Genshin/Weapons/Materials/FragmentDisperseDeDecabarian.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Rêve brisé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon49",
+    "star": 3,
+    "name": "Épée de la raison",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721748063/Genshin/Weapons/EpeeDeLaRaison.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721748063/Genshin/Weapons/EpeeDeLaRaisonAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "401",
+    "stat_secondaire": { "type": "ATQ", "stat": "35,2 %" },
+    "description": "Une grande massue en acier fin qui répond bien, le meilleur recours lors d'une argumentation agitée.",
+    "effect": [
+      {
+        "title": "Franc-parler",
+        "text": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent",
+        "level": ["60 %", "75 %", "90 %", "105 %", "120 %"]
+      },
+      {
+        "text": "de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "105 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pollen d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/PollenDherbeBrumeuse.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/HerbeBrumeuse.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Mèches d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345059/Genshin/Materials/Mobs/MecheDherbeBrumeuse.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 12,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Plomb karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+          "number": 2,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Mercure karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311146/Genshin/Weapons/Materials/MercureKarstique.webp",
+          "number": 6,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Argent karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311145/Genshin/Weapons/Materials/ArgentKarstique.webp",
+          "number": 6,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Or karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/OrKarstique.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon50",
+    "star": 3,
+    "name": "Épée sanglante",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721748453/Genshin/Weapons/EpeeSanglante.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721748452/Genshin/Weapons/EpeeSanglanteAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "354",
+    "stat_secondaire": { "type": "Maîtrise élémentaire", "stat": "187" },
+    "description": "Une épée en acier qui fut trempée dans du sang de dragon, la rendant invulnérable. On ne peut pas forcément en dire autant de la personne qui la manie.",
+    "effect": [
+      {
+        "title": "Fléau de feu et de foudre",
+        "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Pyro ou Électro de",
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "105 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Branche morte des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/BrancheMorteDesLignesEnergetiques.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Feuilles mortes des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/FeuillesMortesDesLignesEnergetiques.webp",
+          "number": 12,
+          "id": ""
+        },
+        {
+          "name": "Pousse des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387836/Genshin/Materials/Mobs/PousseDesLignesEnergetiques.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 12,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dent de lait du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+          "number": 2,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc brisé du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc fendu du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Nostalgie du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308501/Genshin/Weapons/Materials/NostalgieDuLoupBoreal.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon51",
+    "star": 4,
+    "name": "Aigue-marine de Makhaira",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721749120/Genshin/Weapons/AigueMarineDeMakhaira.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721749119/Genshin/Weapons/AigueMarineDeMakhairaAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2022",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "510",
+    "stat_secondaire": { "type": "Maîtrise élémentaire", "stat": "165" },
+    "description": "Un ancien espadon qui brille comme les eaux elles-mêmes. Un millier d'années d'érosion par le sable n'ont pas du tout émoussé son bord anormalement tranchant.",
+    "effect": [
+      {
+        "title": "Pavillon du désert",
+        "text": "L'effet suivant se déclenche toutes les 10 s : l'ATQ du personnage équipé de l'arme augmente d'une valeur équivalant à",
+        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+      },
+      {
+        "text": "de sa maîtrise élémentaire pendant 12 s, alors que les autres personnages de l'équipe à proximité obtiennent 30 % de ce bonus. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Conteneur du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570546/Genshin/Materials/Mobs/ConteneurDuChaos.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Module du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570545/Genshin/Materials/Mobs/ModuleDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Vis du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570545/Genshin/Materials/Mobs/VisDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Insigne des pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dernier écho du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+          "number": 3,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Éclat subsistant du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/EclatSubsistantDuPouvoirBrulant.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Rêve dominant du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/ReveDominantDuPouvoirBrulant.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Passé glorieux du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/PasseGlorieuxDuPouvoirBrulant.webp",
+          "number": 4,
+          "id": "WeaMat4"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon52",
+    "star": 4,
+    "name": "Akuoumaru",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721749677/Genshin/Weapons/Akuoumaru.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721749674/Genshin/Weapons/AkuoumaruAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "13 Octobre 2021",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "510",
+    "stat_secondaire": { "type": "ATQ", "stat": "41,3 %" },
+    "description": "L'épée bien-aimée du légendaire « Akuou ». Sa lame est énorme et majestueuse, mais étonnamment facile à manier.",
+    "effect": [
+      {
+        "title": "Marchevague de Watatsumi",
+        "text": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de ",
+        "level": ["0,12 %.", "0,15 %.", "0,18 %.", "0,21 %.", "0,24 %."]
+      },
+      {
+        "text": "Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à",
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+      },
+      { "text": "de cette manière." }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Griffe dissimulée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721820743/Genshin/Materials/Mobs/GriffeDisimulee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Ongle dissimulé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721820740/Genshin/Materials/Mobs/OngleDissimule.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Serre dissimulée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721820740/Genshin/Materials/Mobs/SerreDissimulee.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Garde-main ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852589/Genshin/Materials/Mobs/GardeMainAncien.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852581/Genshin/Materials/Mobs/GardeMainKageuchi.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Garde-main célèbre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852573/Genshin/Materials/Mobs/GardeMainCelebre.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Branche marine de corail",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312012/Genshin/Weapons/Materials/brancheMarinedeCorail.webp",
+          "number": 3,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Branche marine de gemme",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312009/Genshin/Weapons/Materials/BrancheMarineDeGemme.webp",
+          "number": 9,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Branche marine de jade",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312006/Genshin/Weapons/Materials/BrancheMarineDeJade.webp",
+          "number": 9,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Branche marine d'or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312005/Genshin/Weapons/Materials/BrancheMarineDor.webp",
+          "number": 4,
+          "id": "WeaMat3"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon53",
+    "star": 4,
+    "name": "Apparat de la forêt",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721821182/Genshin/Weapons/ApparatDeLaForet.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721821180/Genshin/Weapons/ApparatDeLaForetAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "24 Août 2022",
+    "obtain": "Forgeage",
+    "atk": "565",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "30,6 %" },
+    "description": "Une arme que vous avez obtenue dans un conte d'aranara. Elle a pris la forme d'une grande lame qui peut pulvériser les ennemis de la forêt.",
+    "effect": [
+      {
+        "title": "Sanctuaire sylvestre",
+        "text": "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de ",
+        "level": ["60", "75", "90", "105", "120"]
+      },
+      {
+        "text": "pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. L'effet de la feuille de conscience ne se cumule pas."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Conteneur du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570546/Genshin/Materials/Mobs/ConteneurDuChaos.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Module du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570545/Genshin/Materials/Mobs/ModuleDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Vis du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721570545/Genshin/Materials/Mobs/VisDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Satin rouge délavé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634221/Genshin/Materials/Mobs/SatinRougeDelave.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Soie rouge brodée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634209/Genshin/Materials/Mobs/SoieRougeBrodee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Brocart rouge luxueux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634198/Genshin/Materials/Mobs/BrocartRougeLuxueux.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Talisman en cuivre de la rosée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalisamanEnCuivreDeLaRosee.webp",
+          "number": 3,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Talisman en fer de la rosée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnFerDeLaRosee.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Talisman en argent de la rosée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnArgentDeLaRosee.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Talisman en or de la rosée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314656/Genshin/Weapons/Materials/TalismanEnOrDeLaRosee.webp",
+          "number": 4,
+          "id": "WeaMat4"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon54",
+    "star": 4,
+    "name": "Bâton bavard",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721822599/Genshin/Weapons/BatonBavard.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721822599/Genshin/Weapons/BatonBavardAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "16 Août 2023",
+    "obtain": "Battle Pass",
+    "atk": "565",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "18,4 %" },
+    "description": "La plupart des gens trouveront cette massue incrustée d'obsidienne assez convaincante.",
+    "effect": [
+      {
+        "title": "« Don du bagou »",
+        "text": "L'ATQ augmente de",
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+      },
+      {
+        "text": "pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de",
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+      },
+      {
+        "text": "pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Coque desséchée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740115/Genshin/Materials/Mobs/CoqueDessechee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Coque robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740111/Genshin/Materials/Mobs/CoqueRobuste.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Coque marquée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740108/Genshin/Materials/Mobs/CoqueMarquee.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Souvenir du jardin d'oasis",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/SouvenirDuJardinDoasis.webp",
+          "number": 3,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Gentillesse du jardin d'oasis",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/GentillesseDuJardinDoasis.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Deuil du jardin d'oasis",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DeuilDuJardinDoasis.webp",
+          "number": 9,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "VÉRITÉ DU JARDIN D'OASIS",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/VeriteDuJardinDoasis.webp",
+          "number": 4,
+          "id": "WeaMat4"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon55",
+    "star": 4,
+    "name": "Espadon (prototype)",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823036/Genshin/Weapons/EspadonPrototype.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823036/Genshin/Weapons/EspadonPrototypeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Forgeage",
+    "atk": "565",
+    "stat_secondaire": { "type": "ATQ", "stat": "27,6 %" },
+    "description": "Un prototype d'espadon ancien découvert dans la Forge de Rochenoire. La force qui s'en dégage lorsqu'on le manie laisse supposer qu'il serait capable de couper même à travers le tissu de la réalité.",
+    "effect": [
+      {
+        "title": "Pulvérisation",
+        "text": "Les attaques normales et chargées ont 50 % de chances d'infliger ",
+        "level": ["240 %", "300 %", "360 %", "420 %", "480 %"]
+      },
+      {
+        "text": "de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment d'os fragile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389277/Genshin/Materials/Mobs/FragmentDosFragile.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os solide",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosSolide.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os fossilisé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosFossilise.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Grain d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Éclat d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/EclatDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Fragment d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/FragmentDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Morceau d'aérosidérite noire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/MorceauDaerosideriteNoire.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon56",
+    "star": 4,
+    "name": "Espadon de Favonius",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823374/Genshin/Weapons/EspadonDeFavonius.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823374/Genshin/Weapons/EspadonDeFavoniusAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "454",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "61,3 %" },
+    "description": "Un espadon généralement manié par les chevaliers de l'Ordre de Favonius. Invoquer les éléments est un jeu d'enfant avec cette arme au pouvoir destructeur.",
+    "effect": [
+      {
+        "title": "Charge critique",
+        "text": "Les coups CRIT des attaques ont ",
+        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+      },
+      {
+        "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les",
+        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dispositif du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/DispositifDuChaos.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Circuit du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/CircuitDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390045/Genshin/Materials/Mobs/NoyauDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Idéaux du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon57",
+    "star": 4,
+    "name": "Espadon de Nagamasa",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823786/Genshin/Weapons/EspadonDeNagasama.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721823786/Genshin/Weapons/EspadonDeNagasamaAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "21 Juillet 2021",
+    "obtain": "Forgeage",
+    "atk": "510",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "45,9 %" },
+    "description": "Une lame qui était autrefois fabriquée à Tatarasuna. Lourde et résistante.",
+    "effect": [
+      {
+        "title": "",
+        "text": "Augmente les DGT infligés par les compétences élémentaires de",
+        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %.", "12 %."]
+      },
+      {
+        "text": "Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère",
+        "level": ["3", "3,5", "4", "4,5", "5"]
+      },
+      {
+        "text": "pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même si le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571871/Genshin/Materials/Mobs/EngrenageDuChaos.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Axe du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571866/Genshin/Materials/Mobs/AxeDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Oeil du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571866/Genshin/Materials/Mobs/OeilDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Garde-main ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852589/Genshin/Materials/Mobs/GardeMainAncien.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852581/Genshin/Materials/Mobs/GardeMainKageuchi.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Garde-main célèbre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852573/Genshin/Materials/Mobs/GardeMainCelebre.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Sagesse de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+          "number": 3,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Joie de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312001/Genshin/Weapons/Materials/JoieDeNarukami.webp",
+          "number": 9,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Affection de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311998/Genshin/Weapons/Materials/AffectionDeNarukami.webp",
+          "number": 9,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Vaillance de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311995/Genshin/Weapons/Materials/VaillanceDeNarukami.webp",
+          "number": 4,
+          "id": "WeaMat3"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon58",
+    "star": 4,
+    "name": "Espadon rituel",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824288/Genshin/Weapons/EspadonRituel.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824287/Genshin/Weapons/EspadonRituelAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "565",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "30,6 %" },
+    "description": "Un espadon ornemental que le temps a pétrifié, mais dont les ornements sont toujours visibles. Cette arme confère à son possesseur le pouvoir d'affronter les vents du temps.",
+    "effect": [
+      {
+        "title": "Sang-froid",
+        "text": "Les compétences élémentaires ont",
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+      },
+      {
+        "text": "de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les",
+        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Branche morte des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/BrancheMorteDesLignesEnergetiques.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Feuilles mortes des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/FeuillesMortesDesLignesEnergetiques.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pousse des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387836/Genshin/Materials/Mobs/PousseDesLignesEnergetiques.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dent de lait du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc brisé du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc fendu du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Nostalgie du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308501/Genshin/Weapons/Materials/NostalgieDuLoupBoreal.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon59",
+    "star": 4,
+    "name": "Espadon royal",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824628/Genshin/Weapons/EspadonRoyal.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824627/Genshin/Weapons/EspadonRoyalAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Boutique",
+    "atk": "565",
+    "stat_secondaire": { "type": "ATQ", "stat": "27,6 %" },
+    "description": "Un espadon assez ancien qui appartenait jadis aux dirigeants de Mondstadt. Il a été fabriqué à partir d'un matériau de qualité qui a su résister à l'épreuve du temps. Cette arme a été conçue pour la noblesse.",
+    "effect": [
+      {
+        "title": "Focus",
+        "text": "Augmente le taux CRIT de",
+        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+      },
+      {
+        "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dispositif du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/DispositifDuChaos.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Circuit du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/CircuitDuChaos.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390045/Genshin/Materials/Mobs/NoyauDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Idéaux du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon60",
+    "star": 4,
+    "name": "Fleur de mailles",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824919/Genshin/Weapons/FleurDeMailles.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721824919/Genshin/Weapons/FleurDeMaillesAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "03 Mars 2023",
+    "obtain": "Évènement Souffle des alizées (3.5)",
+    "atk": "565",
+    "stat_secondaire": { "type": "Maîtrise élémentaire", "stat": "110" },
+    "description": "Une grande épée gracieuse et élégante décorée de fleurs et de rubans.",
+    "effect": [
+      {
+        "title": "Murmure des vents et des fleurs",
+        "text": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de",
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+      },
+      {
+        "text": "et la maîtrise élémentaire de",
+        "level": ["48 pts", "60 pts", "72 pts", "84 pts", "96 pts"]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Coque desséchée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740115/Genshin/Materials/Mobs/CoqueDessechee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Coque robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740111/Genshin/Materials/Mobs/CoqueRobuste.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Coque marquée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740108/Genshin/Materials/Mobs/CoqueMarquee.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Coquille spectrale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711378266/Genshin/Materials/Mobs/CoquilleSpectrale.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Coeur spectral",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711378257/Genshin/Materials/Mobs/CoeurSpectral.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Noyau spectral",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711378249/Genshin/Materials/Mobs/NoyauSpectral.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Idéaux du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon61",
+    "star": 4,
+    "name": "Fluorescence",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721825390/Genshin/Weapons/Fluorescence.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721825389/Genshin/Weapons/FluorescenceAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "510",
+    "stat_secondaire": { "type": "Maîtrise élémentaire", "stat": "165" },
+    "description": "Une grande épée sans tranchant qui dégage une pâle lueur fluorescente. Idéale pour ceux qui aiment utiliser la force brute pour écraser leurs ennemis.",
+    "effect": [
+      {
+        "title": "Fléau d'eau et de foudre",
+        "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de",
+        "level": ["20 %.", "24 %.", "28 %.", "32 %.", "36 %."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pollen d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/PollenDherbeBrumeuse.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/HerbeBrumeuse.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Mèches d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345059/Genshin/Materials/Mobs/MecheDherbeBrumeuse.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Parchemin divinatoire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Plomb karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Mercure karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311146/Genshin/Weapons/Materials/MercureKarstique.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Argent karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311145/Genshin/Weapons/Materials/ArgentKarstique.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Or karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/OrKarstique.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon62",
+    "star": 4,
+    "name": "Illustre seigneur des mers",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721825679/Genshin/Weapons/IllustreSeigneurDesMers.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721825678/Genshin/Weapons/IllustreSeigneurDesMersAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "27 Septembre 2021",
+    "obtain": "Évènement Liesse au clair de lune (2.1)",
+    "atk": "454",
+    "stat_secondaire": { "type": "ATQ", "stat": "55,1 %" },
+    "description": "Le grand seigneur des océans. Ayant été séché à l'air, c'est une arme de qualité, mais également une nourriture bienvenue en cas d'urgence.",
+    "effect": [
+      {
+        "title": "Victoire océanique",
+        "text": "Augmente les DGT des déchaînements élémentaires de ",
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+      },
+      {
+        "text": "Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à ",
+        "level": ["100 %", "125 %", "150 %", "175 %", "200 %"]
+      },
+      {
+        "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment d'os fragile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389277/Genshin/Materials/Mobs/FragmentDosFragile.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os solide",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosSolide.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os fossilisé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosFossilise.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Grain d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Éclat d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/EclatDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Fragment d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/FragmentDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Morceau d'aérosidérite noire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/MorceauDaerosideriteNoire.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon63",
+    "star": 4,
+    "name": "Ombre immaculée",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826177/Genshin/Weapons/OmbreImmaculee.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826176/Genshin/Weapons/OmbreImmaculeeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Forgeage",
+    "atk": "510",
+    "stat_secondaire": { "type": "DEF", "stat": "51,7 %" },
+    "description": "Une épée d'origine étrangère avec une section émoussée. Elle fut introduite par les voies commerciales à Liyue, et est un instrument de destruction puissant entre de bonnes mains.",
+    "effect": [
+      {
+        "title": "Lame énergisante",
+        "text": "Les attaques normales et chargées augmentent l'ATQ et la DÉF de",
+        "level": ["6 %", "7,5 %", "9 %", "10,5 %", "12 %"]
+      },
+      {
+        "text": "pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dague de chasse rituelle",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390513/Genshin/Materials/Mobs/DagueDeChasseRituelle.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Dague rituelle de l'Usurier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390513/Genshin/Materials/Mobs/DagueRituelleDeLusurier.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Grande dague de l'Inspecteur",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390512/Genshin/Materials/Mobs/GrandeDaguedeLinspecteur.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Insigne des pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Sable lumineux de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Roche lustrée de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311153/Genshin/Weapons/Materials/RocheLustreeDeGuyun.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Squelette sacré de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311151/Genshin/Weapons/Materials/SqueletteSacreDeGuyun.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Corps divin de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311149/Genshin/Weapons/Materials/CorpsDivinDeGuyun.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon64",
+    "star": 4,
+    "name": "Ombre tidale",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826512/Genshin/Weapons/OmbreTidale.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826512/Genshin/Weapons/OmbreTidaleAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "16 Août 2023",
+    "obtain": "Forgeage",
+    "atk": "510",
+    "stat_secondaire": { "type": "ATQ", "stat": "41,3 %" },
+    "description": "Une épée de modèle standard à la fabrication exquise, forgée pour les officiers de haut rang et les capitaines de l'ancienne marine de Fontaine.",
+    "effect": [
+      {
+        "title": "Vague de croisière blanche",
+        "text": "Lorsque le personnage a reçu des soins, son ATQ augmente de ",
+        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+      },
+      {
+        "text": "pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Noyau de faille",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDeFaille.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Synapse étrangère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/SynapseEtrangere.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau d'organisme d'extramonde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDorganismeDextramonde.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Gobelet brisé de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+          "number": 3,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet à vin de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletAVinDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'argent de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletDargentDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'or de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletDorDeLaMerImmaculee.webp",
+          "number": 4,
+          "id": "WeaMat5"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon65",
+    "star": 4,
+    "name": "Ossature du dragon",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827149/Genshin/Weapons/OssatureDuDragon.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827148/Genshin/Weapons/OssatureDuDragonAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Battle Pass",
+    "atk": "510",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "27,6 %" },
+    "description": "Une épée rare venue des mers anciennes. Celui qui la manie peut presque entendre les vagues déferler.",
+    "effect": [
+      {
+        "title": "Brise-vagues",
+        "text": "Les DGT infligés augmentent de",
+        "level": ["6 %", "7 %", "8 %", "9 %", "10 %"]
+      },
+      {
+        "text": "et les DGT reçus de",
+        "level": ["3 %", "2,7 %", "2,4 %", "2,2 %", "2 %"]
+      },
+      {
+        "text": "toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment d'os fragile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389277/Genshin/Materials/Mobs/FragmentDosFragile.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os solide",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosSolide.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Fragment d'os fossilisé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721389276/Genshin/Materials/Mobs/FragmentDosFossilise.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Nectar de Fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Grain d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/GrainDaerosideriteNoire.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Éclat d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/EclatDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Fragment d'aérosidérite noire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311140/Genshin/Weapons/Materials/FragmentDaerosideriteNoire.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Morceau d'aérosidérite noire ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311139/Genshin/Weapons/Materials/MorceauDaerosideriteNoire.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon66",
+    "star": 4,
+    "name": "Scie électrique portative",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827576/Genshin/Weapons/ScieElectriquePortative.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827575/Genshin/Weapons/ScieElectriquePortativeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "27 Septembre 2023",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "454",
+    "stat_secondaire": { "type": "PV", "stat": "55,1 %" },
+    "description": "Une scie électrique à l'ancienne que l'on trouve rarement de nos jours. C'était autrefois un outil pour découper auquel les travailleurs du monde entier faisaient confiance.",
+    "effect": [
+      {
+        "title": "Chant de marins",
+        "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque stoïque pendant 30 s, un maximum de 3 marques stoïques pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques stoïques et accorde un effet de surrection pendant 10 s : chaque marque stoïque consommée augmente la maîtrise élémentaire de",
+        "level": ["40", "50", "60", "70", "80"]
+      },
+      {
+        "text": "pts puis, 2 s après le début de l'effet, restaure l'énergie élémentaire du personnage équipé de l'arme de",
+        "level": ["2", "2,5", "3", "3,5", "4"]
+      },
+      {
+        "text": "pts. Un effet de surrection peut être déclenché une fois toutes les 15 s, et des marques stoïques peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Noyau de faille",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDeFaille.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Synapse étrangère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/SynapseEtrangere.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau d'organisme d'extramonde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDorganismeDextramonde.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Gobelet brisé de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+          "number": 3,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet à vin de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletAVinDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'argent de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletDargentDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'or de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletDorDeLaMerImmaculee.webp",
+          "number": 4,
+          "id": "WeaMat5"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon67",
+    "star": 4,
+    "name": "Tombe-neige en argétoile",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827940/Genshin/Weapons/TombeNeigeEnArgetoile.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721827939/Genshin/Weapons/TombeNeigeEnArgetoileAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "23 Décembre 2020",
+    "obtain": "Forgeage",
+    "atk": "565",
+    "stat_secondaire": { "type": "Bonus de DGT physiques", "stat": "34,5 %" },
+    "description": "Un espadon antique autrefois dissimulé entre des fresques. Forgée en argétoile, cette arme a le pouvoir de fendre la neige et la glace.",
+    "effect": [
+      {
+        "title": "Deuil givré",
+        "text": "Les attaques normales et chargées ont ",
+        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+      },
+      {
+        "text": "de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à",
+        "level": ["80 %", "95 %", "110 %", "125 %", "140 %"]
+      },
+      {
+        "text": "de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors ",
+        "level": ["200 %", "240 %", "280 %", "320 %", "360 %"]
+      },
+      {
+        "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Corne lourde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343904/Genshin/Materials/Mobs/CorneLourde.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Corne en bronze noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343902/Genshin/Materials/Mobs/CorneEnBronzeNoir.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Corne à cristal noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721386566/Genshin/Materials/Mobs/CorneACristalNoir.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Tuile cassée de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Mur abattu de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308516/Genshin/Weapons/Materials/MurAbattuDeDecabarian.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308513/Genshin/Weapons/Materials/FragmentDisperseDeDecabarian.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Rêve brisé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon68",
+    "star": 4,
+    "name": "Trancheuse de Rochenoire",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721828337/Genshin/Weapons/TrancheuseDeRochenoire.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721828336/Genshin/Weapons/TrancheuseDeRochenoireAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "01 Novembre 2020",
+    "obtain": "Boutique",
+    "atk": "510",
+    "stat_secondaire": { "type": "DGT CRIT", "stat": "55,1 %" },
+    "description": "Un espadon très résistant fabriqué à la Forge de Rochenoire. Sa lame sombre brille d'une lueur rouge.",
+    "effect": [
+      {
+        "title": "De victoire en victoire",
+        "text": "Augmente l'ATQ de",
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+      },
+      {
+        "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pollen d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/PollenDherbeBrumeuse.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/HerbeBrumeuse.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Mèches d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345059/Genshin/Materials/Mobs/MecheDherbeBrumeuse.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Insigne de nouvelle recrue",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561223/Genshin/Materials/Mobs/InsigneDeNouvellerecrue.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Insigne de sergent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561218/Genshin/Materials/Mobs/InsigneDeSergent.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Insigne d'officier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709561214/Genshin/Materials/Mobs/InsigneDofficier.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Plomb karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Mercure karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311146/Genshin/Weapons/Materials/MercureKarstique.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Argent karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311145/Genshin/Weapons/Materials/ArgentKarstique.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Or karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/OrKarstique.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon69",
+    "star": 4,
+    "name": "« Méga épée magique du suzerain ultime »",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721832165/Genshin/Weapons/MegaEpeeMagiqueDuSuzerainUltime.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721832163/Genshin/Weapons/MegaEpeeMagiqueDuSuzerainUltimeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "21 Décembre 2023",
+    "obtain": "Évènement Roses et mousquets (4.3)",
+    "atk": "565",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "30,6 %" },
+    "description": "Une épée magique qui ne peut être maniée que par le suzerain ultime qui règne sur les mers. Comme elle a été fabriquée avec des matériaux spéciaux résistants à l'eau, elle ne sera pas trempée même si elle est immergée dans l'eau. On pourrait même dire qu'elle est invincible !",
+    "effect": [
+      {
+        "title": "Mélusaide !",
+        "text": "Augmente l'ATQ de ",
+        "level": ["12 %.", "15 %", "18 %", "21 %", "24 %"]
+      },
+      {
+        "text": "Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de ",
+        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+      },
+      {
+        "text": "supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Vieille montre à gousset d'opérateur",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721569164/Genshin/Materials/Mobs/VieilleMontreAGoussetDoperateur.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Montre à gousset d'opérateur",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721569164/Genshin/Materials/Mobs/MontreAGoussetDoperateur.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Constance d'opérateur",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721569164/Genshin/Materials/Mobs/ConstanceDoperateur.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Gobelet brisé de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmacul%C3%A9%C3%A9.webp",
+          "number": 3,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet à vin de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletAVinDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'argent de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletDargentDeLaMerImmaculee.webp",
+          "number": 9,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'or de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletDorDeLaMerImmaculee.webp",
+          "number": 4,
+          "id": "WeaMat5"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon70",
+    "star": 4,
+    "name": "Épée antique des Millelithes",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721832717/Genshin/Weapons/EpeeAntiqueDesMillelithes.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721832713/Genshin/Weapons/EpeeAntiqueDesMillelithesAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "23 Février 2021",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "510",
+    "stat_secondaire": { "type": "ATQ", "stat": "41,3 %" },
+    "description": "Une grande épée qui a été taillée à partir du substrat rocheux de Liyue.",
+    "effect": [
+      {
+        "title": "Axiome de la roche : Unité",
+        "text": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de ",
+        "level": ["7 %", "8 %", "9 %", "10 %", "11 %"]
+      },
+      {
+        "text": "de bonus d'ATQ et de",
+        "level": ["3 %", "4 %", "5 %", "6 %", "7 %"]
+      },
+      {
+        "text": "de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dague de chasse rituelle",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390513/Genshin/Materials/Mobs/DagueDeChasseRituelle.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Dague rituelle de l'Usurier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390513/Genshin/Materials/Mobs/DagueRituelleDeLusurier.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Grande dague de l'Inspecteur",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390512/Genshin/Materials/Mobs/GrandeDaguedeLinspecteur.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614667/Genshin/Materials/Mobs/PointeDeFlecheRobuste.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche aiguisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614665/Genshin/Materials/Mobs/PointeDeFlecheAiguisee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Pointe de flèche usée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708614664/Genshin/Materials/Mobs/PointeDeFlecheUsee.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Sable lumineux de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311154/Genshin/Weapons/Materials/SableLumineuxDeGuyun.webp",
+          "number": 3,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Roche lustrée de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311153/Genshin/Weapons/Materials/RocheLustreeDeGuyun.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Squelette sacré de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311151/Genshin/Weapons/Materials/SqueletteSacreDeGuyun.webp",
+          "number": 9,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Corps divin de Guyun",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311149/Genshin/Weapons/Materials/CorpsDivinDeGuyun.webp",
+          "number": 4,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon71",
+    "star": 4,
+    "name": "Épée-horloge",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721833071/Genshin/Weapons/EpeeHorloge.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721833070/Genshin/Weapons/EpeeHorlogeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "510",
+    "stat_secondaire": { "type": "PV", "stat": "41,3 %" },
+    "description": "Une grande épée lourde équipée d'une cloche, mais dont le mécanisme de chronométrage a été détruit il y a bien longtemps.",
+    "effect": [
+      {
+        "title": "Protecteur rebelle",
+        "text": "Subir des DGT génère un bouclier qui absorbe jusqu'à",
+        "level": ["20 %", "23 %", "26 %", "29 %", "32 %"]
+      },
+      {
+        "text": "des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de",
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Corne lourde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343904/Genshin/Materials/Mobs/CorneLourde.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Corne en bronze noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343902/Genshin/Materials/Mobs/CorneEnBronzeNoir.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Corne à cristal noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721386566/Genshin/Materials/Mobs/CorneACristalNoir.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Nectar de Fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Tuile cassée de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Mur abattu de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308516/Genshin/Weapons/Materials/MurAbattuDeDecabarian.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308513/Genshin/Weapons/Materials/FragmentDisperseDeDecabarian.webp",
+          "number": 9,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Rêve brisé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
+          "number": 4,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon72",
+    "star": 5,
+    "name": "Balise de la mer de roseaux",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721833559/Genshin/Weapons/BaliseDeLaMerDeRoseaux.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721833556/Genshin/Weapons/BaliseDeLaMerDeRoseauxAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "01 Mars 2023",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "608",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "33,1 %" },
+    "description": "Une grande épée à bout plat conçue pour être l'arme d'un roi d'antan ou une sorte d'instrument de cérémonie.",
+    "effect": [
+      {
+        "title": "Garde du désert",
+        "text": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de ",
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+      },
+      {
+        "text": "pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de",
+        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+      },
+      {
+        "text": "pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de",
+        "level": ["32 %.", "40 %.", "48 %.", "56 %.", "64 %."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Coque desséchée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740115/Genshin/Materials/Mobs/CoqueDessechee.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Coque robuste",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740111/Genshin/Materials/Mobs/CoqueRobuste.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Coque marquée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721740108/Genshin/Materials/Mobs/CoqueMarquee.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Satin rouge délavé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634221/Genshin/Materials/Mobs/SatinRougeDelave.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Soie rouge brodée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634209/Genshin/Materials/Mobs/SoieRougeBrodee.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Brocart rouge luxueux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1711634198/Genshin/Materials/Mobs/BrocartRougeLuxueux.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dernier écho du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314655/Genshin/Weapons/Materials/DernierEchoDuPouvoirBrulant.webp",
+          "number": 5,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Éclat subsistant du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/EclatSubsistantDuPouvoirBrulant.webp",
+          "number": 14,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Rêve dominant du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/ReveDominantDuPouvoirBrulant.webp",
+          "number": 14,
+          "id": "WeaMat4"
+        },
+        {
+          "name": "Passé glorieux du pouvoir brûlant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721314654/Genshin/Weapons/Materials/PasseGlorieuxDuPouvoirBrulant.webp",
+          "number": 6,
+          "id": "WeaMat4"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon73",
+    "star": 5,
+    "name": "Brise-pierre de corne rouge",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721834304/Genshin/Weapons/BrisePierreDeCorneRouge.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721834303/Genshin/Weapons/BrisePierreDeCorneRougeAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "14 Décembre 2021",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "542",
+    "stat_secondaire": { "type": "DGT CRIT", "stat": "88,2 %" },
+    "description": "D'après son ancien propriétaire, cette arme serait le « puissant seigneur lion doré écraseur d'or et briseur de pierres en corne rouge » pouvant faire déguerpir n'importe quel monstre sur-le-champ...",
+    "effect": [
+      {
+        "title": "Gokadaiou du Roi Otogi",
+        "text": "Augmente la DÉF de ",
+        "level": ["28 %", "35 %", "42 %", "49 %", "56 %"]
+      },
+      {
+        "text": ", et augmente les DGT des attaques normales et chargées d'une valeur équivalant à ",
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+      },
+      { "text": "de la DÉF." }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Griffe dissimulée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311998/Genshin/Weapons/Materials/AffectionDeNarukami.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Ongle dissimulé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721820740/Genshin/Materials/Mobs/OngleDissimule.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Serre dissimulée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721820740/Genshin/Materials/Mobs/SerreDissimulee.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Garde-main ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852589/Genshin/Materials/Mobs/GardeMainAncien.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852581/Genshin/Materials/Mobs/GardeMainKageuchi.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Garde-main célèbre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1710852573/Genshin/Materials/Mobs/GardeMainCelebre.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Sagesse de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312003/Genshin/Weapons/Materials/SagesseDeNarukami.webp",
+          "number": 5,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Joie de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721312001/Genshin/Weapons/Materials/JoieDeNarukami.webp",
+          "number": 14,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Affection de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311998/Genshin/Weapons/Materials/AffectionDeNarukami.webp",
+          "number": 14,
+          "id": "WeaMat3"
+        },
+        {
+          "name": "Vaillance de Narukami",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311995/Genshin/Weapons/Materials/VaillanceDeNarukami.webp",
+          "number": 6,
+          "id": "WeaMat3"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon74",
+    "star": 5,
+    "name": "Condamneur",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721834687/Genshin/Weapons/Comdamneur.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721834682/Genshin/Weapons/ComdamneurAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "20 Décembre 2023",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "674",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "22,1 %" },
+    "description": "Une arme autrefois utilisée par une jeune fille qui a abandonné son nom de famille, tachée du sang de ses ennemis et de ses proches.",
+    "effect": [
+      {
+        "title": "Promesses des mille aubes et crépuscules",
+        "text": "Augmente l'ATQ de ",
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+      },
+      {
+        "text": "Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de",
+        "level": ["18 %.", "22,5 %.", "27 %.", "31,5 %.", "36 %."]
+      },
+      {
+        "text": "Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Noyau de faille",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDeFaille.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Synapse étrangère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/SynapseEtrangere.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Noyau d'organisme d'extramonde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721826697/Genshin/Materials/Mobs/NoyauDorganismeDextramonde.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Fragment d'un accord ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315654/Genshin/Weapons/Materials/FragmentDunAccordAncien.webp",
+          "number": 5,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Chapitre d'un accord ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315651/Genshin/Weapons/Materials/ChapitreDunAccordAncien.webp",
+          "number": 14,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Mouvement d'un accord ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315651/Genshin/Weapons/Materials/MouvementDunAccordAncien.webp",
+          "number": 14,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Écho d'un accord ancien",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315648/Genshin/Weapons/Materials/EchoDunAccordAncien.webp",
+          "number": 6,
+          "id": "WeaMat5"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon75",
+    "star": 5,
+    "name": "Fierté de la Voûte d'Azur",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721835063/Genshin/Weapons/FierteDeLaVouteDazur.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721835059/Genshin/Weapons/FierteDeLaVouteDazurAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "674",
+    "stat_secondaire": { "type": "Recharge d'énergie", "stat": "36,8 %" },
+    "description": "Une épée à deux mains symbolisant le fier envol de Dvalin dans les cieux. Elle émet un son grave lorsqu'on la brandit, invoquant la puissance du dragon Anémo qui déchaîne les vents.",
+    "effect": [
+      {
+        "title": "Échine du dragon briseur de ciel",
+        "text": "Augmente tous les DGT infligés de",
+        "level": ["8 %.", "10 %.", "12 %.", "14 %.", "16 %."]
+      },
+      {
+        "text": "Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige ",
+        "level": ["80 %", "100 %", "120 %", "140 %", "160 %"]
+      },
+      {
+        "text": "de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Branche morte des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/BrancheMorteDesLignesEnergetiques.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Feuilles mortes des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387837/Genshin/Materials/Mobs/FeuillesMortesDesLignesEnergetiques.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Pousse des lignes énergétiques",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721387836/Genshin/Materials/Mobs/PousseDesLignesEnergetiques.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Bave de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129616/Genshin/Materials/Mobs/BaveDeBlob.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Mucus de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129614/Genshin/Materials/Mobs/MucusDeBlob.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Essence de blob",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709129613/Genshin/Materials/Mobs/EssenceDeBlob.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Dent de lait du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721689125/Genshin/Weapons/Materials/DentDeLaitDuLoupBoreal.webp",
+          "number": 5,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc brisé du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308506/Genshin/Weapons/Materials/CrocBriseDuLoupBoreal.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Croc fendu du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308503/Genshin/Weapons/Materials/CrocFenduDuLoupBoreal.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Nostalgie du Loup boréal",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308501/Genshin/Weapons/Materials/NostalgieDuLoupBoreal.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon76",
+    "star": 5,
+    "name": "Lame brute",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721835440/Genshin/Weapons/LameBrute.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721835439/Genshin/Weapons/LameBruteAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "01 Décembre 2020",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "608",
+    "stat_secondaire": { "type": "ATQ", "stat": "49,6 %" },
+    "description": "Capable d'éloigner les esprits et les individus mal intentionnés, cette épée à deux mains dénuée de tranchant est habitée par une puissance divine.",
+    "effect": [
+      {
+        "title": "Majesté dorée",
+        "text": "Augmente la force du bouclier de ",
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %"]
+      },
+      {
+        "text": "Toucher un ennemi augmente l'ATQ de ",
+        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+      },
+      {
+        "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pollen d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/PollenDherbeBrumeuse.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345060/Genshin/Materials/Mobs/HerbeBrumeuse.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Mèches d'herbe brumeuse",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721345059/Genshin/Materials/Mobs/MecheDherbeBrumeuse.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Insigne des pilleurs",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643333/Genshin/Materials/Mobs/InsigneDesPilleurs.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnArgent.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708643305/Genshin/Materials/Mobs/InsigneDeCorbeauEnOr.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Plomb karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311148/Genshin/Weapons/Materials/PlombKarstique.webp",
+          "number": 5,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Mercure karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311146/Genshin/Weapons/Materials/MercureKarstique.webp",
+          "number": 14,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Argent karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311145/Genshin/Weapons/Materials/ArgentKarstique.webp",
+          "number": 14,
+          "id": "WeaMat2"
+        },
+        {
+          "name": "Or karstique",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721311143/Genshin/Weapons/Materials/OrKarstique.webp",
+          "number": 6,
+          "id": "WeaMat2"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon77",
+    "star": 5,
+    "name": "Mort-du-loup",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721839105/Genshin/Weapons/MortDuLoup.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721839105/Genshin/Weapons/MortDuLoupAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Voeux",
+    "atk": "608",
+    "stat_secondaire": { "type": "ATQ", "stat": "49,6 %" },
+    "description": "Une épée longue appartenant au chevalier aux loups. Il ne s'agissait au départ que d'une épaisse plaque de fer offerte par le forgeron de la ville, mais elle a acquis un pouvoir légendaire au côté des loups.",
+    "effect": [
+      {
+        "title": "Chasse lupicale",
+        "text": "Augmente l'ATQ de",
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+      },
+      {
+        "text": "Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de",
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+      },
+      {
+        "text": "pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dispositif du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/DispositifDuChaos.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Circuit du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/CircuitDuChaos.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Noyau du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390045/Genshin/Materials/Mobs/NoyauDuChaos.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Parchemin divinatoire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Parchemin maudit",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560233/Genshin/Materials/Mobs/ParcheminMaudit.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 5,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Idéaux du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308493/Genshin/Weapons/Materials/IdeauxDuChevalierDuCrocDeLion.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon78",
+    "star": 5,
+    "name": "Ode au chant du vent",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721840498/Genshin/Weapons/OdeAuChantDuVent.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721840498/Genshin/Weapons/OdeAuChantDuVentAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "18 Mai 2021",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "741",
+    "stat_secondaire": { "type": "Bonus de DGT physiques", "stat": "20,7 %" },
+    "description": "Un espadon aussi léger que la brise soufflant sur l'herbe, mais aussi puissant qu'un ouragan.",
+    "effect": [
+      {
+        "title": "Hymne du drapeau rebelle",
+        "text": "Partie du « Concert du millénaire ». Augmente l'ATQ de",
+        "level": ["16 %,", "20 %,", "24 %,", "28 %,", "32 %,"]
+      },
+      {
+        "text": "et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s maximum. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de",
+        "level": ["12 %,", "15 %,", "18 %,", "21 %,", "24 %,"]
+      },
+      {
+        "text": "et l'ATQ de",
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+      },
+      {
+        "text": "Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Corne lourde",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343904/Genshin/Materials/Mobs/CorneLourde.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Corne en bronze noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721343902/Genshin/Materials/Mobs/CorneEnBronzeNoir.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Corne à cristal noir",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721386566/Genshin/Materials/Mobs/CorneACristalNoir.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Tuile cassée de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308519/Genshin/Weapons/Materials/TuileCasseDeDecabarian.webp",
+          "number": 5,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Mur abattu de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308516/Genshin/Weapons/Materials/MurAbattuDeDecabarian.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308513/Genshin/Weapons/Materials/FragmentDisperseDeDecabarian.webp",
+          "number": 14,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Rêve brisé de Décabarian",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308511/Genshin/Weapons/Materials/ReveBriseDeDecabarian.webp",
+          "number": 6,
+          "id": "WeaMat1"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon79",
+    "star": 1,
+    "name": "Lance du débutant",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721841039/Genshin/Weapons/LanceDuDebutant.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721841039/Genshin/Weapons/LanceDuDebutantAsc.webp",
+    "type": {
+      "name": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "release_date": "28 Septembre 2020",
+    "obtain": "Coffres",
+    "atk": "185",
+    "description": "Une lance droite comme un mât, idéale en situation de combat. Elle dégage une présence imposante.",
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "25 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Dispositif du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/DispositifDuChaos.webp",
+          "number": 5,
+          "id": ""
+        },
+        {
+          "name": "Circuit du chaos",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721390046/Genshin/Materials/Mobs/CircuitDuChaos.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Parchemin divinatoire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560253/Genshin/Materials/Mobs/ParcheminDivinatoire.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Parchemin sigillé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560242/Genshin/Materials/Mobs/ParcheminSigille.webp",
+          "number": 5,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Entraves du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308498/Genshin/Weapons/Materials/EntravesDuChevalierDuCrocDeLion.webp",
+          "number": 1,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Chaînes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308496/Genshin/Weapons/Materials/ChainesDuChevalierDuCrocDeLion.webp",
+          "number": 3,
+          "id": "WeaMat1"
+        },
+        {
+          "name": "Menottes du Chevalier du Croc de Lion",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721308494/Genshin/Weapons/Materials/MenottesDuChevalierDuCrocDeLion.webp",
+          "number": 1,
           "id": "WeaMat1"
         }
       ]
