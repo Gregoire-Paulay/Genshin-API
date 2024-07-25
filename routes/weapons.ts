@@ -54,6 +54,18 @@ weaponRouter.get("/weapon/materials/details", (req: Request, res: Response) => {
 });
 
 // 3 - Route qui renvoie toutes les armes
+weaponRouter.get("/weapons", (req: Request, res: Response) => {
+  try {
+    const allWeaponParsed = allWeaponsSchema.parse(weapons);
+    return res.status(200).json(allWeaponParsed);
+  } catch (error) {
+    if (error instanceof ZodError) {
+      return res.status(400).json(error);
+    } else {
+      return res.status(500).json(error);
+    }
+  }
+});
 
 // 4 - Route qui renvoie une arme en fonction de son id
 weaponRouter.get("/weapon/details", (req: Request, res: Response) => {
@@ -61,7 +73,7 @@ weaponRouter.get("/weapon/details", (req: Request, res: Response) => {
     const { id } = req.query;
 
     for (let i = 0; i < weapons.length; i++) {
-      console.log(i);
+      // console.log(i);
       if (id === weapons[i].id) {
         const weaponParsed = weaponSchema.parse(weapons[i]);
         return res.status(200).json(weaponParsed);
