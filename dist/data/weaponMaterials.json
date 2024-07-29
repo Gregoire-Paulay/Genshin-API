@@ -100,14 +100,51 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721840498/Genshin/Weapons/OdeAuChantDuVent.webp",
             "id": "Weapon78"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Arc du corbeau",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721948193/Genshin/Weapons/ArcDuCorbeau.webp",
+            "id": "Weapon113"
+          },
+          {
+            "name": "Arc de chasse verdoyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721991457/Genshin/Weapons/ArcDeChasseVerdoyant.webp",
+            "id": "Weapon119"
+          },
+          {
+            "name": "Dernière corde",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721995129/Genshin/Weapons/DerniereCorde.webp",
+            "id": "Weapon128"
+          },
+          {
+            "name": "Valse nocturne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721999156/Genshin/Weapons/ValseNocturne.webp",
+            "id": "Weapon139"
+          },
+          {
+            "name": "Notes de l'apprenti",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722003812/Genshin/Weapons/NotesDeLapprenti.webp",
+            "id": "Weapon149"
+          },
+          {
+            "name": "grimoire de poche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722004084/Genshin/Weapons/GrimoireDePoche.webp",
+            "id": "Weapon150"
+          },
+          {
+            "name": "Guide de magie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722254416/Genshin/Weapons/GuideDeMagie.webp",
+            "id": "Weapon152"
+          },
+          {
+            "name": "Code de Favonius",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722258377/Genshin/Weapons/CodeDeFavonius.webp",
+            "id": "Weapon160"
+          },
+          {
+            "name": "Grimoire royal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722259484/Genshin/Weapons/GrimoireRoyal.webp",
+            "id": "Weapon163"
+          }
         ]
       },
       {
@@ -211,11 +248,56 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721919018/Genshin/Weapons/ArcDeChasseAguerri.webp",
             "id": "Weapon111"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Serment de l'archer",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721949077/Genshin/Weapons/SermentDeLarcher.webp",
+            "id": "Weapon116"
+          },
+          {
+            "name": "Arc rituel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721992046/Genshin/Weapons/ArcRituel.webp",
+            "id": "Weapon121"
+          },
+          {
+            "name": "Ailes de la Voûte d'Azur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721999613/Genshin/Weapons/AileDeLaVouteDazur.webp",
+            "id": "Weapon140"
+          },
+          {
+            "name": "Ultime soupir",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722002829/Genshin/Weapons/UltimeSoupir.webp",
+            "id": "Weapon147"
+          },
+          {
+            "name": "Histoire des chasseurs de dragon",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722254656/Genshin/Weapons/HistoireDesChasseursDeDragon.webp",
+            "id": "Weapon153"
+          },
+          {
+            "name": "Ballade d'un azur infini",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722258021/Genshin/Weapons/BalladeDunAzurInfini.webp",
+            "id": "Weapon159"
+          },
+          {
+            "name": "Contes de Dodoco",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722258683/Genshin/Weapons/ContesDeDodoco.webp",
+            "id": "Weapon161"
+          },
+          {
+            "name": "Mouvement vagabond",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722260756/Genshin/Weapons/MouvementVagabond.webp",
+            "id": "Weapon167"
+          },
+          {
+            "name": "Vins et chants",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722263283/Genshin/Weapons/VinsEtChants.webp",
+            "id": "Weapon171"
+          },
+          {
+            "name": "Atlas de la Voûte d'Azur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722264633/Genshin/Weapons/AtlasDeLaVouteDazur.webp",
+            "id": "Weapon175"
+          }
         ]
       },
       {
@@ -309,12 +391,56 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721912632/Genshin/Weapons/BergeDeLaVouteDazur.webp",
             "id": "Weapon102"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Arc courbé",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721947893/Genshin/Weapons/ArcCourbe.webp",
+            "id": "Weapon112"
+          },
+          {
+            "name": "Arc de chasse de Favonius",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721950032/Genshin/Weapons/ArcDeChasseDeFavonius.webp",
+            "id": "Weapon118"
+          },
+          {
+            "name": "Arc royal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721992746/Genshin/Weapons/ArcRoyal.webp",
+            "id": "Weapon123"
+          },
+          {
+            "name": "Ode aux alizées",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721997879/Genshin/Weapons/OdeAuxAlizees.webp",
+            "id": "Weapon135"
+          },
+          {
+            "name": "Traqueur des impasses",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721998829/Genshin/Weapons/TraqueurDesImpasses.webp",
+            "id": "Weapon138"
+          },
+          {
+            "name": "Arc d'Amos",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721999970/Genshin/Weapons/ArcDamos.webp",
+            "id": "Weapon141"
+          },
+          {
+            "name": "Conte d'un autre monde",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722253995/Genshin/Weapons/ConteDunAutreMonde.webp",
+            "id": "Weapon151"
+          },
+          {
+            "name": "Fruit du permafrost",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722259137/Genshin/Weapons/FruitDuPermafrost.webp",
+            "id": "Weapon162"
+          },
+          {
+            "name": "Mémoires de rituels",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722261203/Genshin/Weapons/MemoiresDeRituels.webp",
+            "id": "Weapon168"
+          },
+          {
+            "name": "L'origine des Quatre Vents",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722265515/Genshin/Weapons/LorigineDesQuatreVents.webp",
+            "id": "Weapon177"
+          }
         ]
       }
     ]
@@ -401,10 +527,51 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721914054/Genshin/Weapons/LanceDeJadeAilee.webp",
             "id": "Weapon105"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Lance-pierres",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721948469/Genshin/Weapons/LancePierres.webp",
+            "id": "Weapon114"
+          },
+          {
+            "name": "Arc de guerre de Rochenoire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721991777/Genshin/Weapons/ArcDeGuerreDeRochenoire.webp",
+            "id": "Weapon120"
+          },
+          {
+            "name": "Arc rouillé",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721992436/Genshin/Weapons/ArcRouille.webp",
+            "id": "Weapon122"
+          },
+          {
+            "name": "Simulacre d'eau",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722002415/Genshin/Weapons/SimulacreDeau.webp",
+            "id": "Weapon146"
+          },
+          {
+            "name": "Orbe jadien",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722256893/Genshin/Weapons/OrbeJadien.webp",
+            "id": "Weapon155"
+          },
+          {
+            "name": "Agate de Rochenoire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722257172/Genshin/Weapons/AgateDeRochenoire.webp",
+            "id": "Weapon156"
+          },
+          {
+            "name": "Jade sacrificiel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722259742/Genshin/Weapons/JadeSacrificiel.webp",
+            "id": "Weapon164"
+          },
+          {
+            "name": "Perle Solaire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722262417/Genshin/Weapons/PerleSolaire.webp",
+            "id": "Weapon169"
+          },
+          {
+            "name": "Splendeur de l'azur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267281/Genshin/Weapons/SplendeurDeLazur.webp",
+            "id": "Weapon181"
+          }
         ]
       },
       {
@@ -493,11 +660,36 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918324/Genshin/Weapons/EtouffeurDeCalamites.webp",
             "id": "Weapon109"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Messager",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721948782/Genshin/Weapons/Messager.webp",
+            "id": "Weapon115"
+          },
+          {
+            "name": "Lune paisible (prototype)",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721997034/Genshin/Weapons/LunePaisiblePrototype.webp",
+            "id": "Weapon133"
+          },
+          {
+            "name": "Néphrite jumelle",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722256543/Genshin/Weapons/NephriteJumelle.webp",
+            "id": "Weapon154"
+          },
+          {
+            "name": "Malice (prototype)",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722260363/Genshin/Weapons/MalicePrototype.webp",
+            "id": "Weapon166"
+          },
+          {
+            "name": "Oeil de la perception",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722264244/Genshin/Weapons/OeilDeLaPerception.webp",
+            "id": "Weapon174"
+          },
+          {
+            "name": "Écho de la grue",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722269026/Genshin/Weapons/EchoDeLaGrue.webp",
+            "id": "Weapon185"
+          }
         ]
       },
       {
@@ -581,11 +773,31 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721915053/Genshin/Weapons/PerceurPrismatique.webp",
             "id": "Weapon107"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Arc à poulies",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721993030/Genshin/Weapons/ArcAPoulies.webp",
+            "id": "Weapon124"
+          },
+          {
+            "name": "Crépuscule couchant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721994704/Genshin/Weapons/CrepusculeCouchant.webp",
+            "id": "Weapon127"
+          },
+          {
+            "name": "Nimbus-forgé",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721997510/Genshin/Weapons/NimbusForge.webp",
+            "id": "Weapon134"
+          },
+          {
+            "name": "Atlas des terres et des mers",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722257698/Genshin/Weapons/AtlasDesTerresEtDesMers.webp",
+            "id": "Weapon158"
+          },
+          {
+            "name": "Chaîne mortelles",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722265230/Genshin/Weapons/ChainesMortelles.webp",
+            "id": "Weapon176"
+          }
         ]
       }
     ]
@@ -647,11 +859,21 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721749677/Genshin/Weapons/Akuoumaru.webp",
             "id": "Weapon52"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Anneau des Hakushin",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722257426/Genshin/Weapons/AnneauDesHakushin.webp",
+            "id": "Weapon157"
+          },
+          {
+            "name": "Œil d'assermentation",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722263889/Genshin/Weapons/OeilDassermentation.webp",
+            "id": "Weapon173"
+          },
+          {
+            "name": "Lueur de la lune éternelle",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722265817/Genshin/Weapons/LueurDeLaLuneEternelle.webp",
+            "id": "Weapon178"
+          }
         ]
       },
       {
@@ -700,11 +922,26 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721834304/Genshin/Weapons/BrisePierreDeCorneRouge.webp",
             "id": "Weapon73"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Arc d'exorcisme",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721949598/Genshin/Weapons/ArcDexorcisme.webp",
+            "id": "Weapon117"
+          },
+          {
+            "name": "Lune de Mouun",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721996657/Genshin/Weapons/LuneDeMouun.webp",
+            "id": "Weapon132"
+          },
+          {
+            "name": "Predator",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721998546/Genshin/Weapons/Predator.webp",
+            "id": "Weapon137"
+          },
+          {
+            "name": "Pulsation du tonnerre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722002031/Genshin/Weapons/PulsationDuTonnerre.webp",
+            "id": "Weapon145"
+          }
         ]
       },
       {
@@ -758,10 +995,16 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721914434/Genshin/Weapons/LumiereDuFaucheur.webp",
             "id": "Weapon106"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Étoile polaire",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722003210/Genshin/Weapons/EtoilePolaire.webp",
+            "id": "Weapon148"
+          },
+          {
+            "name": "Vérité de Kagura",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722268689/Genshin/Weapons/VeriteDeKagura.webp",
+            "id": "Weapon184"
+          }
         ]
       }
     ]
@@ -833,12 +1076,11 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721906117/Genshin/Weapons/DialoguesDesSagesDuDesert.webp",
             "id": "Weapon86"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Perceur d'ibis",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721998182/Genshin/Weapons/PerceurDibis.webp",
+            "id": "Weapon136"
+          }
         ]
       },
       {
@@ -882,12 +1124,21 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721913538/Genshin/Weapons/BatonDesSablesEcarlates.webp",
             "id": "Weapon104"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Le fruit de l'accomplissement",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722260039/Genshin/Weapons/LeFruitDeLaccomplissement.webp",
+            "id": "Weapon165"
+          },
+          {
+            "name": "Étoile du soir errante",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722263607/Genshin/Weapons/EtoileDuSoirErrante.webp",
+            "id": "Weapon172"
+          },
+          {
+            "name": "Mille rêves flottants",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722266180/Genshin/Weapons/MilleRevesFlottants.webp",
+            "id": "Weapon179"
+          }
         ]
       },
       {
@@ -926,13 +1177,31 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721833559/Genshin/Weapons/BaliseDeLaMerDeRoseaux.webp",
             "id": "Weapon72"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Chalutier",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721993358/Genshin/Weapons/Chalutier.webp",
+            "id": "Weapon125"
+          },
+          {
+            "name": "Descendant du soleil flamboyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721995443/Genshin/Weapons/DescendantDuSoleilFlamboyant.webp",
+            "id": "Weapon129"
+          },
+          {
+            "name": "Le valet du roi",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721996304/Genshin/Weapons/LeValetDuRoi.webp",
+            "id": "Weapon131"
+          },
+          {
+            "name": "La voie du chasseur",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722001641/Genshin/Weapons/LaVoieDuChasseur.webp",
+            "id": "Weapon144"
+          },
+          {
+            "name": "Mémoire de Tulaytullah",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722266577/Genshin/Weapons/MemoireDeTulaytullah.webp",
+            "id": "Weapon180"
+          }
         ]
       }
     ]
@@ -999,10 +1268,21 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721907092/Genshin/Weapons/ForetDeProspecteur.webp",
             "id": "Weapon88"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Chant de quiétude",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721994423/Genshin/Weapons/ChantDeQuietude.webp",
+            "id": "Weapon126"
+          },
+          {
+            "name": "Jauge de portée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721995897/Genshin/Weapons/JaugeDePortee.webp",
+            "id": "Weapon130"
+          },
+          {
+            "name": "La première grande magie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722000663/Genshin/Weapons/LaPremiereGrandeMagie.webp",
+            "id": "Weapon143"
+          }
         ]
       },
       {
@@ -1046,12 +1326,21 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721743222/Genshin/Weapons/SplendeurDesEauxCalmes.webp",
             "id": "Weapon40"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Corde de pluie blanche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722000290/Genshin/Weapons/CordeDePluieBlanche.webp",
+            "id": "Weapon142"
+          },
+          {
+            "name": "Pureté fluide",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722262933/Genshin/Weapons/PureteFluide.webp",
+            "id": "Weapon170"
+          },
+          {
+            "name": "Tome du flux éternel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722268246/Genshin/Weapons/TomeDuFluxEternel.webp",
+            "id": "Weapon183"
+          }
         ]
       },
       {
@@ -1110,12 +1399,11 @@
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721917523/Genshin/Weapons/SemblanceDeLaLuneEcarlate.webp",
             "id": "Weapon108"
           },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" },
-          { "name": "", "icon": "", "id": "" }
+          {
+            "name": "Supervision de trésorerie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267684/Genshin/Weapons/SupervisionDeTresorerie.webp",
+            "id": "Weapon182"
+          }
         ]
       }
     ]
