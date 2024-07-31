@@ -25,13 +25,13 @@ charactersRouter.get("/characters", (req: Request, res: Response) => {
   }
 });
 
-// 2 - Route pour récupérer les détails d'un personnage
+// 2 - Route pour récupérer les détails d'un personnage via son id ou name
 charactersRouter.get("/characters/details", (req: Request, res: Response) => {
   try {
-    const { id } = req.query;
+    const { id, name } = req.query;
     for (let i = 0; i < characters.length; i++) {
       //   console.log(i);
-      if (id === characters[i].id) {
+      if (id === characters[i].id || name === characters[i].name) {
         const charactersDetailsParse = characterDetailsSchema.parse(
           characters[i]
         );
@@ -39,7 +39,7 @@ charactersRouter.get("/characters/details", (req: Request, res: Response) => {
       }
     }
 
-    return res.status(404).json("no match found for this id");
+    return res.status(404).json("no match found for this id or name");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);

@@ -22,19 +22,21 @@ normalBossRouter.get("/boss/normal", (req: Request, res: Response) => {
   }
 });
 
-// 2 - Route qui donne le détail sur un Boss normal
+// 2 - Route qui donne le détail sur un Boss normal via son id ou name
 normalBossRouter.get("/boss/normal/details", (req: Request, res: Response) => {
   try {
-    const { id } = req.query;
+    const { id, name } = req.query;
     for (let i = 0; i < normalBoss.length; i++) {
       // console.log(i);
-      if (id === normalBoss[i].id) {
+      if (id === normalBoss[i].id || name === normalBoss[i].name) {
         const normalBossParse = normalBossSchema.parse(normalBoss[i]);
         return res.status(200).json(normalBossParse);
       }
     }
 
-    return res.status(404).json("This id doesn't match any normal boss id");
+    return res
+      .status(404)
+      .json("This id doesn't match any normal boss id or name");
   } catch (error) {
     if (error instanceof ZodError) {
       return res.status(400).json(error);

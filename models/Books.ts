@@ -63,3 +63,22 @@ export const allBooksDetailsSchema = z.object({
     })
   ),
 });
+
+export const booksDetailsSchema = z.object({
+  name: z.string(),
+  material: z.array(
+    z.object({
+      name: z.string(),
+      icon: z.string().url(),
+      quality: z.number(),
+    })
+  ),
+  day: z.string(),
+  character: z.array(
+    z.object({
+      name: z.string(),
+      icon: z.string().url(),
+      id: z.string(),
+    })
+  ),
+});

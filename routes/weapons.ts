@@ -67,14 +67,14 @@ weaponRouter.get("/weapons", (req: Request, res: Response) => {
   }
 });
 
-// 4 - Route qui renvoie une arme en fonction de son id
+// 4 - Route qui renvoie une arme en fonction de son id ou name
 weaponRouter.get("/weapon/details", (req: Request, res: Response) => {
   try {
-    const { id } = req.query;
+    const { id, name } = req.query;
 
     for (let i = 0; i < weapons.length; i++) {
       // console.log(i);
-      if (id === weapons[i].id) {
+      if (id === weapons[i].id || name === weapons[i].name) {
         const weaponParsed = weaponSchema.parse(weapons[i]);
         return res.status(200).json(weaponParsed);
       }
