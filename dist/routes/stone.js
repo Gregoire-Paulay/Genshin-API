@@ -26,18 +26,18 @@ exports.stoneRouter.get("/stone", (req, res) => {
         }
     }
 });
-// 2 - Route pour avoir les détails des pierres d'amélioration de personnage
+// 2 - Route pour avoir les détails des pierres d'amélioration de personnage via son id ou name
 exports.stoneRouter.get("/stone/details", (req, res) => {
     try {
-        const { id } = req.query;
+        const { id, name } = req.query;
         for (let i = 0; i < stone.length; i++) {
-            if (id === stone[i].id) {
+            if (id === stone[i].id || name === stone[i].name) {
                 // console.log(i);
                 const stoneDetailsParse = Stone_1.stoneDetailsSchema.parse(stone[i]);
                 return res.status(200).json(stoneDetailsParse);
             }
         }
-        return res.status(404).json("this id doesn't match");
+        return res.status(404).json("this id or name doesn't match");
     }
     catch (error) {
         if (error instanceof zod_1.ZodError) {

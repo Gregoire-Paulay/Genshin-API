@@ -35,19 +35,21 @@ exports.weeklyBossRouter.get("/boss/weekly", (req, res) => __awaiter(void 0, voi
         }
     }
 }));
-// 2 - Route pour avoir le détail d'un Boss
+// 2 - Route pour avoir le détail d'un Boss via son id ou name
 exports.weeklyBossRouter.get("/boss/weekly/details", (req, res) => {
     try {
-        const { id } = req.query;
+        const { id, name } = req.query;
         for (let i = 0; i < weeklyBoss.length; i++) {
-            if (id === weeklyBoss[i].id) {
+            if (id === weeklyBoss[i].id || name === weeklyBoss[i].name) {
                 // const response = weeklyBoss[i];
                 // console.log(response);
                 const weeklyBossParse = WeeklyBoss_1.weeklyBossSchema.parse(weeklyBoss[i]);
                 return res.status(200).json(weeklyBossParse);
             }
         }
-        return res.status(404).json("This id doesn't match weekly boss id");
+        return res
+            .status(404)
+            .json("This id or name doesn't match for these weekly boss");
     }
     catch (error) {
         if (error instanceof zod_1.ZodError) {

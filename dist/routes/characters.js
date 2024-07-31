@@ -26,18 +26,18 @@ exports.charactersRouter.get("/characters", (req, res) => {
         }
     }
 });
-// 2 - Route pour récupérer les détails d'un personnage
+// 2 - Route pour récupérer les détails d'un personnage via son id ou name
 exports.charactersRouter.get("/characters/details", (req, res) => {
     try {
-        const { id } = req.query;
+        const { id, name } = req.query;
         for (let i = 0; i < characters.length; i++) {
             //   console.log(i);
-            if (id === characters[i].id) {
+            if (id === characters[i].id || name === characters[i].name) {
                 const charactersDetailsParse = Characters_1.characterDetailsSchema.parse(characters[i]);
                 return res.status(200).json(charactersDetailsParse);
             }
         }
-        return res.status(404).json("no match found for this id");
+        return res.status(404).json("no match found for this id or name");
     }
     catch (error) {
         if (error instanceof zod_1.ZodError) {
