@@ -1403,6 +1403,11 @@
             "name": "Supervision de trésorerie",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267684/Genshin/Weapons/SupervisionDeTresorerie.webp",
             "id": "Weapon182"
+          },
+          {
+            "name": "Élégie de lumidouce",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267684/Genshin/Weapons/ElegieDeLumidouce.webp",
+            "id": "Weapon186"
           }
         ]
       }

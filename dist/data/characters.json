@@ -5835,7 +5835,7 @@
         "note": "La Bombe rebondissante est l'amie fidèle de Klee… Elle veut toujours la présenter à tout le monde."
       },
       {
-        "name": "Fleur bobardier",
+        "name": "Fleur bombardier",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709655288/Genshin/Talents/FleurBombardier.webp",
         "type": "Déchainement élémentaire",
         "description": [
@@ -29711,6 +29711,343 @@
           "text": "Lorsque Sigewinne effectue des soins, elle augmente le taux CRIT et les DGT CRIT d'Injection sur-saturée selon ses PV max : chaque tranche de 1 000 PV max qu'elle possède augmente le taux CRIT de 0,4 % et les DGT CRIT de 2,2 %, le tout pendant 15 s. Le taux CRIT peut être augmenté d'un maximum de 20 % et les DGT CRIT d'un maximum de 110 % de cette manière."
         },
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1720442731/Genshin/Constellation/LePlusRadieuxDesEspritsPeutIlPrierPourMoi.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "P89",
+    "name": "Émilie",
+    "release_date": "06 Août 2024",
+    "star": 5,
+    "title": "Tracé de mille parfums",
+    "other_title": [{ "name": "Parfumeuse de renom" }],
+    "description": "Une parfumeuse fontainoise, celle qui embouteille les secrets.",
+    "element": {
+      "type": "Dendro",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618418/Genshin/IconDendro.webp"
+    },
+    "weapon": {
+      "type": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725369127/Genshin/Characters/Emilie.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725369119/Genshin/Characters/EmilieIcon.webp",
+    "wish": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725369125/Genshin/Characters/EmilieWish.webp",
+    "birthday": "22 Septembre",
+    "dish": {
+      "name": "Festin aux fumets fragrants",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725369117/Genshin/Characters/EmilieDish.webp"
+    },
+    "namecard": {
+      "name": "Émilie - Note de fond",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725369116/Genshin/Characters/EmilieCard.webp"
+    },
+    "affiliation": [
+      { "name": "Cour de Fontaine" },
+      { "name": "Maison Gardiennage" }
+    ],
+    "region": [
+      {
+        "name": "Fontaine",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708619152/Genshin/Region/Fontaine.webp"
+      }
+    ],
+    "stats": [
+      {
+        "level": 1,
+        "HP": 1056,
+        "ATK": 26,
+        "DEF": 57,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 50
+      },
+      {
+        "level": 90,
+        "HP": 13568,
+        "ATK": 335,
+        "DEF": 730,
+        "CRIT_Rate": 5,
+        "CRIT_DMG": 88.4
+      }
+    ],
+    "ascension_materials": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 420000,
+        "id": ""
+      },
+      "stone": [
+        {
+          "name": "Éclat d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
+          "number": 1,
+          "id": "AM4"
+        },
+        {
+          "name": "Fragment d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698266/Genshin/Materials/Stone/FragmentDemeraudeNagadus.webp",
+          "number": 9,
+          "id": "AM4"
+        },
+        {
+          "name": "Éclat d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
+          "number": 9,
+          "id": "AM4"
+        },
+        {
+          "name": "Morceau d'émeraude nagadus",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698262/Genshin/Materials/Stone/MorceauDemeraudeNagadus.webp",
+          "number": 6,
+          "id": "AM4"
+        }
+      ],
+      "bossLoot": {
+        "name": "Fragment d'une mélodie dorée",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068653/Genshin/Materials/Boss/FragmentDuneMelodieDoree.webp",
+        "number": 46,
+        "id": "B30"
+      },
+      "material": {
+        "name": "Lys lacmineux",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712404092/Genshin/Materials/LysLacmineux.webp",
+        "number": 168,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 30,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 36,
+          "id": ""
+        }
+      ]
+    },
+    "talents": [
+      {
+        "name": "Lance d'éclombre (modifiée)",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372749/Genshin/Talents/LanceDeclombreModifiee.webp",
+        "type": "Attaque normale",
+        "description": [
+          {
+            "name": "Attaque normale",
+            "text": "Enchaîne jusqu'à 4 coups de lance."
+          },
+          {
+            "name": "Attaque chargée",
+            "text": "Consomme de l'endurance pour déclencher une attaque ascendante."
+          },
+          {
+            "name": "Attaque plongeante",
+            "text": "Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact."
+          }
+        ]
+      },
+      {
+        "name": "Extraction de fragrance",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372748/Genshin/Talents/ExtractionDefragrance.webp",
+        "type": "Compétence élémentaire",
+        "description": [
+          {
+            "text": "Crée un flacon de Lumidouce qui inflige des DGT Dendro de zone."
+          },
+          {
+            "name": "Flacon de Lumidouce",
+            "effect": [
+              {
+                "text": "Tire de façon intermittente des bouffées d'aiguail pur sur les ennemis proches, infligeant des DGT Dendro."
+              },
+              {
+                "text": "Tout ennemi brûlé à proximité dégagera de façon intermittente de la senteur, une senteur pouvant être créée de cette manière une fois toutes les 2 s. Le flacon de Lumidouce peut collecter les senteurs à proximité, et après avoir collecté 2 senteurs, il monte d'un niveau pour tirer 1 bouffée d'aiguail pur supplémentaire chaque fois qu'il en tire et augmenter les DGT infligés et la portée de ces bouffées."
+              },
+              {
+                "text": "Il ne peut exister qu'un seul flacon de Lumidouce créé par Émilie à la fois. Le flacon de Lumidouce commence au niveau 1 et peut atteindre le niveau 2. Si le flacon ne collecte aucune senteur pendant 8 s alors qu'il est sur le terrain, il passe au niveau 1."
+              }
+            ]
+          },
+          {
+            "name": "Arkhe : Pneuma",
+            "text": "Régulièrement, après qu'Émilie a créé un flacon de Lumidouce de cette façon, une épine d'inhalation qui transperce les ennemis descend devant elle pour infliger des DGT Dendro chargés d'énergie pneuma."
+          }
+        ],
+        "note": "« Le monde est une harmonie infinie de parfums, de couleurs et de chants. »"
+      },
+      {
+        "name": "Explication de parfum",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372748/Genshin/Talents/ExplicationDeParfum.webp",
+        "type": "Déchainement élémentaire",
+        "description": [
+          {
+            "text": "Émilie guide le parfum rassemblé dans le flacon pour le convertir en énergie Dendro pure, créant ainsi un flacon de Lumidouce de niveau 3 et rangeant tout flacon présent."
+          },
+          {
+            "text": "Pendant sa durée, le flacon de Lumidouce de niveau 3 ne collecte pas les senteurs à proximité et fait descendre de façon continue de la rosée parfumée pour attaquer les ennemis à portée, infligeant des DGT Dendro. Pendant sa durée, le flacon de Lumidouce de niveau 3 fait descendre une rosée parfumée toutes les 0,3 s et chaque ennemi peut être ciblé une fois toutes les 0,7 s."
+          },
+          {
+            "text": "À la fin de la durée, un flacon de Lumidouce de niveau 1 sera recréé. Si l'utilisation d'Explication de parfum a rangé un flacon de Lumidouce, ce flacon sera déployé à la place et sa durée sera réinitialisée. Pendant la durée d'Explication de parfum, la compétence élémentaire « Extraction de fragrance » ne crée pas de flacon de Lumidouce."
+          }
+        ],
+        "note": "Quel que soit le parfum, il commence à changer dès qu'il entre en contact avec l'air, avant de finalement se dissiper au milieu des murmures du vent, des arbres et de l'herbe. Ainsi, personne n'apprécie exactement la même senteur. Il en va de même pour les chemins empruntés par tous ceux qui vivent. En ce sens, on peut considérer les parfums comme une analogie de la vie humaine."
+      },
+      {
+        "name": "Arôme persistant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372748/Genshin/Talents/AromePersistant.webp",
+        "type": "Passif de la 1ère phase d'élévation",
+        "description": [
+          {
+            "text": "Chaque fois qu'il collecte 2 senteurs, un flacon de Lumidouce de niveau 2 consomme ses senteurs pour libérer une cologne d'aiguail clair qui inflige des DGT Dendro de zone d'une valeur équivalant à 600 % de l'ATQ d'Émilie aux ennemis. Ces DGT ne sont pas considérés comme des DGT de compétence élémentaire."
+          }
+        ]
+      },
+      {
+        "name": "Distillat raffiné",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372748/Genshin/Talents/DistillatRaffine.webp",
+        "type": "Passif de la 4ème phase d'élévation",
+        "description": [
+          {
+            "text": "Les DGT qu'Émilie inflige aux ennemis brûlés augmentent selon son ATQ : chaque tranche de 1 000 pts d'ATQ augmente les DGT de 15 %, les DGT pouvant être augmentés d'un maximum de 36 % de cette manière."
+          }
+        ]
+      },
+      {
+        "name": "Extraction de senteur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725372747/Genshin/Talents/ExtractionDeSenteur.webp",
+        "type": "Passif utilitaire",
+        "description": [
+          {
+            "text": "Lorsqu'un flacon de Lumidouce créé par Émilie est sur le terrain, tous les personnages de l'équipe à proximité voient leur RÉS Pyro contre les DGT de Brûlure augmenter de 85 %."
+          }
+        ]
+      }
+    ],
+    "talent_upgrade": {
+      "mora": {
+        "name": "Mora",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": 1652000,
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Engrenage de maillage",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324565/Genshin/Materials/Mobs/EngrenageDeMaillage.webp",
+          "number": 6,
+          "id": ""
+        },
+        {
+          "name": "Engrenage à coupe droite",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324548/Genshin/Materials/Mobs/EngrenageACoupeDroite.webp",
+          "number": 22,
+          "id": ""
+        },
+        {
+          "name": "Engrenage dynamique artificié",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1712324533/Genshin/Materials/Mobs/EngrenageDynamiqueArtificie.webp",
+          "number": 31,
+          "id": ""
+        }
+      ],
+      "books": [
+        {
+          "name": "Enseignement de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615863/Genshin/Materials/Aptitude/EnseignementDeLordre.webp",
+          "number": 3,
+          "id": "TM5"
+        },
+        {
+          "name": "Guide de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615856/Genshin/Materials/Aptitude/GuideDeLordre.webp",
+          "number": 21,
+          "id": "TM5"
+        },
+        {
+          "name": "Philosophie de l'ordre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708615849/Genshin/Materials/Aptitude/PhilosophieDeLordre.webp",
+          "number": 38,
+          "id": "TM5"
+        }
+      ],
+      "bossLoot": {
+        "name": "Plume soyeuse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571662/Genshin/Materials/Boss/PlumeSoyeuse.webp",
+        "number": 6,
+        "id": "WB10"
+      },
+      "crown": {
+        "name": "Couronne de la Sagesse",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708560360/Genshin/Materials/CouronneDeSagesse.webp",
+        "number": 1,
+        "id": ""
+      }
+    },
+    "constellation": {
+      "name": "Pomum de Ambra",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374265/Genshin/Constellation/PomumDeAmbra.webp"
+    },
+    "constellation_upgrade": [
+      {
+        "name": "Lessivage d'aromate léger",
+        "level": 1,
+        "description": {
+          "text": "Les DGT infligés par Extraction de fragrance et par la cologne d'aiguail clair d'Arôme persistant augmentent de 20 %. L'aptitude passive « Arôme persistant » doit être déjà débloquée pour pouvoir augmenter les DGT infligés par la cologne d'aiguail clair.",
+          "note": "De plus, lorsqu'un membre de l'équipe à proximité déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, ce dernier dégage une senteur supplémentaire. Cet effet peut être déclenché une fois toutes les 2,9 s"
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374263/Genshin/Constellation/LessivageDaromateLeger.webp"
+      },
+      {
+        "name": "Exhalaison lacmineuse",
+        "level": 2,
+        "description": {
+          "text": "Lorsqu'Extraction de fragrance, Explication de parfum ou une cologne d'aiguail clair créée par l'aptitude passive « Arôme persistant », cette aptitude devant être déjà débloquée, touche un ennemi, la RÉS Dendro de ce dernier diminue de 30 % pendant 10 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374261/Genshin/Constellation/ExhalaisonLacmineuse.webp"
+      },
+      {
+        "name": "Essence exquise",
+        "level": 3,
+        "description": {
+          "text": "Niveau d'aptitude Extraction de fragrance +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374260/Genshin/Constellation/EssenceExquise.webp"
+      },
+      {
+        "name": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374258/Genshin/Constellation/ExtraitDeLumidouce.webp",
+        "level": 4,
+        "description": {
+          "text": "La durée d'Explication de parfum augmente de 2 s, et la durée minimum requise pour cibler à nouveau un même ennemi avec une rosée parfumée diminue de 0,3 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374258/Genshin/Constellation/ExtraitDeLumidouce.webp"
+      },
+      {
+        "name": "Effluve d'aiguail pur",
+        "level": 5,
+        "description": {
+          "text": "Niveau d'aptitude Explication de parfum +3."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374256/Genshin/Constellation/EffluveDaiguailPur.webp"
+      },
+      {
+        "name": "Soupçon de Marcotte",
+        "level": 6,
+        "description": {
+          "text": "En utilisant Extraction de fragrance ou Explication de parfum, Émilie obtient l'effet Persistance fragrante pendant 5 s. Pendant cette durée, Émilie génère une senteur après avoir utilisé une attaque normale ou chargée, et ses attaques normales et chargées sont converties en DGT Dendro ne pouvant pas être enchantés, les DGT qu'elles infligent étant de plus augmentés d'une valeur équivalant à 300 % de l'ATQ d'Émilie.",
+          "note": "Les effets de la persistance fragrante cessent après la création de 4 senteurs de cette manière ou lorsque sa durée expire. Une persistance fragrante peut être obtenue une fois toutes les 12 s."
+        },
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725374256/Genshin/Constellation/SoupconDeMarcotte.webp"
       }
     ]
   }

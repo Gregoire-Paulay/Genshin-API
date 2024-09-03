@@ -2660,6 +2660,11 @@
             "name": "Arlecchino",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/ArlecchinoIcon.webp",
             "id": "P85"
+          },
+          {
+            "name": "Émilie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/EmilieIcon.webp",
+            "id": "P89"
           }
         ]
       }

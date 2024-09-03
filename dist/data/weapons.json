@@ -18377,5 +18377,112 @@
         }
       ]
     }
+  },
+
+  {
+    "id": "Weapon186",
+    "star": 5,
+    "name": "Élégie de Lumidouce",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725375349/Genshin/Weapons/ElegieDeLumidouce.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1725375349/Genshin/Weapons/ElegieDeLumidouceAsc.webp",
+    "type": {
+      "name": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617967/Genshin/Weapons/IconLance.webp"
+    },
+    "release_date": "06 Août 2024",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "608",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "33.1 %" },
+    "description": "Une magnifique lance ornée de cristal azur. Il paraît qu'il s'agissait du trésor d'une certaine duelliste mandatée légendaire. Et pourtant, elle n'a jamais été utilisée une seule fois...",
+    "effect": [
+      {
+        "title": "Prélude de l'aube blanche",
+        "text": "Augmente l'ATQ de",
+        "level": ["15 %.", "19 %.", "23 %.", "27 %.", "31 %."]
+      },
+      {
+        "text": "Lorsque le personnage équipé de l'arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de ",
+        "level": ["18 %", "23 %", "28 %", "33 %", "38 %"]
+      },
+      {
+        "text": "pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée,",
+        "level": ["12", "13", "14", "15", "16"]
+      },
+      {
+        "text": "pts d'énergie élémentaires sont restaurés, l'énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pommeau abîmé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918045/Genshin/Materials/Mobs/PommeauAbime.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Pommeau rayé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918041/Genshin/Materials/Mobs/PommeauRaye.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Pommeau incandescent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918038/Genshin/Materials/Mobs/PommeauIncandescent.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Nectar de Fleur mensongère",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562939/Genshin/Materials/Mobs/NectarDeFleurMensongere.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Nectar miroitant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562932/Genshin/Materials/Mobs/NectarMiroitant.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Nectar élémentaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709562926/Genshin/Materials/Mobs/NectarElementaire.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Gobelet brisé de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletBriseDeLaMerImmaculee.webp",
+          "number": 5,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet à vin de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletAVinDeLaMerImmaculee.webp",
+          "number": 14,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'argent de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315641/Genshin/Weapons/Materials/GobeletDargentDeLaMerImmaculee.webp",
+          "number": 14,
+          "id": "WeaMat5"
+        },
+        {
+          "name": "Gobelet d'or de la mer immaculée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721315640/Genshin/Weapons/Materials/GobeletDorDeLaMerImmaculee.webp",
+          "number": 6,
+          "id": "WeaMat5"
+        }
+      ]
+    }
   }
 ]

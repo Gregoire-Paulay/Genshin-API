@@ -1572,7 +1572,14 @@
       {
         "name": "Plume soyeuse",
         "level": "Dongeon 2",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571662/Genshin/Materials/Boss/PlumeSoyeuse.webp"
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571662/Genshin/Materials/Boss/PlumeSoyeuse.webp",
+        "character": [
+          {
+            "name": "Émilie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/EmilieIcon.webp",
+            "id": "P89"
+          }
+        ]
       },
       {
         "name": "Verdict négatif",
