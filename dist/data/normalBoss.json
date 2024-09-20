@@ -2719,5 +2719,148 @@
         "id": "AM8"
       }
     ]
+  },
+
+  {
+    "id": "B31",
+    "name": "Kongamato",
+    "title": "Roi de la montagne",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726854102/Genshin/Boss/Kongamato.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726854100/Genshin/Boss/KongamatoIcon.webp",
+    "region": {
+      "name": "Natlan",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839034/Genshin/Region/Natlan.webp",
+      "location": "Vallée Tequemecan"
+    },
+    "description": [
+      {
+        "text": "Un puissant yumkasaure qui a survécu jusqu'à nos jours à la fois aux ravages du temps et à d'innombrables batailles. Ce « roi de la montagne », qui a autrefois uni ses forces au grands héros contre la marée noire, occupe une place particulière dns le coeur des Êtres des canopées."
+      },
+      {
+        "text": "Certains membres tribaux pensent qu'il a sa forme corporelle actuelle parce qu'il a un physique unique, comme le qucusaure « tyran »... Même si en fait, c'est simplement parce qu'il a vécu si longtemps et beaucoup, beaucoup trop mangé..."
+      }
+    ],
+    "element": [
+      {
+        "name": "Dendro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconDendro.webp"
+      },
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Flamboiegrenade surmûre",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839421/Genshin/Materials/Boss/FlamboiegrenadeSurmure.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
+          },
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P92"
+          }
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Éclat d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698269/Genshin/Materials/Stone/EclatDemeraudeNagadus.webp",
+        "worldLevel": 0,
+        "id": "AM4"
+      },
+      {
+        "name": "Fragment d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698266/Genshin/Materials/Stone/FragmentDemeraudeNagadus.webp",
+        "worldLevel": 2,
+        "id": "AM4"
+      },
+      {
+        "name": "Morceau d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698262/Genshin/Materials/Stone/MorceauDemeraudeNagadus.webp",
+        "worldLevel": 4,
+        "id": "AM4"
+      },
+      {
+        "name": "Pierre d'émeraude nagadus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698259/Genshin/Materials/Stone/PierreDemeraudeNagadus.webp",
+        "worldLevel": 6,
+        "id": "AM4"
+      }
+    ]
+  },
+
+  {
+    "id": "B32",
+    "name": "Holawaqa Ngoubou",
+    "title": "Tyran doré du serment brisé",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726855230/Genshin/Boss/HolawaqaNgoubou.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726855227/Genshin/Boss/HolawaqaNgoubouIcon.webp",
+    "region": {
+      "name": "Natlan",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839034/Genshin/Region/Natlan.webp",
+      "location": "Bassin des flammes innombrables"
+    },
+    "description": [
+      {
+        "text": "Un qucusaure dont le corps a atteint une forme surnaturelle en raison de forces persistantes que le corps des sauriens modernes ne peuvent contrôler."
+      },
+      {
+        "text": "Les légendes disent que lorsque le qucusaure géant, qui reste maintenant souvent dans le brouillard des montagnes, était jeune, il a également suivi les héros qui ont sauvé Natlan dans leurs aventures. On raconte qu'un de ces héros a accepté un jour de faire le pèlerinage avec lui au volcan, pour sauver son esprit de la folie vers lequel le poussait la puissance violente qui grandissait dans son sang. Cependant, à en juger par son titre actuel de « tyran », cette histoire n'a pas eu une fin heureuse."
+      }
+    ],
+    "element": [
+      {
+        "name": "Pyro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconPyro.webp"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Marque de bénédiction liante",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726843206/Genshin/Materials/Boss/MarqueDeBenedictionLiante.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
+          }
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Éclat d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625302/Genshin/Materials/Stone/EclatDagateAgnidus.webp",
+        "worldLevel": 0,
+        "id": "AM8"
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625253/Genshin/Materials/Stone/FragmentDagateAgnidus.webp",
+        "worldLevel": 2,
+        "id": "AM8"
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625203/Genshin/Materials/Stone/MorceauDagateAgnidus.webp",
+        "worldLevel": 4,
+        "id": "AM8"
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708625154/Genshin/Materials/Stone/PierreDagateAgnidus.webp",
+        "worldLevel": 6,
+        "id": "AM8"
+      }
+    ]
   }
 ]

@@ -1491,6 +1491,11 @@
             "name": "Gaming",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699232/Genshin/Characters/GamingIcon.png",
             "id": "P83"
+          },
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
           }
         ]
       }
@@ -1566,6 +1571,11 @@
             "name": "Arlecchino",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714068406/Genshin/Characters/ArlecchinoIcon.webp",
             "id": "P85"
+          },
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
           }
         ]
       },
@@ -1584,7 +1594,14 @@
       {
         "name": "Verdict négatif",
         "level": "Dongeon 2",
-        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571651/Genshin/Materials/Boss/VerdictNegatif.webp"
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714571651/Genshin/Materials/Boss/VerdictNegatif.webp",
+        "character": [
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P92"
+          }
+        ]
       }
     ]
   }

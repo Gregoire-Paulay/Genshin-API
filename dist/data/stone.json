@@ -431,6 +431,11 @@
         "id": "P70"
       },
       {
+        "name": "Kinich",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+        "id": "P92"
+      },
+      {
         "name": "Kirara",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699809/Genshin/Characters/KiraraIcon.png",
         "id": "P71"
@@ -705,6 +710,11 @@
         "id": "P46"
       },
       {
+        "name": "Kachina",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+        "id": "P90"
+      },
+      {
         "name": "Navia",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699771/Genshin/Characters/NaviaIcon.png",
         "id": "P80"
@@ -843,6 +853,11 @@
         "name": "Mona",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699778/Genshin/Characters/MonaIcon.png",
         "id": "P22"
+      },
+      {
+        "name": "Mualani",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+        "id": "P91"
       },
       {
         "name": "Neuvillette",
