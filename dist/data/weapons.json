@@ -18484,5 +18484,804 @@
         }
       ]
     }
+  },
+
+  {
+    "id": "Weapon187",
+    "star": 5,
+    "name": "Croc du roi de la montagne",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagne.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagneAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "17 Septembre 2024",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "741",
+    "stat_secondaire": { "type": "Taux CRIT", "stat": "11 %" },
+    "description": "Une épée géante forgée à partir de turquoise pure. En raison de son poids supérieur à celui de la plupart des armes ordinaires, elle doit son nom à Kongomato, le roi de la montagne.",
+    "effect": [
+      {
+        "title": "Chasse de turquoise",
+        "text": "Toucher un ennemi avec une compétence élémentaire accorde un cumul de faveur canopéenne, cet effet pouvant être déclenché une fois toutes les 0,5 s. De plus, le personnage équipé de l'arme obtient 3 cumuls de faveur canopéenne lorsqu'un membre de l'équipe à proximité a déclenché une réaction de Brûlure ou de Bourgeonnement, cet effet pouvant être déclenché une fois toutes les 2 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. Faveur canopéenne : augmente les DGT des compétences et déchaînements élémentaires de ",
+        "level": ["10 %", "12,5 %", "15 %", "17,5 %", "20 %"]
+      },
+      {
+        "text": "pendant 6 s. Cet effet peut être cumulé 6 fois maximum, la durée de chaque cumul étant calculée de façon indépendante."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pierre enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934109/Genshin/Materials/Mobs/PierreEnflammee.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Graine enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934106/Genshin/Materials/Mobs/GraineEnflammee.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Oeil enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934103/Genshin/Materials/Mobs/OeilEnflammee.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en bois de sentinelle",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839614/Genshin/Materials/Mobs/SiffletEnBoisDeSentinelle.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en métal de guerrier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839613/Genshin/Materials/Mobs/SiffletEnMetalDeGuerrier.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en or de guerrier couronné par les sauriens",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839612/Genshin/Materials/Mobs/SiffletEnOrDeGuerrierCouronneParLesSauriens.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Décadence délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+          "number": 5,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Désolation délirante du seigneur sacré ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934260/Genshin/Weapons/Materials/DesolationDeliranteDuSeigneurSacre.webp",
+          "number": 14,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Attitude délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934258/Genshin/Weapons/Materials/AttitudeDeliranteDuSeigneurSacre.webp",
+          "number": 14,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Divinité délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934257/Genshin/Weapons/Materials/DiviniteDeliranteDuSeigneurSacre.webp",
+          "number": 6,
+          "id": "WeaMat6"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon188",
+    "star": 5,
+    "name": "Instant surfant",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934545/Genshin/Weapons/InstantSurfant.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934544/Genshin/Weapons/InstantSurfantAsc.webp",
+    "type": {
+      "name": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Voeux d'évènements d'armes",
+    "atk": "542",
+    "stat_secondaire": { "type": "DGT CRIT", "stat": "88,2 %" },
+    "description": "Un objet commémoratif réservé à l'origine au vainqueur du Premier championnat inter-tribus de surf. Étant donné que ce tournoi est actuellement en phase préparatoire, le prix est temporairement conservé à la Bouée oisive et protégé par le propriétaire de l'établissement.",
+    "effect": [
+      {
+        "title": "Souvenir aquacolore",
+        "text": "Augmente les PV max de",
+        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+      },
+      {
+        "text": "Toutes les 15 s, l'effet suivant se produit pendant 14 s après avoir utilisé une compétence élémentaire : accorde 4 cumuls d'été flamboyant, chaque cumul augmentant les DGT des attaques normales de",
+        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+      },
+      {
+        "text": "Une fois toutes les 1,5 s pendant cette durée, toucher un ennemi avec une attaque normale consomme un cumul. Une fois toutes les 1,5 s, déclencher une réaction d'Évaporation sur un ennemi rajoute un cumul. L'effet Été flamboyant peut être cumulé 4 fois maximum."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "225 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment de volonté brisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934791/Genshin/Materials/Mobs/FragmentDeVolonteBrisee.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Image de volonté claire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934787/Genshin/Materials/Mobs/ImageDeVolonteClaire.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Sceau de volonté errante",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934784/Genshin/Materials/Mobs/SceauDeVolonteErrante.webp",
+          "number": 41,
+          "id": ""
+        },
+        {
+          "name": "Croc juvénile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846401/Genshin/Materials/Mobs/CrocJuvenile.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Croc mature",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846398/Genshin/Materials/Mobs/CrocMature.webp",
+          "number": 23,
+          "id": ""
+        },
+        {
+          "name": "Croc de tyran",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846396/Genshin/Materials/Mobs/CrocDeTyran.webp",
+          "number": 27,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Terreur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+          "number": 5,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Hésitation du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935064/Genshin/Weapons/Materials/HesitationDuCoeurSacrificielFlamboyant.webp",
+          "number": 14,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Résolution du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935062/Genshin/Weapons/Materials/ResolutionDuCoeurSacrificielFlamboyant.webp",
+          "number": 14,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Splendeur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935060/Genshin/Weapons/Materials/SplendeurDuCoeurSacrificielFlamboyant.webp",
+          "number": 6,
+          "id": "WeaMat6"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon189",
+    "star": 4,
+    "name": "Flûte d'ezpitzal",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935311/Genshin/Weapons/FluteDezpitzal.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935310/Genshin/Weapons/FluteDezpitzalAsc.webp",
+    "type": {
+      "name": "Épée",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Forgeage",
+    "atk": "454",
+    "stat_secondaire": { "type": "DEF", "stat": "69 %" },
+    "description": "Une épée longue en jade de forme particulière qui a été transmise parmi les Maîtres du vent nocturne comme une « flûte sacerdotale ».",
+    "effect": [
+      {
+        "title": "Mystère d'écran de fumée",
+        "text": "Augmente la DÉF de",
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+      },
+      {
+        "text": "pendant 15 s après l'utilisation d'une compétence élémentaire."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pommeau abîmé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918045/Genshin/Materials/Mobs/PommeauAbime.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Pommeau rayé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918041/Genshin/Materials/Mobs/PommeauRaye.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Pommeau incandescent",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721918038/Genshin/Materials/Mobs/PommeauIncandescent.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Croc juvénile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846401/Genshin/Materials/Mobs/CrocJuvenile.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Croc mature",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846398/Genshin/Materials/Mobs/CrocMature.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Croc de tyran",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846396/Genshin/Materials/Mobs/CrocDeTyran.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Terreur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Hésitation du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935064/Genshin/Weapons/Materials/HesitationDuCoeurSacrificielFlamboyant.webp",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "Résolution du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935062/Genshin/Weapons/Materials/ResolutionDuCoeurSacrificielFlamboyant.webp",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "Splendeur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935060/Genshin/Weapons/Materials/SplendeurDuCoeurSacrificielFlamboyant.webp",
+          "number": 4,
+          "id": ""
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon190",
+    "star": 4,
+    "name": "Trembleur de terre",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935645/Genshin/Weapons/TrembleurDeTerreAsc.webp",
+    "type": {
+      "name": "Épée à deux mains",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617984/Genshin/Weapons/IconEspadon.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Forgeage",
+    "atk": "565",
+    "stat_secondaire": { "type": "ATQ", "stat": "27,6 %" },
+    "description": "Une lame lourde qui, selon certains, était appréciée par le héros connu sous le surnom de « voleur de feu ». On dit que même les flammes du seigneur de la Cité de braise n'ont pas pu la brûler.",
+    "effect": [
+      {
+        "title": "Promesse de Qhapaq Nan",
+        "text": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de ",
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+      },
+      {
+        "text": "pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Pierre enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934106/Genshin/Materials/Mobs/PierreEnflammee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Graine enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934106/Genshin/Materials/Mobs/GraineEnflammee.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Oeil enflammée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934103/Genshin/Materials/Mobs/OeilEnflammee.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en bois de sentinelle",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839614/Genshin/Materials/Mobs/SiffletEnBoisDeSentinelle.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en métal de guerrier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839613/Genshin/Materials/Mobs/SiffletEnMetalDeGuerrier.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en or de guerrier couronné par les sauriens",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839612/Genshin/Materials/Mobs/SiffletEnOrDeGuerrierCouronneParLesSauriens.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Terreur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+          "number": 3,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Hésitation du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935064/Genshin/Weapons/Materials/HesitationDuCoeurSacrificielFlamboyant.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Résolution du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935062/Genshin/Weapons/Materials/ResolutionDuCoeurSacrificielFlamboyant.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Splendeur du cœur sacrificiel flamboyant",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935060/Genshin/Weapons/Materials/SplendeurDuCoeurSacrificielFlamboyant.webp",
+          "number": 4,
+          "id": "WeaMat6"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon191",
+    "star": 5,
+    "name": "Trace d'arc-en-ciel",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936945/Genshin/Weapons/TraceDarcEnCiel.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936943/Genshin/Weapons/TraceDarcEnCielAsc.webp",
+    "type": {
+      "name": "Arme d'hast",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Forgeage",
+    "atk": "510",
+    "stat_secondaire": { "type": "DEF", "stat": "51,7 %" },
+    "description": "Une lance tranchante forgée en jade. Elle émet une lumière aux couleurs de l'arc-en-ciel lorsqu'elle est exposée au soleil.",
+    "effect": [
+      {
+        "title": "Pacte des sources abondantes",
+        "text": "Augmente la DÉF de",
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+      },
+      {
+        "text": "pendant 15 s après l'utilisation d'une compétence élémentaire."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Axe de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937115/Genshin/Materials/Mobs/AxeDeLaSourceSecrete.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Gaine de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937111/Genshin/Materials/Mobs/GaineDeLaSourceSecrete.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937107/Genshin/Materials/Mobs/NoyauDeLaSourceSecrete.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en bois de sentinelle",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839614/Genshin/Materials/Mobs/SiffletEnBoisDeSentinelle.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en métal de guerrier",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839613/Genshin/Materials/Mobs/SiffletEnMetalDeGuerrier.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Sifflet en or de guerrier couronné par les sauriens",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839612/Genshin/Materials/Mobs/SiffletEnOrDeGuerrierCouronneParLesSauriens.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Décadence délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+          "number": 3,
+          "id": ""
+        },
+        {
+          "name": "Désolation délirante du seigneur sacré ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934260/Genshin/Weapons/Materials/DesolationDeliranteDuSeigneurSacre.webp",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "Attitude délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934258/Genshin/Weapons/Materials/AttitudeDeliranteDuSeigneurSacre.webp",
+          "number": 9,
+          "id": ""
+        },
+        {
+          "name": "Divinité délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934257/Genshin/Weapons/Materials/DiviniteDeliranteDuSeigneurSacre.webp",
+          "number": 4,
+          "id": ""
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon192",
+    "star": 4,
+    "name": "Anneau de Yaxche",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937342/Genshin/Weapons/AnneauDeYaxche.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937339/Genshin/Weapons/AnneauDeYaxcheAsc.webp",
+    "type": {
+      "name": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Forgeage",
+    "atk": "510",
+    "stat_secondaire": { "type": "PV", "stat": "41,3 %" },
+    "description": "Cet objet de jade a été créé par un héros d'autrefois. La légende raconte qu'il aurait un jour abattu du ciel le dragon géant qui résidait dans le volcan.",
+    "effect": [
+      {
+        "title": "Échos des terres fertiles",
+        "text": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de",
+        "level": ["0,6 %", "0,7 %", "0,8 %", "0,9 %", "1 %"]
+      },
+      {
+        "text": "pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de",
+        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+      },
+      { "text": "de cette manière." }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Fragment de volonté brisée",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934791/Genshin/Materials/Mobs/FragmentDeVolonteBrisee.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Image de volonté claire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934787/Genshin/Materials/Mobs/ImageDeVolonteClaire.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Sceau de volonté errante",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934784/Genshin/Materials/Mobs/SceauDeVolonteErrante.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Masque endommagé",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556867/Genshin/Materials/Mobs/MasqueEndommage.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Masque sale",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556864/Genshin/Materials/Mobs/MasqueSale.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Masque sinistre",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556861/Genshin/Materials/Mobs/MasqueSinistre.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Décadence délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+          "number": 3,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Désolation délirante du seigneur sacré ",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934260/Genshin/Weapons/Materials/DesolationDeliranteDuSeigneurSacre.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Attitude délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934258/Genshin/Weapons/Materials/AttitudeDeliranteDuSeigneurSacre.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Divinité délirante du seigneur sacré",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934257/Genshin/Weapons/Materials/DiviniteDeliranteDuSeigneurSacre.webp",
+          "number": 4,
+          "id": "WeaMat6"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon193",
+    "star": 4,
+    "name": "Brise-chaîne",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940633/Genshin/Weapons/BriseChaine.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940631/Genshin/Weapons/BriseChaineAsc.webp",
+    "type": {
+      "name": "Arc",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618001/Genshin/Weapons/IconArc.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Forgeage",
+    "atk": "565",
+    "stat_secondaire": { "type": "ATQ", "stat": "27,6 %" },
+    "description": "Un arc long orné de jade. Les vents doux semblent toujours tourbillonner doucement autour de sa corde. Les légendes prétendent que cette arme a été fabriquée à une époque bien plus ancienne par un artisan dragon.",
+    "effect": [
+      {
+        "title": "Chant de plumes et fleurs",
+        "text": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de",
+        "level": ["4,8 %.", "6 %.", "7,2 %.", "8,4 %.", "9,6 %."]
+      },
+      {
+        "text": "Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de",
+        "level": ["24 pts.", "30 pts.", "36 pts.", "42 pts.", "48 pts."]
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Aileron plumeux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721906341/Genshin/Materials/Mobs/AileronPlumeux.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Aileron lunaire",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721906338/Genshin/Materials/Mobs/AileronLunaire.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Aileron ténèbreux",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721906336/Genshin/Materials/Mobs/AileronTenebreux.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Croc juvénile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846401/Genshin/Materials/Mobs/CrocJuvenile.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Croc mature",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846398/Genshin/Materials/Mobs/CrocMature.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Croc de tyran",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846396/Genshin/Materials/Mobs/CrocDeTyran.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Considération mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+          "number": 3,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Prémonition mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940988/Genshin/Weapons/Materials/PremonitionMystiqueDuVentNocturne.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Augure mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940986/Genshin/Weapons/Materials/AugureMystiqueDuVentNocturne.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Révélation mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940983/Genshin/Weapons/Materials/RevelationMystiqueDuVentNocturne.webp",
+          "number": 4,
+          "id": "WeaMat6"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "Weapon194",
+    "star": 4,
+    "name": "Corne à boire cendrée",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941103/Genshin/Weapons/CorneABoireCendreeAsc.webp",
+    "type": {
+      "name": "Catalyseur",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617949/Genshin/Weapons/IconCatalyseur.webp"
+    },
+    "release_date": "28 Août 2024",
+    "obtain": "Évènement Traces d'art (5.0)",
+    "atk": "510",
+    "stat_secondaire": { "type": "PV", "stat": "41,3 %" },
+    "description": "Un récipient rituel transmis parmi les Meztlis. Ils disent que c'était autrefois un trésor très précieux, mais jamais utilisé, du héros « géant » Tupac.",
+    "effect": [
+      {
+        "title": "Poignée de Tupac",
+        "text": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à",
+        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+      },
+      {
+        "text": "des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s."
+      }
+    ],
+    "ascension": {
+      "mora": {
+        "name": "Mora",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556120/Genshin/Mora.webp",
+        "number": "150 000",
+        "id": ""
+      },
+      "mobLoot": [
+        {
+          "name": "Axe de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937115/Genshin/Materials/Mobs/AxeDeLaSourceSecrete.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Gaine de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937111/Genshin/Materials/Mobs/GaineDeLaSourceSecrete.webp",
+          "number": 18,
+          "id": ""
+        },
+        {
+          "name": "Noyau de la source secrète",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937107/Genshin/Materials/Mobs/NoyauDeLaSourceSecrete.webp",
+          "number": 27,
+          "id": ""
+        },
+        {
+          "name": "Croc juvénile",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846401/Genshin/Materials/Mobs/CrocJuvenile.webp",
+          "number": 10,
+          "id": ""
+        },
+        {
+          "name": "Croc mature",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846398/Genshin/Materials/Mobs/CrocMature.webp",
+          "number": 15,
+          "id": ""
+        },
+        {
+          "name": "Croc de tyran",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726846396/Genshin/Materials/Mobs/CrocDeTyran.webp",
+          "number": 18,
+          "id": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "Considération mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+          "number": 3,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Prémonition mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940988/Genshin/Weapons/Materials/PremonitionMystiqueDuVentNocturne.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Augure mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940986/Genshin/Weapons/Materials/AugureMystiqueDuVentNocturne.webp",
+          "number": 9,
+          "id": "WeaMat6"
+        },
+        {
+          "name": "Révélation mystique du vent nocturne",
+          "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940983/Genshin/Weapons/Materials/RevelationMystiqueDuVentNocturne.webp",
+          "number": 4,
+          "id": "WeaMat6"
+        }
+      ]
+    }
   }
 ]

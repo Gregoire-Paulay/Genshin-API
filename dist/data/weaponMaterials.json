@@ -1412,5 +1412,142 @@
         ]
       }
     ]
+  },
+
+  {
+    "id": "WeaMat6",
+    "domain": "Ancienne tour de guet",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941409/Genshin/Weapons/Materials/AncienneTourDeGuet.webp",
+    "region": {
+      "name": "Natlan",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839034/Genshin/Region/Natlan.webp",
+      "location": "Vallée Tequemecan"
+    },
+    "materials": [
+      {
+        "name": "Coeur sacrificiel flamboyant",
+        "day": "Lundi / Jeudi / Dimanche",
+        "details": [
+          {
+            "name": "Terreur du cœur sacrificiel flamboyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+            "quality": 2
+          },
+          {
+            "name": "Hésitation du cœur sacrificiel flamboyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935064/Genshin/Weapons/Materials/HesitationDuCoeurSacrificielFlamboyant.webp",
+            "quality": 3
+          },
+          {
+            "name": "Résolution du cœur sacrificiel flamboyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935062/Genshin/Weapons/Materials/ResolutionDuCoeurSacrificielFlamboyant.webp",
+            "quality": 4
+          },
+          {
+            "name": "Splendeur du cœur sacrificiel flamboyant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935060/Genshin/Weapons/Materials/SplendeurDuCoeurSacrificielFlamboyant.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          {
+            "name": "Instant surfant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934545/Genshin/Weapons/InstantSurfant.webp",
+            "id": "Weapon188"
+          },
+          {
+            "name": "Flûte d'ezpitzal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935311/Genshin/Weapons/FluteDezpitzal.webp",
+            "id": "Weapon189"
+          },
+          {
+            "name": "Trembleur de terre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
+            "id": "Weapon190"
+          }
+        ]
+      },
+      {
+        "name": "Délirante du seigneur sacré",
+        "day": "Mardi / Vendredi / Dimanche",
+        "details": [
+          {
+            "name": "Décadence délirante du seigneur sacré",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+            "quality": 2
+          },
+          {
+            "name": "Désolation délirante du seigneur sacré",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934260/Genshin/Weapons/Materials/DesolationDeliranteDuSeigneurSacre.webp",
+            "quality": 3
+          },
+          {
+            "name": "Attitude délirante du seigneur sacré",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934258/Genshin/Weapons/Materials/AttitudeDeliranteDuSeigneurSacre.webp",
+            "quality": 4
+          },
+          {
+            "name": "Divinité délirante du seigneur sacré",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934257/Genshin/Weapons/Materials/DiviniteDeliranteDuSeigneurSacre.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          {
+            "name": "Croc du roi de la montagne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagne.webp",
+            "id": "Weapon187"
+          },
+          {
+            "name": "Trace d'arc-en-ciel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936945/Genshin/Weapons/TraceDarcEnCiel.webp",
+            "id": "Weapon191"
+          },
+          {
+            "name": "Anneau de Yaxche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937342/Genshin/Weapons/AnneauDeYaxche.webp",
+            "id": "Weapon192"
+          }
+        ]
+      },
+      {
+        "name": "Mystique du vent nocturne",
+        "day": "Mercredi / Samedi / Dimanche",
+        "details": [
+          {
+            "name": "Considération mystique du vent nocturne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+            "quality": 2
+          },
+          {
+            "name": "Prémonition mystique du vent nocturne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940988/Genshin/Weapons/Materials/PremonitionMystiqueDuVentNocturne.webp",
+            "quality": 3
+          },
+          {
+            "name": "Augure mystique du vent nocturne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940986/Genshin/Weapons/Materials/AugureMystiqueDuVentNocturne.webp",
+            "quality": 4
+          },
+          {
+            "name": "Révélation mystique du vent nocturne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940983/Genshin/Weapons/Materials/RevelationMystiqueDuVentNocturne.webp",
+            "quality": 5
+          }
+        ],
+        "weapons": [
+          {
+            "name": "Brise-chaîne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940633/Genshin/Weapons/BriseChaine.webp",
+            "id": "Weapon193"
+          },
+          {
+            "name": "Corne à boire cendrée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
+            "id": "Weapon194"
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -6439,5 +6439,271 @@
         "description": "Après avoir été hors combat pendant 3 s, les DGT infligés augmentent de 50 %. En combat, si aucun ennemi brûlé n'est à proximité pendant plus de 6 s, cette augmentation de DGT diminue de 10 % toutes les secondes, jusqu'à atteindre 0 % ; si un ennemi brûlé est à proximité, elle augmente de 10 % toutes les secondes, jusqu'à atteindre 50 %. Cet effet peut être déclenché même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé."
       }
     ]
+  },
+
+  {
+    "id": "Art52",
+    "star": 5,
+    "set_name": "Parchemin du héros de la Cité de braise",
+    "source": [
+      {
+        "name": "Sanctuaire des esprits arc-en-ciel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931117/Genshin/Artifacts/Domaine/SanctuaireDesEspritsArcEnCiel.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Talisman du dompteur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931263/Genshin/Artifacts/TalismanDuDompteur.webp",
+        "main_stats": [{ "name": "PV", "number": "4 780" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Une fleur sculptée dans du silex et de la draconite, signifiant que son porteur est qualifié pour devenir un dompteur d'alpagas."
+      },
+      {
+        "name": "Balise du patrouilleur montagnard",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931258/Genshin/Artifacts/BaliseDuPatrouilleurMontagnard.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un poteau indicateur utilisé par les patrouilleurs montagnards pour marquer les sentiers. Sa forme en plumes d'oiseau le rend particulièrement accrocheur."
+      },
+      {
+        "name": "Cadran d'or de la mystique",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931252/Genshin/Artifacts/CadranDorDeLaMystique.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Recharge d'energie", "number": "51,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un disque doré en forme de soleil. Les motifs draconiques qui le décorent semblent symboliser le cycle de la vie et de la mort."
+      },
+      {
+        "name": "Coupe à griffes de l'érudit en voyage",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931247/Genshin/Artifacts/CoupeAGriffesDeLeruditEnVoyage.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Bonus de DGT élémentaires", "number": "46,6 %" },
+          { "name": "Bonus de DGT physiques", "number": "58,3 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un étrange gobelet dont la forme rappelle celle d'une griffe de dragon. Son créateur a dû le fabriquer avec quelque chose de spécial en tête."
+      },
+      {
+        "name": "Masque à plumes du guerrier-démon",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931242/Genshin/Artifacts/MasqueAPlumesDuGuerrierDemon.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Taux CRIT", "number": "31,1 %" },
+          { "name": "DGT CRIT", "number": "62,2 %" },
+          { "name": "Bonus de soins", "number": "35,9 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un masque plumé au plumage de faucon. De nombreuses légendes entourent cet objet."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Lorsqu'un membre de l'équipe à proximité déclenche une éruption noctâme, le personnage équipé de l'artéfact récupère 6 pts d'énergie élémentaire."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Lorsque le personnage équipé de l'artéfact a déclenché une réaction liée à son type élémentaire, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 12 % pendant 15 s pour tous les personnages de l'équipe à proximité. Si le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme lors du déclenchement de cet effet, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 28 % supplémentaires pendant 20 s pour tous les personnages de l'équipe à proximité. L'effet ci-dessus peut être déclenché même si le personnage n'est pas déployé, et les effets d'augmentation des DGT accordés par les sets d'artéfacts du même nom ne se cumulent pas."
+      }
+    ]
+  },
+
+  {
+    "id": "Art53",
+    "star": 5,
+    "set_name": "Codex d'obsidienne",
+    "source": [
+      {
+        "name": "Sanctuaire des esprits arc-en-ciel",
+        "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931117/Genshin/Artifacts/Domaine/SanctuaireDesEspritsArcEnCiel.webp"
+      }
+    ],
+    "set_details": [
+      {
+        "name": "Représailles des aberrants",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931602/Genshin/Artifacts/RepresaillesDesAberrants.webp",
+        "main_stats": [{ "name": "PV", "number": "4 780" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Une fleur minutieusement sculptée dans du cristal noir. Elle émet une lumière mystérieuse pendant la nuit."
+      },
+      {
+        "name": "Racine de la moelle spirituelle",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931600/Genshin/Artifacts/RacineDeLaMoelleSpirituelle.webp",
+        "main_stats": [{ "name": "ATQ", "number": "311" }],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un accessoire à plumes conçu pour imiter l'aile d'un dragon. Peut-être était-ce autrefois un petit souvenir d'une histoire oubliée..."
+      },
+      {
+        "name": "Mythes du domaine nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931599/Genshin/Artifacts/MythesDuDomaineNocturne.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Recharge d'energie", "number": "51,8 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un élément rituel mystérieux qui n'est ni une montre ni une boussole. Personne n'a aujourd'hui la moindre idée de son utilité..."
+      },
+      {
+        "name": "Pré-banquet des concurrents",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931598/Genshin/Artifacts/PreBanquetDesConcurrents.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Bonus de DGT élémentaires", "number": "46,6 %" },
+          { "name": "Bonus de DGT physiques", "number": "58,3 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Un récipient qui semble avoir été fabriqué en tordant et en façonnant la pierre d'une manière apparemment fantaisiste. Mais la question de savoir qui possède une telle force reste ouverte..."
+      },
+      {
+        "name": "Diadème des saints",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726931597/Genshin/Artifacts/DiademeDesSaints.webp",
+        "main_stats": [
+          { "name": "PV", "number": "46,6 %" },
+          { "name": "ATQ", "number": "46,6 %" },
+          { "name": "DEF", "number": "58,3 %" },
+          { "name": "Maîtrise élémentaire", "number": "187" },
+          { "name": "Taux CRIT", "number": "31,1 %" },
+          { "name": "DGT CRIT", "number": "62,2 %" },
+          { "name": "Bonus de soins", "number": "35,9 %" }
+        ],
+        "secondary_stats": [
+          { "name": "PV", "number": "209 - 299" },
+          { "name": "PV", "number": "4,1 % - 5,8 %" },
+          { "name": "ATQ", "number": "14 - 19" },
+          { "name": "ATQ", "number": "4,1 % - 5,8 %" },
+          { "name": "DEF", "number": "16 - 23" },
+          { "name": "DEF", "number": "5,1 % - 7,3 %" },
+          { "name": "Recharge d'energie", "number": "4,5 % - 6,5 % " },
+          { "name": "Maîtrise élémentaire", "number": "16 - 23" },
+          { "name": "Taux CRIT", "number": "2,7 % - 3,9 %" },
+          { "name": "DGT CRIT", "number": "5,4 % - 7,8 %" }
+        ],
+        "description": "Une couronne en obsidienne qui, dans les temps anciens, était utilisée lors des rituels de couronnement par les rois des tribus nobles."
+      }
+    ],
+    "bonus": [
+      {
+        "name": "2 pièces",
+        "description": "Lorsque le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme et est sur le terrain, les DGT qu'il inflige augmentent de 15 %."
+      },
+      {
+        "name": "4 pièces",
+        "description": "Lorsque le personnage équipé de l'artéfact a consommé 1 pt de noctâme sur le terrain, le taux CRIT augmente de 40 % pendant 6 s. Cet effet peut être déclenché une fois toutes les secondes."
+      }
+    ]
   }
 ]

@@ -197,6 +197,17 @@
             "id": "P72"
           }
         ]
+      },
+      {
+        "name": "Compétition",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840875/Genshin/Materials/Aptitude/EnseignementDeLaCompetition.webp",
+        "character": [
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
+          }
+        ]
       }
     ],
     "weapon_material": [
@@ -539,6 +550,27 @@
             "id": "Weapon143"
           }
         ]
+      },
+      {
+        "name": "Coeur sacrificiel flamboyant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+        "weapons": [
+          {
+            "name": "Instant surfant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934545/Genshin/Weapons/InstantSurfant.webp",
+            "id": "Weapon188"
+          },
+          {
+            "name": "Flûte d'ezpitzal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935311/Genshin/Weapons/FluteDezpitzal.webp",
+            "id": "Weapon189"
+          },
+          {
+            "name": "Trembleur de terre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
+            "id": "Weapon190"
+          }
+        ]
       }
     ]
   },
@@ -744,6 +776,17 @@
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
+          }
+        ]
+      },
+      {
+        "name": "Petit bois",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840879/Genshin/Materials/Aptitude/EnseignementDuPetitBois.webp",
+        "character": [
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P29"
           }
         ]
       }
@@ -1093,6 +1136,27 @@
             "id": "Weapon183"
           }
         ]
+      },
+      {
+        "name": "Délirante du seigneur sacré",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+        "weapons": [
+          {
+            "name": "Croc du roi de la montagne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagne.webp",
+            "id": "Weapon187"
+          },
+          {
+            "name": "Trace d'arc-en-ciel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936945/Genshin/Weapons/TraceDarcEnCiel.webp",
+            "id": "Weapon191"
+          },
+          {
+            "name": "Anneau de Yaxche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937342/Genshin/Weapons/AnneauDeYaxche.webp",
+            "id": "Weapon192"
+          }
+        ]
       }
     ]
   },
@@ -1275,6 +1339,11 @@
             "id": "P81"
           },
           {
+            "name": "Emilie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/EmilieIcon.png",
+            "id": "P89"
+          },
+          {
             "name": "Lynette",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
             "id": "P74"
@@ -1288,6 +1357,17 @@
             "name": "Wriothesley",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
             "id": "P76"
+          }
+        ]
+      },
+      {
+        "name": "Conflit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840884/Genshin/Materials/Aptitude/EnseignementDuConflit.webp",
+        "character": [
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
           }
         ]
       }
@@ -1621,6 +1701,22 @@
             "id": "Weapon182"
           }
         ]
+      },
+      {
+        "name": "Mystique du vent nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+        "weapons": [
+          {
+            "name": "Brise-chaîne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940633/Genshin/Weapons/BriseChaine.webp",
+            "id": "Weapon193"
+          },
+          {
+            "name": "Corne à boire cendrée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
+            "id": "Weapon194"
+          }
+        ]
       }
     ]
   },
@@ -1821,6 +1917,17 @@
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
+          }
+        ]
+      },
+      {
+        "name": "Compétition",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840875/Genshin/Materials/Aptitude/EnseignementDeLaCompetition.webp",
+        "character": [
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
           }
         ]
       }
@@ -2165,6 +2272,27 @@
             "id": "Weapon143"
           }
         ]
+      },
+      {
+        "name": "Coeur sacrificiel flamboyant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+        "weapons": [
+          {
+            "name": "Instant surfant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934545/Genshin/Weapons/InstantSurfant.webp",
+            "id": "Weapon188"
+          },
+          {
+            "name": "Flûte d'ezpitzal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935311/Genshin/Weapons/FluteDezpitzal.webp",
+            "id": "Weapon189"
+          },
+          {
+            "name": "Trembleur de terre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
+            "id": "Weapon190"
+          }
+        ]
       }
     ]
   },
@@ -2370,6 +2498,17 @@
             "name": "Voyageur Hydro",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708556025/Genshin/Characters/TravelerIcon.png",
             "id": "P72"
+          }
+        ]
+      },
+      {
+        "name": "Petit bois",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840879/Genshin/Materials/Aptitude/EnseignementDuPetitBois.webp",
+        "character": [
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P29"
           }
         ]
       }
@@ -2719,6 +2858,27 @@
             "id": "Weapon183"
           }
         ]
+      },
+      {
+        "name": "Délirante du seigneur sacré",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+        "weapons": [
+          {
+            "name": "Croc du roi de la montagne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagne.webp",
+            "id": "Weapon187"
+          },
+          {
+            "name": "Trace d'arc-en-ciel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936945/Genshin/Weapons/TraceDarcEnCiel.webp",
+            "id": "Weapon191"
+          },
+          {
+            "name": "Anneau de Yaxche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937342/Genshin/Weapons/AnneauDeYaxche.webp",
+            "id": "Weapon192"
+          }
+        ]
       }
     ]
   },
@@ -2901,6 +3061,11 @@
             "id": "P81"
           },
           {
+            "name": "Emilie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/EmilieIcon.png",
+            "id": "P89"
+          },
+          {
             "name": "Lynette",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
             "id": "P74"
@@ -2914,6 +3079,17 @@
             "name": "Wriothesley",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
             "id": "P76"
+          }
+        ]
+      },
+      {
+        "name": "Conflit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840884/Genshin/Materials/Aptitude/EnseignementDuConflit.webp",
+        "character": [
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
           }
         ]
       }
@@ -3246,6 +3422,22 @@
             "name": "Supervision de trésorerie",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267684/Genshin/Weapons/SupervisionDeTresorerie.webp",
             "id": "Weapon182"
+          }
+        ]
+      },
+      {
+        "name": "Mystique du vent nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+        "weapons": [
+          {
+            "name": "Brise-chaîne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940633/Genshin/Weapons/BriseChaine.webp",
+            "id": "Weapon193"
+          },
+          {
+            "name": "Corne à boire cendrée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
+            "id": "Weapon194"
           }
         ]
       }
@@ -3825,6 +4017,11 @@
             "id": "P81"
           },
           {
+            "name": "Emilie",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699268/Genshin/Characters/EmilieIcon.png",
+            "id": "P89"
+          },
+          {
             "name": "Lynette",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699788/Genshin/Characters/LynetteIcon.png",
             "id": "P74"
@@ -3838,6 +4035,39 @@
             "name": "Wriothesley",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708700030/Genshin/Characters/WriothesleyIcon.png",
             "id": "P76"
+          }
+        ]
+      },
+      {
+        "name": "Compétition",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840875/Genshin/Materials/Aptitude/EnseignementDeLaCompetition.webp",
+        "character": [
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
+          }
+        ]
+      },
+      {
+        "name": "Petit bois",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840879/Genshin/Materials/Aptitude/EnseignementDuPetitBois.webp",
+        "character": [
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P29"
+          }
+        ]
+      },
+      {
+        "name": "Conflit",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840884/Genshin/Materials/Aptitude/EnseignementDuConflit.webp",
+        "character": [
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
           }
         ]
       }
@@ -4855,6 +5085,64 @@
             "name": "Supervision de trésorerie",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1722267684/Genshin/Weapons/SupervisionDeTresorerie.webp",
             "id": "Weapon182"
+          }
+        ]
+      },
+      {
+        "name": "Coeur sacrificiel flamboyant",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935066/Genshin/Weapons/Materials/TerreurDuCoeurSacrificielFlamboyant.webp",
+        "weapons": [
+          {
+            "name": "Instant surfant",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934545/Genshin/Weapons/InstantSurfant.webp",
+            "id": "Weapon188"
+          },
+          {
+            "name": "Flûte d'ezpitzal",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935311/Genshin/Weapons/FluteDezpitzal.webp",
+            "id": "Weapon189"
+          },
+          {
+            "name": "Trembleur de terre",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
+            "id": "Weapon190"
+          }
+        ]
+      },
+      {
+        "name": "Délirante du seigneur sacré",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726934262/Genshin/Weapons/Materials/DecadenceDeliranteDuSeigneurSacre.webp",
+        "weapons": [
+          {
+            "name": "Croc du roi de la montagne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726933693/Genshin/Weapons/CrocDuRoiDeLaMontagne.webp",
+            "id": "Weapon187"
+          },
+          {
+            "name": "Trace d'arc-en-ciel",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726936945/Genshin/Weapons/TraceDarcEnCiel.webp",
+            "id": "Weapon191"
+          },
+          {
+            "name": "Anneau de Yaxche",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726937342/Genshin/Weapons/AnneauDeYaxche.webp",
+            "id": "Weapon192"
+          }
+        ]
+      },
+      {
+        "name": "Mystique du vent nocturne",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940991/Genshin/Weapons/Materials/ConsiderationMystiqueDuVentNocturne.webp",
+        "weapons": [
+          {
+            "name": "Brise-chaîne",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726940633/Genshin/Weapons/BriseChaine.webp",
+            "id": "Weapon193"
+          },
+          {
+            "name": "Corne à boire cendrée",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
+            "id": "Weapon194"
           }
         ]
       }

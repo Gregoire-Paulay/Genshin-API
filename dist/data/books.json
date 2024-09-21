@@ -907,5 +907,102 @@
         ]
       }
     ]
+  },
+
+  {
+    "id": "TM6",
+    "domain": "Ruines flamboyantes",
+    "picture": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726841207/Genshin/Materials/Aptitude/RuinesFlamboyantes.webp",
+    "region": {
+      "name": "Natlan",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839034/Genshin/Region/Natlan.webp",
+      "location": "Montagne Coatepec"
+    },
+    "books": [
+      {
+        "name": "Compétition",
+        "material": [
+          {
+            "name": "Enseignement de la compétition",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840875/Genshin/Materials/Aptitude/EnseignementDeLaCompetition.webp",
+            "quality": 2
+          },
+          {
+            "name": "Guide de la compétition",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840874/Genshin/Materials/Aptitude/GuideDeLaCompetition.webp",
+            "quality": 3
+          },
+          {
+            "name": "Philosophie de la compétition",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840873/Genshin/Materials/Aptitude/PhilosophieDeLaCompetition.webp",
+            "quality": 4
+          }
+        ],
+        "day": "Lundi / Jeudi / Dimanche",
+        "character": [
+          {
+            "name": "Mualani",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726842441/Genshin/Characters/MualaniIcon.webp",
+            "id": "P91"
+          }
+        ]
+      },
+      {
+        "name": "Petit bois",
+        "material": [
+          {
+            "name": "Enseignement du petit bois",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840879/Genshin/Materials/Aptitude/EnseignementDuPetitBois.webp",
+            "quality": 2
+          },
+          {
+            "name": "Guide du petit bois",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840878/Genshin/Materials/Aptitude/GuideDuPetitBois.webp",
+            "quality": 3
+          },
+          {
+            "name": "Philosophie du petit bois",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840876/Genshin/Materials/Aptitude/PhilosophieDuPetitBois.webp",
+            "quality": 4
+          }
+        ],
+        "day": "Mardi / Vendredi / Dimanche",
+        "character": [
+          {
+            "name": "Kinich",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
+            "id": "P29"
+          }
+        ]
+      },
+      {
+        "name": "Conflit",
+        "material": [
+          {
+            "name": "Enseignement du conflit",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840884/Genshin/Materials/Aptitude/EnseignementDuConflit.webp",
+            "quality": 2
+          },
+          {
+            "name": "Guide du conflit",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840882/Genshin/Materials/Aptitude/GuideDuConflit.webp",
+            "quality": 3
+          },
+          {
+            "name": "Philosophie du conflit",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726840881/Genshin/Materials/Aptitude/PhilosophieDuConflit.webp",
+            "quality": 4
+          }
+        ],
+        "day": "Mercredi / Samedi / Dimanche",
+        "character": [
+          {
+            "name": "Kachina",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726838600/Genshin/Characters/KachinaIcon.webp",
+            "id": "P90"
+          }
+        ]
+      }
+    ]
   }
 ]
