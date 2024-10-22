@@ -1216,6 +1216,11 @@
             "name": "Mika",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699781/Genshin/Characters/MikaIcon.png",
             "id": "P68"
+          },
+          {
+            "name": "Xilonen",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729608922/Genshin/Characters/XilonenIcon.webp",
+            "id": "P93"
           }
         ]
       },

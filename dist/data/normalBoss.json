@@ -2862,5 +2862,72 @@
         "id": "AM8"
       }
     ]
+  },
+
+  {
+    "id": "B33",
+    "name": "Automate de source secrète : Configurateur",
+    "title": "Constructeur des ruines antiques",
+    "art": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729612659/Genshin/Boss/AutomateDeSourceSecrete.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729612656/Genshin/Boss/AutomateDeSourceSecreteIcon.webp",
+    "region": {
+      "name": "Natlan",
+      "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726839034/Genshin/Region/Natlan.webp",
+      "location": "Sources Toyac"
+    },
+    "description": [
+      {
+        "text": "Une machine de fabrication provenant des ruines antiques. Ce type de machine, qui peut se transformer en de nombreuses formes, était utilisé par les maîtres des ruines antiques pour effectuer diverses tâches de fabrication. Tant que vous apprenez à utiliser une telle machine, vous pouvez construire une ville colossale au-delà de l'imagination, même dans des environnements extrêmes comme les profondeurs d'un volcan."
+      },
+      {
+        "text": "De plus, elle semble également pouvoir être utilisée comme une arme. Bien que l'ancienne civilisation soit tombée depuis longtemps, cette machine en forme de griffe géante, alimentée par les motifs dorés gravés dessus, peut toujours s'engager dans un combat en fonction d'instructions prédéfinies."
+      }
+    ],
+    "element": [
+      {
+        "name": "Électro",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708618455/Genshin/IconElectro.webp"
+      }
+    ],
+    "uniqueRewards": [
+      {
+        "name": "Noyau source aux motifs dorés secrets",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729610020/Genshin/Materials/Boss/NoyauSourceAuxMotifsDoresSecrets.webp",
+        "worldLevel": 0,
+        "character": [
+          {
+            "name": "Xilonen",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729608922/Genshin/Characters/XilonenIcon.webp",
+            "id": "P93"
+          }
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Éclat d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698256/Genshin/Materials/Stone/EclatDamethysteVajra.webp",
+        "worldLevel": 0,
+        "id": "AM5"
+      },
+      {
+        "name": "Fragment d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698253/Genshin/Materials/Stone/FragmentDamethysteVajra.webp",
+        "worldLevel": 2,
+        "id": "AM5"
+      },
+      {
+        "name": "Morceau d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698250/Genshin/Materials/Stone/MorceauDamethysteVajra.webp",
+        "worldLevel": 4,
+        "id": "AM5"
+      },
+      {
+        "name": "Pierre d'améthyste vajra",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708698247/Genshin/Materials/Stone/PierreDamethysteVajra.webp",
+        "worldLevel": 6,
+        "id": "AM5"
+      }
+    ]
   }
 ]

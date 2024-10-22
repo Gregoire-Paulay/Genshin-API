@@ -473,6 +473,11 @@
         "name": "Hypostase Dendro",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709045521/Genshin/Boss/HypostaseDendroIcon.png",
         "id": "B22"
+      },
+      {
+        "name": "Kongamato",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726854100/Genshin/Boss/KongamatoIcon.webp",
+        "id": "B31"
       }
     ],
     "description": [
@@ -646,6 +651,11 @@
         "name": "Hippocampe perlé millénaire",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048586/Genshin/Boss/HippocampePerleMillenaireIcon.png",
         "id": "B27"
+      },
+      {
+        "name": "Automate de source secrète : Configurateur",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729612656/Genshin/Boss/AutomateDeSourceSecreteIcon.webp",
+        "id": "B33"
       }
     ],
     "description": [
@@ -738,6 +748,11 @@
         "name": "Zhongli",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708699977/Genshin/Characters/ZhongliIcon.png",
         "id": "P26"
+      },
+      {
+        "name": "Xilonen",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729608922/Genshin/Characters/XilonenIcon.webp",
+        "id": "P93"
       }
     ],
     "weeklyBoss": [
@@ -782,6 +797,11 @@
         "name": "Générateur de champ expérimental",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048921/Genshin/Boss/GenerateurDeChampExperimentalIcon.png",
         "id": "B28"
+      },
+      {
+        "name": "Statue de marbre et laiton",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574721/Genshin/Boss/StatueDeMarbreeEtLaitonIcon.webp",
+        "id": "B30"
       }
     ],
     "description": [
@@ -1088,6 +1108,11 @@
         "name": "Signora",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708713070/Genshin/Boss/SignoraIcon.png",
         "id": "WB5"
+      },
+      {
+        "name": "Arlecchino",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714570724/Genshin/Boss/ArlecchinoIcon.webp",
+        "id": "WB10"
       }
     ],
     "normalBoss": [
@@ -1120,6 +1145,16 @@
         "name": "Empereur du feu ferreux",
         "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1709048213/Genshin/Boss/EmpereurDuFeuFerreuxIcon.png",
         "id": "B26"
+      },
+      {
+        "name": "Statue de marbre et laiton",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1714574721/Genshin/Boss/StatueDeMarbreeEtLaitonIcon.webp",
+        "id": "B30"
+      },
+      {
+        "name": "Holawaqa Ngoubou",
+        "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726855227/Genshin/Boss/HolawaqaNgoubouIcon.webp",
+        "id": "B32"
       }
     ],
     "description": [

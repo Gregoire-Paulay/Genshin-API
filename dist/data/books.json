@@ -971,7 +971,12 @@
           {
             "name": "Kinich",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726845794/Genshin/Characters/KinichIcon.webp",
-            "id": "P29"
+            "id": "P92"
+          },
+          {
+            "name": "Xilonen",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1729608922/Genshin/Characters/XilonenIcon.webp",
+            "id": "P93"
           }
         ]
       },
