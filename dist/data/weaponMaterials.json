@@ -1464,6 +1464,11 @@
             "name": "Trembleur de terre",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726935647/Genshin/Weapons/TrembleurDeTerre.webp",
             "id": "Weapon190"
+          },
+          {
+            "name": "Os robuste",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1730120196/Genshin/Weapons/OsRobuste.webp",
+            "id": "Weapon198"
           }
         ]
       },
@@ -1545,6 +1550,16 @@
             "name": "Corne à boire cendrée",
             "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1726941105/Genshin/Weapons/CorneABoireCendree.webp",
             "id": "Weapon194"
+          },
+          {
+            "name": "Chanson de patrouille de sommet",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1730115088/Genshin/Weapons/ChansonDePatrouilleDeSommet.webp",
+            "id": "Weapon195"
+          },
+          {
+            "name": "Crochet fructueux",
+            "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1730119877/Genshin/Weapons/CrochetFructueux.webp",
+            "id": "Weapon197"
           }
         ]
       }
