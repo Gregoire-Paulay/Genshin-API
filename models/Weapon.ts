@@ -56,8 +56,6 @@ export const allWeaponsSchema = z.array(
     name: z.string(),
     icon: z.string().url().optional(),
     icon_ascended: z.string().url().optional(),
-    icon_ousia: z.string().url().optional(),
-    icon_pneuma: z.string().url().optional(),
     type: z.object({
       name: z.string(),
       icon: z.string().url(),
@@ -74,7 +72,15 @@ export const allWeaponsSchema = z.array(
         z.object({
           title: z.string().optional(),
           text: z.string(),
-          level: z.array(z.string()).optional(),
+          level: z
+            .object({
+              r1: z.string(),
+              r2: z.string(),
+              r3: z.string(),
+              r4: z.string(),
+              r5: z.string(),
+            })
+            .optional(),
         })
       )
       .optional(),

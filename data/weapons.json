@@ -158,11 +158,23 @@
       {
         "title": "Détermination",
         "text": "Les attaques ont 50 % de chances d'infliger",
-        "level": ["240 %", "280 %", "320 %", "360 %", "400 %"]
+        "level": {
+          "r1": "240 %",
+          "r2": "280 %",
+          "r3": "320 %",
+          "r4": "360 %",
+          "r5": "400 %"
+        }
       },
       {
         "text": "de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les",
-        "level": ["15 s", "14 s", "13 s", "12 s", "11 s"]
+        "level": {
+          "r1": "15 s",
+          "r2": "14 s",
+          "r3": "13 s",
+          "r4": "12 s",
+          "r5": "11 s"
+        }
       }
     ],
     "ascension": {
@@ -258,7 +270,13 @@
       {
         "title": "Fléau d'eau et de glace",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Cryo de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       }
     ],
     "ascension": {
@@ -354,7 +372,13 @@
       {
         "title": "Vigeur",
         "text": "Augmente le taux CRIT de",
-        "level": ["14 %", "17,5 %", "21 %", "24,5 %", "28 %"]
+        "level": {
+          "r1": "14 %",
+          "r2": "17,5 %",
+          "r3": "21 %",
+          "r4": "24,5 %",
+          "r5": "28 %"
+        }
       },
       { "text": "quand les PV sont supérieurs à 90 %." }
     ],
@@ -451,7 +475,13 @@
       {
         "title": "Détermination",
         "text": "Augmente l'ATQ et la VIT de déplacement de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       { "text": "pendant 15 s après un déchaînement élémentaire." }
     ],
@@ -548,7 +578,13 @@
       {
         "title": "Voyage",
         "text": "Chaque particule ou orbe élémentaires obtenus restaurent",
-        "level": ["1 %", "1,25 %", "1,5 %", "1,75 %", "2 %"]
+        "level": {
+          "r1": "1 %",
+          "r2": "1,25 %",
+          "r3": "1,5 %",
+          "r4": "1,75 %",
+          "r5": "2 %"
+        }
       },
       { "text": "des PV." }
     ],
@@ -645,7 +681,13 @@
       {
         "title": "Surcapacité",
         "text": "Augmente l'ATQ de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro."
@@ -744,7 +786,13 @@
       {
         "title": "Murmure du djinn",
         "text": "L'effet suivant se déclenche toutes les 10 s : le personnage équipé de l'arme obtient",
-        "level": ["0,036 %", "0,045 %", "O,O54 %", "0,063 %", "0,072 %"]
+        "level": {
+          "r1": "0,036 %",
+          "r2": "0,045 %",
+          "r3": "O,O54 %",
+          "r4": "0,063 %",
+          "r5": "0,072 %"
+        }
       },
       {
         "text": "de recharge d'énergie pour chaque point de maîtrise élémentaire qu'il possède pendant 12 s, alors que les autres personnages de l'équipe à proximité obtiennent 30 % de ce bonus. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -843,15 +891,33 @@
       {
         "title": "Loup boréal",
         "text": "Les DGT infligés par les compétences et déchaînements élémentaires augmentent de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "0,072 %"
+        }
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, son taux CRIT augmente de ",
-        "level": ["2 %.", "2,5 %.", "3 %.", "3,5 %.", "4 %."]
+        "level": {
+          "r1": "2 %.",
+          "r2": "2,5 %.",
+          "r3": "3 %.",
+          "r4": "3,5 %.",
+          "r5": "4 %."
+        }
       },
       {
         "text": "Lorsqu'un déchaînement élémentaire touche un ennemi, son taux CRIT augmente de",
-        "level": ["2 %.", "2,5 %.", "3 %.", "3,5 %.", "4 %."]
+        "level": {
+          "r1": "2 %.",
+          "r2": "2,5 %.",
+          "r3": "3 %.",
+          "r4": "3,5 %.",
+          "r5": "4 %."
+        }
       },
       {
         "text": "Chacun de ces deux effets dure 10 s, et peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,1 s."
@@ -950,11 +1016,23 @@
       {
         "title": "Soif insatiable",
         "text": "Augmente les DGT de la compétence élémentaire de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "et son taux CRIT de ",
-        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %.", "12 %."]
+        "level": {
+          "r1": "6 %.",
+          "r2": "7,5 %.",
+          "r3": "9 %.",
+          "r4": "10,5 %.",
+          "r5": "12 %."
+        }
       }
     ],
     "ascension": {
@@ -1050,15 +1128,33 @@
       {
         "title": "Un ultime sublime",
         "text": "Libérer une compétence élémentaire augmente l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 15 s et accorde un engagement vital d'une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l'engagement vital disparaît, l'ATQ augmente pendant 15 s d'une valeur équivalant à",
-        "level": ["2,4 %", "3 %", "3,6 %", "4,2 %", "4,8 %"]
+        "level": {
+          "r1": "2,4 %",
+          "r2": "3 %",
+          "r3": "3,6 %",
+          "r4": "4,2 %",
+          "r5": "4,8 %"
+        }
       },
       {
         "text": "de la valeur de l'engagement dissipé, l'ATQ pouvant être augmentée d'un maximum de",
-        "level": ["150", "187,5", "225", "262,5", "300"]
+        "level": {
+          "r1": "150",
+          "r2": "187,5",
+          "r3": "225",
+          "r4": "262,5",
+          "r5": "300"
+        }
       },
       { "text": "pts de cette manière." }
     ],
@@ -1155,7 +1251,13 @@
       {
         "title": "Accord",
         "text": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige",
-        "level": ["100 %", "125 %", "150 %", "175 %", "200 %"]
+        "level": {
+          "r1": "100 %",
+          "r2": "125 %",
+          "r3": "150 %",
+          "r4": "175 %",
+          "r5": "200 %"
+        }
       },
       {
         "text": "de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s."
@@ -1254,7 +1356,13 @@
       {
         "title": "Cœur immaculé",
         "text": "Augmente les DGT infligés par les compétences élémentaires d'une valeur équivalant à",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "de la DÉF. Cet effet peut être déclenché une fois toutes les 1,5 s, et est annulé 0,1 s après que la compétence élémentaire inflige des DGT."
@@ -1448,11 +1556,11 @@
       {
         "title": "Chant de marins",
         "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque stoïque pendant 30 s, un maximum de 3 marques stoïques pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques stoïques et accorde un effet de surrection pendant 10 s : chaque marque stoïque consommée augmente la maîtrise élémentaire de",
-        "level": ["40", "50", "60", "70", "80"]
+        "level": { "r1": "40", "r2": "50", "r3": "60", "r4": "70", "r5": "80" }
       },
       {
         "text": "pts puis, 2 s après le début de l'effet, restaure l'énergie élémentaire du personnage équipé de l'arme de",
-        "level": ["2", "2,5", "3", "3,5", "4"]
+        "level": { "r1": "2", "r2": "2,5", "r3": "3", "r4": "3,5", "r5": "4" }
       },
       {
         "text": "pts. Un effet de surrection peut être déclenché une fois toutes les 15 s, et des marques stoïques peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -1551,7 +1659,13 @@
       {
         "title": "Sanctuaire sylvestre",
         "text": "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de ",
-        "level": ["60", "75", "90", "105", "120"]
+        "level": {
+          "r1": "60",
+          "r2": "75",
+          "r3": "90",
+          "r4": "105",
+          "r5": "120"
+        }
       },
       {
         "text": "pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. L'effet de la feuille de conscience ne se cumule pas."
@@ -1635,8 +1749,8 @@
     "id": "Weapon18",
     "star": 4,
     "name": "Lame du Narzissenkreuz",
-    "icon_pneuma": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571160/Genshin/Weapons/LameDuNarzissenkreuzPneuma.webp",
-    "icon_ousia": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571159/Genshin/Weapons/LameDuNarzissenkreuzOusia.webp",
+    "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571160/Genshin/Weapons/LameDuNarzissenkreuzPneuma.webp",
+    "icon_ascended": "https://res.cloudinary.com/dy2ayuond/image/upload/v1721571159/Genshin/Weapons/LameDuNarzissenkreuzOusia.webp",
     "type": {
       "name": "Épée",
       "icon": "https://res.cloudinary.com/dy2ayuond/image/upload/v1708617933/Genshin/Weapons/IconEpee.webp"
@@ -1650,7 +1764,13 @@
       {
         "title": "Lame de héros",
         "text": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à",
-        "level": ["160 %", "200 %", "240 %", "280 %", "320 %"]
+        "level": {
+          "r1": "160 %",
+          "r2": "200 %",
+          "r3": "240 %",
+          "r4": "280 %",
+          "r5": "320 %"
+        }
       },
       {
         "text": "de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz."
@@ -1749,7 +1869,7 @@
       {
         "title": "Héritage d'Iwakura",
         "text": "L'utilisation d'une compétence élémentaire accorde 1 graine d'héritage. Cet effet peut être déclenché une fois toutes les 5 s. Chaque graine d'héritage dure 30 s, et un maximum de 3 graines d'héritage peut être cumulé simultanément. Après avoir utilisé un déchaînement élémentaire, toutes les graines d'héritage sont consommées et après 2 s, le personnage récupère",
-        "level": ["6", "7,5", "9", "10,5", "12"]
+        "level": { "r1": "6", "r2": "7,5", "r3": "9", "r4": "10,5", "r5": "12" }
       },
       { "text": "pts d'énergie élémentaire pour chaque graine consommée." }
     ],
@@ -1846,11 +1966,23 @@
       {
         "title": "Os de fer",
         "text": "Le taux CRIT des compétences élémentaires augmente de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": " De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       { "text": "pendant 5 s." }
     ],
@@ -1947,7 +2079,13 @@
       {
         "title": "Dard énergisant",
         "text": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de",
-        "level": ["6 %", "7,5 %", "9 %", "10,5 %", "12 %"]
+        "level": {
+          "r1": "6 %",
+          "r2": "7,5 %",
+          "r3": "9 %",
+          "r4": "10,5 %",
+          "r5": "12 %"
+        }
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes."
@@ -2046,7 +2184,13 @@
       {
         "title": "Kaidan : Liant de terre pluviométrique",
         "text": "Lorsqu'une attaque a touché, elle inflige l'état Ombrelle maudite à un des ennemis touchés pendant 10 s. Cet effet peut être déclenché une fois toutes les 15 s. Si l'ennemi affecté est éliminé pendant la durée de l'effet Ombrelle maudite, son TdR est immédiatement réinitialisé. Les DGT infligés par le personnage équipé de l'arme aux ennemis affectés par l'état Ombrelle maudite augmentent de ",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       }
     ],
     "ascension": {
@@ -2142,7 +2286,13 @@
       {
         "title": "Fléau de feu et de foudre",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Pyro ou Électro de",
-        "level": ["20 %.", "24 %.", "28 %.", "32 %.", "36 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "24 %.",
+          "r3": "28 %.",
+          "r4": "32 %.",
+          "r5": "36 %."
+        }
       }
     ],
     "ascension": {
@@ -2238,7 +2388,13 @@
       {
         "title": "Pierre cassée",
         "text": "Les attaques normales et chargées augmentent l'ATQ et la DÉF de ",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,3 s."
@@ -2337,7 +2493,13 @@
       {
         "title": "Justicier vagabond",
         "text": "Augmente les DGT infligés par le personnage de ",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT."
@@ -2436,11 +2598,23 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont ",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "10,5 s.",
+          "r3": "9 s.",
+          "r4": "7,5 s.",
+          "r5": "6 s."
+        }
       }
     ],
     "ascension": {
@@ -2631,7 +2805,13 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de ",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -2730,7 +2910,13 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -2829,11 +3015,23 @@
       {
         "title": "Justice",
         "text": "Augmente les DGT infligés par les attaques normales et chargées de ",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "et restaure",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s."
@@ -2932,11 +3130,23 @@
       {
         "title": "Sang-froid",
         "text": "Les compétences élémentaires ont",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": " de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
+        "level": {
+          "r1": "30 s.",
+          "r2": "26 s.",
+          "r3": "22 s.",
+          "r4": "19 s.",
+          "r5": "16 s."
+        }
       }
     ],
     "ascension": {
@@ -3032,11 +3242,23 @@
       {
         "title": "Pacte funeste",
         "text": "Augmente les DGT CRIT de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Lorsque la valeur d'un engagement vital augmente, les DGT infligés par le personnage équipé de l'arme augmentent de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       { "text": "pendant 6 s, cet effet pouvant être cumulé 3 fois maximum." }
     ],
@@ -3133,15 +3355,33 @@
       {
         "title": "Chant englouti des sables",
         "text": "Les PV sont augmentés de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rhapsodie est généré pendant 20 s : augmente la maîtrise élémentaire d'une valeur équivalant à ",
-        "level": ["0,12 %", "0,15 %", "0,18 %", "0,21 %", "0,24 %"]
+        "level": {
+          "r1": "0,12 %",
+          "r2": "0,15 %",
+          "r3": "0,18 %",
+          "r4": "0,21 %",
+          "r5": "0,24 %"
+        }
       },
       {
         "text": "des PV max du personnage équipé de l'arme. Cet effet peut être déclenché une fois toutes les 0,3 s et cumulé 3 fois maximum. Lorsque cet effet obtient 3 cumuls ou que la durée du 3e cumul est actualisée, la maîtrise élémentaire de tous les personnages de l'équipe à proximité augmente d'une valeur équivalant à",
-        "level": ["0,2 %", "0,25 %", "0,3 %", "0,35 %", "0,4 %"]
+        "level": {
+          "r1": "0,2 %",
+          "r2": "0,25 %",
+          "r3": "0,3 %",
+          "r4": "0,35 %",
+          "r5": "0,4 %"
+        }
       },
       { "text": "des PV max du personnage équipé de l'arme pendant 20 s." }
     ],
@@ -3238,11 +3478,23 @@
       {
         "title": "Vertu du protecteur",
         "text": "Les PV sont augmentés de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à",
-        "level": ["1,2 %", "1,5 %", "1,8 %", "2,1 %", "2,4 %"]
+        "level": {
+          "r1": "1,2 %",
+          "r2": "1,5 %",
+          "r3": "1,8 %",
+          "r4": "2,1 %",
+          "r5": "2,4 %"
+        }
       },
       { "text": "de ses PV max." }
     ],
@@ -3339,11 +3591,23 @@
       {
         "title": "Croc du Perceur de ciel",
         "text": "Augmente le taux CRIT de ",
-        "level": ["4 %.", "5 %.", "6 %.", "7 %.", "8 %."]
+        "level": {
+          "r1": "4 %.",
+          "r2": "5 %.",
+          "r3": "6 %.",
+          "r4": "7 %.",
+          "r5": "8 %."
+        }
       },
       {
         "text": "Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10%, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "de DGT d'ATQ supplémentaires lorsqu'elles touchent." }
     ],
@@ -3440,11 +3704,23 @@
       {
         "title": "Soie de blanchelune",
         "text": "Augmente le taux CRIT de ",
-        "level": ["4 %.", "5 %.", "6 %.", "7 %.", "8 %."]
+        "level": {
+          "r1": "4 %.",
+          "r2": "5 %.",
+          "r3": "6 %.",
+          "r4": "7 %.",
+          "r5": "8 %."
+        }
       },
       {
         "text": "Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à",
-        "level": ["120 %", "150 %", "180 %", "210 %", "240 %"]
+        "level": {
+          "r1": "120 %",
+          "r2": "150 %",
+          "r3": "180 %",
+          "r4": "210 %",
+          "r5": "240 %"
+        }
       },
       {
         "text": "de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s."
@@ -3543,11 +3819,23 @@
       {
         "title": "Flux aiguisé",
         "text": "Accorde un bonus de DGT élémentaires de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Lorsqu'un autre personnage de l'équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l'arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l'effet Tumulte, augmentant les DGT d'attaque normale de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "pour chaque cumul de pic de vague consommé, pendant 8 s." }
     ],
@@ -3644,17 +3932,23 @@
       {
         "title": "Fourreau de tranche-brume",
         "text": "Confère un bonus de DGT élémentaires de",
-        "level": ["12 %,", "15 %,", "18 %,", "21 %,", "24 %,"]
+        "level": {
+          "r1": "12 %,",
+          "r2": "15 %,",
+          "r3": "18 %,",
+          "r4": "21 %,",
+          "r5": "24 %,"
+        }
       },
       {
         "text": "et confère la puissance du sceau de tranche-brume. 1/2/3 cumuls de sceau de tranche-brume accordent au personnage respectivement",
-        "level": [
-          "8/16/28 %",
-          "10/20/35 %",
-          "12/24/42 %",
-          "14/28/49 %",
-          "16/32/56 %"
-        ]
+        "level": {
+          "r1": "8/16/28 %",
+          "r2": "10/20/35 %",
+          "r3": "12/24/42 %",
+          "r4": "14/28/49 %",
+          "r5": "16/32/56 %"
+        }
       },
       {
         "text": "de bonus de DGT de son élément. Le personnage peut obtenir 1 cumul de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient un cumul de 5 s ; s'il utilise son déchaînement élémentaire, il obtient un cumul de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient un cumul qui disparaît lorsque l'énergie redevient pleine. La durée de chaque cumul est calculée indépendamment."
@@ -3753,15 +4047,33 @@
       {
         "title": "Ode de l'appel à la révolte",
         "text": "Partie du « Concert du millénaire ». Augmente les dégâts infligés de",
-        "level": ["10 %.", "12,5 %.", "15 %.", "17,5 %.", "20 %"]
+        "level": {
+          "r1": "10 %.",
+          "r2": "12,5 %.",
+          "r3": "15 %.",
+          "r4": "17,5 %.",
+          "r5": "20 %"
+        }
       },
       {
         "text": "Si le personnage déclenche une réaction élémentaire, il obtient un talisman de résistance, à raison d'un talisman toutes les 0,5 s max, même s'il n'est plus déployé. Une fois 2 talismans cumulés, ils sont consommés et font bénéficier pendant 12 s tous les membres de l'équipe à proximité de l'effet « Concert du millénaire - Ode à la révolte », ce qui augmente les dégâts infligés par les attaques normales, les attaques chargées et les attaques plongeantes de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "et l'ATQ de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Il n'est plus possible de gagner de talismans de résistance pendant 20 s après l'activation de cet effet. Les différents effets du « Concert du millénaire » ne peuvent pas être cumulés."
@@ -3860,11 +4172,23 @@
       {
         "title": "Aube et crépuscule au lac",
         "text": "Lorsque les PV actuels du personnage équipé de l'arme augmentent ou diminuent, les DGT infligés par ses compétences élémentaires augmentent de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "pendant 6 s, cet effet pouvant être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s. Lorsque les PV actuels d'un autre personnage de l'équipe augmentent ou diminuent, les PV max du personnage équipé de l'arme augmentent de ",
-        "level": ["14 %", "17,5 %", "21 %", "24,5 %", "28 %"]
+        "level": {
+          "r1": "14 %",
+          "r2": "17,5 %",
+          "r3": "21 %",
+          "r4": "24,5 %",
+          "r5": "28 %"
+        }
       },
       {
         "text": "pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,2 s. Ces effets peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
@@ -3963,11 +4287,23 @@
       {
         "title": "Majesté dorée",
         "text": "Augmente la force du bouclier de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Toucher un ennemi augmente l'ATQ de",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
@@ -4066,15 +4402,33 @@
       {
         "title": "Fleur brodée et épée consacrée",
         "text": "Les DGT infligés par les attaques normales augmentent de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "et ceux infligés par les compétences élémentaires augmentent de",
-        "level": ["24 %.", "30 %.", "36 %.", "42 %.", "48 %."]
+        "level": {
+          "r1": "24 %.",
+          "r2": "30 %.",
+          "r3": "36 %.",
+          "r4": "42 %.",
+          "r5": "48 %."
+        }
       },
       {
         "text": "Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       }
     ],
     "ascension": {
@@ -4170,15 +4524,33 @@
       {
         "title": "Résistance du Faucon de l'Ouest",
         "text": "Augmente l'ATQ de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure",
-        "level": ["100 %", "115 %", "130 %", "145 %", "160 %"]
+        "level": {
+          "r1": "100 %",
+          "r2": "115 %",
+          "r3": "130 %",
+          "r4": "145 %",
+          "r5": "160 %"
+        }
       },
       {
         "text": "de l'ATQ sous forme de PV, et inflige des DGT équivalant à",
-        "level": ["200 %", "230 %", "260 %", "290 %", "320 %"]
+        "level": {
+          "r1": "200 %",
+          "r2": "230 %",
+          "r3": "260 %",
+          "r4": "290 %",
+          "r5": "320 %"
+        }
       },
       {
         "text": "de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s."
@@ -4417,7 +4789,13 @@
       {
         "title": "Courage",
         "text": "Les attaques normales et chargées augmentent l'ATQ de",
-        "level": ["6 %", "7 %", "8 %", "9 %", "10 %"]
+        "level": {
+          "r1": "6 %",
+          "r2": "7 %",
+          "r3": "8 %",
+          "r4": "9 %",
+          "r5": "10 %"
+        }
       },
       {
         "text": "pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s."
@@ -4516,7 +4894,13 @@
       {
         "title": "Moissonneur",
         "text": "Restaure",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       { "text": "des PV après la défaite d'un ennemi." }
     ],
@@ -4613,11 +4997,23 @@
       {
         "title": "Tenace",
         "text": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à ",
-        "level": ["70 %,", "75 %,", "80 %,", "85 %,", "90 %,"]
+        "level": {
+          "r1": "70 %,",
+          "r2": "75 %,",
+          "r3": "80 %,",
+          "r4": "85 %,",
+          "r5": "90 %,"
+        }
       },
       {
         "text": "et les DGT infligés par les attaques chargées augmentent de",
-        "level": ["30 %.", "35 %.", "40 %.", "45 %.", "50 %."]
+        "level": {
+          "r1": "30 %.",
+          "r2": "35 %.",
+          "r3": "40 %.",
+          "r4": "45 %.",
+          "r5": "50 %."
+        }
       }
     ],
     "ascension": {
@@ -4713,7 +5109,13 @@
       {
         "title": "Franc-parler",
         "text": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent",
-        "level": ["60 %", "75 %", "90 %", "105 %", "120 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "75 %",
+          "r3": "90 %",
+          "r4": "105 %",
+          "r5": "120 %"
+        }
       },
       {
         "text": "de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s."
@@ -4812,7 +5214,13 @@
       {
         "title": "Fléau de feu et de foudre",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Pyro ou Électro de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -4908,7 +5316,13 @@
       {
         "title": "Pavillon du désert",
         "text": "L'effet suivant se déclenche toutes les 10 s : l'ATQ du personnage équipé de l'arme augmente d'une valeur équivalant à",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       {
         "text": "de sa maîtrise élémentaire pendant 12 s, alors que les autres personnages de l'équipe à proximité obtiennent 30 % de ce bonus. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -5007,11 +5421,23 @@
       {
         "title": "Marchevague de Watatsumi",
         "text": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de ",
-        "level": ["0,12 %.", "0,15 %.", "0,18 %.", "0,21 %.", "0,24 %."]
+        "level": {
+          "r1": "0,12 %.",
+          "r2": "0,15 %.",
+          "r3": "0,18 %.",
+          "r4": "0,21 %.",
+          "r5": "0,24 %."
+        }
       },
       {
         "text": "Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       { "text": "de cette manière." }
     ],
@@ -5108,7 +5534,13 @@
       {
         "title": "Sanctuaire sylvestre",
         "text": "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de ",
-        "level": ["60", "75", "90", "105", "120"]
+        "level": {
+          "r1": "60",
+          "r2": "75",
+          "r3": "90",
+          "r4": "105",
+          "r5": "120"
+        }
       },
       {
         "text": "pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. L'effet de la feuille de conscience ne se cumule pas."
@@ -5207,11 +5639,23 @@
       {
         "title": "« Don du bagou »",
         "text": "L'ATQ augmente de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s."
@@ -5310,7 +5754,13 @@
       {
         "title": "Pulvérisation",
         "text": "Les attaques normales et chargées ont 50 % de chances d'infliger ",
-        "level": ["240 %", "300 %", "360 %", "420 %", "480 %"]
+        "level": {
+          "r1": "240 %",
+          "r2": "300 %",
+          "r3": "360 %",
+          "r4": "420 %",
+          "r5": "480 %"
+        }
       },
       {
         "text": "de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s."
@@ -5409,11 +5859,23 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont ",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les",
-        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "10,5 s.",
+          "r3": "9 s.",
+          "r4": "7,5 s.",
+          "r5": "6 s."
+        }
       }
     ],
     "ascension": {
@@ -5509,11 +5971,17 @@
       {
         "title": "",
         "text": "Augmente les DGT infligés par les compétences élémentaires de",
-        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %.", "12 %."]
+        "level": {
+          "r1": "6 %.",
+          "r2": "7,5 %.",
+          "r3": "9 %.",
+          "r4": "10,5 %.",
+          "r5": "12 %."
+        }
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère",
-        "level": ["3", "3,5", "4", "4,5", "5"]
+        "level": { "r1": "3", "r2": "3,5", "r3": "4", "r4": "4,5", "r5": "5" }
       },
       {
         "text": "pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même si le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -5612,11 +6080,23 @@
       {
         "title": "Sang-froid",
         "text": "Les compétences élémentaires ont",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les",
-        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
+        "level": {
+          "r1": "30 s.",
+          "r2": "26 s.",
+          "r3": "22 s.",
+          "r4": "19 s.",
+          "r5": "16 s."
+        }
       }
     ],
     "ascension": {
@@ -5712,7 +6192,13 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -5811,11 +6297,23 @@
       {
         "title": "Murmure des vents et des fleurs",
         "text": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "et la maîtrise élémentaire de",
-        "level": ["48 pts", "60 pts", "72 pts", "84 pts", "96 pts"]
+        "level": {
+          "r1": "48 pts",
+          "r2": "60 pts",
+          "r3": "72 pts",
+          "r4": "84 pts",
+          "r5": "96 pts"
+        }
       }
     ],
     "ascension": {
@@ -5911,7 +6409,13 @@
       {
         "title": "Fléau d'eau et de foudre",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de",
-        "level": ["20 %.", "24 %.", "28 %.", "32 %.", "36 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "24 %.",
+          "r3": "28 %.",
+          "r4": "32 %.",
+          "r5": "36 %."
+        }
       }
     ],
     "ascension": {
@@ -6007,11 +6511,23 @@
       {
         "title": "Victoire océanique",
         "text": "Augmente les DGT des déchaînements élémentaires de ",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à ",
-        "level": ["100 %", "125 %", "150 %", "175 %", "200 %"]
+        "level": {
+          "r1": "100 %",
+          "r2": "125 %",
+          "r3": "150 %",
+          "r4": "175 %",
+          "r5": "200 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s."
@@ -6110,7 +6626,13 @@
       {
         "title": "Lame énergisante",
         "text": "Les attaques normales et chargées augmentent l'ATQ et la DÉF de",
-        "level": ["6 %", "7,5 %", "9 %", "10,5 %", "12 %"]
+        "level": {
+          "r1": "6 %",
+          "r2": "7,5 %",
+          "r3": "9 %",
+          "r4": "10,5 %",
+          "r5": "12 %"
+        }
       },
       {
         "text": "pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s."
@@ -6209,7 +6731,13 @@
       {
         "title": "Vague de croisière blanche",
         "text": "Lorsque le personnage a reçu des soins, son ATQ augmente de ",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       {
         "text": "pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -6308,11 +6836,23 @@
       {
         "title": "Brise-vagues",
         "text": "Les DGT infligés augmentent de",
-        "level": ["6 %", "7 %", "8 %", "9 %", "10 %"]
+        "level": {
+          "r1": "6 %",
+          "r2": "7 %",
+          "r3": "8 %",
+          "r4": "9 %",
+          "r5": "10 %"
+        }
       },
       {
         "text": "et les DGT reçus de",
-        "level": ["3 %", "2,7 %", "2,4 %", "2,2 %", "2 %"]
+        "level": {
+          "r1": "3 %",
+          "r2": "2,7 %",
+          "r3": "2,4 %",
+          "r4": "2,2 %",
+          "r5": "2 %"
+        }
       },
       {
         "text": "toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT."
@@ -6411,11 +6951,11 @@
       {
         "title": "Chant de marins",
         "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque stoïque pendant 30 s, un maximum de 3 marques stoïques pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques stoïques et accorde un effet de surrection pendant 10 s : chaque marque stoïque consommée augmente la maîtrise élémentaire de",
-        "level": ["40", "50", "60", "70", "80"]
+        "level": { "r1": "40", "r2": "50", "r3": "60", "r4": "70", "r5": "80" }
       },
       {
         "text": "pts puis, 2 s après le début de l'effet, restaure l'énergie élémentaire du personnage équipé de l'arme de",
-        "level": ["2", "2,5", "3", "3,5", "4"]
+        "level": { "r1": "2", "r2": "2,5", "r3": "3", "r4": "3,5", "r5": "4" }
       },
       {
         "text": "pts. Un effet de surrection peut être déclenché une fois toutes les 15 s, et des marques stoïques peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -6514,15 +7054,33 @@
       {
         "title": "Deuil givré",
         "text": "Les attaques normales et chargées ont ",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à",
-        "level": ["80 %", "95 %", "110 %", "125 %", "140 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "95 %",
+          "r3": "110 %",
+          "r4": "125 %",
+          "r5": "140 %"
+        }
       },
       {
         "text": "de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors ",
-        "level": ["200 %", "240 %", "280 %", "320 %", "360 %"]
+        "level": {
+          "r1": "200 %",
+          "r2": "240 %",
+          "r3": "280 %",
+          "r4": "320 %",
+          "r5": "360 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s."
@@ -6621,7 +7179,13 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -6719,12 +7283,24 @@
     "effect": [
       {
         "title": "Mélusaide !",
-        "text": "Augmente l'ATQ de ",
-        "level": ["12 %.", "15 %", "18 %", "21 %", "24 %"]
+        "text": "Augmente l'ATQ de",
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
-        "text": "Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de ",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "text": "Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de",
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea."
@@ -6823,11 +7399,23 @@
       {
         "title": "Axiome de la roche : Unité",
         "text": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de ",
-        "level": ["7 %", "8 %", "9 %", "10 %", "11 %"]
+        "level": {
+          "r1": "7 %",
+          "r2": "8 %",
+          "r3": "9 %",
+          "r4": "10 %",
+          "r5": "11 %"
+        }
       },
       {
         "text": "de bonus d'ATQ et de",
-        "level": ["3 %", "4 %", "5 %", "6 %", "7 %"]
+        "level": {
+          "r1": "3 %",
+          "r2": "4 %",
+          "r3": "5 %",
+          "r4": "6 %",
+          "r5": "7 %"
+        }
       },
       {
         "text": "de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum."
@@ -6926,11 +7514,23 @@
       {
         "title": "Protecteur rebelle",
         "text": "Subir des DGT génère un bouclier qui absorbe jusqu'à",
-        "level": ["20 %", "23 %", "26 %", "29 %", "32 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "23 %",
+          "r3": "26 %",
+          "r4": "29 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -7026,15 +7626,33 @@
       {
         "title": "Garde du désert",
         "text": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de ",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de",
-        "level": ["32 %.", "40 %.", "48 %.", "56 %.", "64 %."]
+        "level": {
+          "r1": "32 %.",
+          "r2": "40 %.",
+          "r3": "48 %.",
+          "r4": "56 %.",
+          "r5": "64 %."
+        }
       }
     ],
     "ascension": {
@@ -7130,11 +7748,23 @@
       {
         "title": "Gokadaiou du Roi Otogi",
         "text": "Augmente la DÉF de ",
-        "level": ["28 %", "35 %", "42 %", "49 %", "56 %"]
+        "level": {
+          "r1": "28 %",
+          "r2": "35 %",
+          "r3": "42 %",
+          "r4": "49 %",
+          "r5": "56 %"
+        }
       },
       {
         "text": ", et augmente les DGT des attaques normales et chargées d'une valeur équivalant à ",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       { "text": "de la DÉF." }
     ],
@@ -7231,11 +7861,23 @@
       {
         "title": "Promesses des mille aubes et crépuscules",
         "text": "Augmente l'ATQ de ",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Lorsqu'un personnage de l'équipe obtient un fragment généré par une réaction de Cristallisation, le personnage équipé de l'arme gagne 1 sceau pendant 15 s, ce qui augmente les DGT de ses compétences élémentaires de",
-        "level": ["18 %.", "22,5 %.", "27 %.", "31,5 %.", "36 %."]
+        "level": {
+          "r1": "18 %.",
+          "r2": "22,5 %.",
+          "r3": "27 %.",
+          "r4": "31,5 %.",
+          "r5": "36 %."
+        }
       },
       {
         "text": "Un maximum de 2 sceaux peut être obtenu en même temps, tous les sceaux disparaissant 0,2 s après que le personnage équipé de l'arme inflige des DGT avec une compétence élémentaire."
@@ -7334,11 +7976,23 @@
       {
         "title": "Échine du dragon briseur de ciel",
         "text": "Augmente tous les DGT infligés de",
-        "level": ["8 %.", "10 %.", "12 %.", "14 %.", "16 %."]
+        "level": {
+          "r1": "8 %.",
+          "r2": "10 %.",
+          "r3": "12 %.",
+          "r4": "14 %.",
+          "r5": "16 %."
+        }
       },
       {
         "text": "Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige ",
-        "level": ["80 %", "100 %", "120 %", "140 %", "160 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "100 %",
+          "r3": "120 %",
+          "r4": "140 %",
+          "r5": "160 %"
+        }
       },
       {
         "text": "de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames."
@@ -7437,11 +8091,23 @@
       {
         "title": "Majesté dorée",
         "text": "Augmente la force du bouclier de ",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %"]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %"
+        }
       },
       {
         "text": "Toucher un ennemi augmente l'ATQ de ",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
@@ -7540,11 +8206,23 @@
       {
         "title": "Chasse lupicale",
         "text": "Augmente l'ATQ de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s."
@@ -7643,15 +8321,33 @@
       {
         "title": "Hymne du drapeau rebelle",
         "text": "Partie du « Concert du millénaire ». Augmente l'ATQ de",
-        "level": ["16 %,", "20 %,", "24 %,", "28 %,", "32 %,"]
+        "level": {
+          "r1": "16 %,",
+          "r2": "20 %,",
+          "r3": "24 %,",
+          "r4": "28 %,",
+          "r5": "32 %,"
+        }
       },
       {
         "text": "et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s maximum. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de",
-        "level": ["12 %,", "15 %,", "18 %,", "21 %,", "24 %,"]
+        "level": {
+          "r1": "12 %,",
+          "r2": "15 %,",
+          "r3": "18 %,",
+          "r4": "21 %,",
+          "r5": "24 %,"
+        }
       },
       {
         "text": "et l'ATQ de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas."
@@ -7890,7 +8586,13 @@
       {
         "title": "Écrasement",
         "text": "Les attaques normales infligent",
-        "level": ["160 %", "200 %", "240 %", "280 %", "320 %"]
+        "level": {
+          "r1": "160 %",
+          "r2": "200 %",
+          "r3": "240 %",
+          "r4": "280 %",
+          "r5": "320 %"
+        }
       },
       {
         "text": "de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s."
@@ -7989,7 +8691,13 @@
       {
         "title": "Tranchant",
         "text": "Augmente les DGT infligés par des attaques normales de",
-        "level": ["24 %.", "30 %.", "36 %.", "42 %.", "48 %."]
+        "level": {
+          "r1": "24 %.",
+          "r2": "30 %.",
+          "r3": "36 %.",
+          "r4": "42 %.",
+          "r5": "48 %."
+        }
       }
     ],
     "ascension": {
@@ -8085,7 +8793,13 @@
       {
         "title": "Anti-Blob",
         "text": "Augmente les DGT infligés aux Blobs de",
-        "level": ["40 %.", "50 %.", "60 %.", "70 %.", "80 %."]
+        "level": {
+          "r1": "40 %.",
+          "r2": "50 %.",
+          "r3": "60 %.",
+          "r4": "70 %.",
+          "r5": "80 %."
+        }
       }
     ],
     "ascension": {
@@ -8181,11 +8895,23 @@
       {
         "title": "Marchevague de Watatsumi",
         "text": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de",
-        "level": ["0,12 %.", "0,15 %.", "0,18 %.", "0,21 %.", "0,24 %."]
+        "level": {
+          "r1": "0,12 %.",
+          "r2": "0,15 %.",
+          "r3": "0,18 %.",
+          "r4": "0,21 %.",
+          "r5": "0,24 %."
+        }
       },
       {
         "text": "Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       { "text": "de cette manière." }
     ],
@@ -8282,7 +9008,13 @@
       {
         "title": "Contes de la toundra",
         "text": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de",
-        "level": ["120 pts.", "150 pts.", "180 pts.", "210 pts.", "240 pts."]
+        "level": {
+          "r1": "120 pts.",
+          "r2": "150 pts.",
+          "r3": "180 pts.",
+          "r4": "210 pts.",
+          "r5": "240 pts."
+        }
       }
     ],
     "ascension": {
@@ -8378,7 +9110,7 @@
       {
         "title": "Principe de l'équilibre",
         "text": "Effectuer des soins restaure ",
-        "level": ["8", "10", "12", "14", "16"]
+        "level": { "r1": "8", "r2": "10", "r3": "12", "r4": "14", "r5": "16" }
       },
       {
         "text": "pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -8477,7 +9209,13 @@
       {
         "title": "Fléau de feu et d'eau",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de",
-        "level": ["20 %.", "24 %.", "28 %.", "32 %.", "36 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "24 %.",
+          "r3": "28 %.",
+          "r4": "32 %.",
+          "r5": "36 %."
+        }
       }
     ],
     "ascension": {
@@ -8573,11 +9311,23 @@
       {
         "title": "Chant-maçon",
         "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque solidaire pendant 30 s, un maximum de 3 marques solidaires pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques solidaires et accorde un effet de baroud pendant 10 s : chaque marque solidaire consommée augmente l'ATQ de",
-        "level": ["3 %", "4 %", "5 %", "6 %", "7 %"]
+        "level": {
+          "r1": "3 %",
+          "r2": "4 %",
+          "r3": "5 %",
+          "r4": "6 %",
+          "r5": "7 %"
+        }
       },
       {
         "text": "et le bonus de DGT élémentaires de",
-        "level": ["7 %.", "8,5 %", "10 %", "11,5 %", "13 %"]
+        "level": {
+          "r1": "7 %.",
+          "r2": "8,5 %",
+          "r3": "10 %",
+          "r4": "11,5 %",
+          "r5": "13 %"
+        }
       },
       {
         "text": "Un effet de baroud peut être déclenché une fois toutes les 15 s, et des marques solidaires peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -8676,7 +9426,13 @@
       {
         "title": "Soif de magie",
         "text": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       { "text": "pendant 12 s. Cet effet peut être cumulé 2 fois maximum." }
     ],
@@ -8773,7 +9529,13 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -8872,11 +9634,23 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "10,5 s.",
+          "r3": "9 s.",
+          "r4": "7,5 s.",
+          "r5": "6 s."
+        }
       }
     ],
     "ascension": {
@@ -8972,7 +9746,13 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -9071,11 +9851,23 @@
       {
         "title": "Axiome de la roche : Unité",
         "text": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de",
-        "level": ["7 %", "8 %", "9 %", "10 %", "11 %"]
+        "level": {
+          "r1": "7 %",
+          "r2": "8 %",
+          "r3": "9 %",
+          "r4": "10 %",
+          "r5": "11 %"
+        }
       },
       {
         "text": "de bonus d'ATQ et de",
-        "level": ["3 %", "4 %", "5 %", "6 %", "7 %"]
+        "level": {
+          "r1": "3 %",
+          "r2": "4 %",
+          "r3": "5 %",
+          "r4": "6 %",
+          "r5": "7 %"
+        }
       },
       {
         "text": "de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum."
@@ -9174,15 +9966,33 @@
       {
         "title": "Deuil givré",
         "text": "Les attaques normales et chargées ont ",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à",
-        "level": ["80 %", "95 %", "110 %", "125 %", "140 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "95 %",
+          "r3": "110 %",
+          "r4": "125 %",
+          "r5": "140 %"
+        }
       },
       {
         "text": "de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors ",
-        "level": ["200 %", "240 %", "280 %", "320 %", "360 %"]
+        "level": {
+          "r1": "200 %",
+          "r2": "240 %",
+          "r3": "280 %",
+          "r4": "320 %",
+          "r5": "360 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s."
@@ -9281,11 +10091,23 @@
       {
         "title": "Vent de nulle part",
         "text": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de ",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "et la maîtrise élémentaire de",
-        "level": ["48 pts.", "60 pts", "72 pts", "84 pts", "96 pts"]
+        "level": {
+          "r1": "48 pts.",
+          "r2": "60 pts",
+          "r3": "72 pts",
+          "r4": "84 pts",
+          "r5": "96 pts"
+        }
       }
     ],
     "ascension": {
@@ -9381,11 +10203,17 @@
       {
         "title": "Code du samouraï",
         "text": "Augmente les DGT infligés par les compétences élémentaires de",
-        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %", "12 %."]
+        "level": {
+          "r1": "6 %.",
+          "r2": "7,5 %.",
+          "r3": "9 %.",
+          "r4": "10,5 %",
+          "r5": "12 %."
+        }
       },
       {
         "text": "Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère",
-        "level": ["3", "3,5", "4", "4,5", "5"]
+        "level": { "r1": "3", "r2": "3,5", "r3": "4", "r4": "4,5", "r5": "5" }
       },
       {
         "text": "pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -9484,7 +10312,13 @@
       {
         "title": "Ombre lunaire en forêt",
         "text": "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, une feuille de renouveau est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente l'ATQ du personnage de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 12 s. Une feuille de renouveau peut être créée de cette manière une fois toutes les 20 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -9583,7 +10417,13 @@
       {
         "title": "Aiguille énergisante",
         "text": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "de l'ATQ." }
     ],
@@ -9680,7 +10520,7 @@
       {
         "title": "Pointe de la lance",
         "text": "Recevoir des soins restaure",
-        "level": ["8", "10", "12", "14", "16"]
+        "level": { "r1": "8", "r2": "10", "r3": "12", "r4": "14", "r5": "16" }
       },
       {
         "text": "pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -9779,15 +10619,33 @@
       {
         "title": "Gladiateur",
         "text": "Augmente l'ATQ de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": " et la DÉF de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": " si 2 ennemis ou plus se trouvent à proximité, augmente l'ATQ de ",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       { "text": "dans le cas contraire." }
     ],
@@ -9883,12 +10741,24 @@
     "effect": [
       {
         "title": "Chant de marin",
-        "text": "Augmente les DGT des déchaînements élémentaires de ",
-        "level": ["16 %", "20 %", "24 %", "28%", "32 %"]
+        "text": "Augmente les DGT des déchaînements élémentaires de",
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28%",
+          "r5": "32 %"
+        }
       },
       {
-        "text": "et leur taux CRIT de ",
-        "level": ["6 %.", "7,5 %.", "9 %.", "10,5 %.", "12 %."]
+        "text": "et leur taux CRIT de",
+        "level": {
+          "r1": "6 %.",
+          "r2": "7,5 %.",
+          "r3": "9 %.",
+          "r4": "10,5 %.",
+          "r5": "12 %."
+        }
       }
     ],
     "ascension": {
@@ -9984,11 +10854,23 @@
       {
         "title": "Plume de jais",
         "text": "Augmente le taux CRIT de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "t la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à",
-        "level": ["40 %", "55 %", "70 %", "85 %", "100 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "55 %",
+          "r3": "70 %",
+          "r4": "85 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s."
@@ -10087,15 +10969,33 @@
       {
         "title": "Papillon écarlate libre",
         "text": "Les PV sont augmentés de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à",
-        "level": ["0,8 %", "1 %", "1,2 %", "1,4 %", "1,6 %"]
+        "level": {
+          "r1": "0,8 %",
+          "r2": "1 %",
+          "r3": "1,2 %",
+          "r4": "1,4 %",
+          "r5": "1,6 %"
+        }
       },
       {
         "text": "de ses PV max, et lorsque ses PV sont inférieurs à 50 %, il obtient un bonus d'ATQ supplémentaire équivalant à ",
-        "level": ["1 %", "1,2 %", "1,4 %", "1,6 %", "1,8 %"]
+        "level": {
+          "r1": "1 %",
+          "r2": "1,2 %",
+          "r3": "1,4 %",
+          "r4": "1,6 %",
+          "r5": "1,8 %"
+        }
       },
       { "text": "de ses PV max." }
     ],
@@ -10192,11 +11092,23 @@
       {
         "title": "Chimère de fin de mirage",
         "text": "Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à",
-        "level": ["52 %", "65 %", "78 %", "91 %", "104 %"]
+        "level": {
+          "r1": "52 %",
+          "r2": "65 %",
+          "r3": "78 %",
+          "r4": "91 %",
+          "r5": "104 %"
+        }
       },
       {
         "text": "de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à",
-        "level": ["28 %", "35 %", "42 %", "49 %", "56 %"]
+        "level": {
+          "r1": "28 %",
+          "r2": "35 %",
+          "r3": "42 %",
+          "r4": "49 %",
+          "r5": "56 %"
+        }
       },
       {
         "text": "de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum."
@@ -10295,11 +11207,23 @@
       {
         "title": "Lance d'aigle de la justice",
         "text": "Les ennemis touchés confèrent un bonus d'ATQ de",
-        "level": ["3,2 %", "3,9 %", "4,6 %", "5,3 %", "6 %"]
+        "level": {
+          "r1": "3,2 %",
+          "r2": "3,9 %",
+          "r3": "4,6 %",
+          "r4": "5,3 %",
+          "r5": "6 %"
+        }
       },
       {
         "text": "pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -10395,15 +11319,33 @@
       {
         "title": "Rêve intemporel : Fournaise éternelle",
         "text": "Augmente l'ATQ d'une valeur équivalant à",
-        "level": ["28 %", "35 %", "42 %", "49 %", "56 %"]
+        "level": {
+          "r1": "28 %",
+          "r2": "35 %",
+          "r3": "42 %",
+          "r4": "49 %",
+          "r5": "56 %"
+        }
       },
       {
         "text": "de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de ",
-        "level": ["80 %", "90 %", "100 %", "110 %", "120 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "90 %",
+          "r3": "100 %",
+          "r4": "110 %",
+          "r5": "120 %"
+        }
       },
       {
         "text": "maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de",
-        "level": ["30 %", "35 %", "40 %", "45 %", "50 %"]
+        "level": {
+          "r1": "30 %",
+          "r2": "35 %",
+          "r3": "40 %",
+          "r4": "45 %",
+          "r5": "50 %"
+        }
       },
       { "text": "pendant 12 s." }
     ],
@@ -10500,11 +11442,23 @@
       {
         "title": "Majesté dorée",
         "text": "Augmente la force du bouclier de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Toucher un ennemi augmente l'ATQ de",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
@@ -10603,11 +11557,23 @@
       {
         "title": "Ombre du soleil cendré",
         "text": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de ",
-        "level": ["12 %.", "16 %.", "20 %.", "24 %.", "28 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "16 %.",
+          "r3": "20 %.",
+          "r4": "24 %.",
+          "r5": "28 %."
+        }
       },
       {
         "text": "Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de",
-        "level": ["24 %", "32 %", "40 %", "48 %", "56 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "32 %",
+          "r3": "40 %",
+          "r4": "48 %",
+          "r5": "56 %"
+        }
       },
       { "text": "supplémentaires." }
     ],
@@ -10704,11 +11670,23 @@
       {
         "title": "Précepte d'anéantissement",
         "text": "Confère un bonus de DGT élémentaires de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de",
-        "level": ["3,2 %", "4 %", "4,8 %", "5,6 %", "6,4 %"]
+        "level": {
+          "r1": "3,2 %",
+          "r2": "4 %",
+          "r3": "4,8 %",
+          "r4": "5,6 %",
+          "r5": "6,4 %"
+        }
       },
       {
         "text": "toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé."
@@ -10947,7 +11925,13 @@
       {
         "title": "Moissonneur",
         "text": "Restaure",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       { "text": "des PV après la défaite d'un ennemi." }
     ],
@@ -11044,7 +12028,13 @@
       {
         "title": "Fléau de feu et d'eau",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -11140,7 +12130,13 @@
       {
         "title": "Lance-pierres",
         "text": "Les DGT infligés par les flèches des attaques normales et chargées infligent",
-        "level": ["36 %", "42 %", "48 %", "54 %", "60 %"]
+        "level": {
+          "r1": "36 %",
+          "r2": "42 %",
+          "r3": "48 %",
+          "r4": "54 %",
+          "r5": "60 %"
+        }
       },
       {
         "text": "de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins."
@@ -11239,7 +12235,13 @@
       {
         "title": "Message de l'archer",
         "text": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à ",
-        "level": ["100 %", "125 %", "150 %", "175 %", "200 %"]
+        "level": {
+          "r1": "100 %",
+          "r2": "125 %",
+          "r3": "150 %",
+          "r4": "175 %",
+          "r5": "200 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s."
@@ -11338,7 +12340,13 @@
       {
         "title": "Précision",
         "text": "Augmente les DGT de",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       { "text": "si les points faibles de l'ennemi sont visés." }
     ],
@@ -11435,11 +12443,23 @@
       {
         "title": "Pleine allonge",
         "text": "Augmente les DGT infligés par les attaques normales de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "et ceux des attaques chargées de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %."
@@ -11538,11 +12558,23 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "10,5 s.",
+          "r3": "9 s.",
+          "r4": "7,5 s.",
+          "r5": "6 s."
+        }
       }
     ],
     "ascension": {
@@ -11638,11 +12670,23 @@
       {
         "title": "Vent verdoyant",
         "text": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer un cyclone qui attire les ennemis et leur inflige des DGT équivalant à",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "de l'ATQ toutes les 0,5 s pendant 4 s. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["14 s.", "13 s.", "12 s.", "11 s.", "10 s."]
+        "level": {
+          "r1": "14 s.",
+          "r2": "13 s.",
+          "r3": "12 s.",
+          "r4": "11 s.",
+          "r5": "10 s."
+        }
       }
     ],
     "ascension": {
@@ -11738,7 +12782,13 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -11837,11 +12887,23 @@
       {
         "title": "Sang-froid",
         "text": "Les compétences élémentaires ont ",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les",
-        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
+        "level": {
+          "r1": "30 s.",
+          "r2": "26 s.",
+          "r3": "22 s.",
+          "r4": "19 s.",
+          "r5": "16 s."
+        }
       }
     ],
     "ascension": {
@@ -11937,7 +12999,13 @@
       {
         "title": "Tir rapide",
         "text": "Augmente les DGT infligés par les attaques normales de",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "et diminue les DGT infligés par les attaques chargées de 10 %."
@@ -12036,7 +13104,13 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -12135,11 +13209,23 @@
       {
         "title": "Flèche énergisante",
         "text": "Les attaques normales et chargées confèrent un bonus d'ATQ de",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "ainsi qu'un bonus de VIT d'attaque normale de",
-        "level": ["1,2 %", "1,5 %", "1,8 %", "2,1 %", "2,4 %"]
+        "level": {
+          "r1": "1,2 %",
+          "r2": "1,5 %",
+          "r3": "1,8 %",
+          "r4": "2,1 %",
+          "r5": "2,4 %"
+        }
       },
       {
         "text": "pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,3 s."
@@ -12238,7 +13324,13 @@
       {
         "title": "Délaceur",
         "text": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à",
-        "level": ["80 %", "100 %", "120 %", "140 %", "160 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "100 %",
+          "r3": "120 %",
+          "r4": "140 %",
+          "r5": "160 %"
+        }
       },
       {
         "text": "de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s."
@@ -12337,7 +13429,13 @@
       {
         "title": "Pulsion benthique",
         "text": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de ",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -12436,13 +13534,13 @@
       {
         "title": "Flèche enterrée",
         "text": "Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de",
-        "level": [
-          "6 % / 10 % / 14 %. ",
-          "7,5 % / 12,5 % / 17,5 %.",
-          "9 % / 15 % / 21 %.",
-          "10,5 % / 17,5 % / 24,5 %.",
-          "12 % / 20 % / 28 %."
-        ]
+        "level": {
+          "r1": "6 % / 10 % / 14 %. ",
+          "r2": "7,5 % / 12,5 % / 17,5 %.",
+          "r3": "9 % / 15 % / 21 %.",
+          "r4": "10,5 % / 17,5 % / 24,5 %.",
+          "r5": "12 % / 20 % / 28 %."
+        }
       },
       {
         "text": "Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
@@ -12541,7 +13639,13 @@
       {
         "title": "Chanson sans flèche",
         "text": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de ",
-        "level": ["24 %.", "30 %.", "36 %.", "42 %.", "48 %."]
+        "level": {
+          "r1": "24 %.",
+          "r2": "30 %.",
+          "r3": "36 %.",
+          "r4": "42 %.",
+          "r5": "48 %."
+        }
       }
     ],
     "ascension": {
@@ -12637,11 +13741,23 @@
       {
         "title": "La voie du feu solaire",
         "text": "Lorsqu'une attaque chargée a touché un ennemi, une flèche solaire tombe sur ce dernier pour infliger des DGT équivalant à",
-        "level": ["60 %", "75 %", "90 %", "105 %", "120 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "75 %",
+          "r3": "90 %",
+          "r4": "105 %",
+          "r5": "120 %"
+        }
       },
       {
         "text": "de l'ATQ et appliquer pendant 10 s l'effet Brûle-cœur à l'ennemi ayant subi ses DGT. Les DGT infligés par les attaques chargées du personnage équipé de l'arme aux ennemis atteints de l'effet Brûle-cœur augmentent de",
-        "level": ["28 %.", "35 %.", "42 %.", "49 %.", "56 %."]
+        "level": {
+          "r1": "28 %.",
+          "r2": "35 %.",
+          "r3": "42 %.",
+          "r4": "49 %.",
+          "r5": "56 %."
+        }
       },
       {
         "text": "Une flèche solaire peut être déclenchée une fois toutes les 10 s."
@@ -12740,11 +13856,23 @@
       {
         "title": "Chant-maçon",
         "text": "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque solidaire pendant 30 s, un maximum de 3 marques solidaires pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques solidaires et accorde un effet de baroud pendant 10 s : chaque marque solidaire consommée augmente l'ATQ de",
-        "level": ["3 %", "4 %", "5 %", "6 %", "7 %"]
+        "level": {
+          "r1": "3 %",
+          "r2": "4 %",
+          "r3": "5 %",
+          "r4": "6 %",
+          "r5": "7 %"
+        }
       },
       {
         "text": "et le bonus de DGT élémentaires de ",
-        "level": ["7 %.", "8,5 %.", "10 %.", "11,5 %.", "13 %."]
+        "level": {
+          "r1": "7 %.",
+          "r2": "8,5 %.",
+          "r3": "10 %.",
+          "r4": "11,5 %.",
+          "r5": "13 %."
+        }
       },
       {
         "text": "Un effet de baroud peut être déclenché une fois toutes les 15 s, et des marques solidaires peuvent être obtenues même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -12843,11 +13971,23 @@
       {
         "title": "Instruction du seigneur du labyrinthe",
         "text": "Accorde l'effet Enseignements de la forêt lors de l'utilisation d'une compétence ou d'un déchaînement élémentaires, augmentant la maîtrise élémentaire de ",
-        "level": ["60", "80", "100", "120", "140"]
+        "level": {
+          "r1": "60",
+          "r2": "80",
+          "r3": "100",
+          "r4": "120",
+          "r5": "140"
+        }
       },
       {
         "text": "pts pendant 12 s. Cet effet est annulé lors du changement de personnage. Lorsque l'effet Enseignements de la forêt prend fin ou est annulé, il inflige des DGT équivalant à",
-        "level": ["100 %", "120 %", "140 %", "160 %", "180 %"]
+        "level": {
+          "r1": "100 %",
+          "r2": "120 %",
+          "r3": "140 %",
+          "r4": "160 %",
+          "r5": "180 %"
+        }
       },
       {
         "text": "de l'ATQ à un ennemi proche. L'effet Enseignements de la forêt peut être déclenché une fois toutes les 20 s."
@@ -12946,11 +14086,23 @@
       {
         "title": "Marchevague de Watatsumi",
         "text": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de",
-        "level": ["0,12 %.", "0,15 %.", "0,18 %.", "0,21 %.", "0,24 %."]
+        "level": {
+          "r1": "0,12 %.",
+          "r2": "0,15 %.",
+          "r3": "0,18 %.",
+          "r4": "0,21 %.",
+          "r5": "0,24 %."
+        }
       },
       {
         "text": "Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à ",
-        "level": ["40 %.", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %.",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       { "text": "de cette manière." }
     ],
@@ -13047,7 +14199,13 @@
       {
         "title": "Sans retour",
         "text": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de ",
-        "level": ["36 %", "45 %", "54 %", "63 %", "72 %"]
+        "level": {
+          "r1": "36 %",
+          "r2": "45 %",
+          "r3": "54 %",
+          "r4": "63 %",
+          "r5": "72 %"
+        }
       },
       { "text": "pendant 10 s." }
     ],
@@ -13144,7 +14302,7 @@
       {
         "title": "Carré de roche",
         "text": "La maîtrise élémentaire du personnage équipé de l'arme augmente de",
-        "level": ["40", "50", "60", "70", "80"]
+        "level": { "r1": "40", "r2": "50", "r3": "60", "r4": "70", "r5": "80" }
       },
       {
         "text": "pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum."
@@ -13243,7 +14401,13 @@
       {
         "title": "Faveur des alizées",
         "text": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       { "text": "pendant 6 s." }
     ],
@@ -13340,7 +14504,7 @@
       {
         "title": "Faveur de la sagesse secrète",
         "text": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de",
-        "level": ["40", "50", "60", "70", "80"]
+        "level": { "r1": "40", "r2": "50", "r3": "60", "r4": "70", "r5": "80" }
       },
       {
         "text": "pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s."
@@ -13534,15 +14698,33 @@
       {
         "title": "Embuscade de rue",
         "text": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de",
-        "level": ["2 %", "2,5 %", "3 %", "3,5 %", "4 %"]
+        "level": {
+          "r1": "2 %",
+          "r2": "2,5 %",
+          "r3": "3 %",
+          "r4": "3,5 %",
+          "r5": "4 %"
+        }
       },
       {
         "text": "toutes les secondes, jusqu'à",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "maximum. 4 s après le déploiement du personnage, l'effet diminue de",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       { "text": "toutes les secondes, jusqu'à atteindre 0 %." }
     ],
@@ -13639,11 +14821,23 @@
       {
         "title": "Duetto de nuit",
         "text": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les compétences élémentaires sont augmentés de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "pendant 5 s. Lorsque vous touchez des ennemis avec des compétences élémentaires, les DGT infligés par les attaques normales sont augmentés de ",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "pendant 5 s." }
     ],
@@ -13740,15 +14934,33 @@
       {
         "title": "Ballade résonnante",
         "text": "Augmente les DGT CRIT de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Toucher un ennemi a",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "e chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les ",
-        "level": ["4 s.", "3,5 s.", "3 s.", "2,5 s.", "2 s."]
+        "level": {
+          "r1": "4 s.",
+          "r2": "3,5 s.",
+          "r3": "3 s.",
+          "r4": "2,5 s.",
+          "r5": "2 s."
+        }
       }
     ],
     "ascension": {
@@ -13844,11 +15056,23 @@
       {
         "title": "Flèche de la volonté",
         "text": "Augmente les DGT infligés par les attaques normales et les attaques chargées de ",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Les DGT augmentent de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum."
@@ -13947,17 +15171,23 @@
       {
         "title": "Nocturne de dryas",
         "text": "Le personnage équipé de l'arme obtient l'effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de",
-        "level": [
-          "12 % / 24 % / 40 %. ",
-          "15 % / 30 % / 50 %.",
-          "18 % / 36 % / 60 %.",
-          "21 % / 42 % / 70 %.",
-          "24 % / 48 % / 80 %."
-        ]
+        "level": {
+          "r1": "12 % / 24 % / 40 %. ",
+          "r2": "15 % / 30 % / 50 %.",
+          "r3": "18 % / 36 % / 60 %.",
+          "r4": "21 % / 42 % / 70 %.",
+          "r5": "24 % / 48 % / 80 %."
+        }
       },
       {
         "text": "Le personnage équipé de l'arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d'un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l'équipe mais n'est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de",
-        "level": ["28 %,", "35 %,", "42 %,", "49 %,", "56 %,"]
+        "level": {
+          "r1": "28 %,",
+          "r2": "35 %,",
+          "r3": "42 %,",
+          "r4": "49 %,",
+          "r5": "56 %,"
+        }
       },
       {
         "text": "cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3."
@@ -14056,27 +15286,33 @@
       {
         "title": "Parsifal la grande",
         "text": "Les DGT infligés par les attaques chargées augmentent de",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       },
       {
         "text": "Chaque personnage de l'équipe dont le type élémentaire est le même que celui du personnage équipé de l'arme (y compris le personnage en question) accorde 1 cumul de l'effet Roublardise, tandis que chaque personnage de l'équipe dont le type élémentaire est différent accorde 1 cumul de l'effet Tragédien. Avec 1, 2 ou au minimum 3 cumuls de roublardise, l'ATQ augmente respectivement de ",
-        "level": [
-          "16 %, 32 % ou 48 %,",
-          "20 %, 40 % ou 60 %,",
-          "24 %, 48 % ou 72 %,",
-          "28 %, 56 % ou 84 %,",
-          "32 %, 64 % ou 96 %,"
-        ]
+        "level": {
+          "r1": "16 %, 32 % ou 48 %,",
+          "r2": "20 %, 40 % ou 60 %,",
+          "r3": "24 %, 48 % ou 72 %,",
+          "r4": "28 %, 56 % ou 84 %,",
+          "r5": "32 %, 64 % ou 96 %,"
+        }
       },
       {
         "text": "tandis qu'avec 1, 2 ou au minimum 3 cumuls de tragédien, la VIT de déplacement augmente respectivement de",
-        "level": [
-          "4 %, 7 % ou 10 %.",
-          "6 %, 9 % ou 12 %.",
-          "8 %, 11 % ou 14 %.",
-          "10 %, 13 % ou 16 %.",
-          "12 %, 15 % ou 18 %."
-        ]
+        "level": {
+          "r1": "4 %, 7 % ou 10 %.",
+          "r2": "6 %, 9 % ou 12 %.",
+          "r3": "8 %, 11 % ou 14 %.",
+          "r4": "10 %, 13 % ou 16 %.",
+          "r5": "12 %, 15 % ou 18 %."
+        }
       }
     ],
     "ascension": {
@@ -14172,11 +15408,23 @@
       {
         "title": "Arrivée du sentier bestial",
         "text": "Accorde un bonus de DGT élémentaires de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à",
-        "level": ["160 %", "200 %", "240 %", "280 %", "320 %"]
+        "level": {
+          "r1": "160 %",
+          "r2": "200 %",
+          "r3": "240 %",
+          "r4": "280 %",
+          "r5": "320 %"
+        }
       },
       {
         "text": "de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s."
@@ -14275,17 +15523,23 @@
       {
         "title": "Règne du tonnerre",
         "text": "Augmente l'ATQ de",
-        "level": ["20 %,", "25 %,", "30 %,", "35 %,", "40 %,"]
+        "level": {
+          "r1": "20 %,",
+          "r2": "25 %,",
+          "r3": "30 %,",
+          "r4": "35 %,",
+          "r5": "40 %,"
+        }
       },
       {
         "text": "et confère la puissance du sceau du tonnerre. 1/2/3 cumuls de sceau du tonnerre augmentent respectivement les DGT des attaques normales de",
-        "level": [
-          "12 / 24 / 40 %. ",
-          "15 / 30 / 50 %.",
-          "18 / 36 / 60 %.",
-          "21 / 42 / 70 %.",
-          "24 / 48 / 80 %."
-        ]
+        "level": {
+          "r1": "12 / 24 / 40 %. ",
+          "r2": "15 / 30 / 50 %.",
+          "r3": "18 / 36 / 60 %.",
+          "r4": "21 / 42 / 70 %.",
+          "r5": "24 / 48 / 80 %."
+        }
       },
       {
         "text": "Le personnage peut obtenir 1 cumul de sceau du tonnerre dans chacune des situations suivantes : si son attaque normale inflige des DGT, il obtient un cumul de 5 s ; s'il utilise sa compétence élémentaire, il obtient un cumul de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient un cumul qui disparaît lorsque l'énergie redevient pleine. La durée de chaque cumul est calculée indépendamment."
@@ -14384,11 +15638,23 @@
       {
         "title": "Forme purifiante",
         "text": "Les PV sont augmentés de",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       },
       {
         "text": "Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de",
-        "level": ["20 %,", "25 %,", "30 %,", "35 %,", "40 %,"]
+        "level": {
+          "r1": "20 %,",
+          "r2": "25 %,",
+          "r3": "30 %,",
+          "r4": "35 %,",
+          "r5": "40 %,"
+        }
       },
       { "text": "qu'il soit déployé ou non." }
     ],
@@ -14485,15 +15751,33 @@
       {
         "title": "Refrain de séparation",
         "text": "Partie du « Concert du millénaire ». Augmente la maîtrise élémentaire de",
-        "level": ["60", "75", "90", "105", "120"]
+        "level": {
+          "r1": "60",
+          "r2": "75",
+          "r3": "90",
+          "r4": "105",
+          "r5": "120"
+        }
       },
       {
         "text": "pts. Lorsque le personnage équipé de cette arme touche un ennemi avec sa compétence ou son déchaînement élémentaires, il obtient un talisman de réminiscence, à raison d'un talisman toutes les 0,2 s maximum, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. Une fois 4 talismans cumulés, ils sont consommés et font bénéficier pendant 12 s tous les personnages de l'équipe à proximité de l'effet « Concert du millénaire - Chant d'adieu », ce qui augmente leur maîtrise élémentaire de",
-        "level": ["100", "125", "150", "175", "200"]
+        "level": {
+          "r1": "100",
+          "r2": "125",
+          "r3": "150",
+          "r4": "175",
+          "r5": "200"
+        }
       },
       {
         "text": "pts et leur ATQ de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Il n'est plus possible de gagner de talismans de réminiscence pendant 20 s après activation de cet effet. Les différents effets du « Concert du millénaire » ne peuvent pas être cumulés."
@@ -14592,17 +15876,23 @@
       {
         "title": "Augure de la lumière du jour",
         "text": "Les DGT de la compétence et du déchaînement élémentaires augmentent de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Lorsqu'une attaque normale ou chargée, une compétence ou un déchaînement élémentaires a touché un ennemi, vous obtenez 1 cumul d'étoile cendrée pendant 12 s. Avec 1/2/3/4 cumul(s) d'étoile cendrée, l'ATQ augmente de",
-        "level": [
-          "10 / 20 / 30 / 48 %.",
-          "12,5 / 25 / 37,5 / 60 %.",
-          "15 / 30 / 45 / 72 %.",
-          "17,5 / 35 / 52,5 / 84 %.",
-          "20 / 40 / 60 / 92 %."
-        ]
+        "level": {
+          "r1": "10 / 20 / 30 / 48 %.",
+          "r2": "12,5 / 25 / 37,5 / 60 %.",
+          "r3": "15 / 30 / 45 / 72 %.",
+          "r4": "17,5 / 35 / 52,5 / 84 %.",
+          "r5": "20 / 40 / 60 / 92 %."
+        }
       },
       {
         "text": "Les cumuls d'étoile cendrée obtenus grâce aux différents types d'attaques existent indépendamment les uns des autres."
@@ -14841,7 +16131,13 @@
       {
         "title": "Immersion énergétique",
         "text": "Chaque orbe élémentaire ou particule élémentaire obtenue restaure",
-        "level": ["1 %", "1,25 %", "1,5 %", "1,75 %", "2 %"]
+        "level": {
+          "r1": "1 %",
+          "r2": "1,25 %",
+          "r3": "1,5 %",
+          "r4": "1,75 %",
+          "r5": "2 %"
+        }
       },
       { "text": "des PV." }
     ],
@@ -14938,7 +16234,13 @@
       {
         "title": "Fléau d'eau et de foudre",
         "text": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -15034,7 +16336,13 @@
       {
         "title": "Héritage",
         "text": "Augmente l'ATQ de",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       {
         "text": "pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s."
@@ -15133,7 +16441,13 @@
       {
         "title": "Au galop",
         "text": "Augmente la VIT de déplacement et l'ATQ de",
-        "level": ["12 %", "14 %", "16 %", "18 %", "20 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "14 %",
+          "r3": "16 %",
+          "r4": "18 %",
+          "r5": "20 %"
+        }
       },
       { "text": "pendant 15 s après la défaite d'un ennemi." }
     ],
@@ -15230,7 +16544,13 @@
       {
         "title": "Torrent",
         "text": "Augmente l'ATQ de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro."
@@ -15329,7 +16649,13 @@
       {
         "title": "De victoire en victoire",
         "text": "Augmente l'ATQ de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier."
@@ -15428,7 +16754,13 @@
       {
         "title": "Palais des cerisiers",
         "text": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de",
-        "level": ["10 %", "12 ,5 %", "15 %", "17,5 %", "20 %"]
+        "level": {
+          "r1": "10 %",
+          "r2": "12 ,5 %",
+          "r3": "15 %",
+          "r4": "17,5 %",
+          "r5": "20 %"
+        }
       },
       {
         "text": "pendant 6 s. Les bonus de DGT élémentaire obtenus de cette manière ne se cumulent pas."
@@ -15527,7 +16859,13 @@
       {
         "title": "Rouleau énergisant",
         "text": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       { "text": "pendant 10 s. Cet effet peut être cumulé 2 fois maximum." }
     ],
@@ -15624,11 +16962,23 @@
       {
         "title": "Cieux azuréens",
         "text": "Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "et ceux infligés par les attaques chargées de",
-        "level": ["6 %,", "7,5 %,", "9 %,", "10,5 %", "12 %"]
+        "level": {
+          "r1": "6 %,",
+          "r2": "7,5 %,",
+          "r3": "9 %,",
+          "r4": "10,5 %",
+          "r5": "12 %"
+        }
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s."
@@ -15727,11 +17077,23 @@
       {
         "title": "Charge critique",
         "text": "Les coups CRIT des attaques ont ",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les",
-        "level": ["12 s.", "10,5 s.", "9 s.", "7,5 s.", "6 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "10,5 s.",
+          "r3": "9 s.",
+          "r4": "7,5 s.",
+          "r5": "6 s."
+        }
       }
     ],
     "ascension": {
@@ -15827,11 +17189,23 @@
       {
         "title": "Aventure dodo !",
         "text": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       { "text": "pendant 6 s." }
     ],
@@ -15928,15 +17302,33 @@
       {
         "title": "Deuil givré",
         "text": "Les attaques normales et chargées ont",
-        "level": ["60 %", "70 %", "80 %", "90 %", "100 %"]
+        "level": {
+          "r1": "60 %",
+          "r2": "70 %",
+          "r3": "80 %",
+          "r4": "90 %",
+          "r5": "100 %"
+        }
       },
       {
         "text": "de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à",
-        "level": ["80 %", "95 %", "110 %", "125 %", "140 %"]
+        "level": {
+          "r1": "80 %",
+          "r2": "95 %",
+          "r3": "110 %",
+          "r4": "125 %",
+          "r5": "140 %"
+        }
       },
       {
         "text": "de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors",
-        "level": ["200 %", "240 %", "280 %", "320 %", "360 %"]
+        "level": {
+          "r1": "200 %",
+          "r2": "240 %",
+          "r3": "280 %",
+          "r4": "320 %",
+          "r5": "360 %"
+        }
       },
       {
         "text": "de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s."
@@ -16035,7 +17427,13 @@
       {
         "title": "Focus",
         "text": "Augmente le taux CRIT de ",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT."
@@ -16134,16 +17532,21 @@
       {
         "title": "Circulation du jade",
         "text": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de",
-        "level": ["32 %", "40 %", "48 %", "56 %", "64 %"]
+        "level": {
+          "r1": "32 %",
+          "r2": "40 %",
+          "r3": "48 %",
+          "r4": "56 %",
+          "r5": "64 %"
+        }
       },
       {
         "text": "et la maîtrise élémentaire de",
-        "level": ["40", "50", "60", "70", "80"]
+        "level": { "r1": "40", "r2": "50", "r3": "60", "r4": "70", "r5": "80" }
       },
       {
         "text": "pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain."
-      },
-      { "text": "" }
+      }
     ],
     "ascension": {
       "mora": {
@@ -16238,7 +17641,7 @@
       {
         "title": "Cercle complet",
         "text": "Accorde l'effet Fluctuation après avoir déclenché une réaction élémentaire, augmentant la maîtrise élémentaire de",
-        "level": ["24", "27", "30", "33", "36"]
+        "level": { "r1": "24", "r2": "27", "r3": "30", "r4": "33", "r5": "36" }
       },
       {
         "text": "pts et diminuant l'ATQ de 5 %. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Un cumul sera déduit si aucune réaction élémentaire n'est déclenchée pendant 6 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -16337,11 +17740,17 @@
       {
         "title": "Blindage d'or",
         "text": "Restaure",
-        "level": ["4", "4,5", "5", "5,5", "6"]
+        "level": { "r1": "4", "r2": "4,5", "r3": "5", "r4": "5,5", "r5": "6" }
       },
       {
         "text": "pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent",
-        "level": ["4 %", "4,5 %", "5 %", "5,5 %", "6 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "4,5 %",
+          "r3": "5 %",
+          "r4": "5,5 %",
+          "r5": "6 %"
+        }
       },
       { "text": "de leurs PV toutes les 2 s pendant cette durée." }
     ],
@@ -16438,15 +17847,33 @@
       {
         "title": "Musique d'ouverture",
         "text": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de ",
-        "level": ["60 %,", "75 %,", "90 %,", "105 %,", "120 %,"]
+        "level": {
+          "r1": "60 %,",
+          "r2": "75 %,",
+          "r3": "90 %,",
+          "r4": "105 %,",
+          "r5": "120 %,"
+        }
       },
       {
         "text": "Aria : augmente les DGT élémentaires de",
-        "level": ["48 %,", "60 %,", "72 %,", "84 %,", "96 %,"]
+        "level": {
+          "r1": "48 %,",
+          "r2": "60 %,",
+          "r3": "72 %,",
+          "r4": "84 %,",
+          "r5": "96 %,"
+        }
       },
       {
         "text": "Interlude : augmente la maîtrise élémentaire de",
-        "level": ["240 pts", "300 pts", "360 pts", "420 pts", "480 pts"]
+        "level": {
+          "r1": "240 pts",
+          "r2": "300 pts",
+          "r3": "360 pts",
+          "r4": "420 pts",
+          "r5": "480 pts"
+        }
       }
     ],
     "ascension": {
@@ -16542,11 +17969,23 @@
       {
         "title": "Sang-froid",
         "text": "Les compétences élémentaires ont",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les",
-        "level": ["30 s.", "26 s.", "22 s.", "19 s.", "16 s."]
+        "level": {
+          "r1": "30 s.",
+          "r2": "26 s.",
+          "r3": "22 s.",
+          "r4": "19 s.",
+          "r5": "16 s."
+        }
       }
     ],
     "ascension": {
@@ -16642,11 +18081,23 @@
       {
         "title": "Rayonnement céleste",
         "text": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       {
         "text": "lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "lorsqu'elles touchent." }
     ],
@@ -16743,15 +18194,33 @@
       {
         "title": "Chef-d'œuvre incomplet",
         "text": "Libérer une compétence élémentaire augmente le bonus de DGT élémentaires de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "pendant 15 s et accorde un engagement vital d'une valeur équivalant à 24 % des PV max. Cet effet peut être déclenché une fois toutes les 10 s. Lorsque l'engagement vital disparaît, chaque tranche de 1 000 pts de l'engagement accorde un bonus de DGT élémentaires de",
-        "level": ["2 %", "2,5 %", "3 %", "3,5 %", "4 %"]
+        "level": {
+          "r1": "2 %",
+          "r2": "2,5 %",
+          "r3": "3 %",
+          "r4": "3,5 %",
+          "r5": "4 %"
+        }
       },
       {
         "text": "pendant 15 s, un maximum de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       { "text": "pouvant être obtenu de cette manière." }
     ],
@@ -16848,11 +18317,23 @@
       {
         "title": "Versatile",
         "text": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou de l'aptitude qui le remplace diminue de",
-        "level": ["14 %", "16 %", "18 %", "20 %", "22 %"]
+        "level": {
+          "r1": "14 %",
+          "r2": "16 %",
+          "r3": "18 %",
+          "r4": "20 %",
+          "r5": "22 %"
+        }
       },
       {
         "text": "pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de",
-        "level": ["20 %", "25 %", "30 %", "35 %", "40 %"]
+        "level": {
+          "r1": "20 %",
+          "r2": "25 %",
+          "r3": "30 %",
+          "r4": "35 %",
+          "r5": "40 %"
+        }
       },
       { "text": "pendant 5 s." }
     ],
@@ -16949,7 +18430,13 @@
       {
         "title": "Étoile de nuit sauvage",
         "text": "L'effet suivant se déclenche toutes les 10 s : l'ATQ du personnage équipé de l'arme augmente d'une valeur équivalant à",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       {
         "text": "de sa maîtrise élémentaire pendant 12 s, alors que les autres personnages de l'équipe à proximité obtiennent 30 % de ce bonus. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -17048,7 +18535,13 @@
       {
         "title": "Peuple des profondeurs enténébrées",
         "text": "Augmente la recharge d'énergie de",
-        "level": ["24 %", "30 %", "36 %", "42 %", "48 %"]
+        "level": {
+          "r1": "24 %",
+          "r2": "30 %",
+          "r3": "36 %",
+          "r4": "42 %",
+          "r5": "48 %"
+        }
       },
       {
         "text": "pendant 10 s après l'utilisation d'une compétence élémentaire."
@@ -17147,11 +18640,23 @@
       {
         "title": "Écho",
         "text": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à",
-        "level": ["240 %", "270 %", "300 %", "330 %", "360 %"]
+        "level": {
+          "r1": "240 %",
+          "r2": "270 %",
+          "r3": "300 %",
+          "r4": "330 %",
+          "r5": "360 %"
+        }
       },
       {
         "text": "e l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les",
-        "level": ["12 s.", "11 s.", "10 s.", "9 s.", "8 s."]
+        "level": {
+          "r1": "12 s.",
+          "r2": "11 s.",
+          "r3": "10 s.",
+          "r4": "9 s.",
+          "r5": "8 s."
+        }
       }
     ],
     "ascension": {
@@ -17247,11 +18752,23 @@
       {
         "title": "Nuages vagabonds",
         "text": "Augmente le bonus de DGT élémentaires de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Les attaques normales ont 50 % de chances lorsqu'elles touchent d'obtenir pendant 15 s la faveur des cieux, qui attaque automatiquement les ennemis proches, et leur inflige ",
-        "level": ["160 %", "200 %", "240 %", "280 %", "320 %"]
+        "level": {
+          "r1": "160 %",
+          "r2": "200 %",
+          "r3": "240 %",
+          "r4": "280 %",
+          "r5": "320 %"
+        }
       },
       {
         "text": "des DGT d'ATQ. Cet effet peut être déclenché une fois toutes les 30 s."
@@ -17350,11 +18867,23 @@
       {
         "title": "Majesté dorée",
         "text": "Augmente la force du bouclier de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Toucher un ennemi augmente l'ATQ de",
-        "level": ["4 %", "5 %", "6 %", "7 %", "8 %"]
+        "level": {
+          "r1": "4 %",
+          "r2": "5 %",
+          "r3": "6 %",
+          "r4": "7 %",
+          "r5": "8 %"
+        }
       },
       {
         "text": "pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %."
@@ -17453,7 +18982,13 @@
       {
         "title": "Bénédiction infinie",
         "text": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat."
@@ -17552,11 +19087,23 @@
       {
         "title": "Byakuya Kougetsu",
         "text": "Augmente le bonus de soins de",
-        "level": ["10 %,", "12,5 %,", "15 %,", "17,5 %,", "20 %,"]
+        "level": {
+          "r1": "10 %,",
+          "r2": "12,5 %,",
+          "r3": "15 %,",
+          "r4": "17,5 %,",
+          "r5": "20 %,"
+        }
       },
       {
         "text": "et les DGT des attaques normales d'une valeur équivalant à",
-        "level": ["1 %", "1,5 %", "2 %", "2,5 %", "3 %"]
+        "level": {
+          "r1": "1 %",
+          "r2": "1,5 %",
+          "r3": "2 %",
+          "r4": "2,5 %",
+          "r5": "3 %"
+        }
       },
       {
         "text": "des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière."
@@ -17655,15 +19202,21 @@
       {
         "title": "Chant d'aube d'un millier de nuits",
         "text": "Les autres personnages de l'équipe fournissent au personnage équipé de l'arme des bonus selon leur type élémentaire. En cas de type élémentaire identique à celui du personnage équipé de l'arme, la maîtrise élémentaire de ce dernier augmente de",
-        "level": ["32", "40", "48", "56", "64"]
+        "level": { "r1": "32", "r2": "40", "r3": "48", "r4": "56", "r5": "64" }
       },
       {
         "text": "pts. En cas de type élémentaire différent, le bonus de DGT élémentaires du type élémentaire du personnage équipé de l'arme augmente de ",
-        "level": ["10 %.", "14 %.", "18 %.", "22 %.", "26 %."]
+        "level": {
+          "r1": "10 %.",
+          "r2": "14 %.",
+          "r3": "18 %.",
+          "r4": "22 %.",
+          "r5": "26 %."
+        }
       },
       {
         "text": " Chacun des effets mentionnés ci-dessus peut être cumulé 3 fois maximum. De plus, la maîtrise élémentaire de tous les personnages de l'équipe à proximité autres que celui équipé de l'arme augmente de",
-        "level": ["40", "42", "44", "46", "48"]
+        "level": { "r1": "40", "r2": "42", "r3": "44", "r4": "46", "r5": "48" }
       },
       {
         "text": "pts. Plusieurs armes du même nom peuvent permettre à ce bonus de se cumuler."
@@ -17762,19 +19315,43 @@
       {
         "title": "Larme d'azur révolue",
         "text": "Augmente la VIT d'attaque normale de",
-        "level": ["10 %.", "12,5 %.", "15 %.", "17,5 %.", "20 %."]
+        "level": {
+          "r1": "10 %.",
+          "r2": "12,5 %.",
+          "r3": "15 %.",
+          "r4": "17,5 %.",
+          "r5": "20 %."
+        }
       },
       {
         "text": "Après avoir utilisé une compétence élémentaire, les DGT infligés par les attaques normales augmentent de",
-        "level": ["4,8 %", "6 %", "7,2 %", "8,4 %", "9,6 %"]
+        "level": {
+          "r1": "4,8 %",
+          "r2": "6 %",
+          "r3": "7,2 %",
+          "r4": "8,4 %",
+          "r5": "9,6 %"
+        }
       },
       {
         "text": "toutes les secondes pendant 14 s. Après avoir touché un ennemi avec une attaque normale pendant cette durée, les DGT infligés par les attaques normales augmentent de",
-        "level": ["9,6 %,", "12 %,", "14,4 %,", "16,8 %,", "19,2 %,"]
+        "level": {
+          "r1": "9,6 %,",
+          "r2": "12 %,",
+          "r3": "14,4 %,",
+          "r4": "16,8 %,",
+          "r5": "19,2 %,"
+        }
       },
       {
         "text": "cet effet pouvant être déclenché une fois toutes les 0,3 s. Pendant cette durée, les DGT des attaques normales peuvent être augmentés d'un maximum de",
-        "level": ["48 %", "60 %", "72 %", "84 %", "96 %"]
+        "level": {
+          "r1": "48 %",
+          "r2": "60 %",
+          "r3": "72 %",
+          "r4": "84 %",
+          "r5": "96 %"
+        }
       },
       {
         "text": "de ces manières. L'effet est annulé lorsque le personnage équipé de l'arme quitte le champ de bataille, et utiliser à nouveau la compétence élémentaire réinitialise tous les bonus de DGT."
@@ -17873,15 +19450,27 @@
       {
         "title": "Tablette de jade primordial",
         "text": "Pendant 3 s après avoir utilisé un déchaînement élémentaire ou créé un bouclier, l'effet Tablette de jade primordial est accordé : restaure",
-        "level": ["4,5", "5", "5,5", "6", "6,5"]
+        "level": { "r1": "4,5", "r2": "5", "r3": "5,5", "r4": "6", "r5": "6,5" }
       },
       {
         "text": "pts d'énergie élémentaire toutes les 2,5 s et augmente le bonus de DGT de l'élément correspondant de ",
-        "level": ["0,3 %", "0,5 %", "0,7 %", "0,9 %", "1,1 %"]
+        "level": {
+          "r1": "0,3 %",
+          "r2": "0,5 %",
+          "r3": "0,7 %",
+          "r4": "0,9 %",
+          "r5": "1,1 %"
+        }
       },
       {
         "text": "pour chaque tranche de 1 000 PV max que le personnage équipé de l'arme possède, cette augmentation pouvant atteindre jusqu'à",
-        "level": ["12 %.", "20 %.", "28 %.", "36 %.", "44 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "20 %.",
+          "r3": "28 %.",
+          "r4": "36 %.",
+          "r5": "44 %."
+        }
       },
       {
         "text": "L'effet Tablette de jade primordial peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -17980,19 +19569,43 @@
       {
         "title": "Marée de sang d'or",
         "text": "L'ATQ augmente de",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       },
       {
         "text": "Lorsque les PV actuels augmentent ou diminuent, les DGT infligés par les attaques normales augmentent de ",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "et ceux infligés par les attaques chargées augmentent de",
-        "level": ["14 %,", "17,5 %,", "21 %,", "24,5 %,", "28 %,"]
+        "level": {
+          "r1": "14 %,",
+          "r2": "17,5 %,",
+          "r3": "21 %,",
+          "r4": "24,5 %,",
+          "r5": "28 %,"
+        }
       },
       {
         "text": "pendant 4 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s. Avec 3 cumuls, la VIT d'attaque augmente de",
-        "level": ["8 %.", "10 %.", "12 %.", "14 %.", "16 %."]
+        "level": {
+          "r1": "8 %.",
+          "r2": "10 %.",
+          "r3": "12 %.",
+          "r4": "14 %.",
+          "r5": "16 %."
+        }
       }
     ],
     "ascension": {
@@ -18088,15 +19701,27 @@
       {
         "title": "Vague éonique",
         "text": "Les PV augmentent de",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       },
       {
         "text": "Lorsque les PV actuels augmentent ou diminuent, les DGT infligés par les attaques chargées augmentent de ",
-        "level": ["14 %", "18 %", "22 %", "26 %", "30 %"]
+        "level": {
+          "r1": "14 %",
+          "r2": "18 %",
+          "r3": "22 %",
+          "r4": "26 %",
+          "r5": "30 %"
+        }
       },
       {
         "text": "pendant 4 s, cet effet pouvant être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s. Avec 3 cumuls ou en actualisant la durée du 3e cumul, l'énergie élémentaire est restaurée de",
-        "level": ["8", "9", "10", "11", "12"]
+        "level": { "r1": "8", "r2": "9", "r3": "10", "r4": "11", "r5": "12" }
       },
       {
         "text": "pts, cet effet pouvant être déclenché une fois toutes les 12 s."
@@ -18195,11 +19820,23 @@
       {
         "title": "Danse Kagura du cerisier sacré",
         "text": "Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "pendant 16 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de ",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       }
     ],
     "ascension": {
@@ -18295,11 +19932,23 @@
       {
         "title": "Précepte des nuages",
         "text": "Lorsque l'attaque plongeante du personnage équipé de l'arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l'équipe à proximité augmentent de",
-        "level": ["28 %", "41 %", "54 %", "67 %", "80 %"]
+        "level": {
+          "r1": "28 %",
+          "r2": "41 %",
+          "r3": "54 %",
+          "r4": "67 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "pendant 20 s. Lorsque l'attaque plongeante d'un personnage de l'équipe à proximité touche un ennemi, le personnage équipé de l'arme récupère",
-        "level": ["2,5", "2,75", "3", "3,25", "3,5"]
+        "level": {
+          "r1": "2,5",
+          "r2": "2,75",
+          "r3": "3",
+          "r4": "3,25",
+          "r5": "3,5"
+        }
       },
       {
         "text": "pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d'énergie élémentaire peut être déclenchée même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
@@ -18398,15 +20047,27 @@
       {
         "title": "Prélude de l'aube blanche",
         "text": "Augmente l'ATQ de",
-        "level": ["15 %.", "19 %.", "23 %.", "27 %.", "31 %."]
+        "level": {
+          "r1": "15 %.",
+          "r2": "19 %.",
+          "r3": "23 %.",
+          "r4": "27 %.",
+          "r5": "31 %."
+        }
       },
       {
         "text": "Lorsque le personnage équipé de l'arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de ",
-        "level": ["18 %", "23 %", "28 %", "33 %", "38 %"]
+        "level": {
+          "r1": "18 %",
+          "r2": "23 %",
+          "r3": "28 %",
+          "r4": "33 %",
+          "r5": "38 %"
+        }
       },
       {
         "text": "pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée,",
-        "level": ["12", "13", "14", "15", "16"]
+        "level": { "r1": "12", "r2": "13", "r3": "14", "r4": "15", "r5": "16" }
       },
       {
         "text": "pts d'énergie élémentaires sont restaurés, l'énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -18505,7 +20166,13 @@
       {
         "title": "Chasse de turquoise",
         "text": "Toucher un ennemi avec une compétence élémentaire accorde un cumul de faveur canopéenne, cet effet pouvant être déclenché une fois toutes les 0,5 s. De plus, le personnage équipé de l'arme obtient 3 cumuls de faveur canopéenne lorsqu'un membre de l'équipe à proximité a déclenché une réaction de Brûlure ou de Bourgeonnement, cet effet pouvant être déclenché une fois toutes les 2 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. Faveur canopéenne : augmente les DGT des compétences et déchaînements élémentaires de ",
-        "level": ["10 %", "12,5 %", "15 %", "17,5 %", "20 %"]
+        "level": {
+          "r1": "10 %",
+          "r2": "12,5 %",
+          "r3": "15 %",
+          "r4": "17,5 %",
+          "r5": "20 %"
+        }
       },
       {
         "text": "pendant 6 s. Cet effet peut être cumulé 6 fois maximum, la durée de chaque cumul étant calculée de façon indépendante."
@@ -18604,11 +20271,23 @@
       {
         "title": "Souvenir aquacolore",
         "text": "Augmente les PV max de",
-        "level": ["20 %.", "25 %.", "30 %.", "35 %.", "40 %."]
+        "level": {
+          "r1": "20 %.",
+          "r2": "25 %.",
+          "r3": "30 %.",
+          "r4": "35 %.",
+          "r5": "40 %."
+        }
       },
       {
         "text": "Toutes les 15 s, l'effet suivant se produit pendant 14 s après avoir utilisé une compétence élémentaire : accorde 4 cumuls d'été flamboyant, chaque cumul augmentant les DGT des attaques normales de",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %.", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %.",
+          "r5": "24 %."
+        }
       },
       {
         "text": "Une fois toutes les 1,5 s pendant cette durée, toucher un ennemi avec une attaque normale consomme un cumul. Une fois toutes les 1,5 s, déclencher une réaction d'Évaporation sur un ennemi rajoute un cumul. L'effet Été flamboyant peut être cumulé 4 fois maximum."
@@ -18707,7 +20386,13 @@
       {
         "title": "Mystère d'écran de fumée",
         "text": "Augmente la DÉF de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 15 s après l'utilisation d'une compétence élémentaire."
@@ -18806,7 +20491,13 @@
       {
         "title": "Promesse de Qhapaq Nan",
         "text": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de ",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
@@ -18905,7 +20596,13 @@
       {
         "title": "Pacte des sources abondantes",
         "text": "Augmente la DÉF de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "pendant 15 s après l'utilisation d'une compétence élémentaire."
@@ -19004,11 +20701,23 @@
       {
         "title": "Échos des terres fertiles",
         "text": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de",
-        "level": ["0,6 %", "0,7 %", "0,8 %", "0,9 %", "1 %"]
+        "level": {
+          "r1": "0,6 %",
+          "r2": "0,7 %",
+          "r3": "0,8 %",
+          "r4": "0,9 %",
+          "r5": "1 %"
+        }
       },
       {
         "text": "pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       { "text": "de cette manière." }
     ],
@@ -19105,11 +20814,23 @@
       {
         "title": "Chant de plumes et fleurs",
         "text": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de",
-        "level": ["4,8 %.", "6 %.", "7,2 %.", "8,4 %.", "9,6 %."]
+        "level": {
+          "r1": "4,8 %.",
+          "r2": "6 %.",
+          "r3": "7,2 %.",
+          "r4": "8,4 %.",
+          "r5": "9,6 %."
+        }
       },
       {
         "text": "Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de",
-        "level": ["24 pts.", "30 pts.", "36 pts.", "42 pts.", "48 pts."]
+        "level": {
+          "r1": "24 pts.",
+          "r2": "30 pts.",
+          "r3": "36 pts.",
+          "r4": "42 pts.",
+          "r5": "48 pts."
+        }
       }
     ],
     "ascension": {
@@ -19205,7 +20926,13 @@
       {
         "title": "Poignée de Tupac",
         "text": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à",
-        "level": ["40 %", "50 %", "60 %", "70 %", "80 %"]
+        "level": {
+          "r1": "40 %",
+          "r2": "50 %",
+          "r3": "60 %",
+          "r4": "70 %",
+          "r5": "80 %"
+        }
       },
       {
         "text": "des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s."
@@ -19304,19 +21031,43 @@
       {
         "title": "Âge d'or sans fin",
         "text": "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "et accorde un bonus de DGT élémentaires de ",
-        "level": ["10 %,", "12,5 %", "15 %", "17,5 %", "20 %"]
+        "level": {
+          "r1": "10 %,",
+          "r2": "12,5 %",
+          "r3": "15 %",
+          "r4": "17,5 %",
+          "r5": "20 %"
+        }
       },
       {
         "text": "le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l'arme augmente le bonus de DGT élémentaires de tous les personnages de l'équipe à proximité de",
-        "level": ["8 %", "10 %", "12 %", "14 %", "16 %"]
+        "level": {
+          "r1": "8 %",
+          "r2": "10 %",
+          "r3": "12 %",
+          "r4": "14 %",
+          "r5": "16 %"
+        }
       },
       {
         "text": "(jusqu'à ",
-        "level": ["25,6 %", "32 %", "38,4 %", "44,8 %", "51,2 %"]
+        "level": {
+          "r1": "25,6 %",
+          "r2": "32 %",
+          "r3": "38,4 %",
+          "r4": "44,8 %",
+          "r5": "51,2 %"
+        }
       },
       { "text": "maximum) pendant 15 s." }
     ],
@@ -19413,11 +21164,23 @@
       {
         "title": "Espoir au-delà des sommets",
         "text": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de ",
-        "level": ["12 %.", "15 %.", "18 %.", "21 %", "24 %."]
+        "level": {
+          "r1": "12 %.",
+          "r2": "15 %.",
+          "r3": "18 %.",
+          "r4": "21 %",
+          "r5": "24 %."
+        }
       },
       {
         "text": "De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de",
-        "level": ["12 %", "15 %", "18 %", "21 %", "24 %"]
+        "level": {
+          "r1": "12 %",
+          "r2": "15 %",
+          "r3": "18 %",
+          "r4": "21 %",
+          "r5": "24 %"
+        }
       },
       {
         "text": "supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire."
@@ -19516,11 +21279,23 @@
       {
         "title": "Poids des branches tombantes",
         "text": "Augmente le taux CRIT des attaques plongeantes de",
-        "level": ["16 %.", "20 %.", "24 %.", "28 %.", "32 %."]
+        "level": {
+          "r1": "16 %.",
+          "r2": "20 %.",
+          "r3": "24 %.",
+          "r4": "28 %.",
+          "r5": "32 %."
+        }
       },
       {
         "text": "Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       { "text": "pendant 10 s." }
     ],
@@ -19617,7 +21392,13 @@
       {
         "title": "Orgueil du trappeur",
         "text": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à",
-        "level": ["16 %", "20 %", "24 %", "28 %", "32 %"]
+        "level": {
+          "r1": "16 %",
+          "r2": "20 %",
+          "r3": "24 %",
+          "r4": "28 %",
+          "r5": "32 %"
+        }
       },
       {
         "text": "de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s."
